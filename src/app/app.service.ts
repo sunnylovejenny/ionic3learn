@@ -5,15 +5,14 @@ import 'rxjs/add/operator/toPromise';
 
 @Injectable()
 export class AppGlobal {
-    //缓存key的配置
-    static cache: any = {
+	// 缓存key设置
+	static cache: any = {
         slides: "_dress_slides",
         categories: "_dress_categories",
         products: "_dress_products"
-    }
-    //接口基地址
-    static domain = "https://tlimama.tongedev.cn"
-
+    };
+    //接口域名前缀
+    static domain = "https://tlimama.tongedev.cn";
     //接口地址
     static API: any = {
         getCategories: '/api/ionic3/getCategories',
@@ -24,10 +23,9 @@ export class AppGlobal {
 
 @Injectable()
 export class AppService {
+	constructor(public http: Http, public loadingCtrl: LoadingController, private alertCtrl: AlertController, private toastCtrl: ToastController) { }
 
-    constructor(public http: Http, public loadingCtrl: LoadingController, private alertCtrl: AlertController, private toastCtrl: ToastController, ) { }
-
-    // 对参数进行编码
+	// 对参数进行编码
     encode(params) {
         var str = '';
         if (params) {
@@ -42,6 +40,7 @@ export class AppService {
         return str;
     }
 
+    // get请求
     httpGet(url, params, callback, loader: boolean = false) {
         let loading = this.loadingCtrl.create({});
         if (loader) {
@@ -63,7 +62,7 @@ export class AppService {
                 this.handleError(error);
             });
     }
-
+    // post请求
     httpPost(url, params, callback, loader: boolean = false) {
         let loading = this.loadingCtrl.create();
         if (loader) {
@@ -84,7 +83,7 @@ export class AppService {
                 this.handleError(error);
             });
     }
-    
+    // 错误处理
     private handleError(error: Response | any) {
         let msg = '';
         if (error.status == 400) {
@@ -104,7 +103,19 @@ export class AppService {
             this.toast(msg);
         }
     }
-
+    // toast提示
+    toast(message, callback?) {
+        let toast = this.toastCtrl.create({
+            message: message,
+            duration: 2000,
+            dismissOnPageChange: true,
+        });
+        toast.present();
+        if (callback) {
+            callback();
+        }
+    }
+    // 弹框
     alert(message, callback?) {
         if (callback) {
             let alert = this.alertCtrl.create({
@@ -127,19 +138,7 @@ export class AppService {
             alert.present();
         }
     }
-
-    toast(message, callback?) {
-        let toast = this.toastCtrl.create({
-            message: message,
-            duration: 2000,
-            dismissOnPageChange: true,
-        });
-        toast.present();
-        if (callback) {
-            callback();
-        }
-    }
-
+    // 存
     setItem(key: string, obj: any) {
         try {
             var json = JSON.stringify(obj);
@@ -149,6 +148,7 @@ export class AppService {
             console.error("window.localStorage error:" + e);
         }
     }
+    // 取
     getItem(key: string, callback) {
         try {
             var json = window.localStorage[key];

@@ -27887,7 +27887,7 @@ var /** @type {?} */ KEY_TAB = 9;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__platform_keyboard__ = __webpack_require__(34);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__navigation_nav_controller__ = __webpack_require__(21);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__platform_platform__ = __webpack_require__(3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__util_scroll_view__ = __webpack_require__(121);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__util_scroll_view__ = __webpack_require__(120);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__navigation_view_controller__ = __webpack_require__(5);
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
@@ -29999,7 +29999,7 @@ function NavController_tsickle_Closure_declarations() {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return UIEventManager; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__pointer_events__ = __webpack_require__(110);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__pointer_events__ = __webpack_require__(109);
 
 /**
  * @hidden
@@ -30081,7 +30081,7 @@ function UIEventManager_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__util__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_ion__ = __webpack_require__(4);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__debouncer__ = __webpack_require__(120);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__debouncer__ = __webpack_require__(119);
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
@@ -37645,7 +37645,7 @@ function SplitPane_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__util_util__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__navigation_nav_controller__ = __webpack_require__(21);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__toolbar_base__ = __webpack_require__(144);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__toolbar_base__ = __webpack_require__(143);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__navigation_view_controller__ = __webpack_require__(5);
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
@@ -45500,7 +45500,7 @@ function updateRealIndex(s) {
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Toolbar; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__toolbar_base__ = __webpack_require__(144);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__toolbar_base__ = __webpack_require__(143);
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
@@ -45669,81 +45669,81 @@ function Toolbar_tsickle_Closure_declarations() {
 /* unused harmony reexport MenuController */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__components_action_sheet_action_sheet__ = __webpack_require__(56);
 /* unused harmony reexport ActionSheet */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_action_sheet_action_sheet_controller__ = __webpack_require__(111);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__components_action_sheet_action_sheet_controller__ = __webpack_require__(110);
 /* unused harmony reexport ActionSheetController */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__components_action_sheet_action_sheet_component__ = __webpack_require__(57);
 /* unused harmony reexport ActionSheetCmp */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__components_alert_alert__ = __webpack_require__(58);
 /* unused harmony reexport Alert */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_alert_alert_controller__ = __webpack_require__(112);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__components_alert_alert_controller__ = __webpack_require__(111);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return __WEBPACK_IMPORTED_MODULE_6__components_alert_alert_controller__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__components_alert_alert_component__ = __webpack_require__(59);
 /* unused harmony reexport AlertCmp */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__components_app_app__ = __webpack_require__(6);
 /* unused harmony reexport App */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_avatar_avatar__ = __webpack_require__(113);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__components_avatar_avatar__ = __webpack_require__(112);
 /* unused harmony reexport Avatar */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__components_backdrop_backdrop__ = __webpack_require__(60);
 /* unused harmony reexport Backdrop */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_badge_badge__ = __webpack_require__(114);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__components_badge_badge__ = __webpack_require__(113);
 /* unused harmony reexport Badge */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__components_button_button__ = __webpack_require__(33);
 /* unused harmony reexport Button */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__components_card_card__ = __webpack_require__(115);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__components_card_card__ = __webpack_require__(114);
 /* unused harmony reexport Card */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__components_card_card_content__ = __webpack_require__(116);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__components_card_card_content__ = __webpack_require__(115);
 /* unused harmony reexport CardContent */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__components_card_card_header__ = __webpack_require__(117);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__components_card_card_header__ = __webpack_require__(116);
 /* unused harmony reexport CardHeader */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__components_card_card_title__ = __webpack_require__(118);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__components_card_card_title__ = __webpack_require__(117);
 /* unused harmony reexport CardTitle */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__components_checkbox_checkbox__ = __webpack_require__(119);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__components_checkbox_checkbox__ = __webpack_require__(118);
 /* unused harmony reexport Checkbox */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__components_chip_chip__ = __webpack_require__(123);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__components_chip_chip__ = __webpack_require__(122);
 /* unused harmony reexport Chip */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__components_content_content__ = __webpack_require__(19);
 /* unused harmony reexport Content */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__components_datetime_datetime__ = __webpack_require__(124);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_20__components_datetime_datetime__ = __webpack_require__(123);
 /* unused harmony reexport DateTime */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__components_fab_fab__ = __webpack_require__(43);
 /* unused harmony reexport FabButton */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__components_fab_fab_container__ = __webpack_require__(126);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__components_fab_fab_container__ = __webpack_require__(125);
 /* unused harmony reexport FabContainer */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__components_fab_fab_list__ = __webpack_require__(67);
 /* unused harmony reexport FabList */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__components_grid_col__ = __webpack_require__(127);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__components_grid_col__ = __webpack_require__(126);
 /* unused harmony reexport Col */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__components_grid_grid__ = __webpack_require__(128);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__components_grid_grid__ = __webpack_require__(127);
 /* unused harmony reexport Grid */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__components_grid_row__ = __webpack_require__(129);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__components_grid_row__ = __webpack_require__(128);
 /* unused harmony reexport Row */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__components_ion__ = __webpack_require__(4);
 /* unused harmony reexport Ion */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__components_icon_icon__ = __webpack_require__(61);
 /* unused harmony reexport Icon */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__components_img_img__ = __webpack_require__(130);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__components_img_img__ = __webpack_require__(129);
 /* unused harmony reexport Img */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__components_infinite_scroll_infinite_scroll__ = __webpack_require__(68);
 /* unused harmony reexport InfiniteScroll */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__components_infinite_scroll_infinite_scroll_content__ = __webpack_require__(131);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__components_infinite_scroll_infinite_scroll_content__ = __webpack_require__(130);
 /* unused harmony reexport InfiniteScrollContent */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__components_input_input__ = __webpack_require__(132);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__components_input_input__ = __webpack_require__(131);
 /* unused harmony reexport TextInput */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__components_item_item__ = __webpack_require__(17);
 /* unused harmony reexport Item */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__components_item_item_content__ = __webpack_require__(134);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__components_item_item_content__ = __webpack_require__(133);
 /* unused harmony reexport ItemContent */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__components_item_item_divider__ = __webpack_require__(135);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__components_item_item_divider__ = __webpack_require__(134);
 /* unused harmony reexport ItemDivider */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_36__components_item_item_group__ = __webpack_require__(136);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_36__components_item_item_group__ = __webpack_require__(135);
 /* unused harmony reexport ItemGroup */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_37__components_item_item_options__ = __webpack_require__(69);
 /* unused harmony reexport ItemOptions */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_38__components_item_item_reorder__ = __webpack_require__(63);
 /* unused harmony reexport ItemReorder */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_39__components_item_item_sliding__ = __webpack_require__(137);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_39__components_item_item_sliding__ = __webpack_require__(136);
 /* unused harmony reexport ItemSliding */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_40__components_item_reorder__ = __webpack_require__(138);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_40__components_item_reorder__ = __webpack_require__(137);
 /* unused harmony reexport Reorder */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_41__components_label_label__ = __webpack_require__(62);
 /* unused harmony reexport Label */
@@ -45751,21 +45751,21 @@ function Toolbar_tsickle_Closure_declarations() {
 /* unused harmony reexport List */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_43__components_list_list_header__ = __webpack_require__(71);
 /* unused harmony reexport ListHeader */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_44__components_loading_loading__ = __webpack_require__(139);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_44__components_loading_loading__ = __webpack_require__(138);
 /* unused harmony reexport Loading */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_45__components_loading_loading_controller__ = __webpack_require__(140);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_45__components_loading_loading_controller__ = __webpack_require__(139);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "g", function() { return __WEBPACK_IMPORTED_MODULE_45__components_loading_loading_controller__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_46__components_loading_loading_component__ = __webpack_require__(72);
 /* unused harmony reexport LoadingCmp */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_47__components_menu_menu__ = __webpack_require__(141);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_47__components_menu_menu__ = __webpack_require__(140);
 /* unused harmony reexport Menu */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_48__components_menu_menu_close__ = __webpack_require__(142);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_48__components_menu_menu_close__ = __webpack_require__(141);
 /* unused harmony reexport MenuClose */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_49__components_menu_menu_toggle__ = __webpack_require__(143);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_49__components_menu_menu_toggle__ = __webpack_require__(142);
 /* unused harmony reexport MenuToggle */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_50__components_menu_menu_types__ = __webpack_require__(234);
 /* unused harmony reexport MenuType */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_51__components_modal_modal__ = __webpack_require__(145);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_51__components_modal_modal__ = __webpack_require__(144);
 /* unused harmony reexport Modal */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_52__components_modal_modal_component__ = __webpack_require__(74);
 /* unused harmony reexport ModalCmp */
@@ -45785,7 +45785,7 @@ function Toolbar_tsickle_Closure_declarations() {
 /* unused harmony reexport Note */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_60__components_option_option__ = __webpack_require__(78);
 /* unused harmony reexport Option */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_61__components_picker_picker__ = __webpack_require__(125);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_61__components_picker_picker__ = __webpack_require__(124);
 /* unused harmony reexport Picker */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_62__components_picker_picker_component__ = __webpack_require__(65);
 /* unused harmony reexport PickerCmp */
@@ -45851,7 +45851,7 @@ function Toolbar_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_92__components_toast_toast_component__ = __webpack_require__(93);
 /* unused harmony reexport ToastCmp */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_93__components_toast_toast_controller__ = __webpack_require__(172);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "k", function() { return __WEBPACK_IMPORTED_MODULE_93__components_toast_toast_controller__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return __WEBPACK_IMPORTED_MODULE_93__components_toast_toast_controller__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_94__components_toggle_toggle__ = __webpack_require__(173);
 /* unused harmony reexport Toggle */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_95__components_toolbar_toolbar_footer__ = __webpack_require__(174);
@@ -45885,20 +45885,20 @@ function Toolbar_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_108__platform_dom_controller__ = __webpack_require__(8);
 /* unused harmony reexport DomController */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_109__platform_platform__ = __webpack_require__(3);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "j", function() { return __WEBPACK_IMPORTED_MODULE_109__platform_platform__["a"]; });
+/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return __WEBPACK_IMPORTED_MODULE_109__platform_platform__["a"]; });
 /* unused harmony reexport setupPlatform */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_110__tap_click_haptic__ = __webpack_require__(35);
 /* unused harmony reexport Haptic */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_111__navigation_deep_linker__ = __webpack_require__(14);
 /* unused harmony reexport DeepLinker */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_112__navigation_ionic_page__ = __webpack_require__(246);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_112__navigation_ionic_page__ = __webpack_require__(248);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "e", function() { return __WEBPACK_IMPORTED_MODULE_112__navigation_ionic_page__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_113__navigation_nav_controller__ = __webpack_require__(21);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "h", function() { return __WEBPACK_IMPORTED_MODULE_113__navigation_nav_controller__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_114__navigation_nav_controller_base__ = __webpack_require__(40);
 /* unused harmony reexport NavControllerBase */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_115__navigation_nav_params__ = __webpack_require__(13);
-/* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "i", function() { return __WEBPACK_IMPORTED_MODULE_115__navigation_nav_params__["a"]; });
+/* unused harmony reexport NavParams */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_116__navigation_nav_util__ = __webpack_require__(20);
 /* unused harmony reexport DeepLinkMetadata */
 /* unused harmony reexport DeepLinkMetadataFactory */
@@ -45913,11 +45913,11 @@ function Toolbar_tsickle_Closure_declarations() {
 /* unused harmony reexport ViewController */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_120__gestures_pan_gesture__ = __webpack_require__(41);
 /* unused harmony reexport PanGesture */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_121__gestures_gesture__ = __webpack_require__(248);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_121__gestures_gesture__ = __webpack_require__(250);
 /* unused harmony reexport Gesture */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_122__gestures_slide_edge_gesture__ = __webpack_require__(55);
 /* unused harmony reexport SlideEdgeGesture */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_123__gestures_slide_gesture__ = __webpack_require__(109);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_123__gestures_slide_gesture__ = __webpack_require__(108);
 /* unused harmony reexport SlideGesture */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_124__gestures_gesture_controller__ = __webpack_require__(7);
 /* unused harmony reexport BLOCK_ALL */
@@ -45933,7 +45933,7 @@ function Toolbar_tsickle_Closure_declarations() {
 /* unused harmony reexport Events */
 /* unused harmony reexport setupEvents */
 /* unused harmony reexport setupProvideEvents */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_126__util_ionic_error_handler__ = __webpack_require__(250);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_126__util_ionic_error_handler__ = __webpack_require__(252);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "c", function() { return __WEBPACK_IMPORTED_MODULE_126__util_ionic_error_handler__["a"]; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_127__platform_keyboard__ = __webpack_require__(34);
 /* unused harmony reexport Keyboard */
@@ -45956,7 +45956,7 @@ function Toolbar_tsickle_Closure_declarations() {
 /* unused harmony reexport registerModeConfigs */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_135__gestures_gesture_config__ = __webpack_require__(187);
 /* unused harmony reexport IonicGestureConfig */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_136__module__ = __webpack_require__(251);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_136__module__ = __webpack_require__(253);
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "d", function() { return __WEBPACK_IMPORTED_MODULE_136__module__["a"]; });
 /* harmony reexport (binding) */ __webpack_require__.d(__webpack_exports__, "f", function() { return __WEBPACK_IMPORTED_MODULE_136__module__["b"]; });
 /* unused harmony reexport provideLocationStrategy */
@@ -46274,7 +46274,7 @@ exports.subscribeToResult = subscribeToResult;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app__ = __webpack_require__(6);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ion__ = __webpack_require__(4);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__overlay_portal__ = __webpack_require__(108);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__overlay_portal__ = __webpack_require__(107);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__platform_platform__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__app_constants__ = __webpack_require__(32);
 var __extends = (this && this.__extends) || (function () {
@@ -46516,7 +46516,7 @@ function IonicApp_tsickle_Closure_declarations() {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SlideEdgeGesture; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__slide_gesture__ = __webpack_require__(109);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__slide_gesture__ = __webpack_require__(108);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__util_util__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__util_dom__ = __webpack_require__(10);
 var __extends = (this && this.__extends) || (function () {
@@ -48469,7 +48469,7 @@ function ItemReorder_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_app__ = __webpack_require__(6);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__picker__ = __webpack_require__(125);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__picker__ = __webpack_require__(124);
 
 
 
@@ -50977,7 +50977,7 @@ function ModalCmp_tsickle_Closure_declarations() {
 /* unused harmony export setupPreloadingImplementation */
 /* harmony export (immutable) */ __webpack_exports__["d"] = setupPreloading;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__ng_module_loader__ = __webpack_require__(147);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__ng_module_loader__ = __webpack_require__(146);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__util__ = __webpack_require__(2);
 
 
@@ -51473,8 +51473,8 @@ function Option_tsickle_Closure_declarations() {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Popover; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__navigation_overlay_proxy__ = __webpack_require__(146);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__popover_impl__ = __webpack_require__(237);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__navigation_overlay_proxy__ = __webpack_require__(145);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__popover_impl__ = __webpack_require__(239);
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
@@ -53037,10 +53037,10 @@ function DisplayWhen_tsickle_Closure_declarations() {
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Slides; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__swiper_swiper_keyboard__ = __webpack_require__(239);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__swiper_swiper_keyboard__ = __webpack_require__(241);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__ion__ = __webpack_require__(4);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__util_util__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__swiper_swiper_events__ = __webpack_require__(242);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__swiper_swiper_events__ = __webpack_require__(244);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__swiper_swiper_zoom__ = __webpack_require__(167);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__platform_platform__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__swiper_swiper__ = __webpack_require__(44);
@@ -54843,7 +54843,7 @@ var /** @type {?} */ slidesId = -1;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__swiper_parallax__ = __webpack_require__(165);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__swiper_progress__ = __webpack_require__(45);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__swiper_index__ = __webpack_require__(46);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__swiper_controller__ = __webpack_require__(241);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__swiper_controller__ = __webpack_require__(243);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__swiper_effects__ = __webpack_require__(90);
 
 
@@ -55008,7 +55008,7 @@ function setWrapperTransition(s, plt, duration, byController) {
 
 "use strict";
 /* harmony export (immutable) */ __webpack_exports__["a"] = updateClasses;
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__swiper_a11y__ = __webpack_require__(240);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__swiper_a11y__ = __webpack_require__(242);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__swiper_utils__ = __webpack_require__(12);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__swiper_pagination__ = __webpack_require__(89);
 
@@ -55515,7 +55515,7 @@ var /** @type {?} */ SWIPER_EFFECTS = {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_Subject__ = __webpack_require__(31);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1_rxjs_Subject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_1_rxjs_Subject__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_takeUntil__ = __webpack_require__(133);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_takeUntil__ = __webpack_require__(132);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_takeUntil___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_add_operator_takeUntil__);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__app_app__ = __webpack_require__(6);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__config_config__ = __webpack_require__(1);
@@ -56961,6 +56961,8528 @@ exports.isScheduler = isScheduler;
 /***/ }),
 /* 106 */,
 /* 107 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return OverlayPortal; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__navigation_deep_linker__ = __webpack_require__(14);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__platform_dom_controller__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__gestures_gesture_controller__ = __webpack_require__(7);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__navigation_nav_controller_base__ = __webpack_require__(40);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__platform_platform__ = __webpack_require__(3);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__transitions_transition_controller__ = __webpack_require__(42);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+
+
+
+
+
+
+/**
+ * @hidden
+ */
+var OverlayPortal = (function (_super) {
+    __extends(OverlayPortal, _super);
+    /**
+     * @param {?} app
+     * @param {?} config
+     * @param {?} plt
+     * @param {?} elementRef
+     * @param {?} zone
+     * @param {?} renderer
+     * @param {?} cfr
+     * @param {?} gestureCtrl
+     * @param {?} transCtrl
+     * @param {?} linker
+     * @param {?} viewPort
+     * @param {?} domCtrl
+     * @param {?} errHandler
+     */
+    function OverlayPortal(app, config, plt, elementRef, zone, renderer, cfr, gestureCtrl, transCtrl, linker, viewPort, domCtrl, errHandler) {
+        var _this = _super.call(this, null, app, config, plt, elementRef, zone, renderer, cfr, gestureCtrl, transCtrl, linker, domCtrl, errHandler) || this;
+        _this._isPortal = true;
+        _this._init = true;
+        _this.setViewport(viewPort);
+        // on every page change make sure the portal has
+        // dismissed any views that should be auto dismissed on page change
+        app.viewDidLeave.subscribe(function (view) {
+            if (!view.isOverlay) {
+                _this.dismissPageChangeViews();
+            }
+        });
+        return _this;
+    }
+    Object.defineProperty(OverlayPortal.prototype, "_overlayPortal", {
+        /**
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            this._zIndexOffset = (val || 0);
+        },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @return {?}
+     */
+    OverlayPortal.prototype.ngOnDestroy = function () {
+        this.destroy();
+    };
+    /**
+     * @return {?}
+     */
+    OverlayPortal.prototype.getType = function () {
+        return 'portal';
+    };
+    /**
+     * @return {?}
+     */
+    OverlayPortal.prototype.getSecondaryIdentifier = function () {
+        return null;
+    };
+    return OverlayPortal;
+}(__WEBPACK_IMPORTED_MODULE_6__navigation_nav_controller_base__["a" /* NavControllerBase */]));
+
+OverlayPortal.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: '[overlay-portal]',
+            },] },
+];
+/**
+ * @nocollapse
+ */
+OverlayPortal.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_1__app__["a" /* App */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Inject */], args: [Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_20" /* forwardRef */])(function () { return __WEBPACK_IMPORTED_MODULE_1__app__["a" /* App */]; }),] },] },
+    { type: __WEBPACK_IMPORTED_MODULE_2__config_config__["a" /* Config */], },
+    { type: __WEBPACK_IMPORTED_MODULE_7__platform_platform__["a" /* Platform */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* NgZone */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* ComponentFactoryResolver */], },
+    { type: __WEBPACK_IMPORTED_MODULE_5__gestures_gesture_controller__["l" /* GestureController */], },
+    { type: __WEBPACK_IMPORTED_MODULE_8__transitions_transition_controller__["a" /* TransitionController */], },
+    { type: __WEBPACK_IMPORTED_MODULE_3__navigation_deep_linker__["a" /* DeepLinker */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_15" /* ViewContainerRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_4__platform_dom_controller__["a" /* DomController */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* ErrorHandler */], },
+]; };
+OverlayPortal.propDecorators = {
+    '_overlayPortal': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */], args: ['overlay-portal',] },],
+};
+function OverlayPortal_tsickle_Closure_declarations() {
+    /** @type {?} */
+    OverlayPortal.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    OverlayPortal.ctorParameters;
+    /** @type {?} */
+    OverlayPortal.propDecorators;
+}
+//# sourceMappingURL=overlay-portal.js.map
+
+/***/ }),
+/* 108 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SlideGesture; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__pan_gesture__ = __webpack_require__(41);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__util_util__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__util_dom__ = __webpack_require__(10);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+/**
+ * @hidden
+ */
+var SlideGesture = (function (_super) {
+    __extends(SlideGesture, _super);
+    /**
+     * @param {?} plt
+     * @param {?} element
+     * @param {?=} opts
+     */
+    function SlideGesture(plt, element, opts) {
+        if (opts === void 0) { opts = {}; }
+        var _this = _super.call(this, plt, element, opts) || this;
+        _this.slide = null;
+        return _this;
+    }
+    /**
+     * @param {?} _slide
+     * @param {?} _ev
+     * @return {?}
+     */
+    SlideGesture.prototype.getSlideBoundaries = function (_slide, _ev) {
+        return {
+            min: 0,
+            max: this.getNativeElement().offsetWidth
+        };
+    };
+    /**
+     * @param {?} _slide
+     * @param {?} _ev
+     * @return {?}
+     */
+    SlideGesture.prototype.getElementStartPos = function (_slide, _ev) {
+        return 0;
+    };
+    /**
+     * @param {?} ev
+     * @return {?}
+     */
+    SlideGesture.prototype.onDragStart = function (ev) {
+        this.onSlideBeforeStart(ev);
+        var /** @type {?} */ coord = (Object(__WEBPACK_IMPORTED_MODULE_2__util_dom__["f" /* pointerCoord */])(ev));
+        var /** @type {?} */ pos = coord[this.direction];
+        this.slide = {
+            min: 0,
+            max: 0,
+            pointerStartPos: pos,
+            pos: pos,
+            timestamp: Date.now(),
+            elementStartPos: 0,
+            started: true,
+            delta: 0,
+            distance: 0,
+            velocity: 0,
+        };
+        // TODO: we should run this in the next frame
+        var _a = this.getSlideBoundaries(this.slide, ev), min = _a.min, max = _a.max;
+        this.slide.min = min;
+        this.slide.max = max;
+        this.slide.elementStartPos = this.getElementStartPos(this.slide, ev);
+        this.onSlideStart(this.slide, ev);
+    };
+    /**
+     * @param {?} ev
+     * @return {?}
+     */
+    SlideGesture.prototype.onDragMove = function (ev) {
+        var /** @type {?} */ slide = this.slide;
+        (void 0) /* assert */;
+        var /** @type {?} */ coord = (Object(__WEBPACK_IMPORTED_MODULE_2__util_dom__["f" /* pointerCoord */])(ev));
+        var /** @type {?} */ newPos = coord[this.direction];
+        var /** @type {?} */ newTimestamp = Date.now();
+        var /** @type {?} */ velocity = (this.plt.isRTL ? (slide.pos - newPos) : (newPos - slide.pos)) / (newTimestamp - slide.timestamp);
+        slide.pos = newPos;
+        slide.timestamp = newTimestamp;
+        slide.distance = Object(__WEBPACK_IMPORTED_MODULE_1__util_util__["a" /* clamp */])(slide.min, (this.plt.isRTL ? slide.pointerStartPos - newPos : newPos - slide.pointerStartPos) + slide.elementStartPos, slide.max);
+        slide.velocity = velocity;
+        slide.delta = (this.plt.isRTL ? slide.pointerStartPos - newPos : newPos - slide.pointerStartPos);
+        this.onSlide(slide, ev);
+    };
+    /**
+     * @param {?} ev
+     * @return {?}
+     */
+    SlideGesture.prototype.onDragEnd = function (ev) {
+        this.onSlideEnd(this.slide, ev);
+        this.slide = null;
+    };
+    /**
+     * @param {?=} _ev
+     * @return {?}
+     */
+    SlideGesture.prototype.onSlideBeforeStart = function (_ev) { };
+    /**
+     * @param {?=} _slide
+     * @param {?=} _ev
+     * @return {?}
+     */
+    SlideGesture.prototype.onSlideStart = function (_slide, _ev) { };
+    /**
+     * @param {?=} _slide
+     * @param {?=} _ev
+     * @return {?}
+     */
+    SlideGesture.prototype.onSlide = function (_slide, _ev) { };
+    /**
+     * @param {?=} _slide
+     * @param {?=} _ev
+     * @return {?}
+     */
+    SlideGesture.prototype.onSlideEnd = function (_slide, _ev) { };
+    return SlideGesture;
+}(__WEBPACK_IMPORTED_MODULE_0__pan_gesture__["a" /* PanGesture */]));
+
+function SlideGesture_tsickle_Closure_declarations() {
+    /** @type {?} */
+    SlideGesture.prototype.slide;
+}
+//# sourceMappingURL=slide-gesture.js.map
+
+/***/ }),
+/* 109 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return PointerEvents; });
+/* unused harmony export POINTER_EVENT_TYPE_MOUSE */
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return POINTER_EVENT_TYPE_TOUCH; });
+/**
+ * @hidden
+ */
+var PointerEvents = (function () {
+    /**
+     * @param {?} plt
+     * @param {?} ele
+     * @param {?} pointerDown
+     * @param {?} pointerMove
+     * @param {?} pointerUp
+     * @param {?} option
+     */
+    function PointerEvents(plt, ele, pointerDown, pointerMove, pointerUp, option) {
+        this.plt = plt;
+        this.ele = ele;
+        this.pointerDown = pointerDown;
+        this.pointerMove = pointerMove;
+        this.pointerUp = pointerUp;
+        this.option = option;
+        this.rmTouchStart = null;
+        this.rmTouchMove = null;
+        this.rmTouchEnd = null;
+        this.rmTouchCancel = null;
+        this.rmMouseStart = null;
+        this.rmMouseMove = null;
+        this.rmMouseUp = null;
+        this.lastTouchEvent = 0;
+        this.mouseWait = 2 * 1000;
+        (void 0) /* assert */;
+        (void 0) /* assert */;
+        this.bindTouchEnd = this.handleTouchEnd.bind(this);
+        this.bindMouseUp = this.handleMouseUp.bind(this);
+        this.rmTouchStart = this.plt.registerListener(ele, 'touchstart', this.handleTouchStart.bind(this), option);
+        this.rmMouseStart = this.plt.registerListener(ele, 'mousedown', this.handleMouseDown.bind(this), option);
+    }
+    /**
+     * @param {?} ev
+     * @return {?}
+     */
+    PointerEvents.prototype.handleTouchStart = function (ev) {
+        (void 0) /* assert */;
+        (void 0) /* assert */;
+        this.lastTouchEvent = Date.now() + this.mouseWait;
+        this.lastEventType = POINTER_EVENT_TYPE_TOUCH;
+        if (!this.pointerDown(ev, POINTER_EVENT_TYPE_TOUCH)) {
+            return;
+        }
+        if (!this.rmTouchMove && this.pointerMove) {
+            this.rmTouchMove = this.plt.registerListener(this.ele, 'touchmove', this.pointerMove, this.option);
+        }
+        if (!this.rmTouchEnd) {
+            this.rmTouchEnd = this.plt.registerListener(this.ele, 'touchend', this.bindTouchEnd, this.option);
+        }
+        if (!this.rmTouchCancel) {
+            this.rmTouchCancel = this.plt.registerListener(this.ele, 'touchcancel', this.bindTouchEnd, this.option);
+        }
+    };
+    /**
+     * @param {?} ev
+     * @return {?}
+     */
+    PointerEvents.prototype.handleMouseDown = function (ev) {
+        (void 0) /* assert */;
+        (void 0) /* assert */;
+        if (this.lastTouchEvent > Date.now()) {
+            (void 0) /* console.debug */;
+            return;
+        }
+        this.lastEventType = POINTER_EVENT_TYPE_MOUSE;
+        if (!this.pointerDown(ev, POINTER_EVENT_TYPE_MOUSE)) {
+            return;
+        }
+        if (!this.rmMouseMove && this.pointerMove) {
+            this.rmMouseMove = this.plt.registerListener(this.plt.doc(), 'mousemove', this.pointerMove, this.option);
+        }
+        if (!this.rmMouseUp) {
+            this.rmMouseUp = this.plt.registerListener(this.plt.doc(), 'mouseup', this.bindMouseUp, this.option);
+        }
+    };
+    /**
+     * @param {?} ev
+     * @return {?}
+     */
+    PointerEvents.prototype.handleTouchEnd = function (ev) {
+        this.stopTouch();
+        this.pointerUp && this.pointerUp(ev, POINTER_EVENT_TYPE_TOUCH);
+    };
+    /**
+     * @param {?} ev
+     * @return {?}
+     */
+    PointerEvents.prototype.handleMouseUp = function (ev) {
+        this.stopMouse();
+        this.pointerUp && this.pointerUp(ev, POINTER_EVENT_TYPE_MOUSE);
+    };
+    /**
+     * @return {?}
+     */
+    PointerEvents.prototype.stopTouch = function () {
+        this.rmTouchMove && this.rmTouchMove();
+        this.rmTouchEnd && this.rmTouchEnd();
+        this.rmTouchCancel && this.rmTouchCancel();
+        this.rmTouchMove = this.rmTouchEnd = this.rmTouchCancel = null;
+    };
+    /**
+     * @return {?}
+     */
+    PointerEvents.prototype.stopMouse = function () {
+        this.rmMouseMove && this.rmMouseMove();
+        this.rmMouseUp && this.rmMouseUp();
+        this.rmMouseMove = this.rmMouseUp = null;
+    };
+    /**
+     * @return {?}
+     */
+    PointerEvents.prototype.stop = function () {
+        this.stopTouch();
+        this.stopMouse();
+    };
+    /**
+     * @return {?}
+     */
+    PointerEvents.prototype.destroy = function () {
+        this.rmTouchStart && this.rmTouchStart();
+        this.rmMouseStart && this.rmMouseStart();
+        this.stop();
+        this.ele = this.pointerUp = this.pointerMove = this.pointerDown = this.rmTouchStart = this.rmMouseStart = null;
+    };
+    return PointerEvents;
+}());
+
+function PointerEvents_tsickle_Closure_declarations() {
+    /** @type {?} */
+    PointerEvents.prototype.rmTouchStart;
+    /** @type {?} */
+    PointerEvents.prototype.rmTouchMove;
+    /** @type {?} */
+    PointerEvents.prototype.rmTouchEnd;
+    /** @type {?} */
+    PointerEvents.prototype.rmTouchCancel;
+    /** @type {?} */
+    PointerEvents.prototype.rmMouseStart;
+    /** @type {?} */
+    PointerEvents.prototype.rmMouseMove;
+    /** @type {?} */
+    PointerEvents.prototype.rmMouseUp;
+    /** @type {?} */
+    PointerEvents.prototype.bindTouchEnd;
+    /** @type {?} */
+    PointerEvents.prototype.bindMouseUp;
+    /** @type {?} */
+    PointerEvents.prototype.lastTouchEvent;
+    /** @type {?} */
+    PointerEvents.prototype.mouseWait;
+    /** @type {?} */
+    PointerEvents.prototype.lastEventType;
+    /** @type {?} */
+    PointerEvents.prototype.plt;
+    /** @type {?} */
+    PointerEvents.prototype.ele;
+    /** @type {?} */
+    PointerEvents.prototype.pointerDown;
+    /** @type {?} */
+    PointerEvents.prototype.pointerMove;
+    /** @type {?} */
+    PointerEvents.prototype.pointerUp;
+    /** @type {?} */
+    PointerEvents.prototype.option;
+}
+var /** @type {?} */ POINTER_EVENT_TYPE_MOUSE = 1;
+var /** @type {?} */ POINTER_EVENT_TYPE_TOUCH = 2;
+//# sourceMappingURL=pointer-events.js.map
+
+/***/ }),
+/* 110 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ActionSheetController; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__action_sheet__ = __webpack_require__(56);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__app_app__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__config_config__ = __webpack_require__(1);
+
+
+
+
+/**
+ * \@name ActionSheetController
+ * \@description
+ * An Action Sheet is a dialog that lets the user choose from a set of
+ * options. It appears on top of the app's content, and must be manually
+ * dismissed by the user before they can resume interaction with the app.
+ * Dangerous (destructive) options are made obvious in `ios` mode. There are easy
+ * ways to cancel out of the action sheet, such as tapping the backdrop or
+ * hitting the escape key on desktop.
+ *
+ * An action sheet is created from an array of `buttons`, with each button
+ * including properties for its `text`, and optionally a `handler` and `role`.
+ * If a handler returns `false` then the action sheet will not be dismissed. An
+ * action sheet can also optionally have a `title`, `subTitle` and an `icon`.
+ *
+ * A button's `role` property can either be `destructive` or `cancel`. Buttons
+ * without a role property will have the default look for the platform. Buttons
+ * with the `cancel` role will always load as the bottom button, no matter where
+ * they are in the array. All other buttons will be displayed in the order they
+ * have been added to the `buttons` array. Note: We recommend that `destructive`
+ * buttons are always the first button in the array, making them the top button.
+ * Additionally, if the action sheet is dismissed by tapping the backdrop, then
+ * it will fire the handler from the button with the cancel role.
+ *
+ * You can pass all of the action sheet's options in the first argument of
+ * the create method: `ActionSheet.create(opts)`. Otherwise the action sheet's
+ * instance has methods to add options, like `setTitle()` or `addButton()`.
+ *
+ * \@usage
+ * ```ts
+ * import { ActionSheetController } from 'ionic-angular'
+ *
+ * export class MyClass{
+ *
+ *  constructor(public actionSheetCtrl: ActionSheetController) {}
+ *
+ *  presentActionSheet() {
+ *    let actionSheet = this.actionSheetCtrl.create({
+ *      title: 'Modify your album',
+ *      buttons: [
+ *        {
+ *          text: 'Destructive',
+ *          role: 'destructive',
+ *          handler: () => {
+ *            console.log('Destructive clicked');
+ *          }
+ *        },
+ *        {
+ *          text: 'Archive',
+ *          handler: () => {
+ *            console.log('Archive clicked');
+ *          }
+ *        },
+ *        {
+ *          text: 'Cancel',
+ *          role: 'cancel',
+ *          handler: () => {
+ *            console.log('Cancel clicked');
+ *          }
+ *        }
+ *      ]
+ *    });
+ *
+ *    actionSheet.present();
+ *  }
+ * }
+ * ```
+ *
+ * \@advanced
+ *
+ * ActionSheet create options
+ *
+ * | Option                | Type       | Description                                                        |
+ * |-----------------------|------------|--------------------------------------------------------------------|
+ * | title                 |`string`    | The title for the Action Sheet.                                    |
+ * | subTitle              |`string`    | The sub-title for the Action Sheet.                                |
+ * | cssClass              |`string`    | Additional classes for custom styles, separated by spaces.         |
+ * | enableBackdropDismiss |`boolean`   | If the Action Sheet should close when the user taps the backdrop.  |
+ * | buttons               |`array<any>`| An array of buttons to display.                                    |
+ *
+ * ActionSheet button options
+ *
+ * | Option   | Type     | Description                                                                                                                                      |
+ * |----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+ * | text     | `string` | The buttons text.                                                                                                                                |
+ * | icon     | `icon`   | The buttons icons.                                                                                                                               |
+ * | handler  | `any`    | An express the button should evaluate.                                                                                                           |
+ * | cssClass | `string` | Additional classes for custom styles, separated by spaces.                                                                                       |
+ * | role     | `string` | How the button should be displayed, `destructive` or `cancel`. If not role is provided, it will display the button without any additional styles.|
+ *
+ *
+ * ### Dismissing And Async Navigation
+ *
+ * After an action sheet has been dismissed, the app may need to also transition
+ * to another page depending on the handler's logic. However, because multiple
+ * transitions were fired at roughly the same time, it's difficult for the
+ * nav controller to cleanly animate multiple transitions that may
+ * have been kicked off asynchronously. This is further described in the
+ * [`Nav Transition Promises`](../../nav/NavController/#nav-transition-promises) section. For action sheets,
+ * this means it's best to wait for the action sheet to finish its transition
+ * out before starting a new transition on the same nav controller.
+ *
+ * In the example below, after the button has been clicked, its handler
+ * waits on async operation to complete, *then* it uses `pop` to navigate
+ * back a page in the same stack. The potential problem is that the async operation
+ * may have been completed before the action sheet has even finished its transition
+ * out. In this case, it's best to ensure the action sheet has finished its transition
+ * out first, *then* start the next transition.
+ *
+ * ```ts
+ * let actionSheet = this.actionSheetCtrl.create({
+ *   title: 'Hello',
+ *   buttons: [{
+ *     text: 'Ok',
+ *     handler: () => {
+ *       // user has clicked the action sheet button
+ *       // begin the action sheet's dimiss transition
+ *       let navTransition = actionSheet.dismiss();
+ *
+ *       // start some async method
+ *       someAsyncOperation().then(() => {
+ *         // once the async operation has completed
+ *         // then run the next nav transition after the
+ *         // first transition has finished animating out
+ *
+ *         navTransition.then(() => {
+ *           this.nav.pop();
+ *         });
+ *       });
+ *       return false;
+ *     }
+ *   }]
+ * });
+ *
+ * actionSheet.present();
+ * ```
+ *
+ * It's important to note that the handler returns `false`. A feature of
+ * button handlers is that they automatically dismiss the action sheet when their button
+ * was clicked, however, we'll need more control regarding the transition. Because
+ * the handler returns `false`, then the action sheet does not automatically dismiss
+ * itself. Instead, you now have complete control of when the action sheet has finished
+ * transitioning, and the ability to wait for the action sheet to finish transitioning
+ * out before starting a new transition.
+ *
+ *
+ * \@demo /docs/demos/src/action-sheet/
+ * @see {\@link /docs/components#action-sheets ActionSheet Component Docs}
+ */
+var ActionSheetController = (function () {
+    /**
+     * @param {?} _app
+     * @param {?} config
+     */
+    function ActionSheetController(_app, config) {
+        this._app = _app;
+        this.config = config;
+    }
+    /**
+     * Open an action sheet with a title, subTitle, and an array of buttons
+     * @param {?=} opts
+     * @return {?}
+     */
+    ActionSheetController.prototype.create = function (opts) {
+        if (opts === void 0) { opts = {}; }
+        return new __WEBPACK_IMPORTED_MODULE_1__action_sheet__["a" /* ActionSheet */](this._app, opts, this.config);
+    };
+    return ActionSheetController;
+}());
+
+ActionSheetController.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Injectable */] },
+];
+/**
+ * @nocollapse
+ */
+ActionSheetController.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_2__app_app__["a" /* App */], },
+    { type: __WEBPACK_IMPORTED_MODULE_3__config_config__["a" /* Config */], },
+]; };
+function ActionSheetController_tsickle_Closure_declarations() {
+    /** @type {?} */
+    ActionSheetController.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    ActionSheetController.ctorParameters;
+    /** @type {?} */
+    ActionSheetController.prototype._app;
+    /** @type {?} */
+    ActionSheetController.prototype.config;
+}
+//# sourceMappingURL=action-sheet-controller.js.map
+
+/***/ }),
+/* 111 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AlertController; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__alert__ = __webpack_require__(58);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__app_app__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__config_config__ = __webpack_require__(1);
+
+
+
+
+/**
+ * \@name AlertController
+ * \@description
+ * An Alert is a dialog that presents users with information or collects
+ * information from the user using inputs. An alert appears on top
+ * of the app's content, and must be manually dismissed by the user before
+ * they can resume interaction with the app. It can also optionally have a
+ * `title`, `subTitle` and `message`.
+ *
+ * You can pass all of the alert's options in the first argument of
+ * the create method: `create(opts)`. Otherwise the alert's instance
+ * has methods to add options, such as `setTitle()` or `addButton()`.
+ *
+ *
+ * ### Alert Buttons
+ *
+ * In the array of `buttons`, each button includes properties for its `text`,
+ * and optionally a `handler`. If a handler returns `false` then the alert
+ * will not automatically be dismissed when the button is clicked. All
+ * buttons will show up in the order they have been added to the `buttons`
+ * array, from left to right. Note: The right most button (the last one in
+ * the array) is the main button.
+ *
+ * Optionally, a `role` property can be added to a button, such as `cancel`.
+ * If a `cancel` role is on one of the buttons, then if the alert is
+ * dismissed by tapping the backdrop, then it will fire the handler from
+ * the button with a cancel role.
+ *
+ *
+ * ### Alert Inputs
+ *
+ * Alerts can also include several different inputs whose data can be passed
+ * back to the app. Inputs can be used as a simple way to prompt users for
+ * information. Radios, checkboxes and text inputs are all accepted, but they
+ * cannot be mixed. For example, an alert could have all radio button inputs,
+ * or all checkbox inputs, but the same alert cannot mix radio and checkbox
+ * inputs. Do note however, different types of "text"" inputs can be mixed,
+ * such as `url`, `email`, `text`, etc. If you require a complex form UI
+ * which doesn't fit within the guidelines of an alert then we recommend
+ * building the form within a modal instead.
+ *
+ *
+ * \@usage
+ * ```ts
+ * import { AlertController } from 'ionic-angular';
+ *
+ * constructor(private alertCtrl: AlertController) {
+ *
+ * }
+ *
+ * presentAlert() {
+ *   let alert = this.alertCtrl.create({
+ *     title: 'Low battery',
+ *     subTitle: '10% of battery remaining',
+ *     buttons: ['Dismiss']
+ *   });
+ *   alert.present();
+ * }
+ *
+ * presentConfirm() {
+ *   let alert = this.alertCtrl.create({
+ *     title: 'Confirm purchase',
+ *     message: 'Do you want to buy this book?',
+ *     buttons: [
+ *       {
+ *         text: 'Cancel',
+ *         role: 'cancel',
+ *         handler: () => {
+ *           console.log('Cancel clicked');
+ *         }
+ *       },
+ *       {
+ *         text: 'Buy',
+ *         handler: () => {
+ *           console.log('Buy clicked');
+ *         }
+ *       }
+ *     ]
+ *   });
+ *   alert.present();
+ * }
+ *
+ * presentPrompt() {
+ *   let alert = this.alertCtrl.create({
+ *     title: 'Login',
+ *     inputs: [
+ *       {
+ *         name: 'username',
+ *         placeholder: 'Username'
+ *       },
+ *       {
+ *         name: 'password',
+ *         placeholder: 'Password',
+ *         type: 'password'
+ *       }
+ *     ],
+ *     buttons: [
+ *       {
+ *         text: 'Cancel',
+ *         role: 'cancel',
+ *         handler: data => {
+ *           console.log('Cancel clicked');
+ *         }
+ *       },
+ *       {
+ *         text: 'Login',
+ *         handler: data => {
+ *           if (User.isValid(data.username, data.password)) {
+ *             // logged in!
+ *           } else {
+ *             // invalid login
+ *             return false;
+ *           }
+ *         }
+ *       }
+ *     ]
+ *   });
+ *   alert.present();
+ * }
+ * ```
+ * \@advanced
+ *
+ *
+ *  Alert options
+ *
+ *  | Property              | Type      | Description                                                                  |
+ *  |-----------------------|-----------|------------------------------------------------------------------------------|
+ *  | title                 | `string`  | The title for the alert.                                                     |
+ *  | subTitle              | `string`  | The subtitle for the alert.                                                  |
+ *  | message               | `string`  | The message for the alert.                                                   |
+ *  | cssClass              | `string`  | Additional classes for custom styles, separated by spaces.                   |
+ *  | inputs                | `array`   | An array of inputs for the alert. See input options.                         |
+ *  | buttons               | `array`   | An array of buttons for the alert. See buttons options.                      |
+ *  | enableBackdropDismiss | `boolean` | Whether the alert should be dismissed by tapping the backdrop. Default true. |
+ *
+ *
+ *  Input options
+ *
+ *  | Property    | Type      | Description                                                     |
+ *  |-------------|-----------|-----------------------------------------------------------------|
+ *  | type        | `string`  | The type the input should be: text, tel, number, etc.           |
+ *  | name        | `string`  | The name for the input.                                         |
+ *  | placeholder | `string`  | The input's placeholder (for textual/numeric inputs)            |
+ *  | value       | `string`  | The input's value.                                              |
+ *  | label       | `string`  | The input's label (only for radio/checkbox inputs)              |
+ *  | checked     | `boolean` | Whether or not the input is checked.                            |
+ *  | id          | `string`  | The input's id.                                                 |
+ *
+ *  Button options
+ *
+ *  | Property | Type     | Description                                                     |
+ *  |----------|----------|-----------------------------------------------------------------|
+ *  | text     | `string` | The buttons displayed text.                                     |
+ *  | handler  | `any`    | Emitted when the button is pressed.                             |
+ *  | cssClass | `string` | An additional CSS class for the button.                         |
+ *  | role     | `string` | The buttons role, null or `cancel`.                             |
+ *
+ * ### Dismissing And Async Navigation
+ *
+ * After an alert has been dismissed, the app may need to also transition
+ * to another page depending on the handler's logic. However, because multiple
+ * transitions were fired at roughly the same time, it's difficult for the
+ * nav controller to cleanly animate multiple transitions that may
+ * have been kicked off asynchronously. This is further described in the
+ * [`Nav Transition Promises`](../../nav/NavController) section. For alerts,
+ * this means it's best to wait for the alert to finish its transition
+ * out before starting a new transition on the same nav controller.
+ *
+ * In the example below, after the alert button has been clicked, its handler
+ * waits on async operation to complete, *then* it uses `pop` to navigate
+ * back a page in the same stack. The potential problem is that the async operation
+ * may have been completed before the alert has even finished its transition
+ * out. In this case, it's best to ensure the alert has finished its transition
+ * out first, *then* start the next transition.
+ *
+ * ```ts
+ * let alert = this.alertCtrl.create({
+ *   title: 'Hello',
+ *   buttons: [{
+ *     text: 'Ok',
+ *     handler: () => {
+ *       // user has clicked the alert button
+ *       // begin the alert's dismiss transition
+ *       let navTransition = alert.dismiss();
+ *
+ *       // start some async method
+ *       someAsyncOperation().then(() => {
+ *         // once the async operation has completed
+ *         // then run the next nav transition after the
+ *         // first transition has finished animating out
+ *
+ *         navTransition.then(() => {
+ *           this.nav.pop();
+ *         });
+ *       });
+ *       return false;
+ *     }
+ *   }]
+ * });
+ *
+ * alert.present();
+ * ```
+ *
+ * It's important to note that the handler returns `false`. A feature of
+ * button handlers is that they automatically dismiss the alert when their button
+ * was clicked, however, we'll need more control regarding the transition. Because
+ * the handler returns `false`, then the alert does not automatically dismiss
+ * itself. Instead, you now have complete control of when the alert has finished
+ * transitioning, and the ability to wait for the alert to finish transitioning
+ * out before starting a new transition.
+ *
+ *
+ * \@demo /docs/demos/src/alert/
+ */
+var AlertController = (function () {
+    /**
+     * @param {?} _app
+     * @param {?} config
+     */
+    function AlertController(_app, config) {
+        this._app = _app;
+        this.config = config;
+    }
+    /**
+     * Display an alert with a title, inputs, and buttons
+     * @param {?=} opts
+     * @return {?}
+     */
+    AlertController.prototype.create = function (opts) {
+        if (opts === void 0) { opts = {}; }
+        return new __WEBPACK_IMPORTED_MODULE_1__alert__["a" /* Alert */](this._app, opts, this.config);
+    };
+    return AlertController;
+}());
+
+AlertController.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Injectable */] },
+];
+/**
+ * @nocollapse
+ */
+AlertController.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_2__app_app__["a" /* App */], },
+    { type: __WEBPACK_IMPORTED_MODULE_3__config_config__["a" /* Config */], },
+]; };
+function AlertController_tsickle_Closure_declarations() {
+    /** @type {?} */
+    AlertController.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    AlertController.ctorParameters;
+    /** @type {?} */
+    AlertController.prototype._app;
+    /** @type {?} */
+    AlertController.prototype.config;
+}
+//# sourceMappingURL=alert-controller.js.map
+
+/***/ }),
+/* 112 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Avatar; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+
+/**
+ * \@name Avatar
+ * \@module ionic
+ * \@description
+ * An Avatar is a component that creates a circular image for an item.
+ * Avatars can be placed on the left or right side of an item with the `item-start` or `item-end` directive.
+ * @see {\@link /docs/components/#avatar-list Avatar Component Docs}
+ */
+var Avatar = (function () {
+    function Avatar() {
+    }
+    return Avatar;
+}());
+
+Avatar.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-avatar'
+            },] },
+];
+/**
+ * @nocollapse
+ */
+Avatar.ctorParameters = function () { return []; };
+function Avatar_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Avatar.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    Avatar.ctorParameters;
+}
+//# sourceMappingURL=avatar.js.map
+
+/***/ }),
+/* 113 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Badge; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+/**
+ * \@name Badge
+ * \@module ionic
+ * \@description
+ * Badges are simple components in Ionic containing numbers or text. You can display a badge to indicate that there is new information associated with the item it is on.
+ * @see {\@link /docs/components/#badges Badges Component Docs}
+ */
+var Badge = (function (_super) {
+    __extends(Badge, _super);
+    /**
+     * @param {?} config
+     * @param {?} elementRef
+     * @param {?} renderer
+     */
+    function Badge(config, elementRef, renderer) {
+        return _super.call(this, config, elementRef, renderer, 'badge') || this;
+    }
+    return Badge;
+}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
+
+Badge.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-badge'
+            },] },
+];
+/**
+ * @nocollapse
+ */
+Badge.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+]; };
+function Badge_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Badge.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    Badge.ctorParameters;
+}
+//# sourceMappingURL=badge.js.map
+
+/***/ }),
+/* 114 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Card; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+/**
+ * @hidden
+ */
+var Card = (function (_super) {
+    __extends(Card, _super);
+    /**
+     * @param {?} config
+     * @param {?} elementRef
+     * @param {?} renderer
+     */
+    function Card(config, elementRef, renderer) {
+        return _super.call(this, config, elementRef, renderer, 'card') || this;
+    }
+    return Card;
+}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
+
+Card.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-card'
+            },] },
+];
+/**
+ * @nocollapse
+ */
+Card.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+]; };
+function Card_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Card.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    Card.ctorParameters;
+}
+//# sourceMappingURL=card.js.map
+
+/***/ }),
+/* 115 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CardContent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+/**
+ * @hidden
+ */
+var CardContent = (function (_super) {
+    __extends(CardContent, _super);
+    /**
+     * @param {?} config
+     * @param {?} elementRef
+     * @param {?} renderer
+     */
+    function CardContent(config, elementRef, renderer) {
+        return _super.call(this, config, elementRef, renderer, 'card-content') || this;
+    }
+    return CardContent;
+}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
+
+CardContent.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-card-content'
+            },] },
+];
+/**
+ * @nocollapse
+ */
+CardContent.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+]; };
+function CardContent_tsickle_Closure_declarations() {
+    /** @type {?} */
+    CardContent.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    CardContent.ctorParameters;
+}
+//# sourceMappingURL=card-content.js.map
+
+/***/ }),
+/* 116 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CardHeader; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+/**
+ * @hidden
+ */
+var CardHeader = (function (_super) {
+    __extends(CardHeader, _super);
+    /**
+     * @param {?} config
+     * @param {?} elementRef
+     * @param {?} renderer
+     */
+    function CardHeader(config, elementRef, renderer) {
+        return _super.call(this, config, elementRef, renderer, 'card-header') || this;
+    }
+    return CardHeader;
+}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
+
+CardHeader.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-card-header'
+            },] },
+];
+/**
+ * @nocollapse
+ */
+CardHeader.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+]; };
+function CardHeader_tsickle_Closure_declarations() {
+    /** @type {?} */
+    CardHeader.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    CardHeader.ctorParameters;
+}
+//# sourceMappingURL=card-header.js.map
+
+/***/ }),
+/* 117 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CardTitle; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+/**
+ * @hidden
+ */
+var CardTitle = (function (_super) {
+    __extends(CardTitle, _super);
+    /**
+     * @param {?} config
+     * @param {?} elementRef
+     * @param {?} renderer
+     */
+    function CardTitle(config, elementRef, renderer) {
+        return _super.call(this, config, elementRef, renderer, 'card-title') || this;
+    }
+    return CardTitle;
+}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
+
+CardTitle.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-card-title'
+            },] },
+];
+/**
+ * @nocollapse
+ */
+CardTitle.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+]; };
+function CardTitle_tsickle_Closure_declarations() {
+    /** @type {?} */
+    CardTitle.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    CardTitle.ctorParameters;
+}
+//# sourceMappingURL=card-title.js.map
+
+/***/ }),
+/* 118 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Checkbox; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__util_util__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__util_form__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__util_base_input__ = __webpack_require__(23);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__item_item__ = __webpack_require__(17);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+
+
+
+
+/**
+ * \@name Checkbox
+ * \@module ionic
+ *
+ * \@description
+ * The Checkbox is a simple component styled based on the mode. It can be
+ * placed in an `ion-item` or used as a stand-alone checkbox.
+ *
+ * See the [Angular Docs](https://angular.io/docs/ts/latest/guide/forms.html)
+ * for more info on forms and inputs.
+ *
+ *
+ * \@usage
+ * ```html
+ *
+ *  <ion-list>
+ *
+ *    <ion-item>
+ *      <ion-label>Pepperoni</ion-label>
+ *      <ion-checkbox [(ngModel)]="pepperoni"></ion-checkbox>
+ *    </ion-item>
+ *
+ *    <ion-item>
+ *      <ion-label>Sausage</ion-label>
+ *      <ion-checkbox [(ngModel)]="sausage" disabled="true"></ion-checkbox>
+ *    </ion-item>
+ *
+ *    <ion-item>
+ *      <ion-label>Mushrooms</ion-label>
+ *      <ion-checkbox [(ngModel)]="mushrooms"></ion-checkbox>
+ *    </ion-item>
+ *
+ *  </ion-list>
+ * ```
+ *
+ * \@advanced
+ *
+ * ```html
+ *
+ * <!-- Call function when state changes -->
+ *  <ion-list>
+ *
+ *    <ion-item>
+ *      <ion-label>Cucumber</ion-label>
+ *      <ion-checkbox [(ngModel)]="cucumber" (ionChange)="updateCucumber()"></ion-checkbox>
+ *    </ion-item>
+ *
+ *  </ion-list>
+ * ```
+ *
+ * ```ts
+ * \@Component({
+ *   templateUrl: 'main.html'
+ * })
+ * class SaladPage {
+ *   cucumber: boolean;
+ *
+ *   updateCucumber() {
+ *     console.log('Cucumbers new state:' + this.cucumber);
+ *   }
+ * }
+ * ```
+ *
+ * \@demo /docs/demos/src/checkbox/
+ * @see {\@link /docs/components#checkbox Checkbox Component Docs}
+ */
+var Checkbox = (function (_super) {
+    __extends(Checkbox, _super);
+    /**
+     * @param {?} config
+     * @param {?} form
+     * @param {?} item
+     * @param {?} elementRef
+     * @param {?} renderer
+     */
+    function Checkbox(config, form, item, elementRef, renderer) {
+        return _super.call(this, config, elementRef, renderer, 'checkbox', false, form, item, null) || this;
+    }
+    Object.defineProperty(Checkbox.prototype, "checked", {
+        /**
+         * \@input {boolean} If true, the element is selected.
+         * @return {?}
+         */
+        get: function () {
+            return this.value;
+        },
+        /**
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            this.value = val;
+        },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @hidden
+     * @param {?} ev
+     * @return {?}
+     */
+    Checkbox.prototype._click = function (ev) {
+        ev.preventDefault();
+        ev.stopPropagation();
+        this.value = !this.value;
+    };
+    /**
+     * @hidden
+     * @param {?} val
+     * @return {?}
+     */
+    Checkbox.prototype._inputNormalize = function (val) {
+        return Object(__WEBPACK_IMPORTED_MODULE_3__util_util__["o" /* isTrueProperty */])(val);
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Checkbox.prototype._inputUpdated = function () {
+        this._item && this._item.setElementClass('item-checkbox-checked', this._value);
+    };
+    return Checkbox;
+}(__WEBPACK_IMPORTED_MODULE_5__util_base_input__["a" /* BaseInput */]));
+
+Checkbox.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
+                selector: 'ion-checkbox',
+                template: '<div class="checkbox-icon" [class.checkbox-checked]="_value">' +
+                    '<div class="checkbox-inner"></div>' +
+                    '</div>' +
+                    '<button role="checkbox" ' +
+                    'type="button" ' +
+                    'ion-button="item-cover" ' +
+                    '[id]="id" ' +
+                    '[attr.aria-checked]="_value" ' +
+                    '[attr.aria-labelledby]="_labelId" ' +
+                    '[attr.aria-disabled]="_disabled" ' +
+                    'class="item-cover"> ' +
+                    '</button>',
+                host: {
+                    '[class.checkbox-disabled]': '_disabled'
+                },
+                providers: [{ provide: __WEBPACK_IMPORTED_MODULE_1__angular_forms__["b" /* NG_VALUE_ACCESSOR */], useExisting: Checkbox, multi: true }],
+                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None,
+            },] },
+];
+/**
+ * @nocollapse
+ */
+Checkbox.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_2__config_config__["a" /* Config */], },
+    { type: __WEBPACK_IMPORTED_MODULE_4__util_form__["a" /* Form */], },
+    { type: __WEBPACK_IMPORTED_MODULE_6__item_item__["a" /* Item */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+]; };
+Checkbox.propDecorators = {
+    'checked': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    '_click': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* HostListener */], args: ['click', ['$event'],] },],
+};
+function Checkbox_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Checkbox.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    Checkbox.ctorParameters;
+    /** @type {?} */
+    Checkbox.propDecorators;
+}
+//# sourceMappingURL=checkbox.js.map
+
+/***/ }),
+/* 119 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return TimeoutDebouncer; });
+var TimeoutDebouncer = (function () {
+    /**
+     * @param {?} wait
+     */
+    function TimeoutDebouncer(wait) {
+        this.wait = wait;
+        this.timer = null;
+    }
+    /**
+     * @param {?} callback
+     * @return {?}
+     */
+    TimeoutDebouncer.prototype.debounce = function (callback) {
+        this.callback = callback;
+        this.schedule();
+    };
+    /**
+     * @return {?}
+     */
+    TimeoutDebouncer.prototype.schedule = function () {
+        this.cancel();
+        if (this.wait <= 0) {
+            this.callback();
+        }
+        else {
+            this.timer = setTimeout(this.callback, this.wait);
+        }
+    };
+    /**
+     * @return {?}
+     */
+    TimeoutDebouncer.prototype.cancel = function () {
+        if (this.timer) {
+            clearTimeout(this.timer);
+            this.timer = null;
+        }
+    };
+    return TimeoutDebouncer;
+}());
+
+function TimeoutDebouncer_tsickle_Closure_declarations() {
+    /** @type {?} */
+    TimeoutDebouncer.prototype.timer;
+    /** @type {?} */
+    TimeoutDebouncer.prototype.callback;
+    /** @type {?} */
+    TimeoutDebouncer.prototype.wait;
+}
+//# sourceMappingURL=debouncer.js.map
+
+/***/ }),
+/* 120 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ScrollView; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__dom__ = __webpack_require__(10);
+
+var ScrollView = (function () {
+    /**
+     * @param {?} _app
+     * @param {?} _plt
+     * @param {?} _dom
+     */
+    function ScrollView(_app, _plt, _dom) {
+        this._app = _app;
+        this._plt = _plt;
+        this._dom = _dom;
+        this.isScrolling = false;
+        this.initialized = false;
+        this._eventsEnabled = false;
+        this._t = 0;
+        this._l = 0;
+        this.ev = {
+            timeStamp: 0,
+            scrollTop: 0,
+            scrollLeft: 0,
+            scrollHeight: 0,
+            scrollWidth: 0,
+            contentHeight: 0,
+            contentWidth: 0,
+            contentTop: 0,
+            contentBottom: 0,
+            startY: 0,
+            startX: 0,
+            deltaY: 0,
+            deltaX: 0,
+            velocityY: 0,
+            velocityX: 0,
+            directionY: 'down',
+            directionX: null,
+            domWrite: _dom.write.bind(_dom)
+        };
+    }
+    /**
+     * @param {?} ele
+     * @param {?} contentTop
+     * @param {?} contentBottom
+     * @return {?}
+     */
+    ScrollView.prototype.init = function (ele, contentTop, contentBottom) {
+        (void 0) /* assert */;
+        this._el = ele;
+        if (!this.initialized) {
+            this.initialized = true;
+            if (this._js) {
+                this.enableJsScroll(contentTop, contentBottom);
+            }
+            else {
+                this.enableNativeScrolling();
+            }
+        }
+    };
+    /**
+     * @return {?}
+     */
+    ScrollView.prototype.enableEvents = function () {
+        this._eventsEnabled = true;
+    };
+    /**
+     * @param {?} isScrolling
+     * @param {?} ev
+     * @return {?}
+     */
+    ScrollView.prototype.setScrolling = function (isScrolling, ev) {
+        if (this.isScrolling) {
+            if (isScrolling) {
+                this.onScroll && this.onScroll(ev);
+            }
+            else {
+                this.isScrolling = false;
+                this.onScrollEnd && this.onScrollEnd(ev);
+            }
+        }
+        else if (isScrolling) {
+            this.isScrolling = true;
+            this.onScrollStart && this.onScrollStart(ev);
+        }
+    };
+    /**
+     * @return {?}
+     */
+    ScrollView.prototype.enableNativeScrolling = function () {
+        (void 0) /* assert */;
+        (void 0) /* assert */;
+        (void 0) /* assert */;
+        this._js = false;
+        if (!this._el) {
+            return;
+        }
+        (void 0) /* console.debug */;
+        var /** @type {?} */ self = this;
+        var /** @type {?} */ ev = self.ev;
+        var /** @type {?} */ positions = [];
+        /**
+         * @param {?} scrollEvent
+         * @return {?}
+         */
+        function scrollCallback(scrollEvent) {
+            // remind the app that it's currently scrolling
+            self._app.setScrolling();
+            // if events are disabled, we do nothing
+            if (!self._eventsEnabled) {
+                return;
+            }
+            ev.timeStamp = scrollEvent.timeStamp;
+            // Event.timeStamp is 0 in firefox
+            if (!ev.timeStamp) {
+                ev.timeStamp = Date.now();
+            }
+            // get the current scrollTop
+            // ******** DOM READ ****************
+            ev.scrollTop = self.getTop();
+            // get the current scrollLeft
+            // ******** DOM READ ****************
+            ev.scrollLeft = self.getLeft();
+            if (!self.isScrolling) {
+                // remember the start positions
+                ev.startY = ev.scrollTop;
+                ev.startX = ev.scrollLeft;
+                // new scroll, so do some resets
+                ev.velocityY = ev.velocityX = 0;
+                ev.deltaY = ev.deltaX = 0;
+                positions.length = 0;
+            }
+            // actively scrolling
+            positions.push(ev.scrollTop, ev.scrollLeft, ev.timeStamp);
+            if (positions.length > 3) {
+                // we've gotten at least 2 scroll events so far
+                ev.deltaY = (ev.scrollTop - ev.startY);
+                ev.deltaX = (ev.scrollLeft - ev.startX);
+                var /** @type {?} */ endPos = (positions.length - 1);
+                var /** @type {?} */ startPos = endPos;
+                var /** @type {?} */ timeRange = (ev.timeStamp - 100);
+                // move pointer to position measured 100ms ago
+                for (var /** @type {?} */ i = endPos; i > 0 && positions[i] > timeRange; i -= 3) {
+                    startPos = i;
+                }
+                if (startPos !== endPos) {
+                    // compute relative movement between these two points
+                    var /** @type {?} */ movedTop = (positions[startPos - 2] - positions[endPos - 2]);
+                    var /** @type {?} */ movedLeft = (positions[startPos - 1] - positions[endPos - 1]);
+                    var /** @type {?} */ factor = FRAME_MS / (positions[endPos] - positions[startPos]);
+                    // based on XXms compute the movement to apply for each render step
+                    ev.velocityY = movedTop * factor;
+                    ev.velocityX = movedLeft * factor;
+                    // figure out which direction we're scrolling
+                    ev.directionY = (movedTop > 0 ? 'up' : 'down');
+                    ev.directionX = (movedLeft > 0 ? 'left' : 'right');
+                }
+            }
+            /**
+             * @return {?}
+             */
+            function scrollEnd() {
+                // reset velocity, do not reset the directions or deltas
+                ev.velocityY = ev.velocityX = 0;
+                // emit that the scroll has ended
+                self.setScrolling(false, ev);
+                self._endTmr = null;
+            }
+            // emit on each scroll event
+            self.setScrolling(true, ev);
+            // debounce for a moment after the last scroll event
+            self._dom.cancel(self._endTmr);
+            self._endTmr = self._dom.read(scrollEnd, SCROLL_END_DEBOUNCE_MS);
+        }
+        // clear out any existing listeners (just to be safe)
+        self._lsn && self._lsn();
+        // assign the raw scroll listener
+        // note that it does not have a wrapping requestAnimationFrame on purpose
+        // a scroll event callback will always be right before the raf callback
+        // so there's little to no value of using raf here since it'll all ways immediately
+        // call the raf if it was set within the scroll event, so this will save us some time
+        self._lsn = self._plt.registerListener(self._el, 'scroll', scrollCallback, EVENT_OPTS);
+    };
+    /**
+     * @hidden
+     * JS Scrolling has been provided only as a temporary solution
+     * until iOS apps can take advantage of scroll events at all times.
+     * The goal is to eventually remove JS scrolling entirely. When we
+     * no longer have to worry about iOS not firing scroll events during
+     * inertia then this can be burned to the ground. iOS's more modern
+     * WKWebView does not have this issue, only UIWebView does.
+     * @param {?} contentTop
+     * @param {?} contentBottom
+     * @return {?}
+     */
+    ScrollView.prototype.enableJsScroll = function (contentTop, contentBottom) {
+        var /** @type {?} */ self = this;
+        self._js = true;
+        var /** @type {?} */ ele = self._el;
+        if (!ele) {
+            return;
+        }
+        (void 0) /* console.debug */;
+        var /** @type {?} */ ev = self.ev;
+        var /** @type {?} */ positions = [];
+        var /** @type {?} */ rafCancel;
+        var /** @type {?} */ max;
+        /**
+         * @return {?}
+         */
+        function setMax() {
+            if (!max) {
+                // ******** DOM READ ****************
+                max = ele.scrollHeight - ele.parentElement.offsetHeight + contentTop + contentBottom;
+            }
+        }
+        /**
+         * @param {?} timeStamp
+         * @return {?}
+         */
+        function jsScrollDecelerate(timeStamp) {
+            ev.timeStamp = timeStamp;
+            (void 0) /* console.debug */;
+            if (ev.velocityY) {
+                ev.velocityY *= DECELERATION_FRICTION;
+                // update top with updated velocity
+                // clamp top within scroll limits
+                // ******** DOM READ ****************
+                setMax();
+                self._t = Math.min(Math.max(self._t + ev.velocityY, 0), max);
+                ev.scrollTop = self._t;
+                // emit on each scroll event
+                self.onScroll(ev);
+                self._dom.write(function () {
+                    // ******** DOM WRITE ****************
+                    self.setTop(self._t);
+                    if (self._t > 0 && self._t < max && Math.abs(ev.velocityY) > MIN_VELOCITY_CONTINUE_DECELERATION) {
+                        rafCancel = self._dom.read(function (rafTimeStamp) {
+                            jsScrollDecelerate(rafTimeStamp);
+                        });
+                    }
+                    else {
+                        // haven't scrolled in a while, so it's a scrollend
+                        self.isScrolling = false;
+                        // reset velocity, do not reset the directions or deltas
+                        ev.velocityY = ev.velocityX = 0;
+                        // emit that the scroll has ended
+                        self.onScrollEnd(ev);
+                    }
+                });
+            }
+        }
+        /**
+         * @param {?} touchEvent
+         * @return {?}
+         */
+        function jsScrollTouchStart(touchEvent) {
+            positions.length = 0;
+            max = null;
+            self._dom.cancel(rafCancel);
+            positions.push(Object(__WEBPACK_IMPORTED_MODULE_0__dom__["f" /* pointerCoord */])(touchEvent).y, touchEvent.timeStamp);
+        }
+        /**
+         * @param {?} touchEvent
+         * @return {?}
+         */
+        function jsScrollTouchMove(touchEvent) {
+            if (!positions.length) {
+                return;
+            }
+            ev.timeStamp = touchEvent.timeStamp;
+            var /** @type {?} */ y = Object(__WEBPACK_IMPORTED_MODULE_0__dom__["f" /* pointerCoord */])(touchEvent).y;
+            // ******** DOM READ ****************
+            setMax();
+            self._t -= (y - positions[positions.length - 2]);
+            self._t = Math.min(Math.max(self._t, 0), max);
+            positions.push(y, ev.timeStamp);
+            if (!self.isScrolling) {
+                // remember the start position
+                ev.startY = self._t;
+                // new scroll, so do some resets
+                ev.velocityY = ev.deltaY = 0;
+                self.isScrolling = true;
+                // emit only on the first scroll event
+                self.onScrollStart(ev);
+            }
+            self._dom.write(function () {
+                // ******** DOM WRITE ****************
+                self.setTop(self._t);
+            });
+        }
+        /**
+         * @param {?} touchEvent
+         * @return {?}
+         */
+        function jsScrollTouchEnd(touchEvent) {
+            // figure out what the scroll position was about 100ms ago
+            self._dom.cancel(rafCancel);
+            if (!positions.length && self.isScrolling) {
+                self.isScrolling = false;
+                ev.velocityY = ev.velocityX = 0;
+                self.onScrollEnd(ev);
+                return;
+            }
+            var /** @type {?} */ y = Object(__WEBPACK_IMPORTED_MODULE_0__dom__["f" /* pointerCoord */])(touchEvent).y;
+            positions.push(y, touchEvent.timeStamp);
+            var /** @type {?} */ endPos = (positions.length - 1);
+            var /** @type {?} */ startPos = endPos;
+            var /** @type {?} */ timeRange = (touchEvent.timeStamp - 100);
+            // move pointer to position measured 100ms ago
+            for (var /** @type {?} */ i = endPos; i > 0 && positions[i] > timeRange; i -= 2) {
+                startPos = i;
+            }
+            if (startPos !== endPos) {
+                // compute relative movement between these two points
+                var /** @type {?} */ timeOffset = (positions[endPos] - positions[startPos]);
+                var /** @type {?} */ movedTop = (positions[startPos - 1] - positions[endPos - 1]);
+                // based on XXms compute the movement to apply for each render step
+                ev.velocityY = ((movedTop / timeOffset) * FRAME_MS);
+                // verify that we have enough velocity to start deceleration
+                if (Math.abs(ev.velocityY) > MIN_VELOCITY_START_DECELERATION) {
+                    // ******** DOM READ ****************
+                    setMax();
+                    rafCancel = self._dom.read(function (rafTimeStamp) {
+                        jsScrollDecelerate(rafTimeStamp);
+                    });
+                }
+            }
+            else {
+                self.isScrolling = false;
+                ev.velocityY = 0;
+                self.onScrollEnd(ev);
+            }
+            positions.length = 0;
+        }
+        var /** @type {?} */ plt = self._plt;
+        var /** @type {?} */ unRegStart = plt.registerListener(ele, 'touchstart', jsScrollTouchStart, EVENT_OPTS);
+        var /** @type {?} */ unRegMove = plt.registerListener(ele, 'touchmove', jsScrollTouchMove, EVENT_OPTS);
+        var /** @type {?} */ unRegEnd = plt.registerListener(ele, 'touchend', jsScrollTouchEnd, EVENT_OPTS);
+        ele.parentElement.classList.add('js-scroll');
+        // stop listening for actual scroll events
+        self._lsn && self._lsn();
+        // create an unregister for all of these events
+        self._lsn = function () {
+            unRegStart();
+            unRegMove();
+            unRegEnd();
+            ele.parentElement.classList.remove('js-scroll');
+        };
+    };
+    /**
+     * DOM READ
+     * @return {?}
+     */
+    ScrollView.prototype.getTop = function () {
+        if (this._js) {
+            return this._t;
+        }
+        return this._t = this._el.scrollTop;
+    };
+    /**
+     * DOM READ
+     * @return {?}
+     */
+    ScrollView.prototype.getLeft = function () {
+        if (this._js) {
+            return 0;
+        }
+        return this._l = this._el.scrollLeft;
+    };
+    /**
+     * DOM WRITE
+     * @param {?} top
+     * @return {?}
+     */
+    ScrollView.prototype.setTop = function (top) {
+        this._t = top;
+        if (this._js) {
+            ((this._el.style))[this._plt.Css.transform] = "translate3d(" + this._l * -1 + "px," + top * -1 + "px,0px)";
+        }
+        else {
+            this._el.scrollTop = top;
+        }
+    };
+    /**
+     * DOM WRITE
+     * @param {?} left
+     * @return {?}
+     */
+    ScrollView.prototype.setLeft = function (left) {
+        this._l = left;
+        if (this._js) {
+            ((this._el.style))[this._plt.Css.transform] = "translate3d(" + left * -1 + "px," + this._t * -1 + "px,0px)";
+        }
+        else {
+            this._el.scrollLeft = left;
+        }
+    };
+    /**
+     * @param {?} x
+     * @param {?} y
+     * @param {?} duration
+     * @param {?=} done
+     * @return {?}
+     */
+    ScrollView.prototype.scrollTo = function (x, y, duration, done) {
+        // scroll animation loop w/ easing
+        // credit https://gist.github.com/dezinezync/5487119
+        var /** @type {?} */ promise;
+        if (done === undefined) {
+            // only create a promise if a done callback wasn't provided
+            // done can be a null, which avoids any functions
+            promise = new Promise(function (resolve) {
+                done = resolve;
+            });
+        }
+        var /** @type {?} */ self = this;
+        var /** @type {?} */ el = self._el;
+        if (!el) {
+            // invalid element
+            done();
+            return promise;
+        }
+        if (duration < 32) {
+            self.setTop(y);
+            self.setLeft(x);
+            done();
+            return promise;
+        }
+        var /** @type {?} */ fromY = el.scrollTop;
+        var /** @type {?} */ fromX = el.scrollLeft;
+        var /** @type {?} */ maxAttempts = (duration / 16) + 100;
+        var /** @type {?} */ transform = self._plt.Css.transform;
+        var /** @type {?} */ startTime;
+        var /** @type {?} */ attempts = 0;
+        var /** @type {?} */ stopScroll = false;
+        /**
+         * @param {?} timeStamp
+         * @return {?}
+         */
+        function step(timeStamp) {
+            attempts++;
+            if (!self._el || stopScroll || attempts > maxAttempts) {
+                self.setScrolling(false, null);
+                ((el.style))[transform] = '';
+                done();
+                return;
+            }
+            var /** @type {?} */ time = Math.min(1, ((timeStamp - startTime) / duration));
+            // where .5 would be 50% of time on a linear scale easedT gives a
+            // fraction based on the easing method
+            var /** @type {?} */ easedT = (--time) * time * time + 1;
+            if (fromY !== y) {
+                self.setTop((easedT * (y - fromY)) + fromY);
+            }
+            if (fromX !== x) {
+                self.setLeft(Math.floor((easedT * (x - fromX)) + fromX));
+            }
+            if (easedT < 1) {
+                // do not use DomController here
+                // must use nativeRaf in order to fire in the next frame
+                self._plt.raf(step);
+            }
+            else {
+                stopScroll = true;
+                self.setScrolling(false, null);
+                ((el.style))[transform] = '';
+                done();
+            }
+        }
+        // start scroll loop
+        self.setScrolling(true, null);
+        self.isScrolling = true;
+        // chill out for a frame first
+        self._dom.write(function (timeStamp) {
+            startTime = timeStamp;
+            step(timeStamp);
+        }, 16);
+        return promise;
+    };
+    /**
+     * @param {?} duration
+     * @return {?}
+     */
+    ScrollView.prototype.scrollToTop = function (duration) {
+        return this.scrollTo(0, 0, duration);
+    };
+    /**
+     * @param {?} duration
+     * @return {?}
+     */
+    ScrollView.prototype.scrollToBottom = function (duration) {
+        var /** @type {?} */ y = 0;
+        if (this._el) {
+            y = this._el.scrollHeight - this._el.clientHeight;
+        }
+        return this.scrollTo(0, y, duration);
+    };
+    /**
+     * @return {?}
+     */
+    ScrollView.prototype.stop = function () {
+        this.setScrolling(false, null);
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    ScrollView.prototype.destroy = function () {
+        this.stop();
+        this._endTmr && this._dom.cancel(this._endTmr);
+        this._lsn && this._lsn();
+        var /** @type {?} */ ev = this.ev;
+        ev.domWrite = ev.contentElement = ev.fixedElement = ev.scrollElement = ev.headerElement = null;
+        this._lsn = this._el = this._dom = this.ev = ev = null;
+        this.onScrollStart = this.onScroll = this.onScrollEnd = null;
+    };
+    return ScrollView;
+}());
+
+function ScrollView_tsickle_Closure_declarations() {
+    /** @type {?} */
+    ScrollView.prototype.ev;
+    /** @type {?} */
+    ScrollView.prototype.isScrolling;
+    /** @type {?} */
+    ScrollView.prototype.onScrollStart;
+    /** @type {?} */
+    ScrollView.prototype.onScroll;
+    /** @type {?} */
+    ScrollView.prototype.onScrollEnd;
+    /** @type {?} */
+    ScrollView.prototype.initialized;
+    /** @type {?} */
+    ScrollView.prototype._el;
+    /** @type {?} */
+    ScrollView.prototype._eventsEnabled;
+    /** @type {?} */
+    ScrollView.prototype._js;
+    /** @type {?} */
+    ScrollView.prototype._t;
+    /** @type {?} */
+    ScrollView.prototype._l;
+    /** @type {?} */
+    ScrollView.prototype._lsn;
+    /** @type {?} */
+    ScrollView.prototype._endTmr;
+    /** @type {?} */
+    ScrollView.prototype._app;
+    /** @type {?} */
+    ScrollView.prototype._plt;
+    /** @type {?} */
+    ScrollView.prototype._dom;
+}
+var /** @type {?} */ SCROLL_END_DEBOUNCE_MS = 80;
+var /** @type {?} */ MIN_VELOCITY_START_DECELERATION = 4;
+var /** @type {?} */ MIN_VELOCITY_CONTINUE_DECELERATION = 0.12;
+var /** @type {?} */ DECELERATION_FRICTION = 0.97;
+var /** @type {?} */ FRAME_MS = (1000 / 60);
+var /** @type {?} */ EVENT_OPTS = {
+    passive: true,
+    zone: false
+};
+//# sourceMappingURL=scroll-view.js.map
+
+/***/ }),
+/* 121 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (immutable) */ __webpack_exports__["b"] = indexForItem;
+/* unused harmony export reorderListForItem */
+/* harmony export (immutable) */ __webpack_exports__["a"] = findReorderItem;
+/**
+ * @hidden
+ * @param {?} element
+ * @return {?}
+ */
+function indexForItem(element) {
+    return element['$ionIndex'];
+}
+/**
+ * @hidden
+ * @param {?} element
+ * @return {?}
+ */
+function reorderListForItem(element) {
+    return element['$ionReorderList'];
+}
+/**
+ * @hidden
+ * @param {?} node
+ * @param {?} listNode
+ * @return {?}
+ */
+function findReorderItem(node, listNode) {
+    var /** @type {?} */ nested = 0;
+    while (node && nested < 4) {
+        if (indexForItem(node) !== undefined) {
+            if (listNode && node.parentNode !== listNode) {
+                return null;
+            }
+            return node;
+        }
+        node = node.parentNode;
+        nested++;
+    }
+    return null;
+}
+//# sourceMappingURL=item-reorder-util.js.map
+
+/***/ }),
+/* 122 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Chip; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+/**
+ * \@name Chip
+ * \@module ionic
+ * \@description
+ * Chips represent complex entities in small blocks, such as a contact.
+ *
+ *
+ * \@usage
+ *
+ * ```html
+ * <ion-chip>
+ *   <ion-label>Default</ion-label>
+ * </ion-chip>
+ *
+ * <ion-chip>
+ *   <ion-label color="secondary">Secondary Label</ion-label>
+ * </ion-chip>
+ *
+ * <ion-chip color="secondary">
+ *   <ion-label color="dark">Secondary w/ Dark label</ion-label>
+ * </ion-chip>
+ *
+ * <ion-chip color="danger">
+ *   <ion-label>Danger</ion-label>
+ * </ion-chip>
+ *
+ * <ion-chip>
+ *   <ion-icon name="pin"></ion-icon>
+ *   <ion-label>Default</ion-label>
+ * </ion-chip>
+ *
+ * <ion-chip>
+ *   <ion-icon name="heart" color="dark"></ion-icon>
+ *   <ion-label>Default</ion-label>
+ * </ion-chip>
+ *
+ * <ion-chip>
+ *   <ion-avatar>
+ *     <img src="assets/img/my-img.png">
+ *   </ion-avatar>
+ *   <ion-label>Default</ion-label>
+ * </ion-chip>
+ * ```
+ *
+ *
+ * \@advanced
+ *
+ * ```html
+ * <ion-chip #chip1>
+ *   <ion-label>Default</ion-label>
+ *   <button ion-button clear color="light" (click)="delete(chip1)">
+ *     <ion-icon name="close-circle"></ion-icon>
+ *   </button>
+ * </ion-chip>
+ *
+ * <ion-chip #chip2>
+ *   <ion-icon name="pin" color="primary"></ion-icon>
+ *   <ion-label>With Icon</ion-label>
+ *   <button ion-button (click)="delete(chip2)">
+ *     <ion-icon name="close"></ion-icon>
+ *   </button>
+ * </ion-chip>
+ *
+ * <ion-chip #chip3>
+ *   <ion-avatar>
+ *     <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAAAAAAALAAAAAABAAEAAAICTAEAOw==">
+ *   </ion-avatar>
+ *   <ion-label>With Avatar</ion-label>
+ *   <button ion-button clear color="dark" (click)="delete(chip3)">
+ *     <ion-icon name="close-circle"></ion-icon>
+ *   </button>
+ * </ion-chip>
+ * ```
+ *
+ * ```ts
+ * \@Component({
+ *   templateUrl: 'main.html'
+ * })
+ * class E2EPage {
+ *   delete(chip: Element) {
+ *     chip.remove();
+ *   }
+ * }
+ * ```
+ *
+ * \@demo /docs/demos/src/chip/
+ *
+ */
+var Chip = (function (_super) {
+    __extends(Chip, _super);
+    /**
+     * @param {?} config
+     * @param {?} elementRef
+     * @param {?} renderer
+     */
+    function Chip(config, elementRef, renderer) {
+        return _super.call(this, config, elementRef, renderer, 'chip') || this;
+    }
+    return Chip;
+}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
+
+Chip.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-chip'
+            },] },
+];
+/**
+ * @nocollapse
+ */
+Chip.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+]; };
+function Chip_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Chip.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    Chip.ctorParameters;
+}
+//# sourceMappingURL=chip.js.map
+
+/***/ }),
+/* 123 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return DateTime; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__picker_picker_controller__ = __webpack_require__(64);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__util_form__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__util_base_input__ = __webpack_require__(23);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__item_item__ = __webpack_require__(17);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__util_util__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__util_datetime_util__ = __webpack_require__(229);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+
+
+
+
+
+
+/**
+ * \@name DateTime
+ * \@description
+ * The DateTime component is used to present an interface which makes it easy for
+ * users to select dates and times. Tapping on `<ion-datetime>` will display a picker
+ * interface that slides up from the bottom of the page. The picker then displays
+ * scrollable columns that can be used to individually select years, months, days,
+ * hours and minute values. The DateTime component is similar to the native
+ * `<input type="datetime-local">` element, however, Ionic's DateTime component makes
+ * it easy to display the date and time in a preferred format, and manage the datetime
+ * values.
+ *
+ * ```html
+ * <ion-item>
+ *   <ion-label>Date</ion-label>
+ *   <ion-datetime displayFormat="MM/DD/YYYY" [(ngModel)]="myDate"></ion-datetime>
+ * </ion-item>
+ * ```
+ *
+ *
+ * ## Display and Picker Formats
+ *
+ * The DateTime component displays the values in two places: in the `<ion-datetime>`
+ * component, and in the interface that is presented from the bottom of the screen.
+ * The following chart lists all of the formats that can be used.
+ *
+ * | Format  | Description                    | Example                 |
+ * |---------|--------------------------------|-------------------------|
+ * | `YYYY`  | Year, 4 digits                 | `2018`                  |
+ * | `YY`    | Year, 2 digits                 | `18`                    |
+ * | `M`     | Month                          | `1` ... `12`            |
+ * | `MM`    | Month, leading zero            | `01` ... `12`           |
+ * | `MMM`   | Month, short name              | `Jan`                   |
+ * | `MMMM`  | Month, full name               | `January`               |
+ * | `D`     | Day                            | `1` ... `31`            |
+ * | `DD`    | Day, leading zero              | `01` ... `31`           |
+ * | `DDD`   | Day, short name                | `Fri`                   |
+ * | `DDDD`  | Day, full name                 | `Friday`                |
+ * | `H`     | Hour, 24-hour                  | `0` ... `23`            |
+ * | `HH`    | Hour, 24-hour, leading zero    | `00` ... `23`           |
+ * | `h`     | Hour, 12-hour                  | `1` ... `12`            |
+ * | `hh`    | Hour, 12-hour, leading zero    | `01` ... `12`           |
+ * | `a`     | 12-hour time period, lowercase | `am` `pm`               |
+ * | `A`     | 12-hour time period, uppercase | `AM` `PM`               |
+ * | `m`     | Minute                         | `1` ... `59`            |
+ * | `mm`    | Minute, leading zero           | `01` ... `59`           |
+ * | `s`     | Second                         | `1` ... `59`            |
+ * | `ss`    | Second, leading zero           | `01` ... `59`           |
+ * | `Z`     | UTC Timezone Offset            | `Z or +HH:mm or -HH:mm` |
+ *
+ * **Important**: See the [Month Names and Day of the Week Names](#month-names-and-day-of-the-week-names)
+ * section below on how to use different names for the month and day.
+ *
+ * ### Display Format
+ *
+ * The `displayFormat` input property specifies how a datetime's value should be
+ * printed, as formatted text, within the `ion-datetime` component.
+ *
+ * In the following example, the display in the `<ion-datetime>` will use the
+ * month's short name, the numerical day with a leading zero, a comma and the
+ * four-digit year. In addition to the date, it will display the time with the hours
+ * in the 24-hour format and the minutes. Any character can be used as a separator.
+ * An example display using this format is: `Jun 17, 2005 11:06`.
+ *
+ * ```html
+ * <ion-item>
+ *   <ion-label>Date</ion-label>
+ *   <ion-datetime displayFormat="MMM DD, YYYY HH:mm" [(ngModel)]="myDate"></ion-datetime>
+ * </ion-item>
+ * ```
+ *
+ * ### Picker Format
+ *
+ * The `pickerFormat` input property determines which columns should be shown in the
+ * interface, the order of the columns, and which format to use within each column.
+ * If the `pickerFormat` input is not provided then it will default to the `displayFormat`.
+ *
+ * In the following example, the display in the `<ion-datetime>` will use the
+ * `MM/YYYY` format, such as `06/2020`. However, the picker interface
+ * will display two columns with the month's long name, and the four-digit year.
+ *
+ * ```html
+ * <ion-item>
+ *   <ion-label>Date</ion-label>
+ *   <ion-datetime displayFormat="MM/YYYY" pickerFormat="MMMM YYYY" [(ngModel)]="myDate"></ion-datetime>
+ * </ion-item>
+ * ```
+ *
+ * ### Datetime Data
+ *
+ * Historically, handling datetime values within JavaScript, or even within HTML
+ * inputs, has always been a challenge. Specifically, JavaScript's `Date` object is
+ * notoriously difficult to correctly parse apart datetime strings or to format
+ * datetime values. Even worse is how different browsers and JavaScript versions
+ * parse various datetime strings differently, especially per locale.
+ *
+ * But no worries, all is not lost! Ionic's datetime input has been designed so
+ * developers can avoid the common pitfalls, allowing developers to easily format
+ * datetime values within the input, and give the user a simple datetime picker for a
+ * great user experience.
+ *
+ * ##### ISO 8601 Datetime Format: YYYY-MM-DDTHH:mmZ
+ *
+ * Ionic uses the [ISO 8601 datetime format](https://www.w3.org/TR/NOTE-datetime)
+ * for its value. The value is simply a string, rather than using JavaScript's `Date`
+ * object. Additionally, when using the ISO datetime format, it makes it easier
+ * to serialize and pass within JSON objects, and sending databases a standardized
+ * format which it can be easily parsed if need be.
+ *
+ * An ISO format can be used as a simple year, or just the hour and minute, or get more
+ * detailed down to the millisecond and timezone. Any of the ISO formats below can be used,
+ * and after a user selects a new value, Ionic will continue to use the same ISO format
+ * which datetime value was originally given as.
+ *
+ * | Description          | Format                 | Datetime Value Example       |
+ * |----------------------|------------------------|------------------------------|
+ * | Year                 | YYYY                   | 1994                         |
+ * | Year and Month       | YYYY-MM                | 1994-12                      |
+ * | Complete Date        | YYYY-MM-DD             | 1994-12-15                   |
+ * | Date and Time        | YYYY-MM-DDTHH:mm       | 1994-12-15T13:47             |
+ * | UTC Timezone         | YYYY-MM-DDTHH:mm:ssTZD | 1994-12-15T13:47:20.789Z     |
+ * | Timezone Offset      | YYYY-MM-DDTHH:mm:ssTZD | 1994-12-15T13:47:20.789+5:00 |
+ * | Hour and Minute      | HH:mm                  | 13:47                        |
+ * | Hour, Minute, Second | HH:mm:ss               | 13:47:20                     |
+ *
+ * Note that the year is always four-digits, milliseconds (if it's added) is always
+ * three-digits, and all others are always two-digits. So the number representing
+ * January always has a leading zero, such as `01`. Additionally, the hour is always
+ * in the 24-hour format, so `00` is `12am` on a 12-hour clock, `13` means `1pm`,
+ * and `23` means `11pm`.
+ *
+ * It's also important to note that neither the `displayFormat` or `pickerFormat` can
+ * set the datetime value's output, which is the value that is set by the component's
+ * `ngModel`. The format's are merely for displaying the value as text and the picker's
+ * interface, but the datetime's value is always persisted as a valid ISO 8601 datetime
+ * string.
+ *
+ *
+ * ## Min and Max Datetimes
+ *
+ * Dates are infinite in either direction, so for a user's selection there should be at
+ * least some form of restricting the dates that can be selected. Be default, the maximum
+ * date is to the end of the current year, and the minimum date is from the beginning
+ * of the year that was 100 years ago.
+ *
+ * To customize the minimum and maximum datetime values, the `min` and `max` component
+ * inputs can be provided which may make more sense for the app's use-case, rather
+ * than the default of the last 100 years. Following the same IS0 8601 format listed
+ * in the table above, each component can restrict which dates can be selected by the
+ * user. Below is an example of restricting the date selection between the beginning
+ * of 2016, and October 31st of 2020:
+ *
+ * ```html
+ * <ion-item>
+ *   <ion-label>Date</ion-label>
+ *   <ion-datetime displayFormat="MMMM YYYY" min="2016" max="2020-10-31" [(ngModel)]="myDate">
+ *   </ion-datetime>
+ * </ion-item>
+ * ```
+ *
+ *
+ * ## Month Names and Day of the Week Names
+ *
+ * At this time, there is no one-size-fits-all standard to automatically choose the correct
+ * language/spelling for a month name, or day of the week name, depending on the language
+ * or locale. Good news is that there is an
+ * [Intl.DateTimeFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DateTimeFormat)
+ * standard which *most* browsers have adopted. However, at this time the standard has not
+ * been fully implemented by all popular browsers so Ionic is unavailable to take advantage
+ * of it *yet*. Additionally, Angular also provides an internationalization service, but it
+ * is still under heavy development so Ionic does not depend on it at this time.
+ *
+ * All things considered, the by far easiest solution is to just provide an array of names
+ * if the app needs to use names other than the default English version of month and day
+ * names. The month names and day names can be either configured at the app level, or
+ * individual `ion-datetime` level.
+ *
+ * ### App Config Level
+ *
+ * ```ts
+ * //app.module.ts
+ * \@NgModule({
+ * ...,
+ * imports: [
+ *   IonicModule.forRoot(MyApp, {
+ *   monthNames: ['janeiro', 'fevereiro', 'mar\u00e7o', ... ],
+ *   monthShortNames: ['jan', 'fev', 'mar', ... ],
+ *   dayNames: ['domingo', 'segunda-feira', 'ter\u00e7a-feira', ... ],
+ *   dayShortNames: ['dom', 'seg', 'ter', ... ],
+ * })
+ * ],
+ * ...
+ * })
+ * ```
+ *
+ * ### Component Input Level
+ *
+ * ```html
+ * <ion-item>
+ *   <ion-label>Período</ion-label>
+ *   <ion-datetime displayFormat="DDDD MMM D, YYYY" [(ngModel)]="myDate"
+ *     monthNames="janeiro, fevereiro, mar\u00e7o, ..."
+ *     monthShortNames="jan, fev, mar, ..."
+ *     dayNames="domingo, segunda-feira, ter\u00e7a-feira, ..."
+ *     dayShortNames="dom, seg, ter, ..."></ion-datetime>
+ * </ion-item>
+ * ```
+ *
+ *
+ * ### Advanced Datetime Validation and Manipulation
+ *
+ * The datetime picker provides the simplicity of selecting an exact format, and persists
+ * the datetime values as a string using the standardized
+ * [ISO 8601 datetime format](https://www.w3.org/TR/NOTE-datetime).
+ * However, it's important to note that `ion-datetime` does not attempt to solve all
+ * situtations when validating and manipulating datetime values. If datetime values need
+ * to be parsed from a certain format, or manipulated (such as adding 5 days to a date,
+ * subtracting 30 minutes, etc.), or even formatting data to a specific locale, then we highly
+ * recommend using [moment.js](http://momentjs.com/) to "Parse, validate, manipulate, and
+ * display dates in JavaScript". [Moment.js](http://momentjs.com/) has quickly become
+ * our goto standard when dealing with datetimes within JavaScript, but Ionic does not
+ * prepackage this dependency since most apps will not require it, and its locale
+ * configuration should be decided by the end-developer.
+ *
+ *
+ * \@usage
+ * ```html
+ * <ion-item>
+ *   <ion-label>Date</ion-label>
+ *   <ion-datetime displayFormat="MM/DD/YYYY" [(ngModel)]="myDate">
+ *   </ion-datetime>
+ * </ion-item>
+ * ```
+ *
+ *
+ * \@demo /docs/demos/src/datetime/
+ */
+var DateTime = (function (_super) {
+    __extends(DateTime, _super);
+    /**
+     * @param {?} form
+     * @param {?} config
+     * @param {?} elementRef
+     * @param {?} renderer
+     * @param {?} item
+     * @param {?} _pickerCtrl
+     */
+    function DateTime(form, config, elementRef, renderer, item, _pickerCtrl) {
+        var _this = _super.call(this, config, elementRef, renderer, 'datetime', {}, form, item, null) || this;
+        _this._pickerCtrl = _pickerCtrl;
+        _this._text = '';
+        _this._locale = {};
+        /**
+         * \@input {string} The text to display on the picker's cancel button. Default: `Cancel`.
+         */
+        _this.cancelText = 'Cancel';
+        /**
+         * \@input {string} The text to display on the picker's "Done" button. Default: `Done`.
+         */
+        _this.doneText = 'Done';
+        /**
+         * \@input {any} Any additional options that the picker interface can accept.
+         * See the [Picker API docs](../../picker/Picker) for the picker options.
+         */
+        _this.pickerOptions = {};
+        /**
+         * \@input {string} The text to display when there's no date selected yet.
+         * Using lowercase to match the input attribute
+         */
+        _this.placeholder = '';
+        /**
+         * \@output {any} Emitted when the datetime selection was cancelled.
+         */
+        _this.ionCancel = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
+        return _this;
+    }
+    /**
+     * @hidden
+     * @return {?}
+     */
+    DateTime.prototype.ngAfterContentInit = function () {
+        var _this = this;
+        // first see if locale names were provided in the inputs
+        // then check to see if they're in the config
+        // if neither were provided then it will use default English names
+        ['monthNames', 'monthShortNames', 'dayNames', 'dayShortNames'].forEach(function (type) {
+            ((_this))._locale[type] = convertToArrayOfStrings(Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["l" /* isPresent */])(((_this))[type]) ? ((_this))[type] : _this._config.get(type), type);
+        });
+        this._initialize();
+    };
+    /**
+     * @hidden
+     * @param {?} val
+     * @return {?}
+     */
+    DateTime.prototype._inputNormalize = function (val) {
+        Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["l" /* updateDate */])(this._value, val);
+        return this._value;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    DateTime.prototype._inputUpdated = function () {
+        _super.prototype._inputUpdated.call(this);
+        this.updateText();
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    DateTime.prototype._inputShouldChange = function () {
+        return true;
+    };
+    /**
+     * TODO: REMOVE THIS
+     * @hidden
+     * @return {?}
+     */
+    DateTime.prototype._inputChangeEvent = function () {
+        return this.value;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    DateTime.prototype._inputNgModelEvent = function () {
+        return Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["a" /* convertDataToISO */])(this.value);
+    };
+    /**
+     * @param {?} ev
+     * @return {?}
+     */
+    DateTime.prototype._click = function (ev) {
+        ev.preventDefault();
+        ev.stopPropagation();
+        this.open();
+    };
+    /**
+     * @return {?}
+     */
+    DateTime.prototype._keyup = function () {
+        this.open();
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    DateTime.prototype.open = function () {
+        var _this = this;
+        if (this.isFocus() || this._disabled) {
+            return;
+        }
+        (void 0) /* console.debug */;
+        // the user may have assigned some options specifically for the alert
+        var /** @type {?} */ pickerOptions = Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["b" /* deepCopy */])(this.pickerOptions);
+        // Configure picker under the hood
+        var /** @type {?} */ picker = this._picker = this._pickerCtrl.create(pickerOptions);
+        picker.addButton({
+            text: this.cancelText,
+            role: 'cancel',
+            handler: function () { return _this.ionCancel.emit(_this); }
+        });
+        picker.addButton({
+            text: this.doneText,
+            handler: function (data) { return _this.value = data; },
+        });
+        picker.ionChange.subscribe(function () {
+            _this.validate();
+            picker.refresh();
+        });
+        // Update picker status before presenting
+        this.generate();
+        this.validate();
+        // Present picker
+        this._fireFocus();
+        picker.present(pickerOptions);
+        picker.onDidDismiss(function () {
+            _this._fireBlur();
+        });
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    DateTime.prototype.generate = function () {
+        var _this = this;
+        var /** @type {?} */ picker = this._picker;
+        // if a picker format wasn't provided, then fallback
+        // to use the display format
+        var /** @type {?} */ template = this.pickerFormat || this.displayFormat || DEFAULT_FORMAT;
+        if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["l" /* isPresent */])(template)) {
+            // make sure we've got up to date sizing information
+            this.calcMinMax();
+            // does not support selecting by day name
+            // automaticallly remove any day name formats
+            template = template.replace('DDDD', '{~}').replace('DDD', '{~}');
+            if (template.indexOf('D') === -1) {
+                // there is not a day in the template
+                // replace the day name with a numeric one if it exists
+                template = template.replace('{~}', 'D');
+            }
+            // make sure no day name replacer is left in the string
+            template = template.replace(/{~}/g, '');
+            // parse apart the given template into an array of "formats"
+            Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["i" /* parseTemplate */])(template).forEach(function (format) {
+                // loop through each format in the template
+                // create a new picker column to build up with data
+                var /** @type {?} */ key = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["b" /* convertFormatToKey */])(format);
+                var /** @type {?} */ values;
+                // first see if they have exact values to use for this input
+                if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["l" /* isPresent */])(((_this))[key + 'Values'])) {
+                    // user provide exact values for this date part
+                    values = convertToArrayOfNumbers(((_this))[key + 'Values'], key);
+                }
+                else {
+                    // use the default date part values
+                    values = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["e" /* dateValueRange */])(format, _this._min, _this._max);
+                }
+                var /** @type {?} */ column = {
+                    name: key,
+                    selectedIndex: 0,
+                    options: values.map(function (val) {
+                        return {
+                            value: val,
+                            text: Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["k" /* renderTextFormat */])(format, val, null, _this._locale),
+                        };
+                    })
+                };
+                // cool, we've loaded up the columns with options
+                // preselect the option for this column
+                var /** @type {?} */ optValue = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["g" /* getValueFromFormat */])(_this.getValue(), format);
+                var /** @type {?} */ selectedIndex = column.options.findIndex(function (opt) { return opt.value === optValue; });
+                if (selectedIndex >= 0) {
+                    // set the select index for this column's options
+                    column.selectedIndex = selectedIndex;
+                }
+                // add our newly created column to the picker
+                picker.addColumn(column);
+            });
+            // Normalize min/max
+            var /** @type {?} */ min_1 = (this._min);
+            var /** @type {?} */ max_1 = (this._max);
+            var /** @type {?} */ columns_1 = this._picker.getColumns();
+            ['month', 'day', 'hour', 'minute']
+                .filter(function (name) { return !columns_1.find(function (column) { return column.name === name; }); })
+                .forEach(function (name) {
+                min_1[name] = 0;
+                max_1[name] = 0;
+            });
+            this.divyColumns();
+        }
+    };
+    /**
+     * @hidden
+     * @param {?} name
+     * @param {?} index
+     * @param {?} min
+     * @param {?} max
+     * @param {?} lowerBounds
+     * @param {?} upperBounds
+     * @return {?}
+     */
+    DateTime.prototype.validateColumn = function (name, index, min, max, lowerBounds, upperBounds) {
+        (void 0) /* assert */;
+        (void 0) /* assert */;
+        var /** @type {?} */ column = this._picker.getColumn(name);
+        if (!column) {
+            return 0;
+        }
+        var /** @type {?} */ lb = lowerBounds.slice();
+        var /** @type {?} */ ub = upperBounds.slice();
+        var /** @type {?} */ options = column.options;
+        var /** @type {?} */ indexMin = options.length - 1;
+        var /** @type {?} */ indexMax = 0;
+        for (var /** @type {?} */ i = 0; i < options.length; i++) {
+            var /** @type {?} */ opt = options[i];
+            var /** @type {?} */ value = opt.value;
+            lb[index] = opt.value;
+            ub[index] = opt.value;
+            var /** @type {?} */ disabled = opt.disabled = (value < lowerBounds[index] ||
+                value > upperBounds[index] ||
+                Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["d" /* dateSortValue */])(ub[0], ub[1], ub[2], ub[3], ub[4]) < min ||
+                Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["d" /* dateSortValue */])(lb[0], lb[1], lb[2], lb[3], lb[4]) > max);
+            if (!disabled) {
+                indexMin = Math.min(indexMin, i);
+                indexMax = Math.max(indexMax, i);
+            }
+        }
+        var /** @type {?} */ selectedIndex = column.selectedIndex = Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["a" /* clamp */])(indexMin, column.selectedIndex, indexMax);
+        opt = column.options[selectedIndex];
+        if (opt) {
+            return opt.value;
+        }
+        return 0;
+    };
+    /**
+     * @return {?}
+     */
+    DateTime.prototype.validate = function () {
+        var /** @type {?} */ today = new Date();
+        var /** @type {?} */ minCompareVal = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["c" /* dateDataSortValue */])(this._min);
+        var /** @type {?} */ maxCompareVal = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["c" /* dateDataSortValue */])(this._max);
+        var /** @type {?} */ yearCol = this._picker.getColumn('year');
+        (void 0) /* assert */;
+        var /** @type {?} */ selectedYear = today.getFullYear();
+        if (yearCol) {
+            // default to the first value if the current year doesn't exist in the options
+            if (!yearCol.options.find(function (col) { return col.value === today.getFullYear(); })) {
+                selectedYear = yearCol.options[0].value;
+            }
+            var /** @type {?} */ yearOpt = yearCol.options[yearCol.selectedIndex];
+            if (yearOpt) {
+                // they have a selected year value
+                selectedYear = yearOpt.value;
+            }
+        }
+        var /** @type {?} */ selectedMonth = this.validateColumn('month', 1, minCompareVal, maxCompareVal, [selectedYear, 0, 0, 0, 0], [selectedYear, 12, 31, 23, 59]);
+        var /** @type {?} */ numDaysInMonth = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["f" /* daysInMonth */])(selectedMonth, selectedYear);
+        var /** @type {?} */ selectedDay = this.validateColumn('day', 2, minCompareVal, maxCompareVal, [selectedYear, selectedMonth, 0, 0, 0], [selectedYear, selectedMonth, numDaysInMonth, 23, 59]);
+        var /** @type {?} */ selectedHour = this.validateColumn('hour', 3, minCompareVal, maxCompareVal, [selectedYear, selectedMonth, selectedDay, 0, 0], [selectedYear, selectedMonth, selectedDay, 23, 59]);
+        this.validateColumn('minute', 4, minCompareVal, maxCompareVal, [selectedYear, selectedMonth, selectedDay, selectedHour, 0], [selectedYear, selectedMonth, selectedDay, selectedHour, 59]);
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    DateTime.prototype.divyColumns = function () {
+        var /** @type {?} */ pickerColumns = this._picker.getColumns();
+        var /** @type {?} */ columnsWidth = [];
+        var /** @type {?} */ col;
+        var /** @type {?} */ width;
+        for (var /** @type {?} */ i = 0; i < pickerColumns.length; i++) {
+            col = pickerColumns[i];
+            columnsWidth.push(0);
+            for (var /** @type {?} */ j = 0; j < col.options.length; j++) {
+                width = col.options[j].text.length;
+                if (width > columnsWidth[i]) {
+                    columnsWidth[i] = width;
+                }
+            }
+        }
+        if (columnsWidth.length === 2) {
+            width = Math.max(columnsWidth[0], columnsWidth[1]);
+            pickerColumns[0].align = 'right';
+            pickerColumns[1].align = 'left';
+            pickerColumns[0].optionsWidth = pickerColumns[1].optionsWidth = width * 17 + "px";
+        }
+        else if (columnsWidth.length === 3) {
+            width = Math.max(columnsWidth[0], columnsWidth[2]);
+            pickerColumns[0].align = 'right';
+            pickerColumns[1].columnWidth = columnsWidth[1] * 17 + "px";
+            pickerColumns[0].optionsWidth = pickerColumns[2].optionsWidth = width * 17 + "px";
+            pickerColumns[2].align = 'left';
+        }
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    DateTime.prototype.updateText = function () {
+        // create the text of the formatted data
+        var /** @type {?} */ template = this.displayFormat || this.pickerFormat || DEFAULT_FORMAT;
+        this._text = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["j" /* renderDateTime */])(template, this.getValue(), this._locale);
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    DateTime.prototype.getValue = function () {
+        return this._value;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    DateTime.prototype.hasValue = function () {
+        var /** @type {?} */ val = this._value;
+        return Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["l" /* isPresent */])(val)
+            && Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["k" /* isObject */])(val)
+            && Object.keys(val).length > 0;
+    };
+    /**
+     * @hidden
+     * @param {?=} now
+     * @return {?}
+     */
+    DateTime.prototype.calcMinMax = function (now) {
+        var /** @type {?} */ todaysYear = (now || new Date()).getFullYear();
+        if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["l" /* isPresent */])(this.yearValues)) {
+            var /** @type {?} */ years = convertToArrayOfNumbers(this.yearValues, 'year');
+            if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["f" /* isBlank */])(this.min)) {
+                this.min = Math.min.apply(Math, years);
+            }
+            if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["f" /* isBlank */])(this.max)) {
+                this.max = Math.max.apply(Math, years);
+            }
+        }
+        else {
+            if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["f" /* isBlank */])(this.min)) {
+                this.min = (todaysYear - 100).toString();
+            }
+            if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["f" /* isBlank */])(this.max)) {
+                this.max = todaysYear.toString();
+            }
+        }
+        var /** @type {?} */ min = this._min = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["h" /* parseDate */])(this.min);
+        var /** @type {?} */ max = this._max = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["h" /* parseDate */])(this.max);
+        min.year = min.year || todaysYear;
+        max.year = max.year || todaysYear;
+        min.month = min.month || 1;
+        max.month = max.month || 12;
+        min.day = min.day || 1;
+        max.day = max.day || 31;
+        min.hour = min.hour || 0;
+        max.hour = max.hour || 23;
+        min.minute = min.minute || 0;
+        max.minute = max.minute || 59;
+        min.second = min.second || 0;
+        max.second = max.second || 59;
+        // Ensure min/max constraits
+        if (min.year > max.year) {
+            console.error('min.year > max.year');
+            min.year = max.year - 100;
+        }
+        if (min.year === max.year) {
+            if (min.month > max.month) {
+                console.error('min.month > max.month');
+                min.month = 1;
+            }
+            else if (min.month === max.month && min.day > max.day) {
+                console.error('min.day > max.day');
+                min.day = 1;
+            }
+        }
+    };
+    return DateTime;
+}(__WEBPACK_IMPORTED_MODULE_5__util_base_input__["a" /* BaseInput */]));
+
+DateTime.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
+                selector: 'ion-datetime',
+                template: '<div *ngIf="!_text" class="datetime-text datetime-placeholder">{{placeholder}}</div>' +
+                    '<div *ngIf="_text" class="datetime-text">{{_text}}</div>' +
+                    '<button aria-haspopup="true" ' +
+                    'type="button" ' +
+                    '[id]="id" ' +
+                    'ion-button="item-cover" ' +
+                    '[attr.aria-labelledby]="_labelId" ' +
+                    '[attr.aria-disabled]="_disabled" ' +
+                    'class="item-cover">' +
+                    '</button>',
+                host: {
+                    '[class.datetime-disabled]': '_disabled'
+                },
+                providers: [{ provide: __WEBPACK_IMPORTED_MODULE_1__angular_forms__["b" /* NG_VALUE_ACCESSOR */], useExisting: DateTime, multi: true }],
+                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None,
+            },] },
+];
+/**
+ * @nocollapse
+ */
+DateTime.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_4__util_form__["a" /* Form */], },
+    { type: __WEBPACK_IMPORTED_MODULE_2__config_config__["a" /* Config */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+    { type: __WEBPACK_IMPORTED_MODULE_6__item_item__["a" /* Item */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
+    { type: __WEBPACK_IMPORTED_MODULE_3__picker_picker_controller__["a" /* PickerController */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
+]; };
+DateTime.propDecorators = {
+    'min': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'max': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'displayFormat': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'pickerFormat': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'cancelText': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'doneText': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'yearValues': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'monthValues': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'dayValues': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'hourValues': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'minuteValues': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'monthNames': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'monthShortNames': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'dayNames': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'dayShortNames': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'pickerOptions': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'placeholder': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'ionCancel': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
+    '_click': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* HostListener */], args: ['click', ['$event'],] },],
+    '_keyup': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* HostListener */], args: ['keyup.space',] },],
+};
+function DateTime_tsickle_Closure_declarations() {
+    /** @type {?} */
+    DateTime.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    DateTime.ctorParameters;
+    /** @type {?} */
+    DateTime.propDecorators;
+    /** @type {?} */
+    DateTime.prototype._text;
+    /** @type {?} */
+    DateTime.prototype._min;
+    /** @type {?} */
+    DateTime.prototype._max;
+    /** @type {?} */
+    DateTime.prototype._locale;
+    /** @type {?} */
+    DateTime.prototype._picker;
+    /**
+     * \@input {string} The minimum datetime allowed. Value must be a date string
+     * following the
+     * [ISO 8601 datetime format standard](https://www.w3.org/TR/NOTE-datetime),
+     * such as `1996-12-19`. The format does not have to be specific to an exact
+     * datetime. For example, the minimum could just be the year, such as `1994`.
+     * Defaults to the beginning of the year, 100 years ago from today.
+     * @type {?}
+     */
+    DateTime.prototype.min;
+    /**
+     * \@input {string} The maximum datetime allowed. Value must be a date string
+     * following the
+     * [ISO 8601 datetime format standard](https://www.w3.org/TR/NOTE-datetime),
+     * `1996-12-19`. The format does not have to be specific to an exact
+     * datetime. For example, the maximum could just be the year, such as `1994`.
+     * Defaults to the end of this year.
+     * @type {?}
+     */
+    DateTime.prototype.max;
+    /**
+     * \@input {string} The display format of the date and time as text that shows
+     * within the item. When the `pickerFormat` input is not used, then the
+     * `displayFormat` is used for both display the formatted text, and determining
+     * the datetime picker's columns. See the `pickerFormat` input description for
+     * more info. Defaults to `MMM D, YYYY`.
+     * @type {?}
+     */
+    DateTime.prototype.displayFormat;
+    /**
+     * \@input {string} The format of the date and time picker columns the user selects.
+     * A datetime input can have one or many datetime parts, each getting their
+     * own column which allow individual selection of that particular datetime part. For
+     * example, year and month columns are two individually selectable columns which help
+     * choose an exact date from the datetime picker. Each column follows the string
+     * parse format. Defaults to use `displayFormat`.
+     * @type {?}
+     */
+    DateTime.prototype.pickerFormat;
+    /**
+     * \@input {string} The text to display on the picker's cancel button. Default: `Cancel`.
+     * @type {?}
+     */
+    DateTime.prototype.cancelText;
+    /**
+     * \@input {string} The text to display on the picker's "Done" button. Default: `Done`.
+     * @type {?}
+     */
+    DateTime.prototype.doneText;
+    /**
+     * \@input {array | string} Values used to create the list of selectable years. By default
+     * the year values range between the `min` and `max` datetime inputs. However, to
+     * control exactly which years to display, the `yearValues` input can take either an array
+     * of numbers, or string of comma separated numbers. For example, to show upcoming and
+     * recent leap years, then this input's value would be `yearValues="2024,2020,2016,2012,2008"`.
+     * @type {?}
+     */
+    DateTime.prototype.yearValues;
+    /**
+     * \@input {array | string} Values used to create the list of selectable months. By default
+     * the month values range from `1` to `12`. However, to control exactly which months to
+     * display, the `monthValues` input can take either an array of numbers, or string of
+     * comma separated numbers. For example, if only summer months should be shown, then this
+     * input value would be `monthValues="6,7,8"`. Note that month numbers do *not* have a
+     * zero-based index, meaning January's value is `1`, and December's is `12`.
+     * @type {?}
+     */
+    DateTime.prototype.monthValues;
+    /**
+     * \@input {array | string} Values used to create the list of selectable days. By default
+     * every day is shown for the given month. However, to control exactly which days of
+     * the month to display, the `dayValues` input can take either an array of numbers, or
+     * string of comma separated numbers. Note that even if the array days have an invalid
+     * number for the selected month, like `31` in February, it will correctly not show
+     * days which are not valid for the selected month.
+     * @type {?}
+     */
+    DateTime.prototype.dayValues;
+    /**
+     * \@input {array | string} Values used to create the list of selectable hours. By default
+     * the hour values range from `0` to `23` for 24-hour, or `1` to `12` for 12-hour. However,
+     * to control exactly which hours to display, the `hourValues` input can take either an
+     * array of numbers, or string of comma separated numbers.
+     * @type {?}
+     */
+    DateTime.prototype.hourValues;
+    /**
+     * \@input {array | string} Values used to create the list of selectable minutes. By default
+     * the mintues range from `0` to `59`. However, to control exactly which minutes to display,
+     * the `minuteValues` input can take either an array of numbers, or string of comma separated
+     * numbers. For example, if the minute selections should only be every 15 minutes, then
+     * this input value would be `minuteValues="0,15,30,45"`.
+     * @type {?}
+     */
+    DateTime.prototype.minuteValues;
+    /**
+     * \@input {array} Full names for each month name. This can be used to provide
+     * locale month names. Defaults to English.
+     * @type {?}
+     */
+    DateTime.prototype.monthNames;
+    /**
+     * \@input {array} Short abbreviated names for each month name. This can be used to provide
+     * locale month names. Defaults to English.
+     * @type {?}
+     */
+    DateTime.prototype.monthShortNames;
+    /**
+     * \@input {array} Full day of the week names. This can be used to provide
+     * locale names for each day in the week. Defaults to English.
+     * @type {?}
+     */
+    DateTime.prototype.dayNames;
+    /**
+     * \@input {array} Short abbreviated day of the week names. This can be used to provide
+     * locale names for each day in the week. Defaults to English.
+     * @type {?}
+     */
+    DateTime.prototype.dayShortNames;
+    /**
+     * \@input {any} Any additional options that the picker interface can accept.
+     * See the [Picker API docs](../../picker/Picker) for the picker options.
+     * @type {?}
+     */
+    DateTime.prototype.pickerOptions;
+    /**
+     * \@input {string} The text to display when there's no date selected yet.
+     * Using lowercase to match the input attribute
+     * @type {?}
+     */
+    DateTime.prototype.placeholder;
+    /**
+     * \@output {any} Emitted when the datetime selection was cancelled.
+     * @type {?}
+     */
+    DateTime.prototype.ionCancel;
+    /** @type {?} */
+    DateTime.prototype._pickerCtrl;
+}
+/**
+ * @hidden
+ * Use to convert a string of comma separated numbers or
+ * an array of numbers, and clean up any user input
+ * @param {?} input
+ * @param {?} type
+ * @return {?}
+ */
+function convertToArrayOfNumbers(input, type) {
+    if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["n" /* isString */])(input)) {
+        // convert the string to an array of strings
+        // auto remove any whitespace and [] characters
+        input = input.replace(/\[|\]|\s/g, '').split(',');
+    }
+    var /** @type {?} */ values;
+    if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["e" /* isArray */])(input)) {
+        // ensure each value is an actual number in the returned array
+        values = input
+            .map(function (num) { return parseInt(num, 10); })
+            .filter(isFinite);
+    }
+    if (!values || !values.length) {
+        console.warn("Invalid \"" + type + "Values\". Must be an array of numbers, or a comma separated string of numbers.");
+    }
+    return values;
+}
+/**
+ * @hidden
+ * Use to convert a string of comma separated strings or
+ * an array of strings, and clean up any user input
+ * @param {?} input
+ * @param {?} type
+ * @return {?}
+ */
+function convertToArrayOfStrings(input, type) {
+    if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["l" /* isPresent */])(input)) {
+        if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["n" /* isString */])(input)) {
+            // convert the string to an array of strings
+            // auto remove any [] characters
+            input = input.replace(/\[|\]/g, '').split(',');
+        }
+        var /** @type {?} */ values;
+        if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["e" /* isArray */])(input)) {
+            // trim up each string value
+            values = input.map(function (val) { return val.trim(); });
+        }
+        if (!values || !values.length) {
+            console.warn("Invalid \"" + type + "Names\". Must be an array of strings, or a comma separated string.");
+        }
+        return values;
+    }
+}
+var /** @type {?} */ DEFAULT_FORMAT = 'MMM D, YYYY';
+//# sourceMappingURL=datetime.js.map
+
+/***/ }),
+/* 124 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Picker; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__util_util__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__picker_component__ = __webpack_require__(65);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__picker_transitions__ = __webpack_require__(228);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__ = __webpack_require__(5);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+
+
+/**
+ * @hidden
+ */
+var Picker = (function (_super) {
+    __extends(Picker, _super);
+    /**
+     * @param {?} app
+     * @param {?=} opts
+     * @param {?=} config
+     */
+    function Picker(app, opts, config) {
+        if (opts === void 0) { opts = {}; }
+        var _this = this;
+        if (!opts) {
+            opts = {};
+        }
+        opts.columns = opts.columns || [];
+        opts.buttons = opts.buttons || [];
+        opts.enableBackdropDismiss = Object(__WEBPACK_IMPORTED_MODULE_1__util_util__["l" /* isPresent */])(opts.enableBackdropDismiss) ? Boolean(opts.enableBackdropDismiss) : true;
+        _this = _super.call(this, __WEBPACK_IMPORTED_MODULE_2__picker_component__["a" /* PickerCmp */], opts, null) || this;
+        _this._app = app;
+        _this.isOverlay = true;
+        _this.ionChange = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
+        config.setTransition('picker-slide-in', __WEBPACK_IMPORTED_MODULE_3__picker_transitions__["a" /* PickerSlideIn */]);
+        config.setTransition('picker-slide-out', __WEBPACK_IMPORTED_MODULE_3__picker_transitions__["b" /* PickerSlideOut */]);
+        return _this;
+    }
+    /**
+     * @hidden
+     * @param {?} direction
+     * @return {?}
+     */
+    Picker.prototype.getTransitionName = function (direction) {
+        var /** @type {?} */ key = (direction === 'back' ? 'pickerLeave' : 'pickerEnter');
+        return this._nav && this._nav.config.get(key);
+    };
+    /**
+     * @param {?} button
+     * @return {?}
+     */
+    Picker.prototype.addButton = function (button) {
+        this.data.buttons.push(button);
+    };
+    /**
+     * @param {?} column
+     * @return {?}
+     */
+    Picker.prototype.addColumn = function (column) {
+        this.data.columns.push(column);
+    };
+    /**
+     * @return {?}
+     */
+    Picker.prototype.getColumns = function () {
+        return this.data.columns;
+    };
+    /**
+     * @param {?} name
+     * @return {?}
+     */
+    Picker.prototype.getColumn = function (name) {
+        return this.getColumns().find(function (column) { return column.name === name; });
+    };
+    /**
+     * @return {?}
+     */
+    Picker.prototype.refresh = function () {
+        (void 0) /* assert */;
+        (void 0) /* assert */;
+        this._cmp && this._cmp.instance.refresh && this._cmp.instance.refresh();
+    };
+    /**
+     * @param {?} cssClass
+     * @return {?}
+     */
+    Picker.prototype.setCssClass = function (cssClass) {
+        this.data.cssClass = cssClass;
+    };
+    /**
+     * Present the picker instance.
+     *
+     * @param {?=} navOptions
+     * @return {?}
+     */
+    Picker.prototype.present = function (navOptions) {
+        if (navOptions === void 0) { navOptions = {}; }
+        return this._app.present(this, navOptions);
+    };
+    return Picker;
+}(__WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__["a" /* ViewController */]));
+
+Picker.propDecorators = {
+    'ionChange': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
+};
+function Picker_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Picker.propDecorators;
+    /** @type {?} */
+    Picker.prototype._app;
+    /** @type {?} */
+    Picker.prototype.ionChange;
+}
+//# sourceMappingURL=picker.js.map
+
+/***/ }),
+/* 125 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FabContainer; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__platform_platform__ = __webpack_require__(3);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__gestures_ui_event_manager__ = __webpack_require__(22);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__fab__ = __webpack_require__(43);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__fab_list__ = __webpack_require__(67);
+
+
+
+
+
+/**
+ * \@name FabContainer
+ * \@module ionic
+ *
+ * \@description
+ * `<ion-fab>` is not a FAB button by itself but a container that assist the fab button (`<button ion-fab>`) allowing it
+ * to be placed in fixed position that does not scroll with the content. It is also used to implement "material design speed dial",
+ * ie. a FAB buttons displays a small lists of related actions when clicked.
+ *
+ * \@property [top] - Places the container on the top of the content
+ * \@property [bottom] - Places the container on the bottom  of the content
+ * \@property [left] - Places the container on the left
+ * \@property [right] - Places the container on the right
+ * \@property [middle] - Places the container on the middle vertically
+ * \@property [center] - Places the container on the center horizontally
+ * \@property [edge] - Used to place the container between the content and the header/footer
+ *
+ * \@usage
+ *
+ * ```html
+ * <!-- this fab is placed at top right -->
+ * <ion-content>
+ *  <ion-fab top right>
+ *    <button ion-fab>Button</button>
+ *  </ion-fab>
+ *
+ *  <!-- this fab is placed at the center of the content viewport -->
+ *  <ion-fab center middle>
+ *    <button ion-fab>Button</button>
+ *  </ion-fab>
+ * </ion-content>
+ * ```
+ *
+ * Ionic's FAB also supports "material design's fab speed dial". It is a normal fab button
+ * that shows a list of related actions when clicked.
+ *
+ * The same `ion-fab` container can contain several `ion-fab-list` with different side values:
+ * `top`, `bottom`, `left` and `right`. For example, if you want to have a list of button that are
+ * on the top of the main button, you should use `side="top"` and so on. By default, if side is ommited, `side="bottom"`.
+ *
+ * ```html
+ * <ion-content>
+ *  <!-- this fab is placed at bottom right -->
+ *  <ion-fab bottom right >
+ *    <button ion-fab>Share</button>
+ *    <ion-fab-list side="top">
+ *      <button ion-fab>Facebook</button>
+ *      <button ion-fab>Twitter</button>
+ *      <button ion-fab>Youtube</button>
+ *    </ion-fab-list>
+ *    <ion-fab-list side="left">
+ *      <button ion-fab>Vimeo</button>
+ *    </ion-fab-list>
+ *  </ion-fab>
+ * </ion-content>
+ * ```
+ *
+ * A FAB speed dial can also be closed programatically.
+ *
+ * ```html
+ * <ion-content>
+ *  <ion-fab bottom right #fab>
+ *    <button ion-fab>Share</button>
+ *    <ion-fab-list side="top">
+ *      <button ion-fab (click)="share('facebook', fab)">Facebook</button>
+ *      <button ion-fab (click)="share('twitter', fab)">Twitter</button>
+ *    </ion-fab-list>
+ *  </ion-fab>
+ * </ion-content>
+ * ```
+ *
+ * ```ts
+ * share(socialNet: string, fab: FabContainer) {
+ *   fab.close();
+ *   console.log("Sharing in", socialNet);
+ * }
+ * ```
+ *
+ * \@demo /docs/demos/src/fab/
+ * @see {\@link /docs/components#fabs FAB Component Docs}
+ */
+var FabContainer = (function () {
+    /**
+     * @param {?} plt
+     */
+    function FabContainer(plt) {
+        /**
+         * @hidden
+         */
+        this._listsActive = false;
+        this._events = new __WEBPACK_IMPORTED_MODULE_2__gestures_ui_event_manager__["a" /* UIEventManager */](plt);
+    }
+    /**
+     * @hidden
+     * @return {?}
+     */
+    FabContainer.prototype.ngAfterContentInit = function () {
+        var /** @type {?} */ mainButton = this._mainButton;
+        if (!mainButton || !mainButton.getNativeElement()) {
+            console.error('FAB container needs a main <button ion-fab>');
+            return;
+        }
+        this._events.listen(mainButton.getNativeElement(), 'click', this.clickHandler.bind(this), { zone: true });
+    };
+    /**
+     * @hidden
+     * @param {?} ev
+     * @return {?}
+     */
+    FabContainer.prototype.clickHandler = function (ev) {
+        if (this.canActivateList(ev)) {
+            this.toggleList();
+        }
+    };
+    /**
+     * @hidden
+     * @param {?} ev
+     * @return {?}
+     */
+    FabContainer.prototype.canActivateList = function (ev) {
+        if (this._fabLists.length > 0 && this._mainButton && ev.target) {
+            var /** @type {?} */ ele = ev.target.closest('ion-fab>[ion-fab]');
+            return (ele && ele === this._mainButton.getNativeElement());
+        }
+        return false;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    FabContainer.prototype.toggleList = function () {
+        this.setActiveLists(!this._listsActive);
+    };
+    /**
+     * @hidden
+     * @param {?} isActive
+     * @return {?}
+     */
+    FabContainer.prototype.setActiveLists = function (isActive) {
+        if (isActive === this._listsActive) {
+            return;
+        }
+        var /** @type {?} */ lists = this._fabLists.toArray();
+        for (var _i = 0, lists_1 = lists; _i < lists_1.length; _i++) {
+            var list = lists_1[_i];
+            list.setVisible(isActive);
+        }
+        this._mainButton.setActiveClose(isActive);
+        this._listsActive = isActive;
+    };
+    /**
+     * Close an active FAB list container
+     * @return {?}
+     */
+    FabContainer.prototype.close = function () {
+        this.setActiveLists(false);
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    FabContainer.prototype.ngOnDestroy = function () {
+        this._events.destroy();
+    };
+    return FabContainer;
+}());
+
+FabContainer.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
+                selector: 'ion-fab',
+                template: '<ng-content></ng-content>'
+            },] },
+];
+/**
+ * @nocollapse
+ */
+FabContainer.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_1__platform_platform__["a" /* Platform */], },
+]; };
+FabContainer.propDecorators = {
+    '_mainButton': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* ContentChild */], args: [__WEBPACK_IMPORTED_MODULE_3__fab__["a" /* FabButton */],] },],
+    '_fabLists': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["s" /* ContentChildren */], args: [__WEBPACK_IMPORTED_MODULE_4__fab_list__["a" /* FabList */],] },],
+};
+function FabContainer_tsickle_Closure_declarations() {
+    /** @type {?} */
+    FabContainer.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    FabContainer.ctorParameters;
+    /** @type {?} */
+    FabContainer.propDecorators;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    FabContainer.prototype._events;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    FabContainer.prototype._listsActive;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    FabContainer.prototype._mainButton;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    FabContainer.prototype._fabLists;
+}
+//# sourceMappingURL=fab-container.js.map
+
+/***/ }),
+/* 126 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Col; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+
+/**
+ * \@name Col
+ * \@module ionic
+ * \@description
+ *
+ * Columns are cellular components of the [grid](../Grid) system and go inside of a [row](../Row).
+ * They will expand to fill their row. All content within a grid should go inside of a column.
+ *
+ * ## Column attributes
+ *
+ * By default, columns will stretch to fill the entire height of the row.
+ * There are several attributes that can be added to a column to customize this behavior.
+ *
+ * | Property              | Description                                                                                                 |
+ * |-----------------------|-------------------------------------------------------------------------------------------------------------|
+ * | align-self-start      | Adds `align-self: flex-start`. The column will be vertically aligned at the top.                            |
+ * | align-self-center     | Adds `align-self: center`. The column will be vertically aligned in the center.                             |
+ * | align-self-end        | Adds `align-self: flex-end`. The column will be vertically aligned at the bottom.                           |
+ * | align-self-stretch    | Adds `align-self: stretch`. The column will be stretched to take up the entire height of the row.           |
+ * | align-self-baseline   | Adds `align-self: baseline`. The column will be vertically aligned at its baseline.                         |
+ *
+ *
+ */
+var Col = (function () {
+    function Col() {
+    }
+    return Col;
+}());
+
+Col.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-col, [ion-col]',
+                host: {
+                    'class': 'col'
+                }
+            },] },
+];
+/**
+ * @nocollapse
+ */
+Col.ctorParameters = function () { return []; };
+function Col_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Col.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    Col.ctorParameters;
+}
+//# sourceMappingURL=col.js.map
+
+/***/ }),
+/* 127 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Grid; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+
+/**
+ * \@name Grid
+ * \@module ionic
+ * \@description
+ *
+ * The grid is a powerful mobile-first flexbox system for building custom layouts.
+ * It is heavily influenced by [Bootstrap's grid system](http://v4-alpha.getbootstrap.com/layout/grid/).
+ *
+ * The grid is composed of three units — a grid, row(s) and column(s). Columns will expand to fill their
+ * row, and will resize to fit additional columns. It is based on a 12 column layout with different
+ * breakpoints based on the screen size. The number of columns and breakpoints can be fully customized
+ * using Sass.
+ *
+ * - [How it works](#how-it-works)
+ * - [Grid size](#grid-size)
+ * - [Grid attributes](#grid-attributes)
+ * - [Default breakpoints](#default-breakpoints)
+ * - [Auto-layout columns](#auto-layout-columns)
+ *   - [Equal-width](#equal-width)
+ *   - [Setting one column width](#setting-one-column-width)
+ *   - [Variable-width](#variable-width)
+ * - [Responsive attributes](#responsive-attributes)
+ *   - [All breakpoints](#all-breakpoints)
+ *   - [Stacked to horizontal](#stacked-to-horizontal)
+ * - [Reordering](#reordering)
+ *   - [Offsetting columns](#offsetting-columns)
+ *   - [Push and pull](#push-and-pull)
+ * - [Alignment](#alignment)
+ *   - [Vertical Alignment](#vertical-alignment)
+ *   - [Horizontal Alignment](#horizontal-alignment)
+ * - [Customizing the grid](#customizing-the-grid)
+ *   - [Number of columns and padding](#number-of-columns-and-padding)
+ *   - [Grid tiers](#grid-tiers)
+ *
+ *
+ * ## How it works
+ *
+ * The grid is a mobile-first system made up of any number of rows and columns.
+ * It is built with flexbox making it extremely responsive. The components that
+ * make up the grid can be written as an element (e.g., `<ion-grid>`) or added as
+ * an attribute to any element (e.g., `<div ion-row>`).
+ *
+ * Here's how it works:
+ *
+ * - Grids act as a container for all rows and columns. Grids take up the full width of their container,
+ * but adding the `fixed` attribute will specify the width per screen size, see [grid size](#grid-size) below.
+ * - Rows are horizontal groups of columns that line the columns up properly.
+ * - Content should be placed within columns, and only columns may be immediate children of rows.
+ * - Grid columns without a specified width will automatically have equal widths.
+ * For example, four instances of `col-sm` will each automatically be 25% wide for small breakpoints.
+ * - Column attributes indicate the number of columns to use out of the default 12 per row.
+ * So, `col-4` can be added in order to have three equal-width columns.
+ * - Column widths are set as a percentage, so they’re always fluid and sized relative to their parent element.
+ * - Columns have padding between individual columns, however, the padding can be removed from the grid and
+ * columns by adding `no-padding` on the grid.
+ * - There are five grid tiers by default, one for each responsive breakpoint: all breakpoints (extra small),
+ * small, medium, large, and extra large.
+ * - Grid tiers are based on minimum widths, meaning they apply to their tier and all those larger than it
+ * (e.g., `col-sm-4` applies to small, medium, large, and extra large devices).
+ * - Grids can easily be customized via Sass variables. See [customizing the grid](#customizing-the-grid).
+ *
+ * There are some [known bugs with flexbox](https://github.com/philipwalton/flexbugs) that
+ * should be checked prior to creating issues with Ionic.
+ *
+ * ## Grid size
+ *
+ * By default, the grid will take up 100% width. To set a maximum width based on the screen
+ * size add the `fixed` attribute. The maximum width of the grid for each breakpoint is defined
+ * in the `$grid-max-widths` Sass variable. For more information, see
+ * [customizing the grid](#customizing-the-grid).
+ *
+ * | Name     | Value    | Description                                         |
+ * |----------|----------|-----------------------------------------------------|
+ * | xs       | auto     | Don't set the grid width for xs screens             |
+ * | sm       | 540px    | Set grid width to 540px when (min-width: 576px)     |
+ * | md       | 720px    | Set grid width to 720px when (min-width: 768px)     |
+ * | lg       | 960px    | Set grid width to 960px when (min-width: 992px)     |
+ * | xl       | 1140px   | Set grid width to 1140px when (min-width: 1200px)   |
+ *
+ *
+ * ## Grid attributes
+ *
+ * The grid takes up full width and has padding added to it based on the screen size. There are two
+ * attributes that can be used to adjust this behavior.
+ *
+ * | Property        | Description                                                                                                       |
+ * |-----------------|-------------------------------------------------------------------------------------------------------------------|
+ * | no-padding      | Removes padding from the grid and immediate children columns.                                                     |
+ * | fixed           | Set a max width based on the screen size.                                                                         |
+ *
+ *
+ * ## Default breakpoints
+ *
+ * The default breakpoints are defined by the `$grid-breakpoints` Sass variable. It can be
+ * customized to use different values for the breakpoint, rename and add/remove breakpoints.
+ * For more information, see [customizing the grid](#customizing-the-grid).
+ *
+ * | Name     | Value    | Width Prefix | Offset Prefix | Push Prefix  | Pull Prefix | Description                                       |
+ * |----------|----------|--------------|---------------|--------------|-------------|---------------------------------------------------|
+ * | xs       | 0        | `col-`       | `offset-`     | `push-`      | `pull-`     | Set columns when (min-width: 0)                   |
+ * | sm       | 576px    | `col-sm-`    | `offset-sm-`  | `push-sm-`   | `pull-sm-`  | Set columns when (min-width: 576px)               |
+ * | md       | 768px    | `col-md-`    | `offset-md-`  | `push-md-`   | `pull-md-`  | Set columns when (min-width: 768px)               |
+ * | lg       | 992px    | `col-lg-`    | `offset-lg-`  | `push-lg-`   | `pull-lg-`  | Set columns when (min-width: 992px)               |
+ * | xl       | 1200px   | `col-xl-`    | `offset-xl-`  | `push-xl-`   | `pull-xl-`  | Set columns when (min-width: 1200px)              |
+ *
+ * _Note: the first breakpoint must have the value set to 0 and all breakpoint values must be in
+ * ascending order._
+ *
+ * ## Auto-layout columns
+ *
+ * ### Equal-width
+ *
+ * By default, columns will take up equal width inside of a row for all devices and screen sizes.
+ *
+ * ```
+ * <ion-grid>
+ *   <ion-row>
+ *     <ion-col>
+ *       1 of 2
+ *     </ion-col>
+ *     <ion-col>
+ *       2 of 2
+ *     </ion-col>
+ *   </ion-row>
+ *   <ion-row>
+ *     <ion-col>
+ *       1 of 3
+ *     </ion-col>
+ *     <ion-col>
+ *       2 of 3
+ *     </ion-col>
+ *     <ion-col>
+ *       3 of 3
+ *     </ion-col>
+ *   </ion-row>
+ * </ion-grid>
+ * ```
+ *
+ * ### Setting one column width
+ *
+ * Set the width of one column and the others will automatically resize around it.
+ * This can be done using our predefined grid attributes. In the example below,
+ * the other columns will resize no matter the width of the center column.
+ *
+ * ```
+ * <ion-grid>
+ *   <ion-row>
+ *     <ion-col>
+ *       1 of 3
+ *     </ion-col>
+ *     <ion-col col-8>
+ *       2 of 3 (wider)
+ *     </ion-col>
+ *     <ion-col>
+ *       3 of 3
+ *     </ion-col>
+ *   </ion-row>
+ *   <ion-row>
+ *     <ion-col>
+ *       1 of 3
+ *     </ion-col>
+ *     <ion-col col-6>
+ *       2 of 3 (wider)
+ *     </ion-col>
+ *     <ion-col>
+ *       3 of 3
+ *     </ion-col>
+ *   </ion-row>
+ * </ion-grid>
+ * ```
+ *
+ * ### Variable-width
+ *
+ * Using the `col-{breakpoint}-auto` attributes, the column can size itself based on the
+ * natural width of its content. This is extremely useful for setting a column width
+ * using pixels. The columns next to the variable-width column will resize to fill the row.
+ *
+ * ```
+ * <ion-grid>
+ *   <ion-row>
+ *     <ion-col>
+ *       1 of 3
+ *     </ion-col>
+ *     <ion-col col-auto>
+ *       Variable width content
+ *     </ion-col>
+ *     <ion-col>
+ *       3 of 3
+ *     </ion-col>
+ *   </ion-row>
+ *   <ion-row>
+ *     <ion-col>
+ *       1 of 4
+ *     </ion-col>
+ *     <ion-col>
+ *       2 of 4
+ *     </ion-col>
+ *     <ion-col col-auto>
+ *       <ion-input placeholder="Variable width input"></ion-input>
+ *     </ion-col>
+ *     <ion-col>
+ *       4 of 4
+ *     </ion-col>
+ *   </ion-row>
+ * </ion-grid>
+ * ```
+ *
+ *
+ * ## Responsive attributes
+ *
+ * ### All breakpoints
+ *
+ * To customize a column's width for all devices and screens, add the `col-*`
+ * attribute. These attributes tell the column to take up `*` columns out
+ * of the available columns.
+ *
+ * ```
+ * <ion-grid>
+ *   <ion-row>
+ *     <ion-col col-4>
+ *       1 of 4
+ *     </ion-col>
+ *     <ion-col col-2>
+ *       2 of 4
+ *     </ion-col>
+ *     <ion-col col-2>
+ *       3 of 4
+ *     </ion-col>
+ *     <ion-col col-4>
+ *       4 of 4
+ *     </ion-col>
+ *   </ion-row>
+ * </ion-grid>
+ * ```
+ *
+ * ###  Stacked to horizontal
+ *
+ * Use a combination of width and breakpoint attributes to create a grid that starts out stacked
+ * on extra small screens before becoming horizontal on small screens.
+ *
+ * ```
+ * <ion-grid>
+ *   <ion-row>
+ *     <ion-col col-12 col-sm>
+ *       1 of 4
+ *     </ion-col>
+ *     <ion-col col-12 col-sm>
+ *       2 of 4
+ *     </ion-col>
+ *     <ion-col col-12 col-sm>
+ *       3 of 4
+ *     </ion-col>
+ *     <ion-col col-12 col-sm>
+ *       4 of 4
+ *     </ion-col>
+ *   </ion-row>
+ * </ion-grid>
+ * ```
+ *
+ *
+ * ## Reordering
+ *
+ * ### Offsetting columns
+ *
+ * Move columns to the right by adding the `offset-*` attributes. These attributes
+ * increase the margin start of the column by `*` columns. For example, in the following
+ * grid the last column will be offset by 3 columns and take up 3 columns:
+ *
+ * ```
+ * <ion-grid>
+ *   <ion-row>
+ *     <ion-col col-3>
+ *       1 of 2
+ *     </ion-col>
+ *     <ion-col col-3 offset-3>
+ *       2 of 2
+ *     </ion-col>
+ *   </ion-row>
+ * </ion-grid>
+ * ```
+ *
+ * Offsets can also be added based on screen breakpoints. Here's an example of a
+ * grid where the last column will be offset by 3 columns for `md` screens and up:
+ *
+ * ```
+ * <ion-grid>
+ *   <ion-row>
+ *     <ion-col col-md-3>
+ *       1 of 3
+ *     </ion-col>
+ *     <ion-col col-md-3>
+ *       2 of 3
+ *     </ion-col>
+ *     <ion-col col-md-3 offset-md-3>
+ *       3 of 3
+ *     </ion-col>
+ *   </ion-row>
+ * </ion-grid>
+ * ```
+ *
+ * ### Push and pull
+ *
+ * Reorder the columns by adding the `push-*` and `pull-*` attributes. These attributes
+ * adjust the `left` and `right` of the columns by `*` columns making it easy to reorder
+ * columns. For example, in the following grid the column with the `1st col` description
+ * will actually be the last column and the `2nd col` will be the first column.
+ *
+ * ```
+ * <ion-grid>
+ *   <ion-row>
+ *     <ion-col col-9 push-3>
+ *       1 of 2
+ *     </ion-col>
+ *     <ion-col col-3 pull-9>
+ *       2 of 2
+ *     </ion-col>
+ *   </ion-row>
+ * </ion-grid>
+ * ```
+ *
+ * Push and pull can also be added based on screen breakpoints. In the following example,
+ * the column with the `3rd` column description will actually be the first column for
+ * `md` screens and up:
+ *
+ * ```
+ * <ion-grid>
+ *   <ion-row>
+ *     <ion-col col-md-6 push-md-3>
+ *       1 of 3
+ *     </ion-col>
+ *     <ion-col col-md-3 push-md-3>
+ *       2 of 3
+ *     </ion-col>
+ *     <ion-col col-md-3 pull-md-9>
+ *       3 of 3
+ *     </ion-col>
+ *   </ion-row>
+ * </ion-grid>
+ * ```
+ *
+ *
+ * ## Alignment
+ *
+ * ### Vertical alignment
+ *
+ * All columns can be vertically aligned inside of a row by adding different
+ * attributes to the row. For a list of available attributes, see
+ * [row attributes](../Row#row-attributes).
+ *
+ * ```
+ * <ion-grid>
+ *   <ion-row align-items-start>
+ *     <ion-col>
+ *       1 of 4
+ *     </ion-col>
+ *     <ion-col>
+ *       2 of 4
+ *     </ion-col>
+ *     <ion-col>
+ *       3 of 4
+ *     </ion-col>
+ *     <ion-col>
+ *       4 of 4 <br>#<br>#<br>#
+ *     </ion-col>
+ *   </ion-row>
+ *
+ *   <ion-row align-items-center>
+ *     <ion-col>
+ *       1 of 4
+ *     </ion-col>
+ *     <ion-col>
+ *       2 of 4
+ *     </ion-col>
+ *     <ion-col>
+ *       3 of 4
+ *     </ion-col>
+ *     <ion-col>
+ *       4 of 4 <br>#<br>#<br>#
+ *     </ion-col>
+ *   </ion-row>
+ *
+ *   <ion-row align-items-end>
+ *     <ion-col>
+ *       1 of 4
+ *     </ion-col>
+ *     <ion-col>
+ *       2 of 4
+ *     </ion-col>
+ *     <ion-col>
+ *       3 of 4
+ *     </ion-col>
+ *     <ion-col>
+ *       4 of 4 <br>#<br>#<br>#
+ *     </ion-col>
+ *   </ion-row>
+ * </ion-grid>
+ * ```
+ *
+ * Columns can also align themselves differently than other columns by
+ * adding the alignment attribute directly to the column. For a list of available
+ * attributes, see [column attributes](../Col#column-attributes).
+ *
+ * ```
+ * <ion-grid>
+ *   <ion-row>
+ *     <ion-col align-self-start>
+ *       <div>
+ *         1 of 4
+ *       </div>
+ *     </ion-col>
+ *     <ion-col align-self-center>
+ *       <div>
+ *         2 of 4
+ *       </div>
+ *     </ion-col>
+ *     <ion-col align-self-end>
+ *       <div>
+ *         3 of 4
+ *       </div>
+ *     </ion-col>
+ *     <ion-col>
+ *       <div>
+ *         4 of 4 <br>#<br>#<br>#
+ *       </div>
+ *     </ion-col>
+ *   </ion-row>
+ * </ion-grid>
+ * ```
+ *
+ * ### Horizontal alignment
+ *
+ * All columns can be horizontally aligned inside of a row by adding different
+ * attributes to the row. For a list of available attributes, see
+ * [row attributes](../Row#row-attributes).
+ *
+ * ```
+ * <ion-grid>
+ *   <ion-row justify-content-start>
+ *     <ion-col col-3>
+ *       1 of 2
+ *     </ion-col>
+ *     <ion-col col-3>
+ *       2 of 2
+ *     </ion-col>
+ *   </ion-row>
+ *
+ *   <ion-row justify-content-center>
+ *     <ion-col col-3>
+ *       1 of 2
+ *     </ion-col>
+ *     <ion-col col-3>
+ *       2 of 2
+ *     </ion-col>
+ *   </ion-row>
+ *
+ *   <ion-row justify-content-end>
+ *     <ion-col col-3>
+ *       1 of 2
+ *     </ion-col>
+ *     <ion-col col-3>
+ *       2 of 2
+ *     </ion-col>
+ *   </ion-row>
+ *
+ *   <ion-row justify-content-around>
+ *     <ion-col col-3>
+ *       1 of 2
+ *     </ion-col>
+ *     <ion-col col-3>
+ *       2 of 2
+ *     </ion-col>
+ *   </ion-row>
+ *
+ *   <ion-row justify-content-between>
+ *     <ion-col col-3>
+ *       1 of 2
+ *     </ion-col>
+ *     <ion-col col-3>
+ *       2 of 2
+ *     </ion-col>
+ *   </ion-row>
+ * </ion-grid>
+ * ```
+ *
+ *
+ * ## Customizing the grid
+ *
+ * Using our built-in grid Sass variables and maps, it’s possible to completely customize
+ * the predefined grid attributes. Change the number of breakpoints, the media query values,
+ * the number of columns, and more.
+ *
+ * ### Number of columns and padding
+ *
+ * The number of grid columns and their padding can be modified via Sass variables.
+ * `$grid-columns` is used to generate the widths (in percent) of each individual column.
+ * `$grid-padding-width` is used for the padding on the grid, while `$grid-padding-widths`
+ * allows breakpoint-specific widths that are divided evenly across `padding-left` and
+ * `padding-right` as well as `padding-top` and `padding-bottom` of the grid and columns.
+ *
+ * ```
+ * $grid-columns:               12 !default;
+ *
+ * $grid-padding-width:         10px !default;
+ *
+ * $grid-padding-widths: (
+ *   xs: $grid-padding-width,
+ *   sm: $grid-padding-width,
+ *   md: $grid-padding-width,
+ *   lg: $grid-padding-width,
+ *   xl: $grid-padding-width
+ * ) !default;
+ * ```
+ *
+ * ### Grid tiers
+ *
+ * To customize the breakpoints and their values, override the values of
+ * `$grid-breakpoints` and `$grid-max-widths`. For example, to only use
+ * 3 breakpoints, the following could be written:
+ *
+ * ```
+ * $grid-breakpoints: (
+ *   sm: 0,
+ *   md: 768px,
+ *   lg: 1024px
+ * );
+ *
+ * $grid-max-widths: (
+ *   sm: 420px,
+ *   md: 720px,
+ *   lg: 960px
+ * );
+ * ```
+ *
+ */
+var Grid = (function () {
+    function Grid() {
+    }
+    return Grid;
+}());
+
+Grid.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-grid, [ion-grid]',
+                host: {
+                    'class': 'grid'
+                }
+            },] },
+];
+/**
+ * @nocollapse
+ */
+Grid.ctorParameters = function () { return []; };
+function Grid_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Grid.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    Grid.ctorParameters;
+}
+//# sourceMappingURL=grid.js.map
+
+/***/ }),
+/* 128 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Row; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+
+/**
+ * \@name Row
+ * \@module ionic
+ * \@description
+ *
+ * Rows are horizontal components of the [grid](../Grid) system and contain varying numbers of
+ * [columns](../Col). They ensure the columns are positioned properly.
+ *
+ * ## Row attributes
+ *
+ * By default, columns will stretch to fill the entire height of the row and wrap when necessary.
+ * There are several attributes that can be added to a row to customize this behavior.
+ *
+ * | Property                    | Description                                                                                                                                      |
+ * |-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+ * | nowrap                      | Adds `flex-wrap: nowrap`. Forces the columns to a single row.                                                                                    |
+ * | wrap-reverse                | Adds `flex-wrap: wrap-reverse`. The columns will wrap in reverse.                                                                                |
+ * | align-items-start           | Adds `align-items: flex-start`. All columns will be vertically aligned at the top, unless they specify their own alignment.                      |
+ * | align-items-center          | Adds `align-items: center`. All columns will be vertically aligned in the center, unless they specify their own alignment.                       |
+ * | align-items-end             | Adds `align-items: flex-end`. All columns will be vertically aligned at the bottom, unless they specify their own alignment.                     |
+ * | align-items-stretch         | Adds `align-items: stretch`. All columns will be stretched to take up the entire height of the row, unless they specify their own alignment.     |
+ * | align-items-baseline        | Adds `align-items: baseline`. All columns will be vertically aligned at their baselines, unless they specify their own alignment.                |
+ * | justify-content-start       | Adds `justify-content: start`. All columns will be horizontally aligned at the start.                                                            |
+ * | justify-content-center      | Adds `justify-content: center`. All columns will be horizontally aligned at the center.                                                          |
+ * | justify-content-end         | Adds `justify-content: end`. All columns will be horizontally aligned at the end.                                                                |
+ * | justify-content-around      | Adds `justify-content: space-around`. All columns will be horizontally aligned with equal space around them.                                     |
+ * | justify-content-between     | Adds `justify-content: space-between`. All columns will be horizontally aligned with a half-size space on either end.                            |
+ *
+ *
+ */
+var Row = (function () {
+    function Row() {
+    }
+    return Row;
+}());
+
+Row.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-row, [ion-row]',
+                host: {
+                    'class': 'row'
+                }
+            },] },
+];
+/**
+ * @nocollapse
+ */
+Row.ctorParameters = function () { return []; };
+function Row_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Row.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    Row.ctorParameters;
+}
+//# sourceMappingURL=row.js.map
+
+/***/ }),
+/* 129 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Img; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__content_content__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__platform_dom_controller__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__util_util__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__platform_platform__ = __webpack_require__(3);
+
+
+
+
+
+/**
+ * \@name Img
+ * \@description
+ * Two of the biggest cuprits of scroll jank is starting up a new HTTP
+ * request, and rendering images. These two reasons is largely why
+ * `ion-img` was created. The standard HTML `img` element is often a large
+ * source of these problems, and what makes matters worse is that the app
+ * does not have fine-grained control of requests and rendering for each
+ * `img` element.
+ *
+ * The `ion-img` component is similar to the standard `img` element,
+ * but it also adds features in order to provide improved performance.
+ * Features include only loading images which are visible, using web workers
+ * for HTTP requests, preventing jank while scrolling and in-memory caching.
+ *
+ * Note that `ion-img` also comes with a few more restrictions in comparison
+ * to the standard `img` element. A good rule is, if there are only a few
+ * images to be rendered on a page, then the standard `img` is probably
+ * best. However, if a page has the potential for hundreds or even thousands
+ * of images within a scrollable area, then `ion-img` would be better suited
+ * for the job.
+ *
+ * > Note: `ion-img` is only meant to be used inside of [virtual-scroll](/docs/api/components/virtual-scroll/VirtualScroll/)
+ *
+ *
+ * ### Lazy Loading
+ *
+ * Lazy loading images refers to only loading images which are actually
+ * visible within the user's viewport. This also means that images which are
+ * not viewable on the initial load would not be downloaded or rendered. Next,
+ * as the user scrolls, each image which becomes visible is then requested
+ * then rendered on-demand.
+ *
+ * The benefits of this approach is that unnecessary and resource intensive
+ * HTTP requests are not started, valuable bandwidth isn't wasted, and this
+ * allows the browser to free up resources which would be wasted on images
+ * which are not even viewable. For example, animated GIFs are enourmous
+ * performance drains, however, with `ion-img` the app is able to dedicate
+ * resources to just the viewable images. But again, if the problems listed
+ * above are not problems within your app, then the standard `img` element
+ * may be best.
+ *
+ *
+ * ### Image Dimensions
+ *
+ * By providing image dimensions up front, Ionic is able to accurately size
+ * up the image's location within the viewport, which helps lazy load only
+ * images which are viewable. Image dimensions can either by set as
+ * properties, inline styles, or external stylesheets. It doesn't matter
+ * which method of setting dimensions is used, but it's important that somehow
+ * each `ion-img` has been given an exact size.
+ *
+ * For example, by default `<ion-avatar>` and `<ion-thumbnail>` already come
+ * with exact sizes when placed within an `<ion-item>`. By giving each image
+ * an exact size, this then further locks in the size of each `ion-item`,
+ * which again helps improve scroll performance.
+ *
+ * ```html
+ * <!-- dimensions set using attributes -->
+ * <ion-img width="80" height="80" src="..."></ion-img>
+ *
+ * <!-- dimensions set using input properties -->
+ * <ion-img [width]="imgWidth" [height]="imgHeight" src="..."></ion-img>
+ *
+ * <!-- dimensions set using inline styles -->
+ * <ion-img style="width: 80px; height: 80px;" src="..."></ion-img>
+ * ```
+ *
+ * Additionally, each `ion-img` uses the `object-fit: cover` CSS property.
+ * What this means is that the actual rendered image will center itself within
+ * it's container. Or to really get detailed: The image is sized to maintain
+ * its aspect ratio while filling the containing element’s entire content box.
+ * Its concrete object size is resolved as a cover constraint against the
+ * element’s used width and height.
+ *
+ * ### Future Optimizations
+ *
+ * Future goals are to place image requests within web workers, and cache
+ * images in-memory as datauris. This method has proven to be effective,
+ * however there are some current limitations with Cordova which we are
+ * currently working on.
+ *
+ */
+var Img = (function () {
+    /**
+     * @param {?} _elementRef
+     * @param {?} _renderer
+     * @param {?} _plt
+     * @param {?} _content
+     * @param {?} _dom
+     */
+    function Img(_elementRef, _renderer, _plt, _content, _dom) {
+        this._elementRef = _elementRef;
+        this._renderer = _renderer;
+        this._plt = _plt;
+        this._content = _content;
+        this._dom = _dom;
+        /**
+         * \@internal
+         */
+        this._cache = true;
+        /**
+         * \@internal
+         */
+        this._w = '';
+        /**
+         * \@internal
+         */
+        this._h = '';
+        /**
+         * \@internal
+         */
+        this._wQ = '';
+        /**
+         * \@internal
+         */
+        this._hQ = '';
+        /**
+         * \@input {string}  Set the `alt` attribute which gets assigned to
+         * the inner `img` element.
+         */
+        this.alt = '';
+        if (!this._content) {
+            console.warn("ion-img can only be used within an ion-content");
+        }
+        else {
+            this._content.addImg(this);
+        }
+        this._isLoaded(false);
+    }
+    Object.defineProperty(Img.prototype, "src", {
+        /**
+         * \@input {string} The source of the image.
+         * @return {?}
+         */
+        get: function () {
+            return this._src;
+        },
+        /**
+         * @param {?} newSrc
+         * @return {?}
+         */
+        set: function (newSrc) {
+            // if the source hasn't changed, then um, let's not change it
+            if (newSrc !== this._src) {
+                // we're changing the source
+                // so abort any active http requests
+                // and render the image empty
+                this.reset();
+                // update to the new src
+                this._src = newSrc;
+                // Are they using an actual datauri already,
+                // or reset any existing datauri we might be holding onto
+                this._hasLoaded = newSrc.indexOf('data:') === 0;
+                // run update to kick off requests or render if everything is good
+                this.update();
+            }
+        },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Img.prototype.reset = function () {
+        if (this._requestingSrc) {
+            // abort any active requests
+            (void 0) /* console.debug */;
+            this._srcAttr('');
+            this._requestingSrc = null;
+        }
+        if (this._renderedSrc) {
+            // clear out the currently rendered img
+            (void 0) /* console.debug */;
+            this._renderedSrc = null;
+            this._isLoaded(false);
+        }
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Img.prototype.update = function () {
+        var _this = this;
+        // only attempt an update if there is an active src
+        // and the content containing the image considers it updatable
+        if (this._src && this._content.isImgsUpdatable()) {
+            if (this.canRequest && (this._src !== this._renderedSrc && this._src !== this._requestingSrc) && !this._hasLoaded) {
+                // only begin the request if we "can" request
+                // begin the image request if the src is different from the rendered src
+                // and if we don't already has a tmpDataUri
+                (void 0) /* console.debug */;
+                this._requestingSrc = this._src;
+                this._isLoaded(false);
+                this._srcAttr(this._src);
+                // set the dimensions of the image if we do have different data
+                this._setDims();
+            }
+            if (this.canRender && this._hasLoaded && this._src !== this._renderedSrc) {
+                // we can render and we have a datauri to render
+                this._renderedSrc = this._src;
+                this._setDims();
+                this._dom.write(function () {
+                    if (_this._hasLoaded) {
+                        (void 0) /* console.debug */;
+                        _this._isLoaded(true);
+                        _this._srcAttr(_this._src);
+                    }
+                });
+            }
+        }
+    };
+    /**
+     * \@internal
+     * @param {?} isLoaded
+     * @return {?}
+     */
+    Img.prototype._isLoaded = function (isLoaded) {
+        var /** @type {?} */ renderer = this._renderer;
+        var /** @type {?} */ ele = this._elementRef.nativeElement;
+        renderer.setElementClass(ele, 'img-loaded', isLoaded);
+        renderer.setElementClass(ele, 'img-unloaded', !isLoaded);
+    };
+    /**
+     * \@internal
+     * @param {?} srcAttr
+     * @return {?}
+     */
+    Img.prototype._srcAttr = function (srcAttr) {
+        var /** @type {?} */ imgEle = this._img;
+        var /** @type {?} */ renderer = this._renderer;
+        if (imgEle && imgEle.src !== srcAttr) {
+            renderer.setElementAttribute(this._img, 'src', srcAttr);
+            renderer.setElementAttribute(this._img, 'alt', this.alt);
+        }
+    };
+    Object.defineProperty(Img.prototype, "top", {
+        /**
+         * @hidden
+         * @return {?}
+         */
+        get: function () {
+            var /** @type {?} */ bounds = this._getBounds();
+            return bounds && bounds.top || 0;
+        },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(Img.prototype, "bottom", {
+        /**
+         * @hidden
+         * @return {?}
+         */
+        get: function () {
+            var /** @type {?} */ bounds = this._getBounds();
+            return bounds && bounds.bottom || 0;
+        },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @return {?}
+     */
+    Img.prototype._getBounds = function () {
+        if (this._bounds) {
+            // we've been manually passed bounds data
+            // this is probably from Virtual Scroll items
+            return this._bounds;
+        }
+        if (!this._rect) {
+            // we don't have bounds from virtual scroll
+            // so let's do the raw DOM lookup w/ getBoundingClientRect
+            this._rect = ((this._elementRef.nativeElement)).getBoundingClientRect();
+            (void 0) /* console.debug */;
+        }
+        return this._rect;
+    };
+    Object.defineProperty(Img.prototype, "bounds", {
+        /**
+         * \@input {any}  Sets the bounding rectangle of the element relative to the viewport.
+         * When using `VirtualScroll`, each virtual item should pass its bounds to each
+         * `ion-img`. The passed in data object should include `top` and `bottom` properties.
+         * @param {?} b
+         * @return {?}
+         */
+        set: function (b) {
+            if (Object(__WEBPACK_IMPORTED_MODULE_3__util_util__["l" /* isPresent */])(b)) {
+                this._bounds = b;
+            }
+        },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(Img.prototype, "cache", {
+        /**
+         * \@input {boolean}  After an image has been successfully downloaded, it can be cached
+         * in-memory. This is useful for `VirtualScroll` by allowing image responses to be
+         * cached, and not rendered, until after scrolling has completed, which allows for
+         * smoother scrolling.
+         * @return {?}
+         */
+        get: function () {
+            return this._cache;
+        },
+        /**
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            this._cache = Object(__WEBPACK_IMPORTED_MODULE_3__util_util__["o" /* isTrueProperty */])(val);
+        },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(Img.prototype, "width", {
+        /**
+         * \@input {string}  Image width. If this property is not set it's important that
+         * the dimensions are still set using CSS. If the dimension is just a number it
+         * will assume the `px` unit.
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            this._wQ = getUnitValue(val);
+            this._setDims();
+        },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(Img.prototype, "height", {
+        /**
+         * \@input {string}  Image height. If this property is not set it's important that
+         * the dimensions are still set using CSS. If the dimension is just a number it
+         * will assume the `px` unit.
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            this._hQ = getUnitValue(val);
+            this._setDims();
+        },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @return {?}
+     */
+    Img.prototype._setDims = function () {
+        var _this = this;
+        // only set the dimensions if we can render
+        // and only if the dimensions have changed from when we last set it
+        if (this.canRender && (this._w !== this._wQ || this._h !== this._hQ)) {
+            var /** @type {?} */ wrapperEle = this._elementRef.nativeElement;
+            var /** @type {?} */ renderer = this._renderer;
+            this._dom.write(function () {
+                if (_this._w !== _this._wQ) {
+                    _this._w = _this._wQ;
+                    renderer.setElementStyle(wrapperEle, 'width', _this._w);
+                }
+                if (_this._h !== _this._hQ) {
+                    _this._h = _this._hQ;
+                    renderer.setElementStyle(wrapperEle, 'height', _this._h);
+                }
+            });
+        }
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Img.prototype.ngAfterContentInit = function () {
+        var _this = this;
+        this._img = this._elementRef.nativeElement.firstChild;
+        this._unreg = this._plt.registerListener(this._img, 'load', function () {
+            _this._hasLoaded = true;
+            _this.update();
+        }, { passive: true });
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Img.prototype.ngOnDestroy = function () {
+        this._unreg && this._unreg();
+        this._content && this._content.removeImg(this);
+    };
+    return Img;
+}());
+
+Img.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
+                selector: 'ion-img',
+                template: '<img>',
+                changeDetection: __WEBPACK_IMPORTED_MODULE_0__angular_core__["j" /* ChangeDetectionStrategy */].OnPush,
+                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None,
+            },] },
+];
+/**
+ * @nocollapse
+ */
+Img.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+    { type: __WEBPACK_IMPORTED_MODULE_4__platform_platform__["a" /* Platform */], },
+    { type: __WEBPACK_IMPORTED_MODULE_1__content_content__["a" /* Content */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
+    { type: __WEBPACK_IMPORTED_MODULE_2__platform_dom_controller__["a" /* DomController */], },
+]; };
+Img.propDecorators = {
+    'src': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'bounds': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'cache': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'width': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'height': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'alt': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+};
+function Img_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Img.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    Img.ctorParameters;
+    /** @type {?} */
+    Img.propDecorators;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._src;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._requestingSrc;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._renderedSrc;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._hasLoaded;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._cache;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._bounds;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._rect;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._w;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._h;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._wQ;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._hQ;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._img;
+    /**
+     * \@internal
+     * @type {?}
+     */
+    Img.prototype._unreg;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    Img.prototype.canRequest;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    Img.prototype.canRender;
+    /**
+     * \@input {string}  Set the `alt` attribute which gets assigned to
+     * the inner `img` element.
+     * @type {?}
+     */
+    Img.prototype.alt;
+    /** @type {?} */
+    Img.prototype._elementRef;
+    /** @type {?} */
+    Img.prototype._renderer;
+    /** @type {?} */
+    Img.prototype._plt;
+    /** @type {?} */
+    Img.prototype._content;
+    /** @type {?} */
+    Img.prototype._dom;
+}
+/**
+ * @param {?} val
+ * @return {?}
+ */
+function getUnitValue(val) {
+    if (Object(__WEBPACK_IMPORTED_MODULE_3__util_util__["l" /* isPresent */])(val)) {
+        if (typeof val === 'string') {
+            if (val.indexOf('%') > -1 || val.indexOf('px') > -1) {
+                return val;
+            }
+            if (val.length) {
+                return val + 'px';
+            }
+        }
+        else if (typeof val === 'number') {
+            return val + 'px';
+        }
+    }
+    return '';
+}
+//# sourceMappingURL=img.js.map
+
+/***/ }),
+/* 130 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return InfiniteScrollContent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__infinite_scroll__ = __webpack_require__(68);
+
+
+
+/**
+ * @hidden
+ */
+var InfiniteScrollContent = (function () {
+    /**
+     * @param {?} inf
+     * @param {?} _config
+     */
+    function InfiniteScrollContent(inf, _config) {
+        this.inf = inf;
+        this._config = _config;
+    }
+    /**
+     * @hidden
+     * @return {?}
+     */
+    InfiniteScrollContent.prototype.ngOnInit = function () {
+        if (!this.loadingSpinner) {
+            this.loadingSpinner = this._config.get('infiniteLoadingSpinner', this._config.get('spinner', 'ios'));
+        }
+    };
+    return InfiniteScrollContent;
+}());
+
+InfiniteScrollContent.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
+                selector: 'ion-infinite-scroll-content',
+                template: '<div class="infinite-loading">' +
+                    '<div class="infinite-loading-spinner" *ngIf="loadingSpinner">' +
+                    '<ion-spinner [name]="loadingSpinner"></ion-spinner>' +
+                    '</div>' +
+                    '<div class="infinite-loading-text" [innerHTML]="loadingText" *ngIf="loadingText"></div>' +
+                    '</div>',
+                host: {
+                    '[attr.state]': 'inf.state'
+                },
+                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None,
+            },] },
+];
+/**
+ * @nocollapse
+ */
+InfiniteScrollContent.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_2__infinite_scroll__["a" /* InfiniteScroll */], },
+    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
+]; };
+InfiniteScrollContent.propDecorators = {
+    'loadingSpinner': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'loadingText': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+};
+function InfiniteScrollContent_tsickle_Closure_declarations() {
+    /** @type {?} */
+    InfiniteScrollContent.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    InfiniteScrollContent.ctorParameters;
+    /** @type {?} */
+    InfiniteScrollContent.propDecorators;
+    /**
+     * \@input {string} An animated SVG spinner that shows while loading.
+     * @type {?}
+     */
+    InfiniteScrollContent.prototype.loadingSpinner;
+    /**
+     * \@input {string} Optional text to display while loading.
+     * @type {?}
+     */
+    InfiniteScrollContent.prototype.loadingText;
+    /** @type {?} */
+    InfiniteScrollContent.prototype.inf;
+    /** @type {?} */
+    InfiniteScrollContent.prototype._config;
+}
+//# sourceMappingURL=infinite-scroll-content.js.map
+
+/***/ }),
+/* 131 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return TextInput; });
+/* unused harmony export getScrollData */
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(15);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Subject__ = __webpack_require__(31);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Subject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_Subject__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_takeUntil__ = __webpack_require__(132);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_takeUntil___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_takeUntil__);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__app_app__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__content_content__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__util_dom__ = __webpack_require__(10);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__platform_dom_controller__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__util_form__ = __webpack_require__(16);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__util_base_input__ = __webpack_require__(23);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__util_util__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__item_item__ = __webpack_require__(17);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__platform_platform__ = __webpack_require__(3);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * \@name Input
+ * \@description
+ *
+ * `ion-input` is meant for text type inputs only, such as `text`,
+ * `password`, `email`, `number`, `search`, `tel`, and `url`. Ionic
+ * still uses an actual `<input type="text">` HTML element within the
+ * component, however, with Ionic wrapping the native HTML input
+ * element it's better able to handle the user experience and
+ * interactivity.
+ *
+ * Similarly, `<ion-textarea>` should be used in place of `<textarea>`.
+ *
+ * An `ion-input` is **not** used for non-text type inputs, such as a
+ * `checkbox`, `radio`, `toggle`, `range`, `select`, etc.
+ *
+ * Along with the blur/focus events, `input` support all standard text input
+ * events like `keyup`, `keydown`, `keypress`, `input`,etc. Any standard event
+ * can be attached and will function as expected.
+ *
+ * \@usage
+ * ```html
+ * <ion-list>
+ *   <ion-item>
+ *     <ion-label color="primary">Inline Label</ion-label>
+ *     <ion-input placeholder="Text Input"></ion-input>
+ *   </ion-item>
+ *
+ *   <ion-item>
+ *     <ion-label color="primary" fixed>Fixed Label</ion-label>
+ *     <ion-input type="tel" placeholder="Tel Input"></ion-input>
+ *   </ion-item>
+ *
+ *   <ion-item>
+ *     <ion-input type="number" placeholder="Number Input with no label"></ion-input>
+ *   </ion-item>
+ *
+ *   <ion-item>
+ *     <ion-label color="primary" stacked>Stacked Label</ion-label>
+ *     <ion-input type="email" placeholder="Email Input"></ion-input>
+ *   </ion-item>
+ *
+ *   <ion-item>
+ *     <ion-label color="primary" stacked>Stacked Label</ion-label>
+ *     <ion-input type="password" placeholder="Password Input"></ion-input>
+ *   </ion-item>
+ *
+ *   <ion-item>
+ *     <ion-label color="primary" floating>Floating Label</ion-label>
+ *     <ion-input></ion-input>
+ *   </ion-item>
+ *
+ *   <ion-item>
+ *     <ion-input placeholder="Clear Input" clearInput></ion-input>
+ *   </ion-item>
+ *
+ *   <ion-item>
+ *     <ion-textarea placeholder="Enter a description"></ion-textarea>
+ *   </ion-item>
+ * </ion-list>
+ * ```
+ *
+ * \@demo /docs/demos/src/input/
+ */
+var TextInput = (function (_super) {
+    __extends(TextInput, _super);
+    /**
+     * @param {?} config
+     * @param {?} _plt
+     * @param {?} _form
+     * @param {?} _app
+     * @param {?} elementRef
+     * @param {?} renderer
+     * @param {?} _content
+     * @param {?} _item
+     * @param {?} ngControl
+     * @param {?} _dom
+     */
+    function TextInput(config, _plt, _form, _app, elementRef, renderer, _content, _item, ngControl, _dom) {
+        var _this = _super.call(this, config, elementRef, renderer, 'input', '', _form, _item, ngControl) || this;
+        _this._plt = _plt;
+        _this._app = _app;
+        _this._content = _content;
+        _this.ngControl = ngControl;
+        _this._dom = _dom;
+        _this._clearInput = false;
+        _this._readonly = false;
+        _this._type = 'text';
+        _this._isTextarea = false;
+        _this._onDestroy = new __WEBPACK_IMPORTED_MODULE_2_rxjs_Subject__["Subject"]();
+        _this._useAssist = false;
+        _this._relocated = false;
+        /**
+         * \@input {string} Instructional text that shows before the input has a value.
+         */
+        _this.autocomplete = '';
+        /**
+         * \@input {string} Instructional text that shows before the input has a value.
+         */
+        _this.autocorrect = '';
+        /**
+         * \@input {string} Instructional text that shows before the input has a value.
+         */
+        _this.placeholder = '';
+        /**
+         * \@input {any} The minimum value, which must not be greater than its maximum (max attribute) value.
+         */
+        _this.min = null;
+        /**
+         * \@input {any} The maximum value, which must not be less than its minimum (min attribute) value.
+         */
+        _this.max = null;
+        /**
+         * \@input {any} Works with the min and max attributes to limit the increments at which a value can be set.
+         */
+        _this.step = null;
+        /**
+         * @hidden
+         */
+        _this.input = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
+        /**
+         * @hidden
+         */
+        _this.blur = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
+        /**
+         * @hidden
+         */
+        _this.focus = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
+        _this.autocomplete = config.get('autocomplete', 'off');
+        _this.autocorrect = config.get('autocorrect', 'off');
+        _this._autoFocusAssist = config.get('autoFocusAssist', 'delay');
+        _this._keyboardHeight = config.getNumber('keyboardHeight');
+        _this._isTextarea = !!(elementRef.nativeElement.tagName === 'ION-TEXTAREA');
+        if (_this._isTextarea && _item) {
+            _item.setElementClass('item-textarea', true);
+        }
+        // If not inside content, let's disable all the hacks
+        if (!_content) {
+            return _this;
+        }
+        var blurOnScroll = config.getBoolean('hideCaretOnScroll', false);
+        if (blurOnScroll) {
+            _this._enableHideCaretOnScroll();
+        }
+        var resizeAssist = config.getBoolean('resizeAssist', false);
+        if (resizeAssist) {
+            _this._keyboardHeight = 60;
+            _this._enableResizeAssist();
+        }
+        else {
+            _this._useAssist = config.getBoolean('scrollAssist', false);
+            var usePadding = config.getBoolean('scrollPadding', _this._useAssist);
+            if (usePadding) {
+                _this._enableScrollPadding();
+            }
+        }
+        return _this;
+    }
+    Object.defineProperty(TextInput.prototype, "clearInput", {
+        /**
+         * \@input {boolean} If true, a clear icon will appear in the input when there is a value. Clicking it clears the input.
+         * @return {?}
+         */
+        get: function () {
+            return this._clearInput;
+        },
+        /**
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            this._clearInput = (!this._isTextarea && Object(__WEBPACK_IMPORTED_MODULE_11__util_util__["o" /* isTrueProperty */])(val));
+        },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(TextInput.prototype, "type", {
+        /**
+         * \@input {string} The type of control to display. The default type is text.
+         * Possible values are: `"text"`, `"password"`, `"email"`, `"number"`, `"search"`, `"tel"`, or `"url"`.
+         * @return {?}
+         */
+        get: function () {
+            return (this._isTextarea)
+                ? 'text'
+                : this._type;
+        },
+        /**
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            this._type = val;
+        },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(TextInput.prototype, "readonly", {
+        /**
+         * \@input {boolean} If true, the user cannot modify the value.
+         * @return {?}
+         */
+        get: function () {
+            return this._readonly;
+        },
+        /**
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            this._readonly = Object(__WEBPACK_IMPORTED_MODULE_11__util_util__["o" /* isTrueProperty */])(val);
+        },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(TextInput.prototype, "clearOnEdit", {
+        /**
+         * \@input {boolean} If true, the value will be cleared after focus upon edit.
+         * Defaults to `true` when `type` is `"password"`, `false` for all other types.
+         * @return {?}
+         */
+        get: function () {
+            return this._clearOnEdit;
+        },
+        /**
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            this._clearOnEdit = Object(__WEBPACK_IMPORTED_MODULE_11__util_util__["o" /* isTrueProperty */])(val);
+        },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @return {?}
+     */
+    TextInput.prototype.ngAfterContentInit = function () { };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    TextInput.prototype.ngAfterViewInit = function () {
+        (void 0) /* assert */;
+        // By default, password inputs clear after focus when they have content
+        if (this.clearOnEdit !== false && this.type === 'password') {
+            this.clearOnEdit = true;
+        }
+        var /** @type {?} */ ionInputEle = this._elementRef.nativeElement;
+        var /** @type {?} */ nativeInputEle = this._native.nativeElement;
+        // Copy remaining attributes, not handled by ionic/angular
+        Object(__WEBPACK_IMPORTED_MODULE_7__util_dom__["b" /* copyInputAttributes */])(ionInputEle, nativeInputEle);
+        // prevent having tabIndex duplicated
+        if (ionInputEle.hasAttribute('tabIndex')) {
+            ionInputEle.removeAttribute('tabIndex');
+        }
+        // handle the autofocus attribute
+        if (ionInputEle.hasAttribute('autofocus')) {
+            ionInputEle.removeAttribute('autofocus');
+            switch (this._autoFocusAssist) {
+                case 'immediate':
+                    // config says to immediate focus on the input
+                    // works best on android devices
+                    nativeInputEle.focus();
+                    break;
+                case 'delay':
+                    // config says to chill out a bit and focus on the input after transitions
+                    // works best on desktop
+                    this._plt.timeout(function () { return nativeInputEle.focus(); }, 800);
+                    break;
+            }
+            // traditionally iOS has big issues with autofocus on actual devices
+            // autoFocus is disabled by default with the iOS mode config
+        }
+        // Initialize the input (can start emitting events)
+        this._initialize();
+        if (this.focus.observers.length > 0) {
+            console.warn('(focus) is deprecated in ion-input, use (ionFocus) instead');
+        }
+        if (this.blur.observers.length > 0) {
+            console.warn('(blur) is deprecated in ion-input, use (ionBlur) instead');
+        }
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    TextInput.prototype.ngOnDestroy = function () {
+        _super.prototype.ngOnDestroy.call(this);
+        this._onDestroy.next();
+        this._onDestroy = null;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    TextInput.prototype.initFocus = function () {
+        this.setFocus();
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    TextInput.prototype.setFocus = function () {
+        // let's set focus to the element
+        // but only if it does not already have focus
+        if (!this.isFocus()) {
+            this._native.nativeElement.focus();
+        }
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    TextInput.prototype.setBlur = function () {
+        if (this.isFocus()) {
+            this._native.nativeElement.blur();
+        }
+    };
+    /**
+     * @hidden
+     * @param {?} ev
+     * @return {?}
+     */
+    TextInput.prototype.onInput = function (ev) {
+        this.value = ev.target.value;
+        // TODO: deprecate this
+        this.input.emit(ev);
+    };
+    /**
+     * @hidden
+     * @param {?} ev
+     * @return {?}
+     */
+    TextInput.prototype.onBlur = function (ev) {
+        this._fireBlur();
+        // TODO: deprecate this (06/07/2017)
+        this.blur.emit(ev);
+        this._scrollData = null;
+        if (this._clearOnEdit && this.hasValue()) {
+            this._didBlurAfterEdit = true;
+        }
+    };
+    /**
+     * @hidden
+     * @param {?} ev
+     * @return {?}
+     */
+    TextInput.prototype.onFocus = function (ev) {
+        this._fireFocus();
+        // TODO: deprecate this (06/07/2017)
+        this.focus.emit(ev);
+    };
+    /**
+     * @hidden
+     * @param {?} ev
+     * @return {?}
+     */
+    TextInput.prototype.onKeydown = function (ev) {
+        if (ev && this._clearOnEdit) {
+            this.checkClearOnEdit(ev.target.value);
+        }
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    TextInput.prototype._inputUpdated = function () {
+        _super.prototype._inputUpdated.call(this);
+        var /** @type {?} */ inputEle = this._native.nativeElement;
+        var /** @type {?} */ value = this._value;
+        if (inputEle.value !== value) {
+            inputEle.value = value;
+        }
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    TextInput.prototype.clearTextInput = function () {
+        this.value = '';
+    };
+    /**
+     * Check if we need to clear the text input if clearOnEdit is enabled
+     * @hidden
+     * @param {?} _
+     * @return {?}
+     */
+    TextInput.prototype.checkClearOnEdit = function (_) {
+        if (!this._clearOnEdit) {
+            return;
+        }
+        // Did the input value change after it was blurred and edited?
+        if (this._didBlurAfterEdit && this.hasValue()) {
+            // Clear the input
+            this.clearTextInput();
+        }
+        // Reset the flag
+        this._didBlurAfterEdit = false;
+    };
+    /**
+     * @return {?}
+     */
+    TextInput.prototype._getScrollData = function () {
+        if (!this._content) {
+            return newScrollData();
+        }
+        // get container of this input, probably an ion-item a few nodes up
+        if (this._scrollData) {
+            return this._scrollData;
+        }
+        var /** @type {?} */ ele = this._elementRef.nativeElement;
+        ele = (ele.closest('ion-item,[ion-item]')) || ele;
+        return this._scrollData = getScrollData(ele.offsetTop, ele.offsetHeight, this._content.getContentDimensions(), this._keyboardHeight, this._plt.height());
+    };
+    /**
+     * @param {?} shouldRelocate
+     * @return {?}
+     */
+    TextInput.prototype._relocateInput = function (shouldRelocate) {
+        if (this._relocated === shouldRelocate) {
+            return;
+        }
+        var /** @type {?} */ platform = this._plt;
+        var /** @type {?} */ componentEle = this.getNativeElement();
+        var /** @type {?} */ focusedInputEle = this._native.nativeElement;
+        (void 0) /* console.debug */;
+        if (shouldRelocate) {
+            // this allows for the actual input to receive the focus from
+            // the user's touch event, but before it receives focus, it
+            // moves the actual input to a location that will not screw
+            // up the app's layout, and does not allow the native browser
+            // to attempt to scroll the input into place (messing up headers/footers)
+            // the cloned input fills the area of where native input should be
+            // while the native input fakes out the browser by relocating itself
+            // before it receives the actual focus event
+            // We hide the focused input (with the visible caret) invisiable by making it scale(0),
+            cloneInputComponent(platform, componentEle, focusedInputEle);
+            var /** @type {?} */ inputRelativeY = this._getScrollData().inputSafeY;
+            // fix for #11817
+            var /** @type {?} */ tx = this._plt.isRTL ? 9999 : -9999;
+            focusedInputEle.style[platform.Css.transform] = "translate3d(" + tx + "px," + inputRelativeY + "px,0)";
+            focusedInputEle.style.opacity = '0';
+        }
+        else {
+            removeClone(platform, componentEle, focusedInputEle);
+        }
+        this._relocated = shouldRelocate;
+    };
+    /**
+     * @return {?}
+     */
+    TextInput.prototype._enableScrollPadding = function () {
+        var _this = this;
+        (void 0) /* assert */;
+        (void 0) /* console.debug */;
+        this.ionFocus.subscribe(function () {
+            var /** @type {?} */ content = _this._content;
+            // add padding to the bottom of the scroll view (if needed)
+            content.addScrollPadding(_this._getScrollData().scrollPadding);
+            content.clearScrollPaddingFocusOut();
+        });
+    };
+    /**
+     * @return {?}
+     */
+    TextInput.prototype._enableHideCaretOnScroll = function () {
+        var _this = this;
+        (void 0) /* assert */;
+        var /** @type {?} */ content = this._content;
+        (void 0) /* console.debug */;
+        content.ionScrollStart
+            .takeUntil(this._onDestroy)
+            .subscribe(function () { return scrollHideCaret(true); });
+        content.ionScrollEnd
+            .takeUntil(this._onDestroy)
+            .subscribe(function () { return scrollHideCaret(false); });
+        this.ionBlur.subscribe(function () { return _this._relocateInput(false); });
+        var /** @type {?} */ self = this;
+        /**
+         * @param {?} shouldHideCaret
+         * @return {?}
+         */
+        function scrollHideCaret(shouldHideCaret) {
+            // if it does have focus, then do the dom write
+            if (self.isFocus()) {
+                self._dom.write(function () { return self._relocateInput(shouldHideCaret); });
+            }
+        }
+    };
+    /**
+     * @return {?}
+     */
+    TextInput.prototype._enableResizeAssist = function () {
+        var _this = this;
+        (void 0) /* assert */;
+        (void 0) /* console.debug */;
+        this.ionFocus.subscribe(function () {
+            var /** @type {?} */ scrollData = _this._getScrollData();
+            if (Math.abs(scrollData.scrollAmount) > 100) {
+                _this._content.scrollTo(0, scrollData.scrollTo, scrollData.scrollDuration);
+            }
+        });
+    };
+    /**
+     * @param {?} ev
+     * @return {?}
+     */
+    TextInput.prototype._pointerStart = function (ev) {
+        (void 0) /* assert */;
+        // input cover touchstart
+        if (ev.type === 'touchstart') {
+            this._isTouch = true;
+        }
+        if ((this._isTouch || (!this._isTouch && ev.type === 'mousedown')) && this._app.isEnabled()) {
+            // remember where the touchstart/mousedown started
+            this._coord = Object(__WEBPACK_IMPORTED_MODULE_7__util_dom__["f" /* pointerCoord */])(ev);
+        }
+        (void 0) /* console.debug */;
+    };
+    /**
+     * @param {?} ev
+     * @return {?}
+     */
+    TextInput.prototype._pointerEnd = function (ev) {
+        (void 0) /* assert */;
+        // input cover touchend/mouseup
+        (void 0) /* console.debug */;
+        if ((this._isTouch && ev.type === 'mouseup') || !this._app.isEnabled()) {
+            // the app is actively doing something right now
+            // don't try to scroll in the input
+            ev.preventDefault();
+            ev.stopPropagation();
+        }
+        else if (this._coord) {
+            // get where the touchend/mouseup ended
+            var /** @type {?} */ endCoord = Object(__WEBPACK_IMPORTED_MODULE_7__util_dom__["f" /* pointerCoord */])(ev);
+            // focus this input if the pointer hasn't moved XX pixels
+            // and the input doesn't already have focus
+            if (!Object(__WEBPACK_IMPORTED_MODULE_7__util_dom__["d" /* hasPointerMoved */])(8, this._coord, endCoord) && !this.isFocus()) {
+                ev.preventDefault();
+                ev.stopPropagation();
+                // begin the input focus process
+                this._jsSetFocus();
+            }
+        }
+        this._coord = null;
+    };
+    /**
+     * @return {?}
+     */
+    TextInput.prototype._jsSetFocus = function () {
+        var _this = this;
+        (void 0) /* assert */;
+        // begin the process of setting focus to the inner input element
+        var /** @type {?} */ content = this._content;
+        (void 0) /* console.debug */;
+        if (!content) {
+            // not inside of a scroll view, just focus it
+            this.setFocus();
+        }
+        var /** @type {?} */ scrollData = this._getScrollData();
+        if (Math.abs(scrollData.scrollAmount) < 4) {
+            // the text input is in a safe position that doesn't
+            // require it to be scrolled into view, just set focus now
+            this.setFocus();
+            return;
+        }
+        // temporarily move the focus to the focus holder so the browser
+        // doesn't freak out while it's trying to get the input in place
+        // at this point the native text input still does not have focus
+        this._relocateInput(true);
+        this.setFocus();
+        // scroll the input into place
+        content.scrollTo(0, scrollData.scrollTo, scrollData.scrollDuration, function () {
+            // the scroll view is in the correct position now
+            // give the native text input focus
+            _this._relocateInput(false);
+            // ensure this is the focused input
+            _this.setFocus();
+        });
+    };
+    return TextInput;
+}(__WEBPACK_IMPORTED_MODULE_10__util_base_input__["a" /* BaseInput */]));
+
+TextInput.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
+                selector: 'ion-input,ion-textarea',
+                template: '<input #textInput *ngIf="!_isTextarea" class="text-input" ' +
+                    '[ngClass]="\'text-input-\' + _mode"' +
+                    '(input)="onInput($event)" ' +
+                    '(blur)="onBlur($event)" ' +
+                    '(focus)="onFocus($event)" ' +
+                    '(keydown)="onKeydown($event)" ' +
+                    '[type]="_type" ' +
+                    '[attr.aria-labelledby]="_labelId" ' +
+                    '[attr.min]="min" ' +
+                    '[attr.max]="max" ' +
+                    '[attr.step]="step" ' +
+                    '[attr.autocomplete]="autocomplete" ' +
+                    '[attr.autocorrect]="autocorrect" ' +
+                    '[placeholder]="placeholder" ' +
+                    '[disabled]="_disabled" ' +
+                    '[readonly]="_readonly">' +
+                    '<textarea #textInput *ngIf="_isTextarea" class="text-input" ' +
+                    '[ngClass]="\'text-input-\' + _mode"' +
+                    '(input)="onInput($event)" ' +
+                    '(blur)="onBlur($event)" ' +
+                    '(focus)="onFocus($event)" ' +
+                    '(keydown)="onKeydown($event)" ' +
+                    '[attr.aria-labelledby]="_labelId" ' +
+                    '[attr.autocomplete]="autocomplete" ' +
+                    '[attr.autocorrect]="autocorrect" ' +
+                    '[placeholder]="placeholder" ' +
+                    '[disabled]="_disabled" ' +
+                    '[readonly]="_readonly"></textarea>' +
+                    '<button ion-button *ngIf="_clearInput" clear class="text-input-clear-icon" ' +
+                    'type="button" ' +
+                    '(click)="clearTextInput($event)" ' +
+                    '(mousedown)="clearTextInput($event)" ' +
+                    'tabindex="-1"></button>' +
+                    '<div class="input-cover" *ngIf="_useAssist" ' +
+                    '(touchstart)="_pointerStart($event)" ' +
+                    '(touchend)="_pointerEnd($event)" ' +
+                    '(mousedown)="_pointerStart($event)" ' +
+                    '(mouseup)="_pointerEnd($event)"></div>',
+                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None,
+                changeDetection: __WEBPACK_IMPORTED_MODULE_0__angular_core__["j" /* ChangeDetectionStrategy */].OnPush,
+                inputs: ['value']
+            },] },
+];
+/**
+ * @nocollapse
+ */
+TextInput.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_5__config_config__["a" /* Config */], },
+    { type: __WEBPACK_IMPORTED_MODULE_13__platform_platform__["a" /* Platform */], },
+    { type: __WEBPACK_IMPORTED_MODULE_9__util_form__["a" /* Form */], },
+    { type: __WEBPACK_IMPORTED_MODULE_4__app_app__["a" /* App */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+    { type: __WEBPACK_IMPORTED_MODULE_6__content_content__["a" /* Content */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
+    { type: __WEBPACK_IMPORTED_MODULE_12__item_item__["a" /* Item */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
+    { type: __WEBPACK_IMPORTED_MODULE_1__angular_forms__["c" /* NgControl */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
+    { type: __WEBPACK_IMPORTED_MODULE_8__platform_dom_controller__["a" /* DomController */], },
+]; };
+TextInput.propDecorators = {
+    'clearInput': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'type': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'readonly': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'clearOnEdit': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    '_native': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_13" /* ViewChild */], args: ['textInput', { read: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */] },] },],
+    'autocomplete': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'autocorrect': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'placeholder': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'min': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'max': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'step': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'input': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
+    'blur': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
+    'focus': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
+};
+function TextInput_tsickle_Closure_declarations() {
+    /** @type {?} */
+    TextInput.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    TextInput.ctorParameters;
+    /** @type {?} */
+    TextInput.propDecorators;
+    /** @type {?} */
+    TextInput.prototype._autoFocusAssist;
+    /** @type {?} */
+    TextInput.prototype._clearInput;
+    /** @type {?} */
+    TextInput.prototype._clearOnEdit;
+    /** @type {?} */
+    TextInput.prototype._didBlurAfterEdit;
+    /** @type {?} */
+    TextInput.prototype._readonly;
+    /** @type {?} */
+    TextInput.prototype._keyboardHeight;
+    /** @type {?} */
+    TextInput.prototype._type;
+    /** @type {?} */
+    TextInput.prototype._scrollData;
+    /** @type {?} */
+    TextInput.prototype._isTextarea;
+    /** @type {?} */
+    TextInput.prototype._onDestroy;
+    /** @type {?} */
+    TextInput.prototype._coord;
+    /** @type {?} */
+    TextInput.prototype._isTouch;
+    /** @type {?} */
+    TextInput.prototype._useAssist;
+    /** @type {?} */
+    TextInput.prototype._relocated;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    TextInput.prototype._native;
+    /**
+     * \@input {string} Instructional text that shows before the input has a value.
+     * @type {?}
+     */
+    TextInput.prototype.autocomplete;
+    /**
+     * \@input {string} Instructional text that shows before the input has a value.
+     * @type {?}
+     */
+    TextInput.prototype.autocorrect;
+    /**
+     * \@input {string} Instructional text that shows before the input has a value.
+     * @type {?}
+     */
+    TextInput.prototype.placeholder;
+    /**
+     * \@input {any} The minimum value, which must not be greater than its maximum (max attribute) value.
+     * @type {?}
+     */
+    TextInput.prototype.min;
+    /**
+     * \@input {any} The maximum value, which must not be less than its minimum (min attribute) value.
+     * @type {?}
+     */
+    TextInput.prototype.max;
+    /**
+     * \@input {any} Works with the min and max attributes to limit the increments at which a value can be set.
+     * @type {?}
+     */
+    TextInput.prototype.step;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    TextInput.prototype.input;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    TextInput.prototype.blur;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    TextInput.prototype.focus;
+    /** @type {?} */
+    TextInput.prototype._plt;
+    /** @type {?} */
+    TextInput.prototype._app;
+    /** @type {?} */
+    TextInput.prototype._content;
+    /** @type {?} */
+    TextInput.prototype.ngControl;
+    /** @type {?} */
+    TextInput.prototype._dom;
+}
+/**
+ * \@name TextArea
+ * \@description
+ *
+ * `ion-textarea` is used for multi-line text inputs. Ionic still
+ * uses an actual `<textarea>` HTML element within the component;
+ * however, with Ionic wrapping the native HTML text area element, Ionic
+ * is able to better handle the user experience and interactivity.
+ *
+ * Note that `<ion-textarea>` must load its value from the `value` or
+ * `[(ngModel)]` attribute. Unlike the native `<textarea>` element,
+ * `<ion-textarea>` does not support loading its value from the
+ * textarea's inner content.
+ *
+ * When requiring only a single-line text input, we recommend using
+ * `<ion-input>` instead.
+ *
+ * \@usage
+ * ```html
+ *  <ion-item>
+ *    <ion-label>Comments</ion-label>
+ *    <ion-textarea></ion-textarea>
+ *  </ion-item>
+ *
+ *  <ion-item>
+ *    <ion-label stacked>Message</ion-label>
+ *    <ion-textarea [(ngModel)]="msg"></ion-textarea>
+ *  </ion-item>
+ *
+ *  <ion-item>
+ *    <ion-label floating>Description</ion-label>
+ *    <ion-textarea></ion-textarea>
+ *  </ion-item>
+ *
+ * <ion-item>
+ *    <ion-label>Long Description</ion-label>
+ *    <ion-textarea rows="6" placeholder="enter long description here..."></ion-textarea>
+ *  </ion-item>
+ * ```
+ *
+ * \@demo /docs/demos/src/textarea/
+ */
+var SCROLL_ASSIST_SPEED = 0.3;
+/**
+ * @return {?}
+ */
+function newScrollData() {
+    return {
+        scrollAmount: 0,
+        scrollTo: 0,
+        scrollPadding: 0,
+        scrollDuration: 0,
+        inputSafeY: 0
+    };
+}
+/**
+ * @hidden
+ * @param {?} inputOffsetTop
+ * @param {?} inputOffsetHeight
+ * @param {?} scrollViewDimensions
+ * @param {?} keyboardHeight
+ * @param {?} plaformHeight
+ * @return {?}
+ */
+function getScrollData(inputOffsetTop, inputOffsetHeight, scrollViewDimensions, keyboardHeight, plaformHeight) {
+    // compute input's Y values relative to the body
+    var /** @type {?} */ inputTop = (inputOffsetTop + scrollViewDimensions.contentTop - scrollViewDimensions.scrollTop);
+    var /** @type {?} */ inputBottom = (inputTop + inputOffsetHeight);
+    // compute the safe area which is the viewable content area when the soft keyboard is up
+    var /** @type {?} */ safeAreaTop = scrollViewDimensions.contentTop;
+    var /** @type {?} */ safeAreaHeight = (plaformHeight - keyboardHeight - safeAreaTop) / 2;
+    var /** @type {?} */ safeAreaBottom = safeAreaTop + safeAreaHeight;
+    // figure out if each edge of teh input is within the safe area
+    var /** @type {?} */ inputTopWithinSafeArea = (inputTop >= safeAreaTop && inputTop <= safeAreaBottom);
+    var /** @type {?} */ inputTopAboveSafeArea = (inputTop < safeAreaTop);
+    var /** @type {?} */ inputTopBelowSafeArea = (inputTop > safeAreaBottom);
+    var /** @type {?} */ inputBottomWithinSafeArea = (inputBottom >= safeAreaTop && inputBottom <= safeAreaBottom);
+    var /** @type {?} */ inputBottomBelowSafeArea = (inputBottom > safeAreaBottom);
+    /*
+    Text Input Scroll To Scenarios
+    ---------------------------------------
+    1) Input top within safe area, bottom within safe area
+    2) Input top within safe area, bottom below safe area, room to scroll
+    3) Input top above safe area, bottom within safe area, room to scroll
+    4) Input top below safe area, no room to scroll, input smaller than safe area
+    5) Input top within safe area, bottom below safe area, no room to scroll, input smaller than safe area
+    6) Input top within safe area, bottom below safe area, no room to scroll, input larger than safe area
+    7) Input top below safe area, no room to scroll, input larger than safe area
+    */
+    var /** @type {?} */ scrollData = newScrollData();
+    if (inputTopWithinSafeArea && inputBottomWithinSafeArea) {
+        // Input top within safe area, bottom within safe area
+        // no need to scroll to a position, it's good as-is
+        return scrollData;
+    }
+    // looks like we'll have to do some auto-scrolling
+    if (inputTopBelowSafeArea || inputBottomBelowSafeArea || inputTopAboveSafeArea) {
+        // Input top or bottom below safe area
+        // auto scroll the input up so at least the top of it shows
+        if (safeAreaHeight > inputOffsetHeight) {
+            // safe area height is taller than the input height, so we
+            // can bring up the input just enough to show the input bottom
+            scrollData.scrollAmount = Math.round(safeAreaBottom - inputBottom);
+        }
+        else {
+            // safe area height is smaller than the input height, so we can
+            // only scroll it up so the input top is at the top of the safe area
+            // however the input bottom will be below the safe area
+            scrollData.scrollAmount = Math.round(safeAreaTop - inputTop);
+        }
+        scrollData.inputSafeY = -(inputTop - safeAreaTop) + 4;
+        if (inputTopAboveSafeArea && scrollData.scrollAmount > inputOffsetHeight) {
+            // the input top is above the safe area and we're already scrolling it into place
+            // don't let it scroll more than the height of the input
+            scrollData.scrollAmount = inputOffsetHeight;
+        }
+    }
+    // figure out where it should scroll to for the best position to the input
+    scrollData.scrollTo = (scrollViewDimensions.scrollTop - scrollData.scrollAmount);
+    // when auto-scrolling, there also needs to be enough
+    // content padding at the bottom of the scroll view
+    // always add scroll padding when a text input has focus
+    // this allows for the content to scroll above of the keyboard
+    // content behind the keyboard would be blank
+    // some cases may not need it, but when jumping around it's best
+    // to have the padding already rendered so there's no jank
+    scrollData.scrollPadding = keyboardHeight;
+    // calculate animation duration
+    var /** @type {?} */ distance = Math.abs(scrollData.scrollAmount);
+    var /** @type {?} */ duration = distance / SCROLL_ASSIST_SPEED;
+    scrollData.scrollDuration = Math.min(400, Math.max(150, duration));
+    return scrollData;
+}
+/**
+ * @param {?} plt
+ * @param {?} srcComponentEle
+ * @param {?} srcNativeInputEle
+ * @return {?}
+ */
+function cloneInputComponent(plt, srcComponentEle, srcNativeInputEle) {
+    // Make sure we kill all the clones before creating new ones
+    // It is a defensive, removeClone() should do nothing
+    // removeClone(plt, srcComponentEle, srcNativeInputEle);
+    (void 0) /* assert */;
+    // given a native <input> or <textarea> element
+    // find its parent wrapping component like <ion-input> or <ion-textarea>
+    // then clone the entire component
+    if (srcComponentEle) {
+        // DOM READ
+        var /** @type {?} */ srcTop = srcComponentEle.offsetTop;
+        var /** @type {?} */ srcLeft = srcComponentEle.offsetLeft;
+        var /** @type {?} */ srcWidth = srcComponentEle.offsetWidth;
+        var /** @type {?} */ srcHeight = srcComponentEle.offsetHeight;
+        // DOM WRITE
+        // not using deep clone so we don't pull in unnecessary nodes
+        var /** @type {?} */ clonedComponentEle = (srcComponentEle.cloneNode(false));
+        var /** @type {?} */ clonedStyle = clonedComponentEle.style;
+        clonedComponentEle.classList.add('cloned-input');
+        clonedComponentEle.setAttribute('aria-hidden', 'true');
+        clonedStyle.pointerEvents = 'none';
+        clonedStyle.position = 'absolute';
+        clonedStyle.top = srcTop + 'px';
+        clonedStyle.left = srcLeft + 'px';
+        clonedStyle.width = srcWidth + 'px';
+        clonedStyle.height = srcHeight + 'px';
+        var /** @type {?} */ clonedNativeInputEle = (srcNativeInputEle.cloneNode(false));
+        clonedNativeInputEle.value = srcNativeInputEle.value;
+        clonedNativeInputEle.tabIndex = -1;
+        clonedComponentEle.appendChild(clonedNativeInputEle);
+        srcComponentEle.parentNode.appendChild(clonedComponentEle);
+        srcComponentEle.style.pointerEvents = 'none';
+    }
+    ((srcNativeInputEle.style))[plt.Css.transform] = 'scale(0)';
+}
+/**
+ * @param {?} plt
+ * @param {?} srcComponentEle
+ * @param {?} srcNativeInputEle
+ * @return {?}
+ */
+function removeClone(plt, srcComponentEle, srcNativeInputEle) {
+    if (srcComponentEle && srcComponentEle.parentElement) {
+        var /** @type {?} */ clonedInputEles = srcComponentEle.parentElement.querySelectorAll('.cloned-input');
+        for (var /** @type {?} */ i = 0; i < clonedInputEles.length; i++) {
+            clonedInputEles[i].parentNode.removeChild(clonedInputEles[i]);
+        }
+        srcComponentEle.style.pointerEvents = '';
+    }
+    ((srcNativeInputEle.style))[plt.Css.transform] = '';
+    srcNativeInputEle.style.opacity = '';
+}
+//# sourceMappingURL=input.js.map
+
+/***/ }),
+/* 132 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var Observable_1 = __webpack_require__(9);
+var takeUntil_1 = __webpack_require__(230);
+Observable_1.Observable.prototype.takeUntil = takeUntil_1.takeUntil;
+//# sourceMappingURL=takeUntil.js.map
+
+/***/ }),
+/* 133 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ItemContent; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+
+/**
+ * @hidden
+ */
+var ItemContent = (function () {
+    function ItemContent() {
+    }
+    return ItemContent;
+}());
+
+ItemContent.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-item,[ion-item]',
+                host: {
+                    'class': 'item-block'
+                }
+            },] },
+];
+/**
+ * @nocollapse
+ */
+ItemContent.ctorParameters = function () { return []; };
+function ItemContent_tsickle_Closure_declarations() {
+    /** @type {?} */
+    ItemContent.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    ItemContent.ctorParameters;
+}
+//# sourceMappingURL=item-content.js.map
+
+/***/ }),
+/* 134 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ItemDivider; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+/**
+ * @hidden
+ */
+var ItemDivider = (function (_super) {
+    __extends(ItemDivider, _super);
+    /**
+     * @param {?} config
+     * @param {?} elementRef
+     * @param {?} renderer
+     */
+    function ItemDivider(config, elementRef, renderer) {
+        return _super.call(this, config, elementRef, renderer, 'item-divider') || this;
+    }
+    return ItemDivider;
+}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
+
+ItemDivider.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-item-divider',
+                host: {
+                    'class': 'item-divider'
+                }
+            },] },
+];
+/**
+ * @nocollapse
+ */
+ItemDivider.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+]; };
+function ItemDivider_tsickle_Closure_declarations() {
+    /** @type {?} */
+    ItemDivider.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    ItemDivider.ctorParameters;
+}
+//# sourceMappingURL=item-divider.js.map
+
+/***/ }),
+/* 135 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ItemGroup; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+
+/**
+ * @hidden
+ */
+var ItemGroup = (function () {
+    function ItemGroup() {
+    }
+    return ItemGroup;
+}());
+
+ItemGroup.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: 'ion-item-group'
+            },] },
+];
+/**
+ * @nocollapse
+ */
+ItemGroup.ctorParameters = function () { return []; };
+function ItemGroup_tsickle_Closure_declarations() {
+    /** @type {?} */
+    ItemGroup.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    ItemGroup.ctorParameters;
+}
+//# sourceMappingURL=item-group.js.map
+
+/***/ }),
+/* 136 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ItemSliding; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__util_util__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__item__ = __webpack_require__(17);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__list_list__ = __webpack_require__(70);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__platform_platform__ = __webpack_require__(3);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__item_options__ = __webpack_require__(69);
+
+
+
+
+
+
+var /** @type {?} */ SWIPE_MARGIN = 30;
+var /** @type {?} */ ELASTIC_FACTOR = 0.55;
+var /** @type {?} */ ITEM_SIDE_FLAG_NONE = 0;
+var /** @type {?} */ ITEM_SIDE_FLAG_LEFT = 1 << 0;
+var /** @type {?} */ ITEM_SIDE_FLAG_RIGHT = 1 << 1;
+var /** @type {?} */ ITEM_SIDE_FLAG_BOTH = ITEM_SIDE_FLAG_LEFT | ITEM_SIDE_FLAG_RIGHT;
+/**
+ * \@name ItemSliding
+ * \@description
+ * A sliding item is a list item that can be swiped to reveal buttons. It requires
+ * an [Item](../Item) component as a child and a [List](../../list/List) component as
+ * a parent. All buttons to reveal can be placed in the `<ion-item-options>` element.
+ *
+ * \@usage
+ * ```html
+ * <ion-list>
+ *   <ion-item-sliding #item>
+ *     <ion-item>
+ *       Item
+ *     </ion-item>
+ *     <ion-item-options side="left">
+ *       <button ion-button (click)="favorite(item)">Favorite</button>
+ *       <button ion-button color="danger" (click)="share(item)">Share</button>
+ *     </ion-item-options>
+ *
+ *     <ion-item-options side="right">
+ *       <button ion-button (click)="unread(item)">Unread</button>
+ *     </ion-item-options>
+ *   </ion-item-sliding>
+ * </ion-list>
+ * ```
+ *
+ * ### Swipe Direction
+ * By default, the buttons are revealed when the sliding item is swiped from right to left,
+ * so the buttons are placed in the right side. But it's also possible to reveal them
+ * in the right side (sliding from left to right) by setting the `side` attribute
+ * on the `ion-item-options` element. Up to 2 `ion-item-options` can used at the same time
+ * in order to reveal two different sets of buttons depending the swipping direction.
+ *
+ * ```html
+ * <ion-item-options side="right">
+ *   <button ion-button (click)="archive(item)">
+ *     <ion-icon name="archive"></ion-icon>
+ *     Archive
+ *   </button>
+ * </ion-item-options>
+ *
+ * <ion-item-options side="left">
+ *   <button ion-button (click)="archive(item)">
+ *     <ion-icon name="archive"></ion-icon>
+ *     Archive
+ *   </button>
+ * </ion-item-options>
+ * ```
+ *
+ * ### Listening for events (ionDrag) and (ionSwipe)
+ * It's possible to know the current relative position of the sliding item by subscribing
+ * to the (ionDrag)` event.
+ *
+ * ```html
+ * <ion-item-sliding (ionDrag)="logDrag($event)">
+ *   <ion-item>Item</ion-item>
+ *   <ion-item-options>
+ *     <button ion-button>Favorite</button>
+ *   </ion-item-options>
+ * </ion-item-sliding>
+ * ```
+ *
+ * ### Button Layout
+ * If an icon is placed with text in the option button, by default it will
+ * display the icon on top of the text. This can be changed to display the icon
+ * to the left of the text by setting `icon-start` as an attribute on the
+ * `<ion-item-options>` element.
+ *
+ * ```html
+ * <ion-item-options icon-start>
+ *    <button ion-button (click)="archive(item)">
+ *      <ion-icon name="archive"></ion-icon>
+ *      Archive
+ *    </button>
+ *  </ion-item-options>
+ *
+ * ```
+ *
+ * ### Expandable Options
+ *
+ * Options can be expanded to take up the full width of the item if you swipe past
+ * a certain point. This can be combined with the `ionSwipe` event to call methods
+ * on the class.
+ *
+ * ```html
+ *
+ * <ion-item-sliding (ionSwipe)="delete(item)">
+ *   <ion-item>Item</ion-item>
+ *   <ion-item-options>
+ *     <button ion-button expandable (click)="delete(item)">Delete</button>
+ *   </ion-item-options>
+ * </ion-item-sliding>
+ * ```
+ *
+ * We can call `delete` by either clicking the button, or by doing a full swipe on the item.
+ *
+ * \@demo /docs/demos/src/item-sliding/
+ * @see {\@link /docs/components#lists List Component Docs}
+ * @see {\@link ../Item Item API Docs}
+ * @see {\@link ../../list/List List API Docs}
+ */
+var ItemSliding = (function () {
+    /**
+     * @param {?} list
+     * @param {?} _plt
+     * @param {?} _renderer
+     * @param {?} _elementRef
+     * @param {?} _zone
+     */
+    function ItemSliding(list, _plt, _renderer, _elementRef, _zone) {
+        this._plt = _plt;
+        this._renderer = _renderer;
+        this._elementRef = _elementRef;
+        this._zone = _zone;
+        this._openAmount = 0;
+        this._startX = 0;
+        this._optsWidthRightSide = 0;
+        this._optsWidthLeftSide = 0;
+        this._tmr = null;
+        this._optsDirty = true;
+        this._state = 2 /* Disabled */;
+        /**
+         * \@output {event} Emitted when the sliding position changes.
+         * It reports the relative position.
+         *
+         * ```ts
+         * ondrag(item) {
+         *   let percent = item.getSlidingPercent();
+         *   if (percent > 0) {
+         *     // positive
+         *     console.log('right side');
+         *   } else {
+         *     // negative
+         *     console.log('left side');
+         *   }
+         *   if (Math.abs(percent) > 1) {
+         *     console.log('overscroll');
+         *   }
+         * }
+         * ```
+         *
+         */
+        this.ionDrag = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
+        list && list.containsSlidingItem(true);
+        _elementRef.nativeElement.$ionComponent = this;
+        this.setElementClass('item-wrapper', true);
+    }
+    Object.defineProperty(ItemSliding.prototype, "_itemOptions", {
+        /**
+         * @param {?} itemOptions
+         * @return {?}
+         */
+        set: function (itemOptions) {
+            var /** @type {?} */ sides = 0;
+            // Reset left and right options in case they were removed
+            this._leftOptions = this._rightOptions = null;
+            for (var _i = 0, _a = itemOptions.toArray(); _i < _a.length; _i++) {
+                var item = _a[_i];
+                if (item.isRightSide()) {
+                    this._rightOptions = item;
+                    sides |= ITEM_SIDE_FLAG_RIGHT;
+                }
+                else {
+                    this._leftOptions = item;
+                    sides |= ITEM_SIDE_FLAG_LEFT;
+                }
+            }
+            this._optsDirty = true;
+            this._sides = sides;
+        },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @hidden
+     * @return {?}
+     */
+    ItemSliding.prototype.getOpenAmount = function () {
+        return this._openAmount;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    ItemSliding.prototype.getSlidingPercent = function () {
+        var /** @type {?} */ openAmount = this._openAmount;
+        if (openAmount > 0) {
+            return openAmount / this._optsWidthRightSide;
+        }
+        else if (openAmount < 0) {
+            return openAmount / this._optsWidthLeftSide;
+        }
+        else {
+            return 0;
+        }
+    };
+    /**
+     * @hidden
+     * @param {?} startX
+     * @return {?}
+     */
+    ItemSliding.prototype.startSliding = function (startX) {
+        if (this._tmr) {
+            this._plt.cancelTimeout(this._tmr);
+            this._tmr = null;
+        }
+        if (this._openAmount === 0) {
+            this._optsDirty = true;
+            this._setState(4 /* Enabled */);
+        }
+        this._startX = startX + this._openAmount;
+        this.item.setElementStyle(this._plt.Css.transition, 'none');
+    };
+    /**
+     * @hidden
+     * @param {?} x
+     * @return {?}
+     */
+    ItemSliding.prototype.moveSliding = function (x) {
+        if (this._optsDirty) {
+            this.calculateOptsWidth();
+            return;
+        }
+        var /** @type {?} */ openAmount = (this._startX - x);
+        switch (this._sides) {
+            case ITEM_SIDE_FLAG_RIGHT:
+                openAmount = Math.max(0, openAmount);
+                break;
+            case ITEM_SIDE_FLAG_LEFT:
+                openAmount = Math.min(0, openAmount);
+                break;
+            case ITEM_SIDE_FLAG_BOTH: break;
+            case ITEM_SIDE_FLAG_NONE: return;
+            default:
+                (void 0) /* assert */;
+                break;
+        }
+        if (openAmount > this._optsWidthRightSide) {
+            var /** @type {?} */ optsWidth = this._optsWidthRightSide;
+            openAmount = optsWidth + (openAmount - optsWidth) * ELASTIC_FACTOR;
+        }
+        else if (openAmount < -this._optsWidthLeftSide) {
+            var /** @type {?} */ optsWidth = -this._optsWidthLeftSide;
+            openAmount = optsWidth + (openAmount - optsWidth) * ELASTIC_FACTOR;
+        }
+        this._setOpenAmount(openAmount, false);
+        return openAmount;
+    };
+    /**
+     * @hidden
+     * @param {?} velocity
+     * @return {?}
+     */
+    ItemSliding.prototype.endSliding = function (velocity) {
+        var /** @type {?} */ restingPoint = (this._openAmount > 0)
+            ? this._optsWidthRightSide
+            : -this._optsWidthLeftSide;
+        // Check if the drag didn't clear the buttons mid-point
+        // and we aren't moving fast enough to swipe open
+        var /** @type {?} */ isResetDirection = (this._openAmount > 0) === !(velocity < 0);
+        var /** @type {?} */ isMovingFast = Math.abs(velocity) > 0.3;
+        var /** @type {?} */ isOnCloseZone = Math.abs(this._openAmount) < Math.abs(restingPoint / 2);
+        if (Object(__WEBPACK_IMPORTED_MODULE_1__util_util__["t" /* swipeShouldReset */])(isResetDirection, isMovingFast, isOnCloseZone)) {
+            restingPoint = 0;
+        }
+        this.fireSwipeEvent();
+        this._setOpenAmount(restingPoint, true);
+        return restingPoint;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    ItemSliding.prototype.fireSwipeEvent = function () {
+        var _this = this;
+        if (this._state & 32 /* SwipeRight */) {
+            this._zone.run(function () { return _this._rightOptions.ionSwipe.emit(_this); });
+        }
+        else if (this._state & 64 /* SwipeLeft */) {
+            this._zone.run(function () { return _this._leftOptions.ionSwipe.emit(_this); });
+        }
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    ItemSliding.prototype.calculateOptsWidth = function () {
+        if (!this._optsDirty) {
+            return;
+        }
+        this._optsWidthRightSide = 0;
+        if (this._rightOptions) {
+            this._optsWidthRightSide = this._rightOptions.width();
+            (void 0) /* assert */;
+        }
+        this._optsWidthLeftSide = 0;
+        if (this._leftOptions) {
+            this._optsWidthLeftSide = this._leftOptions.width();
+            (void 0) /* assert */;
+        }
+        this._optsDirty = false;
+    };
+    /**
+     * @param {?} openAmount
+     * @param {?} isFinal
+     * @return {?}
+     */
+    ItemSliding.prototype._setOpenAmount = function (openAmount, isFinal) {
+        var _this = this;
+        var /** @type {?} */ platform = this._plt;
+        if (this._tmr) {
+            platform.cancelTimeout(this._tmr);
+            this._tmr = null;
+        }
+        this._openAmount = openAmount;
+        if (isFinal) {
+            this.item.setElementStyle(platform.Css.transition, '');
+        }
+        if (openAmount > 0) {
+            var /** @type {?} */ state = (openAmount >= (this._optsWidthRightSide + SWIPE_MARGIN))
+                ? 8 /* Right */ | 32 /* SwipeRight */
+                : 8 /* Right */;
+            this._setState(state);
+        }
+        else if (openAmount < 0) {
+            var /** @type {?} */ state_1 = (openAmount <= (-this._optsWidthLeftSide - SWIPE_MARGIN))
+                ? 16 /* Left */ | 64 /* SwipeLeft */
+                : 16 /* Left */;
+            this._setState(state_1);
+        }
+        else {
+            (void 0) /* assert */;
+            this._tmr = platform.timeout(function () {
+                _this._setState(2 /* Disabled */);
+                _this._tmr = null;
+            }, 600);
+            this.item.setElementStyle(platform.Css.transform, '');
+            return;
+        }
+        this.item.setElementStyle(platform.Css.transform, "translate3d(" + -openAmount + "px,0,0)");
+        var /** @type {?} */ ionDrag = this.ionDrag;
+        if (ionDrag.observers.length > 0) {
+            ionDrag.emit(this);
+        }
+    };
+    /**
+     * @param {?} state
+     * @return {?}
+     */
+    ItemSliding.prototype._setState = function (state) {
+        if (state === this._state) {
+            return;
+        }
+        this.setElementClass('active-slide', (state !== 2 /* Disabled */));
+        this.setElementClass('active-options-right', !!(state & 8 /* Right */));
+        this.setElementClass('active-options-left', !!(state & 16 /* Left */));
+        this.setElementClass('active-swipe-right', !!(state & 32 /* SwipeRight */));
+        this.setElementClass('active-swipe-left', !!(state & 64 /* SwipeLeft */));
+        this._state = state;
+    };
+    /**
+     * Close the sliding item. Items can also be closed from the [List](../../list/List).
+     *
+     * The sliding item can be closed by grabbing a reference to `ItemSliding`. In the
+     * below example, the template reference variable `slidingItem` is placed on the element
+     * and passed to the `share` method.
+     *
+     * ```html
+     * <ion-list>
+     *   <ion-item-sliding #slidingItem>
+     *     <ion-item>
+     *       Item
+     *     </ion-item>
+     *     <ion-item-options>
+     *       <button ion-button (click)="share(slidingItem)">Share</button>
+     *     </ion-item-options>
+     *   </ion-item-sliding>
+     * </ion-list>
+     * ```
+     *
+     * ```ts
+     * import { Component } from '\@angular/core';
+     * import { ItemSliding } from 'ionic-angular';
+     *
+     * \@Component({...})
+     * export class MyClass {
+     *   constructor() { }
+     *
+     *   share(slidingItem: ItemSliding) {
+     *     slidingItem.close();
+     *   }
+     * }
+     * ```
+     * @return {?}
+     */
+    ItemSliding.prototype.close = function () {
+        this._setOpenAmount(0, true);
+    };
+    /**
+     * @hidden
+     * @param {?} cssClass
+     * @param {?} shouldAdd
+     * @return {?}
+     */
+    ItemSliding.prototype.setElementClass = function (cssClass, shouldAdd) {
+        this._renderer.setElementClass(this._elementRef.nativeElement, cssClass, shouldAdd);
+    };
+    return ItemSliding;
+}());
+
+ItemSliding.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
+                selector: 'ion-item-sliding',
+                template: "\n    <ng-content select=\"ion-item,[ion-item]\"></ng-content>\n    <ng-content select=\"ion-item-options\"></ng-content>\n  ",
+                changeDetection: __WEBPACK_IMPORTED_MODULE_0__angular_core__["j" /* ChangeDetectionStrategy */].OnPush,
+                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None
+            },] },
+];
+/**
+ * @nocollapse
+ */
+ItemSliding.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_3__list_list__["a" /* List */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
+    { type: __WEBPACK_IMPORTED_MODULE_4__platform_platform__["a" /* Platform */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* NgZone */], },
+]; };
+ItemSliding.propDecorators = {
+    'item': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* ContentChild */], args: [__WEBPACK_IMPORTED_MODULE_2__item__["a" /* Item */],] },],
+    'ionDrag': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
+    '_itemOptions': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["s" /* ContentChildren */], args: [Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_20" /* forwardRef */])(function () { return __WEBPACK_IMPORTED_MODULE_5__item_options__["a" /* ItemOptions */]; }),] },],
+};
+function ItemSliding_tsickle_Closure_declarations() {
+    /** @type {?} */
+    ItemSliding.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    ItemSliding.ctorParameters;
+    /** @type {?} */
+    ItemSliding.propDecorators;
+    /** @type {?} */
+    ItemSliding.prototype._openAmount;
+    /** @type {?} */
+    ItemSliding.prototype._startX;
+    /** @type {?} */
+    ItemSliding.prototype._optsWidthRightSide;
+    /** @type {?} */
+    ItemSliding.prototype._optsWidthLeftSide;
+    /** @type {?} */
+    ItemSliding.prototype._sides;
+    /** @type {?} */
+    ItemSliding.prototype._tmr;
+    /** @type {?} */
+    ItemSliding.prototype._leftOptions;
+    /** @type {?} */
+    ItemSliding.prototype._rightOptions;
+    /** @type {?} */
+    ItemSliding.prototype._optsDirty;
+    /** @type {?} */
+    ItemSliding.prototype._state;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    ItemSliding.prototype.item;
+    /**
+     * \@output {event} Emitted when the sliding position changes.
+     * It reports the relative position.
+     *
+     * ```ts
+     * ondrag(item) {
+     *   let percent = item.getSlidingPercent();
+     *   if (percent > 0) {
+     *     // positive
+     *     console.log('right side');
+     *   } else {
+     *     // negative
+     *     console.log('left side');
+     *   }
+     *   if (Math.abs(percent) > 1) {
+     *     console.log('overscroll');
+     *   }
+     * }
+     * ```
+     *
+     * @type {?}
+     */
+    ItemSliding.prototype.ionDrag;
+    /** @type {?} */
+    ItemSliding.prototype._plt;
+    /** @type {?} */
+    ItemSliding.prototype._renderer;
+    /** @type {?} */
+    ItemSliding.prototype._elementRef;
+    /** @type {?} */
+    ItemSliding.prototype._zone;
+}
+//# sourceMappingURL=item-sliding.js.map
+
+/***/ }),
+/* 137 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Reorder; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__item_reorder_util__ = __webpack_require__(121);
+
+
+/**
+ * @hidden
+ */
+var Reorder = (function () {
+    /**
+     * @param {?} elementRef
+     */
+    function Reorder(elementRef) {
+        this.elementRef = elementRef;
+        elementRef.nativeElement['$ionComponent'] = this;
+    }
+    /**
+     * @return {?}
+     */
+    Reorder.prototype.getReorderNode = function () {
+        return Object(__WEBPACK_IMPORTED_MODULE_1__item_reorder_util__["a" /* findReorderItem */])(this.elementRef.nativeElement, null);
+    };
+    /**
+     * @param {?} ev
+     * @return {?}
+     */
+    Reorder.prototype.onClick = function (ev) {
+        // Stop propagation if click event reaches ion-reorder
+        ev.preventDefault();
+        ev.stopPropagation();
+    };
+    return Reorder;
+}());
+
+Reorder.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
+                selector: 'ion-reorder',
+                template: "<ion-icon name=\"reorder\"></ion-icon>"
+            },] },
+];
+/**
+ * @nocollapse
+ */
+Reorder.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+]; };
+Reorder.propDecorators = {
+    'onClick': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* HostListener */], args: ['click', ['$event'],] },],
+};
+function Reorder_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Reorder.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    Reorder.ctorParameters;
+    /** @type {?} */
+    Reorder.propDecorators;
+    /** @type {?} */
+    Reorder.prototype.elementRef;
+}
+//# sourceMappingURL=reorder.js.map
+
+/***/ }),
+/* 138 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Loading; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__util_util__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_app_constants__ = __webpack_require__(32);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__loading_component__ = __webpack_require__(72);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__loading_transitions__ = __webpack_require__(232);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__ = __webpack_require__(5);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+
+
+
+/**
+ * @hidden
+ */
+var Loading = (function (_super) {
+    __extends(Loading, _super);
+    /**
+     * @param {?} app
+     * @param {?=} opts
+     * @param {?=} config
+     */
+    function Loading(app, opts, config) {
+        if (opts === void 0) { opts = {}; }
+        var _this = this;
+        opts.showBackdrop = Object(__WEBPACK_IMPORTED_MODULE_0__util_util__["l" /* isPresent */])(opts.showBackdrop) ? !!opts.showBackdrop : true;
+        opts.enableBackdropDismiss = Object(__WEBPACK_IMPORTED_MODULE_0__util_util__["l" /* isPresent */])(opts.enableBackdropDismiss) ? !!opts.enableBackdropDismiss : false;
+        opts.dismissOnPageChange = Object(__WEBPACK_IMPORTED_MODULE_0__util_util__["l" /* isPresent */])(opts.dismissOnPageChange) ? !!opts.dismissOnPageChange : false;
+        _this = _super.call(this, __WEBPACK_IMPORTED_MODULE_2__loading_component__["a" /* LoadingCmp */], opts, null) || this;
+        _this._app = app;
+        _this.isOverlay = true;
+        config.setTransition('loading-pop-in', __WEBPACK_IMPORTED_MODULE_3__loading_transitions__["c" /* LoadingPopIn */]);
+        config.setTransition('loading-pop-out', __WEBPACK_IMPORTED_MODULE_3__loading_transitions__["d" /* LoadingPopOut */]);
+        config.setTransition('loading-md-pop-in', __WEBPACK_IMPORTED_MODULE_3__loading_transitions__["a" /* LoadingMdPopIn */]);
+        config.setTransition('loading-md-pop-out', __WEBPACK_IMPORTED_MODULE_3__loading_transitions__["b" /* LoadingMdPopOut */]);
+        config.setTransition('loading-wp-pop-in', __WEBPACK_IMPORTED_MODULE_3__loading_transitions__["e" /* LoadingWpPopIn */]);
+        config.setTransition('loading-wp-pop-out', __WEBPACK_IMPORTED_MODULE_3__loading_transitions__["f" /* LoadingWpPopOut */]);
+        return _this;
+    }
+    /**
+     * @hidden
+     * @param {?} direction
+     * @return {?}
+     */
+    Loading.prototype.getTransitionName = function (direction) {
+        var /** @type {?} */ key = (direction === 'back' ? 'loadingLeave' : 'loadingEnter');
+        return this._nav && this._nav.config.get(key);
+    };
+    /**
+     * @param {?} content
+     * @return {?}
+     */
+    Loading.prototype.setContent = function (content) {
+        this.data.content = content;
+        return this;
+    };
+    /**
+     * @param {?} spinner
+     * @return {?}
+     */
+    Loading.prototype.setSpinner = function (spinner) {
+        this.data.spinner = spinner;
+        return this;
+    };
+    /**
+     * @param {?} cssClass
+     * @return {?}
+     */
+    Loading.prototype.setCssClass = function (cssClass) {
+        this.data.cssClass = cssClass;
+        return this;
+    };
+    /**
+     * @param {?} showBackdrop
+     * @return {?}
+     */
+    Loading.prototype.setShowBackdrop = function (showBackdrop) {
+        this.data.showBackdrop = showBackdrop;
+        return this;
+    };
+    /**
+     * @param {?} dur
+     * @return {?}
+     */
+    Loading.prototype.setDuration = function (dur) {
+        this.data.duration = dur;
+        return this;
+    };
+    /**
+     * Present the loading instance.
+     *
+     * @param {?=} navOptions
+     * @return {?}
+     */
+    Loading.prototype.present = function (navOptions) {
+        if (navOptions === void 0) { navOptions = {}; }
+        return this._app.present(this, navOptions, __WEBPACK_IMPORTED_MODULE_1__app_app_constants__["b" /* PORTAL_LOADING */]);
+    };
+    /**
+     * Dismiss all loading components which have been presented.
+     * @return {?}
+     */
+    Loading.prototype.dismissAll = function () {
+        this._nav && this._nav.popAll();
+    };
+    return Loading;
+}(__WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__["a" /* ViewController */]));
+
+function Loading_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Loading.prototype._app;
+}
+//# sourceMappingURL=loading.js.map
+
+/***/ }),
+/* 139 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LoadingController; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_app__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__loading__ = __webpack_require__(138);
+
+
+
+
+/**
+ * \@name LoadingController
+ * \@description
+ * An overlay that can be used to indicate activity while blocking user
+ * interaction. The loading indicator appears on top of the app's content,
+ * and can be dismissed by the app to resume user interaction with
+ * the app. It includes an optional backdrop, which can be disabled
+ * by setting `showBackdrop: false` upon creation.
+ *
+ * ### Creating
+ * You can pass all of the loading options in the first argument of
+ * the create method: `create(opts)`. The spinner name should be
+ * passed in the `spinner` property, and any optional HTML can be passed
+ * in the `content` property. If you do not pass a value to `spinner`
+ * the loading indicator will use the spinner specified by the mode. To
+ * set the spinner name across the app, set the value of `loadingSpinner`
+ * in your app's config. To hide the spinner, set `loadingSpinner: 'hide'`
+ * in the app's config or pass `spinner: 'hide'` in the loading
+ * options. See the [create](#create) method below for all available options.
+ *
+ * ### Dismissing
+ * The loading indicator can be dismissed automatically after a specific
+ * amount of time by passing the number of milliseconds to display it in
+ * the `duration` of the loading options. By default the loading indicator
+ * will show even during page changes, but this can be disabled by setting
+ * `dismissOnPageChange` to `true`. To dismiss the loading indicator after
+ * creation, call the `dismiss()` method on the Loading instance. The
+ * `onDidDismiss` function can be called to perform an action after the loading
+ * indicator is dismissed.
+ *
+ * >Note that after the component is dismissed, it will not be usable anymore
+ * and another one must be created. This can be avoided by wrapping the
+ * creation and presentation of the component in a reusable function as shown
+ * in the `usage` section below.
+ *
+ * ### Limitations
+ * The element is styled to appear on top of other content by setting its
+ * `z-index` property. You must ensure no element has a stacking context with
+ * a higher `z-index` than this element.
+ *
+ * \@usage
+ * ```ts
+ * constructor(public loadingCtrl: LoadingController) {
+ *
+ * }
+ *
+ * presentLoadingDefault() {
+ *   let loading = this.loadingCtrl.create({
+ *     content: 'Please wait...'
+ *   });
+ *
+ *   loading.present();
+ *
+ *   setTimeout(() => {
+ *     loading.dismiss();
+ *   }, 5000);
+ * }
+ *
+ * presentLoadingCustom() {
+ *   let loading = this.loadingCtrl.create({
+ *     spinner: 'hide',
+ *     content: `
+ *       <div class="custom-spinner-container">
+ *         <div class="custom-spinner-box"></div>
+ *       </div>`,
+ *     duration: 5000
+ *   });
+ *
+ *   loading.onDidDismiss(() => {
+ *     console.log('Dismissed loading');
+ *   });
+ *
+ *   loading.present();
+ * }
+ *
+ * presentLoadingText() {
+ *   let loading = this.loadingCtrl.create({
+ *     spinner: 'hide',
+ *     content: 'Loading Please Wait...'
+ *   });
+ *
+ *   loading.present();
+ *
+ *   setTimeout(() => {
+ *     this.nav.push(Page2);
+ *   }, 1000);
+ *
+ *   setTimeout(() => {
+ *     loading.dismiss();
+ *   }, 5000);
+ * }
+ * ```
+ * \@advanced
+ *
+ * Loading options
+ *
+ * | Option                | Type       | Description                                                                                                      |
+ * |-----------------------|------------|------------------------------------------------------------------------------------------------------------------|
+ * | spinner               |`string`    | The name of the SVG spinner for the loading indicator.                                                           |
+ * | content               |`string`    | The html content for the loading indicator.                                                                      |
+ * | cssClass              |`string`    | Additional classes for custom styles, separated by spaces.                                                       |
+ * | showBackdrop          |`boolean`   | Whether to show the backdrop. Default true.                                                                      |
+ * | enableBackdropDismiss | `boolean`  | Whether the loading indicator should be dismissed by tapping the backdrop. Default false.                        |
+ * | dismissOnPageChange   |`boolean`   | Whether to dismiss the indicator when navigating to a new page. Default false.                                   |
+ * | duration              |`number`    | How many milliseconds to wait before hiding the indicator. By default, it will show until `dismiss()` is called. |
+ *
+ * \@demo /docs/demos/src/loading/
+ * @see {\@link /docs/api/components/spinner/Spinner Spinner API Docs}
+ */
+var LoadingController = (function () {
+    /**
+     * @param {?} _app
+     * @param {?} config
+     */
+    function LoadingController(_app, config) {
+        this._app = _app;
+        this.config = config;
+    }
+    /**
+     * Create a loading indicator. See below for options.
+     * @param {?=} opts
+     * @return {?}
+     */
+    LoadingController.prototype.create = function (opts) {
+        if (opts === void 0) { opts = {}; }
+        return new __WEBPACK_IMPORTED_MODULE_3__loading__["a" /* Loading */](this._app, opts, this.config);
+    };
+    return LoadingController;
+}());
+
+LoadingController.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Injectable */] },
+];
+/**
+ * @nocollapse
+ */
+LoadingController.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_1__app_app__["a" /* App */], },
+    { type: __WEBPACK_IMPORTED_MODULE_2__config_config__["a" /* Config */], },
+]; };
+function LoadingController_tsickle_Closure_declarations() {
+    /** @type {?} */
+    LoadingController.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    LoadingController.ctorParameters;
+    /** @type {?} */
+    LoadingController.prototype._app;
+    /** @type {?} */
+    LoadingController.prototype.config;
+}
+//# sourceMappingURL=loading-controller.js.map
+
+/***/ }),
+/* 140 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Menu; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_app__ = __webpack_require__(6);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__backdrop_backdrop__ = __webpack_require__(60);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__config_config__ = __webpack_require__(1);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__content_content__ = __webpack_require__(19);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__platform_dom_controller__ = __webpack_require__(8);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__gestures_gesture_controller__ = __webpack_require__(7);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__util_util__ = __webpack_require__(2);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__platform_keyboard__ = __webpack_require__(34);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__menu_gestures__ = __webpack_require__(233);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__app_menu_controller__ = __webpack_require__(26);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__nav_nav__ = __webpack_require__(73);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__platform_platform__ = __webpack_require__(3);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__gestures_ui_event_manager__ = __webpack_require__(22);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__split_pane_split_pane__ = __webpack_require__(36);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/**
+ * \@name Menu
+ * \@description
+ * The Menu component is a navigation drawer that slides in from the side of the current
+ * view. By default, it slides in from the left, but the side can be overridden. The menu
+ * will be displayed differently based on the mode, however the display type can be changed
+ * to any of the available [menu types](#menu-types). The menu element should be a sibling
+ * to the app's content element. There can be any number of menus attached to the content.
+ * These can be controlled from the templates, or programmatically using the [MenuController](../../app/MenuController).
+ *
+ * \@usage
+ *
+ * ```html
+ * <ion-menu [content]="mycontent">
+ *   <ion-content>
+ *     <ion-list>
+ *       <p>some menu content, could be list items</p>
+ *     </ion-list>
+ *   </ion-content>
+ * </ion-menu>
+ *
+ * <ion-nav #mycontent [root]="rootPage"></ion-nav>
+ * ```
+ *
+ * To add a menu to an app, the `<ion-menu>` element should be added as a sibling to the `ion-nav` it will belongs
+ * to. A [local variable](https://angular.io/docs/ts/latest/guide/user-input.html#local-variables)
+ * should be added to the `ion-nav` and passed to the `ion-menu`s `content` property.
+ *
+ * This tells the menu what it is bound to and what element to watch for gestures.
+ * In the below example, `content` is using [property binding](https://angular.io/docs/ts/latest/guide/template-syntax.html#!#property-binding)
+ * because `mycontent` is a reference to the `<ion-nav>` element, and not a string.
+ *
+ *
+ * ### Opening/Closing Menus
+ *
+ * There are several ways to open or close a menu. The menu can be **toggled** open or closed
+ * from the template using the [MenuToggle](../MenuToggle) directive. It can also be
+ * **closed** from the template using the [MenuClose](../MenuClose) directive. To display a menu
+ * programmatically, inject the [MenuController](../MenuController) provider and call any of the
+ * `MenuController` methods.
+ *
+ *
+ * ### Menu Types
+ *
+ * The menu supports several display types: `overlay`, `reveal` and `push`. By default,
+ * it will use the correct type based on the mode, but this can be changed. The default
+ * type for both Material Design and Windows mode is `overlay`, and `reveal` is the default
+ * type for iOS mode. The menu type can be changed in the app's [config](../../config/Config)
+ * via the `menuType` property, or passed in the `type` property on the `<ion-menu>` element.
+ * See [usage](#usage) below for examples of changing the menu type.
+ *
+ *
+ * ### Navigation Bar Behavior
+ *
+ * If a [MenuToggle](../MenuToggle) button is added to the [Navbar](../../navbar/Navbar) of
+ * a page, the button will only appear when the page it's in is currently a root page. The
+ * root page is the initial page loaded in the app, or a page that has been set as the root
+ * using the [setRoot](../../nav/NavController/#setRoot) method on the [NavController](../../nav/NavController).
+ *
+ * For example, say the application has two pages, `Page1` and `Page2`, and both have a
+ * `MenuToggle` button in their navigation bars. Assume the initial page loaded into the app
+ * is `Page1`, making it the root page. `Page1` will display the `MenuToggle` button, but once
+ * `Page2` is pushed onto the navigation stack, the `MenuToggle` will not be displayed.
+ *
+ *
+ * ### Persistent Menus
+ *
+ * Persistent menus display the [MenuToggle](../MenuToggle) button in the [Navbar](../../navbar/Navbar)
+ * on all pages in the navigation stack. To make a menu persistent set `persistent` to `true` on the
+ * `<ion-menu>` element. Note that this will only affect the `MenuToggle` button in the `Navbar` attached
+ * to the `Menu` with `persistent` set to true, any other `MenuToggle` buttons will not be affected.
+ * ### Menu Side
+ *
+ * By default, menus slide in from the left, but this can be overridden by passing `right`
+ * to the `side` property:
+ *
+ * ```html
+ * <ion-menu side="right" [content]="mycontent">...</ion-menu>
+ * ```
+ *
+ *
+ * ### Menu Type
+ *
+ * The menu type can be changed by passing the value to `type` on the `<ion-menu>`:
+ *
+ * ```html
+ * <ion-menu type="overlay" [content]="mycontent">...</ion-menu>
+ * ```
+ *
+ * It can also be set in the app's config. The below will set the menu type to
+ * `push` for all modes, and then set the type to `overlay` for the `ios` mode.
+ *
+ * ```ts
+ * // in NgModules
+ *
+ * imports: [
+ *   IonicModule.forRoot(MyApp,{
+ *     menuType: 'push',
+ *     platforms: {
+ *       ios: {
+ *         menuType: 'overlay',
+ *       }
+ *     }
+ *   })
+ * ],
+ * ```
+ *
+ *
+ * ### Displaying the Menu
+ *
+ * To toggle a menu from the template, add a button with the `menuToggle`
+ * directive anywhere in the page's template:
+ *
+ * ```html
+ * <button ion-button menuToggle>Toggle Menu</button>
+ * ```
+ *
+ * To close a menu, add the `menuClose` button. It can be added anywhere
+ * in the content, or even the menu itself. Below it is added to the menu's
+ * content:
+ *
+ * ```html
+ * <ion-menu [content]="mycontent">
+ *   <ion-content>
+ *     <ion-list>
+ *       <ion-item menuClose detail-none>Close Menu</ion-item>
+ *     </ion-list>
+ *   </ion-content>
+ * </ion-menu>
+ * ```
+ *
+ * See the [MenuToggle](../MenuToggle) and [MenuClose](../MenuClose) docs
+ * for more information on these directives.
+ *
+ * The menu can also be controlled from the Page by using the `MenuController`.
+ * Inject the `MenuController` provider into the page and then call any of its
+ * methods. In the below example, the `openMenu` method will open the menu
+ * when it is called.
+ *
+ * ```ts
+ * import { Component } from '\@angular/core';
+ * import { MenuController } from 'ionic-angular';
+ *
+ * \@Component({...})
+ * export class MyPage {
+ *  constructor(public menuCtrl: MenuController) {}
+ *
+ *  openMenu() {
+ *    this.menuCtrl.open();
+ *  }
+ * }
+ * ```
+ *
+ * See the [MenuController](../../app/MenuController) API docs for all of the methods
+ * and usage information.
+ *
+ *
+ * \@demo /docs/demos/src/menu/
+ *
+ * @see {\@link /docs/components#menus Menu Component Docs}
+ * @see {\@link ../../app/MenuController MenuController API Docs}
+ * @see {\@link ../../nav/Nav Nav API Docs}
+ * @see {\@link ../../nav/NavController NavController API Docs}
+ */
+var Menu = (function () {
+    /**
+     * @param {?} _menuCtrl
+     * @param {?} _elementRef
+     * @param {?} _config
+     * @param {?} _plt
+     * @param {?} _renderer
+     * @param {?} _keyboard
+     * @param {?} _gestureCtrl
+     * @param {?} _domCtrl
+     * @param {?} _app
+     */
+    function Menu(_menuCtrl, _elementRef, _config, _plt, _renderer, _keyboard, _gestureCtrl, _domCtrl, _app) {
+        this._menuCtrl = _menuCtrl;
+        this._elementRef = _elementRef;
+        this._config = _config;
+        this._plt = _plt;
+        this._renderer = _renderer;
+        this._keyboard = _keyboard;
+        this._gestureCtrl = _gestureCtrl;
+        this._domCtrl = _domCtrl;
+        this._app = _app;
+        this._isSwipeEnabled = true;
+        this._isAnimating = false;
+        this._isPersistent = false;
+        this._init = false;
+        this._isPane = false;
+        /**
+         * @hidden
+         */
+        this.isOpen = false;
+        /**
+         * @hidden
+         */
+        this.isRightSide = false;
+        /**
+         * \@output {event} Emitted when the menu is being dragged open.
+         */
+        this.ionDrag = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
+        /**
+         * \@output {event} Emitted when the menu has been opened.
+         */
+        this.ionOpen = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
+        /**
+         * \@output {event} Emitted when the menu has been closed.
+         */
+        this.ionClose = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
+        this._events = new __WEBPACK_IMPORTED_MODULE_13__gestures_ui_event_manager__["a" /* UIEventManager */](_plt);
+        this._gestureBlocker = _gestureCtrl.createBlocker({
+            disable: [__WEBPACK_IMPORTED_MODULE_6__gestures_gesture_controller__["b" /* GESTURE_GO_BACK_SWIPE */]]
+        });
+        this.side = 'start';
+    }
+    Object.defineProperty(Menu.prototype, "enabled", {
+        /**
+         * \@input {boolean} If true, the menu is enabled. Default `true`.
+         * @return {?}
+         */
+        get: function () {
+            return this._isEnabled;
+        },
+        /**
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            var /** @type {?} */ isEnabled = Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["o" /* isTrueProperty */])(val);
+            this.enable(isEnabled);
+        },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(Menu.prototype, "side", {
+        /**
+         * \@input {string} Which side of the view the menu should be placed. Default `"left"`.
+         * @return {?}
+         */
+        get: function () {
+            return this._side;
+        },
+        /**
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            this.isRightSide = Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["m" /* isRightSide */])(val, this._plt.isRTL);
+            if (this.isRightSide) {
+                this._side = 'right';
+            }
+            else {
+                this._side = 'left';
+            }
+        },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(Menu.prototype, "swipeEnabled", {
+        /**
+         * \@input {boolean} If true, swiping the menu is enabled. Default `true`.
+         * @return {?}
+         */
+        get: function () {
+            return this._isSwipeEnabled;
+        },
+        /**
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            var /** @type {?} */ isEnabled = Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["o" /* isTrueProperty */])(val);
+            this.swipeEnable(isEnabled);
+        },
+        enumerable: true,
+        configurable: true
+    });
+    Object.defineProperty(Menu.prototype, "persistent", {
+        /**
+         * \@input {boolean} If true, the menu will persist on child pages.
+         * @return {?}
+         */
+        get: function () {
+            return this._isPersistent;
+        },
+        /**
+         * @param {?} val
+         * @return {?}
+         */
+        set: function (val) {
+            this._isPersistent = Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["o" /* isTrueProperty */])(val);
+        },
+        enumerable: true,
+        configurable: true
+    });
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.ngOnInit = function () {
+        var _this = this;
+        this._init = true;
+        var /** @type {?} */ content = this.content;
+        this._cntEle = (content instanceof Node) ? content : content && content.getNativeElement && content.getNativeElement();
+        // requires content element
+        if (!this._cntEle) {
+            return console.error('Menu: must have a [content] element to listen for drag events on. Example:\n\n<ion-menu [content]="content"></ion-menu>\n\n<ion-nav #content></ion-nav>');
+        }
+        this.setElementAttribute('side', this._side);
+        // normalize the "type"
+        if (!this.type) {
+            this.type = this._config.get('menuType');
+        }
+        this.setElementAttribute('type', this.type);
+        // add the gestures
+        this._gesture = new __WEBPACK_IMPORTED_MODULE_9__menu_gestures__["a" /* MenuContentGesture */](this._plt, this, this._gestureCtrl, this._domCtrl);
+        // add menu's content classes
+        this._cntEle.classList.add('menu-content');
+        this._cntEle.classList.add('menu-content-' + this.type);
+        var /** @type {?} */ isEnabled = this._isEnabled;
+        if (isEnabled === true || typeof isEnabled === 'undefined') {
+            // check if more than one menu is on the same side
+            isEnabled = !this._menuCtrl.getMenus().some(function (m) {
+                return m.side === _this.side && m.enabled;
+            });
+        }
+        // register this menu with the app's menu controller
+        this._menuCtrl._register(this);
+        // mask it as enabled / disabled
+        this.enable(isEnabled);
+    };
+    /**
+     * @hidden
+     * @param {?} ev
+     * @return {?}
+     */
+    Menu.prototype.onBackdropClick = function (ev) {
+        ev.preventDefault();
+        ev.stopPropagation();
+        this._menuCtrl.close();
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype._getType = function () {
+        if (!this._type) {
+            this._type = __WEBPACK_IMPORTED_MODULE_10__app_menu_controller__["a" /* MenuController */].create(this.type, this, this._plt);
+            if (this._config.get('animate') === false) {
+                this._type.ani.duration(0);
+            }
+        }
+        return this._type;
+    };
+    /**
+     * @hidden
+     * @param {?} shouldOpen
+     * @param {?=} animated
+     * @return {?}
+     */
+    Menu.prototype.setOpen = function (shouldOpen, animated) {
+        var _this = this;
+        if (animated === void 0) { animated = true; }
+        // If the menu is disabled or it is currenly being animated, let's do nothing
+        if ((shouldOpen === this.isOpen) || !this._canOpen() || this._isAnimating) {
+            return Promise.resolve(this.isOpen);
+        }
+        return new Promise(function (resolve) {
+            _this._before();
+            _this._getType().setOpen(shouldOpen, animated, function () {
+                _this._after(shouldOpen);
+                resolve(_this.isOpen);
+            });
+        });
+    };
+    /**
+     * @return {?}
+     */
+    Menu.prototype._forceClosing = function () {
+        var _this = this;
+        (void 0) /* assert */;
+        this._isAnimating = true;
+        this._getType().setOpen(false, false, function () {
+            _this._after(false);
+        });
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.canSwipe = function () {
+        return this._isSwipeEnabled &&
+            !this._isAnimating &&
+            this._canOpen() &&
+            this._app.isEnabled();
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.isAnimating = function () {
+        return this._isAnimating;
+    };
+    /**
+     * @return {?}
+     */
+    Menu.prototype._swipeBeforeStart = function () {
+        if (!this.canSwipe()) {
+            (void 0) /* assert */;
+            return;
+        }
+        this._before();
+    };
+    /**
+     * @return {?}
+     */
+    Menu.prototype._swipeStart = function () {
+        if (!this._isAnimating) {
+            (void 0) /* assert */;
+            return;
+        }
+        this._getType().setProgressStart(this.isOpen);
+    };
+    /**
+     * @param {?} stepValue
+     * @return {?}
+     */
+    Menu.prototype._swipeProgress = function (stepValue) {
+        if (!this._isAnimating) {
+            (void 0) /* assert */;
+            return;
+        }
+        this._getType().setProgessStep(stepValue);
+        var /** @type {?} */ ionDrag = this.ionDrag;
+        if (ionDrag.observers.length > 0) {
+            ionDrag.emit(stepValue);
+        }
+    };
+    /**
+     * @param {?} shouldCompleteLeft
+     * @param {?} shouldCompleteRight
+     * @param {?} stepValue
+     * @param {?} velocity
+     * @return {?}
+     */
+    Menu.prototype._swipeEnd = function (shouldCompleteLeft, shouldCompleteRight, stepValue, velocity) {
+        var _this = this;
+        if (!this._isAnimating) {
+            (void 0) /* assert */;
+            return;
+        }
+        // user has finished dragging the menu
+        var /** @type {?} */ isRightSide = this.isRightSide;
+        var /** @type {?} */ isRTL = this._plt.isRTL;
+        var /** @type {?} */ opening = !this.isOpen;
+        var /** @type {?} */ shouldComplete = (opening)
+            ? (isRightSide !== isRTL) ? shouldCompleteLeft : shouldCompleteRight
+            : (isRightSide !== isRTL) ? shouldCompleteRight : shouldCompleteLeft;
+        this._getType().setProgressEnd(shouldComplete, stepValue, velocity, function (isOpen) {
+            (void 0) /* console.debug */;
+            _this._after(isOpen);
+        });
+    };
+    /**
+     * @return {?}
+     */
+    Menu.prototype._before = function () {
+        (void 0) /* assert */;
+        // this places the menu into the correct location before it animates in
+        // this css class doesn't actually kick off any animations
+        this.setElementClass('show-menu', true);
+        this.backdrop.setElementClass('show-backdrop', true);
+        this.resize();
+        this._keyboard.close();
+        this._isAnimating = true;
+    };
+    /**
+     * @param {?} isOpen
+     * @return {?}
+     */
+    Menu.prototype._after = function (isOpen) {
+        (void 0) /* assert */;
+        this._app.setEnabled(false, 100);
+        // keep opening/closing the menu disabled for a touch more yet
+        // only add listeners/css if it's enabled and isOpen
+        // and only remove listeners/css if it's not open
+        // emit opened/closed events
+        this.isOpen = isOpen;
+        this._isAnimating = false;
+        this._events.unlistenAll();
+        if (isOpen) {
+            // Disable swipe to go back gesture
+            this._gestureBlocker.block();
+            this._cntEle.classList.add('menu-content-open');
+            var /** @type {?} */ callback = this.onBackdropClick.bind(this);
+            this._events.listen(this._cntEle, 'click', callback, { capture: true });
+            this._events.listen(this.backdrop.getNativeElement(), 'click', callback, { capture: true });
+            this.ionOpen.emit(true);
+        }
+        else {
+            // Enable swipe to go back gesture
+            this._gestureBlocker.unblock();
+            this._cntEle.classList.remove('menu-content-open');
+            this.setElementClass('show-menu', false);
+            this.backdrop.setElementClass('show-menu', false);
+            this.ionClose.emit(true);
+        }
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.open = function () {
+        return this.setOpen(true);
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.close = function () {
+        return this.setOpen(false);
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.resize = function () {
+        var /** @type {?} */ content = this.menuContent
+            ? this.menuContent
+            : this.menuNav;
+        content && content.resize();
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.toggle = function () {
+        return this.setOpen(!this.isOpen);
+    };
+    /**
+     * @return {?}
+     */
+    Menu.prototype._canOpen = function () {
+        return this._isEnabled && !this._isPane;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype._updateState = function () {
+        var /** @type {?} */ canOpen = this._canOpen();
+        // Close menu inmediately
+        if (!canOpen && this.isOpen) {
+            (void 0) /* assert */;
+            // close if this menu is open, and should not be enabled
+            this._forceClosing();
+        }
+        if (this._isEnabled && this._menuCtrl) {
+            this._menuCtrl._setActiveMenu(this);
+        }
+        if (!this._init) {
+            return;
+        }
+        var /** @type {?} */ gesture = this._gesture;
+        // only listen/unlisten if the menu has initialized
+        if (canOpen && this._isSwipeEnabled && !gesture.isListening) {
+            // should listen, but is not currently listening
+            (void 0) /* console.debug */;
+            gesture.listen();
+        }
+        else if (gesture.isListening && (!canOpen || !this._isSwipeEnabled)) {
+            // should not listen, but is currently listening
+            (void 0) /* console.debug */;
+            gesture.unlisten();
+        }
+        if (this.isOpen || (this._isPane && this._isEnabled)) {
+            this.resize();
+        }
+        (void 0) /* assert */;
+    };
+    /**
+     * @hidden
+     * @param {?} shouldEnable
+     * @return {?}
+     */
+    Menu.prototype.enable = function (shouldEnable) {
+        this._isEnabled = shouldEnable;
+        this.setElementClass('menu-enabled', shouldEnable);
+        this._updateState();
+        return this;
+    };
+    /**
+     * \@internal
+     * @return {?}
+     */
+    Menu.prototype.initPane = function () {
+        return false;
+    };
+    /**
+     * \@internal
+     * @param {?} isPane
+     * @return {?}
+     */
+    Menu.prototype.paneChanged = function (isPane) {
+        this._isPane = isPane;
+        this._updateState();
+    };
+    /**
+     * @hidden
+     * @param {?} shouldEnable
+     * @return {?}
+     */
+    Menu.prototype.swipeEnable = function (shouldEnable) {
+        this._isSwipeEnabled = shouldEnable;
+        this._updateState();
+        return this;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.getNativeElement = function () {
+        return this._elementRef.nativeElement;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.getMenuElement = function () {
+        return (this.getNativeElement().querySelector('.menu-inner'));
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.getContentElement = function () {
+        return this._cntEle;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.getBackdropElement = function () {
+        return this.backdrop.getNativeElement();
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.width = function () {
+        return this.getMenuElement().offsetWidth;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.getMenuController = function () {
+        return this._menuCtrl;
+    };
+    /**
+     * @hidden
+     * @param {?} className
+     * @param {?} add
+     * @return {?}
+     */
+    Menu.prototype.setElementClass = function (className, add) {
+        this._renderer.setElementClass(this._elementRef.nativeElement, className, add);
+    };
+    /**
+     * @hidden
+     * @param {?} attributeName
+     * @param {?} value
+     * @return {?}
+     */
+    Menu.prototype.setElementAttribute = function (attributeName, value) {
+        this._renderer.setElementAttribute(this._elementRef.nativeElement, attributeName, value);
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.getElementRef = function () {
+        return this._elementRef;
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    Menu.prototype.ngOnDestroy = function () {
+        this._menuCtrl._unregister(this);
+        this._events.destroy();
+        this._gesture && this._gesture.destroy();
+        this._type && this._type.destroy();
+        this._gesture = null;
+        this._type = null;
+        this._cntEle = null;
+    };
+    return Menu;
+}());
+
+Menu.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
+                selector: 'ion-menu',
+                template: '<div class="menu-inner"><ng-content></ng-content></div>' +
+                    '<ion-backdrop></ion-backdrop>',
+                host: {
+                    'role': 'navigation'
+                },
+                changeDetection: __WEBPACK_IMPORTED_MODULE_0__angular_core__["j" /* ChangeDetectionStrategy */].OnPush,
+                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None,
+                providers: [{ provide: __WEBPACK_IMPORTED_MODULE_14__split_pane_split_pane__["a" /* RootNode */], useExisting: Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_20" /* forwardRef */])(function () { return Menu; }) }]
+            },] },
+];
+/**
+ * @nocollapse
+ */
+Menu.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_10__app_menu_controller__["a" /* MenuController */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
+    { type: __WEBPACK_IMPORTED_MODULE_3__config_config__["a" /* Config */], },
+    { type: __WEBPACK_IMPORTED_MODULE_12__platform_platform__["a" /* Platform */], },
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
+    { type: __WEBPACK_IMPORTED_MODULE_8__platform_keyboard__["a" /* Keyboard */], },
+    { type: __WEBPACK_IMPORTED_MODULE_6__gestures_gesture_controller__["l" /* GestureController */], },
+    { type: __WEBPACK_IMPORTED_MODULE_5__platform_dom_controller__["a" /* DomController */], },
+    { type: __WEBPACK_IMPORTED_MODULE_1__app_app__["a" /* App */], },
+]; };
+Menu.propDecorators = {
+    'backdrop': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_13" /* ViewChild */], args: [__WEBPACK_IMPORTED_MODULE_2__backdrop_backdrop__["a" /* Backdrop */],] },],
+    'menuContent': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* ContentChild */], args: [__WEBPACK_IMPORTED_MODULE_4__content_content__["a" /* Content */],] },],
+    'menuNav': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* ContentChild */], args: [__WEBPACK_IMPORTED_MODULE_11__nav_nav__["a" /* Nav */],] },],
+    'content': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'id': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'type': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'enabled': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'side': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'swipeEnabled': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'persistent': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'maxEdgeStart': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'ionDrag': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
+    'ionOpen': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
+    'ionClose': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
+};
+function Menu_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Menu.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    Menu.ctorParameters;
+    /** @type {?} */
+    Menu.propDecorators;
+    /** @type {?} */
+    Menu.prototype._cntEle;
+    /** @type {?} */
+    Menu.prototype._gesture;
+    /** @type {?} */
+    Menu.prototype._type;
+    /** @type {?} */
+    Menu.prototype._isEnabled;
+    /** @type {?} */
+    Menu.prototype._isSwipeEnabled;
+    /** @type {?} */
+    Menu.prototype._isAnimating;
+    /** @type {?} */
+    Menu.prototype._isPersistent;
+    /** @type {?} */
+    Menu.prototype._init;
+    /** @type {?} */
+    Menu.prototype._events;
+    /** @type {?} */
+    Menu.prototype._gestureBlocker;
+    /** @type {?} */
+    Menu.prototype._isPane;
+    /** @type {?} */
+    Menu.prototype._side;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    Menu.prototype.isOpen;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    Menu.prototype.isRightSide;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    Menu.prototype.backdrop;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    Menu.prototype.menuContent;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    Menu.prototype.menuNav;
+    /**
+     * \@input {any} A reference to the content element the menu should use.
+     * @type {?}
+     */
+    Menu.prototype.content;
+    /**
+     * \@input {string} An id for the menu.
+     * @type {?}
+     */
+    Menu.prototype.id;
+    /**
+     * \@input {string} The display type of the menu. Default varies based on the mode,
+     * see the `menuType` in the [config](../../config/Config). Available options:
+     * `"overlay"`, `"reveal"`, `"push"`.
+     * @type {?}
+     */
+    Menu.prototype.type;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    Menu.prototype.maxEdgeStart;
+    /**
+     * \@output {event} Emitted when the menu is being dragged open.
+     * @type {?}
+     */
+    Menu.prototype.ionDrag;
+    /**
+     * \@output {event} Emitted when the menu has been opened.
+     * @type {?}
+     */
+    Menu.prototype.ionOpen;
+    /**
+     * \@output {event} Emitted when the menu has been closed.
+     * @type {?}
+     */
+    Menu.prototype.ionClose;
+    /** @type {?} */
+    Menu.prototype._menuCtrl;
+    /** @type {?} */
+    Menu.prototype._elementRef;
+    /** @type {?} */
+    Menu.prototype._config;
+    /** @type {?} */
+    Menu.prototype._plt;
+    /** @type {?} */
+    Menu.prototype._renderer;
+    /** @type {?} */
+    Menu.prototype._keyboard;
+    /** @type {?} */
+    Menu.prototype._gestureCtrl;
+    /** @type {?} */
+    Menu.prototype._domCtrl;
+    /** @type {?} */
+    Menu.prototype._app;
+}
+//# sourceMappingURL=menu.js.map
+
+/***/ }),
+/* 141 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MenuClose; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_menu_controller__ = __webpack_require__(26);
+
+
+/**
+ * \@name MenuClose
+ * \@description
+ * The `menuClose` directive can be placed on any button to close an open menu.
+ *
+ * \@usage
+ *
+ * A simple `menuClose` button can be added using the following markup:
+ *
+ * ```html
+ * <button ion-button menuClose>Close Menu</button>
+ * ```
+ *
+ * To close a certain menu by its id or side, give the `menuClose`
+ * directive a value.
+ *
+ * ```html
+ * <button ion-button menuClose="left">Close Left Menu</button>
+ * ```
+ *
+ * \@demo /docs/demos/src/menu/
+ * @see {\@link /docs/components#menus Menu Component Docs}
+ * @see {\@link ../../menu/Menu Menu API Docs}
+ */
+var MenuClose = (function () {
+    /**
+     * @param {?} _menu
+     */
+    function MenuClose(_menu) {
+        this._menu = _menu;
+    }
+    /**
+     * @hidden
+     * @return {?}
+     */
+    MenuClose.prototype.close = function () {
+        var /** @type {?} */ menu = this._menu.get(this.menuClose);
+        menu && menu.close();
+    };
+    return MenuClose;
+}());
+
+MenuClose.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: '[menuClose]'
+            },] },
+];
+/**
+ * @nocollapse
+ */
+MenuClose.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_1__app_menu_controller__["a" /* MenuController */], },
+]; };
+MenuClose.propDecorators = {
+    'menuClose': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'close': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* HostListener */], args: ['click',] },],
+};
+function MenuClose_tsickle_Closure_declarations() {
+    /** @type {?} */
+    MenuClose.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    MenuClose.ctorParameters;
+    /** @type {?} */
+    MenuClose.propDecorators;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    MenuClose.prototype.menuClose;
+    /** @type {?} */
+    MenuClose.prototype._menu;
+}
+//# sourceMappingURL=menu-close.js.map
+
+/***/ }),
+/* 142 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MenuToggle; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__button_button__ = __webpack_require__(33);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__app_menu_controller__ = __webpack_require__(26);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__toolbar_navbar__ = __webpack_require__(37);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__ = __webpack_require__(5);
+
+
+
+
+
+/**
+ * \@name MenuToggle
+ * \@description
+ * The `menuToggle` directive can be placed on any button to toggle a menu open or closed.
+ * If it is added to the [NavBar](../../navbar/NavBar) of a page, the button will only appear
+ * when the page it's in is currently a root page. See the [Menu Navigation Bar Behavior](../Menu#navigation-bar-behavior)
+ * docs for more information.
+ *
+ *
+ * \@usage
+ *
+ * A simple `menuToggle` button can be added using the following markup:
+ *
+ * ```html
+ * <button ion-button menuToggle>Toggle Menu</button>
+ * ```
+ *
+ * To toggle a specific menu by its id or side, give the `menuToggle`
+ * directive a value.
+ *
+ * ```html
+ * <button ion-button menuToggle="right">Toggle Right Menu</button>
+ * ```
+ *
+ * If placing the `menuToggle` in a navbar or toolbar, it should be
+ * placed as a child of the `<ion-navbar>` or `<ion-toolbar>`, and not in
+ * the `<ion-buttons>` element:
+ *
+ * ```html
+ * <ion-header>
+ *
+ *   <ion-navbar>
+ *     <ion-buttons start>
+ *       <button ion-button>
+ *         <ion-icon name="contact"></ion-icon>
+ *       </button>
+ *     </ion-buttons>
+ *     <button ion-button menuToggle>
+ *       <ion-icon name="menu"></ion-icon>
+ *     </button>
+ *     <ion-title>
+ *       Title
+ *     </ion-title>
+ *     <ion-buttons end>
+ *       <button ion-button (click)="doClick()">
+ *         <ion-icon name="more"></ion-icon>
+ *       </button>
+ *     </ion-buttons>
+ *   </ion-navbar>
+ *
+ * </ion-header>
+ * ```
+ *
+ * Similar to `<ion-buttons>`, the `menuToggle` can be positioned using
+ * `start`, `end`, `left`, or `right`:
+ *
+ * ```html
+ * <ion-toolbar>
+ *   <button ion-button menuToggle right>
+ *     <ion-icon name="menu"></ion-icon>
+ *   </button>
+ *   <ion-title>
+ *     Title
+ *   </ion-title>
+ *   <ion-buttons end>
+ *     <button ion-button (click)="doClick()">
+ *       <ion-icon name="more"></ion-icon>
+ *     </button>
+ *   </ion-buttons>
+ * </ion-toolbar>
+ * ```
+ *
+ * See the [Toolbar API docs](../../toolbar/Toolbar) for more information
+ * on the different positions.
+ *
+ * \@demo /docs/demos/src/menu/
+ * @see {\@link /docs/components#menus Menu Component Docs}
+ * @see {\@link ../../menu/Menu Menu API Docs}
+ */
+var MenuToggle = (function () {
+    /**
+     * @param {?} _menu
+     * @param {?} _viewCtrl
+     * @param {?} _button
+     * @param {?} _navbar
+     */
+    function MenuToggle(_menu, _viewCtrl, _button, _navbar) {
+        this._menu = _menu;
+        this._viewCtrl = _viewCtrl;
+        this._button = _button;
+        this._isButton = !!_button;
+        this._inNavbar = !!_navbar;
+    }
+    /**
+     * @return {?}
+     */
+    MenuToggle.prototype.ngAfterContentInit = function () {
+        // Add the bar-button-menutoggle / button-menutoggle class
+        if (this._isButton) {
+            this._button._setClass('menutoggle', true);
+        }
+    };
+    /**
+     * @hidden
+     * @return {?}
+     */
+    MenuToggle.prototype.toggle = function () {
+        var /** @type {?} */ menu = this._menu.get(this.menuToggle);
+        menu && menu.toggle();
+    };
+    Object.defineProperty(MenuToggle.prototype, "isHidden", {
+        /**
+         * @hidden
+         * @return {?}
+         */
+        get: function () {
+            var /** @type {?} */ menu = this._menu.get(this.menuToggle);
+            if (this._inNavbar && this._viewCtrl) {
+                if (!menu || !menu._canOpen()) {
+                    return true;
+                }
+                if (this._viewCtrl.isFirst()) {
+                    // this is the first view, so it should always show
+                    return false;
+                }
+                if (menu) {
+                    // this is not the root view, so see if this menu
+                    // is configured to still be enabled if it's not the root view
+                    return !menu.persistent;
+                }
+            }
+            return false;
+        },
+        enumerable: true,
+        configurable: true
+    });
+    return MenuToggle;
+}());
+
+MenuToggle.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
+                selector: '[menuToggle]',
+                host: {
+                    '[hidden]': 'isHidden'
+                }
+            },] },
+];
+/**
+ * @nocollapse
+ */
+MenuToggle.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_2__app_menu_controller__["a" /* MenuController */], },
+    { type: __WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__["a" /* ViewController */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
+    { type: __WEBPACK_IMPORTED_MODULE_1__button_button__["a" /* Button */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
+    { type: __WEBPACK_IMPORTED_MODULE_3__toolbar_navbar__["a" /* Navbar */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
+]; };
+MenuToggle.propDecorators = {
+    'menuToggle': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
+    'toggle': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* HostListener */], args: ['click',] },],
+};
+function MenuToggle_tsickle_Closure_declarations() {
+    /** @type {?} */
+    MenuToggle.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    MenuToggle.ctorParameters;
+    /** @type {?} */
+    MenuToggle.propDecorators;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    MenuToggle.prototype.menuToggle;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    MenuToggle.prototype._isButton;
+    /**
+     * @hidden
+     * @type {?}
+     */
+    MenuToggle.prototype._inNavbar;
+    /** @type {?} */
+    MenuToggle.prototype._menu;
+    /** @type {?} */
+    MenuToggle.prototype._viewCtrl;
+    /** @type {?} */
+    MenuToggle.prototype._button;
+}
+//# sourceMappingURL=menu-toggle.js.map
+
+/***/ }),
+/* 143 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ToolbarBase; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__ion__ = __webpack_require__(4);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+/**
+ * @hidden
+ */
+var ToolbarBase = (function (_super) {
+    __extends(ToolbarBase, _super);
+    /**
+     * @param {?} config
+     * @param {?} elementRef
+     * @param {?} renderer
+     */
+    function ToolbarBase(config, elementRef, renderer) {
+        return _super.call(this, config, elementRef, renderer, 'toolbar') || this;
+    }
+    /**
+     * @hidden
+     * @param {?} titleCmp
+     * @return {?}
+     */
+    ToolbarBase.prototype._setTitle = function (titleCmp) {
+        this._title = titleCmp;
+    };
+    /**
+     * @hidden
+     * Returns the toolbar title text if it exists or an empty string
+     * @return {?}
+     */
+    ToolbarBase.prototype.getTitleText = function () {
+        return (this._title && this._title.getTitleText()) || '';
+    };
+    return ToolbarBase;
+}(__WEBPACK_IMPORTED_MODULE_0__ion__["a" /* Ion */]));
+
+function ToolbarBase_tsickle_Closure_declarations() {
+    /** @type {?} */
+    ToolbarBase.prototype._title;
+}
+//# sourceMappingURL=toolbar-base.js.map
+
+/***/ }),
+/* 144 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Modal; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__navigation_overlay_proxy__ = __webpack_require__(145);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__modal_impl__ = __webpack_require__(235);
+var __extends = (this && this.__extends) || (function () {
+    var extendStatics = Object.setPrototypeOf ||
+        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
+        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
+    return function (d, b) {
+        extendStatics(d, b);
+        function __() { this.constructor = d; }
+        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
+    };
+})();
+
+
+/**
+ * @hidden
+ */
+var Modal = (function (_super) {
+    __extends(Modal, _super);
+    /**
+     * @param {?} app
+     * @param {?} component
+     * @param {?} data
+     * @param {?=} opts
+     * @param {?=} config
+     * @param {?=} deepLinker
+     */
+    function Modal(app, component, data, opts, config, deepLinker) {
+        if (opts === void 0) { opts = {}; }
+        var _this = _super.call(this, app, component, config, deepLinker) || this;
+        _this.data = data;
+        _this.opts = opts;
+        _this.isOverlay = true;
+        return _this;
+    }
+    /**
+     * @return {?}
+     */
+    Modal.prototype.getImplementation = function () {
+        return new __WEBPACK_IMPORTED_MODULE_1__modal_impl__["a" /* ModalImpl */](this._app, this._component, this.data, this.opts, this._config);
+    };
+    return Modal;
+}(__WEBPACK_IMPORTED_MODULE_0__navigation_overlay_proxy__["a" /* OverlayProxy */]));
+
+function Modal_tsickle_Closure_declarations() {
+    /** @type {?} */
+    Modal.prototype.isOverlay;
+    /** @type {?} */
+    Modal.prototype.data;
+    /** @type {?} */
+    Modal.prototype.opts;
+}
+//# sourceMappingURL=modal.js.map
+
+/***/ }),
+/* 145 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return OverlayProxy; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__util_util__ = __webpack_require__(2);
+
+var OverlayProxy = (function () {
+    /**
+     * @param {?} _app
+     * @param {?} _component
+     * @param {?} _config
+     * @param {?} _deepLinker
+     */
+    function OverlayProxy(_app, _component, _config, _deepLinker) {
+        this._app = _app;
+        this._component = _component;
+        this._config = _config;
+        this._deepLinker = _deepLinker;
+    }
+    /**
+     * @return {?}
+     */
+    OverlayProxy.prototype.getImplementation = function () {
+        throw new Error('Child class must implement "getImplementation" method');
+    };
+    /**
+     * Present the modal instance.
+     *
+     * @param {?=} navOptions
+     * @return {?}
+     */
+    OverlayProxy.prototype.present = function (navOptions) {
+        var _this = this;
+        if (navOptions === void 0) { navOptions = {}; }
+        // check if it's a lazy loaded component, or not
+        var /** @type {?} */ isLazyLoaded = Object(__WEBPACK_IMPORTED_MODULE_0__util_util__["n" /* isString */])(this._component);
+        if (isLazyLoaded) {
+            return this._deepLinker.getComponentFromName(this._component).then(function (loadedComponent) {
+                _this._component = loadedComponent;
+                return _this.createAndPresentOverlay(navOptions);
+            });
+        }
+        else {
+            return this.createAndPresentOverlay(navOptions);
+        }
+    };
+    /**
+     * @param {?=} data
+     * @param {?=} role
+     * @param {?=} navOptions
+     * @return {?}
+     */
+    OverlayProxy.prototype.dismiss = function (data, role, navOptions) {
+        if (this.overlay) {
+            return this.overlay.dismiss(data, role, navOptions);
+        }
+    };
+    /**
+     * Called when the current viewController has be successfully dismissed
+     * @param {?} callback
+     * @return {?}
+     */
+    OverlayProxy.prototype.onDidDismiss = function (callback) {
+        this._onDidDismiss = callback;
+        if (this.overlay) {
+            this.overlay.onDidDismiss(this._onDidDismiss);
+        }
+    };
+    /**
+     * @param {?} navOptions
+     * @return {?}
+     */
+    OverlayProxy.prototype.createAndPresentOverlay = function (navOptions) {
+        this.overlay = this.getImplementation();
+        this.overlay.onWillDismiss(this._onWillDismiss);
+        this.overlay.onDidDismiss(this._onDidDismiss);
+        return this.overlay.present(navOptions);
+    };
+    /**
+     * Called when the current viewController will be dismissed
+     * @param {?} callback
+     * @return {?}
+     */
+    OverlayProxy.prototype.onWillDismiss = function (callback) {
+        this._onWillDismiss = callback;
+        if (this.overlay) {
+            this.overlay.onWillDismiss(this._onWillDismiss);
+        }
+    };
+    return OverlayProxy;
+}());
+
+function OverlayProxy_tsickle_Closure_declarations() {
+    /** @type {?} */
+    OverlayProxy.prototype.overlay;
+    /** @type {?} */
+    OverlayProxy.prototype._onWillDismiss;
+    /** @type {?} */
+    OverlayProxy.prototype._onDidDismiss;
+    /** @type {?} */
+    OverlayProxy.prototype._app;
+    /** @type {?} */
+    OverlayProxy.prototype._component;
+    /** @type {?} */
+    OverlayProxy.prototype._config;
+    /** @type {?} */
+    OverlayProxy.prototype._deepLinker;
+}
+//# sourceMappingURL=overlay-proxy.js.map
+
+/***/ }),
+/* 146 */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NgModuleLoader; });
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
+
+/**
+ * NgModuleFactoryLoader that uses SystemJS to load NgModuleFactory
+ */
+var NgModuleLoader = (function () {
+    /**
+     * @param {?} _compiler
+     */
+    function NgModuleLoader(_compiler) {
+        this._compiler = _compiler;
+    }
+    /**
+     * @param {?} modulePath
+     * @param {?} ngModuleExport
+     * @return {?}
+     */
+    NgModuleLoader.prototype.load = function (modulePath, ngModuleExport) {
+        var /** @type {?} */ offlineMode = this._compiler instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["l" /* Compiler */];
+        return offlineMode ? loadPrecompiledFactory(modulePath, ngModuleExport) : loadAndCompile(this._compiler, modulePath, ngModuleExport);
+    };
+    return NgModuleLoader;
+}());
+
+NgModuleLoader.decorators = [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Injectable */] },
+];
+/**
+ * @nocollapse
+ */
+NgModuleLoader.ctorParameters = function () { return [
+    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["l" /* Compiler */], },
+]; };
+function NgModuleLoader_tsickle_Closure_declarations() {
+    /** @type {?} */
+    NgModuleLoader.decorators;
+    /**
+     * @nocollapse
+     * @type {?}
+     */
+    NgModuleLoader.ctorParameters;
+    /** @type {?} */
+    NgModuleLoader.prototype._compiler;
+}
+/**
+ * @param {?} compiler
+ * @param {?} modulePath
+ * @param {?} ngModuleExport
+ * @return {?}
+ */
+function loadAndCompile(compiler, modulePath, ngModuleExport) {
+    if (!ngModuleExport) {
+        ngModuleExport = 'default';
+    }
+    return __webpack_require__(147)(modulePath)
+        .then(function (rawModule) {
+        var /** @type {?} */ module = rawModule[ngModuleExport];
+        if (!module) {
+            throw new Error("Module " + modulePath + " does not export " + ngModuleExport);
+        }
+        return compiler.compileModuleAsync(module);
+    });
+}
+/**
+ * @param {?} modulePath
+ * @param {?} ngModuleExport
+ * @return {?}
+ */
+function loadPrecompiledFactory(modulePath, ngModuleExport) {
+    return __webpack_require__(147)(modulePath)
+        .then(function (rawModule) {
+        var /** @type {?} */ ngModuleFactory = rawModule[ngModuleExport];
+        if (!ngModuleFactory) {
+            throw new Error("Module " + modulePath + " does not export " + ngModuleExport);
+        }
+        return ngModuleFactory;
+    });
+}
+//# sourceMappingURL=ng-module-loader.js.map
+
+/***/ }),
+/* 147 */,
+/* 148 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -59189,8528 +67711,6 @@ var VERSION = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["_12" /* Version *
 
 
 /***/ }),
-/* 108 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return OverlayPortal; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app__ = __webpack_require__(6);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__navigation_deep_linker__ = __webpack_require__(14);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__platform_dom_controller__ = __webpack_require__(8);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__gestures_gesture_controller__ = __webpack_require__(7);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__navigation_nav_controller_base__ = __webpack_require__(40);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__platform_platform__ = __webpack_require__(3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__transitions_transition_controller__ = __webpack_require__(42);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-
-
-
-
-
-
-/**
- * @hidden
- */
-var OverlayPortal = (function (_super) {
-    __extends(OverlayPortal, _super);
-    /**
-     * @param {?} app
-     * @param {?} config
-     * @param {?} plt
-     * @param {?} elementRef
-     * @param {?} zone
-     * @param {?} renderer
-     * @param {?} cfr
-     * @param {?} gestureCtrl
-     * @param {?} transCtrl
-     * @param {?} linker
-     * @param {?} viewPort
-     * @param {?} domCtrl
-     * @param {?} errHandler
-     */
-    function OverlayPortal(app, config, plt, elementRef, zone, renderer, cfr, gestureCtrl, transCtrl, linker, viewPort, domCtrl, errHandler) {
-        var _this = _super.call(this, null, app, config, plt, elementRef, zone, renderer, cfr, gestureCtrl, transCtrl, linker, domCtrl, errHandler) || this;
-        _this._isPortal = true;
-        _this._init = true;
-        _this.setViewport(viewPort);
-        // on every page change make sure the portal has
-        // dismissed any views that should be auto dismissed on page change
-        app.viewDidLeave.subscribe(function (view) {
-            if (!view.isOverlay) {
-                _this.dismissPageChangeViews();
-            }
-        });
-        return _this;
-    }
-    Object.defineProperty(OverlayPortal.prototype, "_overlayPortal", {
-        /**
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            this._zIndexOffset = (val || 0);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @return {?}
-     */
-    OverlayPortal.prototype.ngOnDestroy = function () {
-        this.destroy();
-    };
-    /**
-     * @return {?}
-     */
-    OverlayPortal.prototype.getType = function () {
-        return 'portal';
-    };
-    /**
-     * @return {?}
-     */
-    OverlayPortal.prototype.getSecondaryIdentifier = function () {
-        return null;
-    };
-    return OverlayPortal;
-}(__WEBPACK_IMPORTED_MODULE_6__navigation_nav_controller_base__["a" /* NavControllerBase */]));
-
-OverlayPortal.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: '[overlay-portal]',
-            },] },
-];
-/**
- * @nocollapse
- */
-OverlayPortal.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_1__app__["a" /* App */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["A" /* Inject */], args: [Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_20" /* forwardRef */])(function () { return __WEBPACK_IMPORTED_MODULE_1__app__["a" /* App */]; }),] },] },
-    { type: __WEBPACK_IMPORTED_MODULE_2__config_config__["a" /* Config */], },
-    { type: __WEBPACK_IMPORTED_MODULE_7__platform_platform__["a" /* Platform */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* NgZone */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["p" /* ComponentFactoryResolver */], },
-    { type: __WEBPACK_IMPORTED_MODULE_5__gestures_gesture_controller__["l" /* GestureController */], },
-    { type: __WEBPACK_IMPORTED_MODULE_8__transitions_transition_controller__["a" /* TransitionController */], },
-    { type: __WEBPACK_IMPORTED_MODULE_3__navigation_deep_linker__["a" /* DeepLinker */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_15" /* ViewContainerRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_4__platform_dom_controller__["a" /* DomController */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["v" /* ErrorHandler */], },
-]; };
-OverlayPortal.propDecorators = {
-    '_overlayPortal': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */], args: ['overlay-portal',] },],
-};
-function OverlayPortal_tsickle_Closure_declarations() {
-    /** @type {?} */
-    OverlayPortal.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    OverlayPortal.ctorParameters;
-    /** @type {?} */
-    OverlayPortal.propDecorators;
-}
-//# sourceMappingURL=overlay-portal.js.map
-
-/***/ }),
-/* 109 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return SlideGesture; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__pan_gesture__ = __webpack_require__(41);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__util_util__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__util_dom__ = __webpack_require__(10);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-/**
- * @hidden
- */
-var SlideGesture = (function (_super) {
-    __extends(SlideGesture, _super);
-    /**
-     * @param {?} plt
-     * @param {?} element
-     * @param {?=} opts
-     */
-    function SlideGesture(plt, element, opts) {
-        if (opts === void 0) { opts = {}; }
-        var _this = _super.call(this, plt, element, opts) || this;
-        _this.slide = null;
-        return _this;
-    }
-    /**
-     * @param {?} _slide
-     * @param {?} _ev
-     * @return {?}
-     */
-    SlideGesture.prototype.getSlideBoundaries = function (_slide, _ev) {
-        return {
-            min: 0,
-            max: this.getNativeElement().offsetWidth
-        };
-    };
-    /**
-     * @param {?} _slide
-     * @param {?} _ev
-     * @return {?}
-     */
-    SlideGesture.prototype.getElementStartPos = function (_slide, _ev) {
-        return 0;
-    };
-    /**
-     * @param {?} ev
-     * @return {?}
-     */
-    SlideGesture.prototype.onDragStart = function (ev) {
-        this.onSlideBeforeStart(ev);
-        var /** @type {?} */ coord = (Object(__WEBPACK_IMPORTED_MODULE_2__util_dom__["f" /* pointerCoord */])(ev));
-        var /** @type {?} */ pos = coord[this.direction];
-        this.slide = {
-            min: 0,
-            max: 0,
-            pointerStartPos: pos,
-            pos: pos,
-            timestamp: Date.now(),
-            elementStartPos: 0,
-            started: true,
-            delta: 0,
-            distance: 0,
-            velocity: 0,
-        };
-        // TODO: we should run this in the next frame
-        var _a = this.getSlideBoundaries(this.slide, ev), min = _a.min, max = _a.max;
-        this.slide.min = min;
-        this.slide.max = max;
-        this.slide.elementStartPos = this.getElementStartPos(this.slide, ev);
-        this.onSlideStart(this.slide, ev);
-    };
-    /**
-     * @param {?} ev
-     * @return {?}
-     */
-    SlideGesture.prototype.onDragMove = function (ev) {
-        var /** @type {?} */ slide = this.slide;
-        (void 0) /* assert */;
-        var /** @type {?} */ coord = (Object(__WEBPACK_IMPORTED_MODULE_2__util_dom__["f" /* pointerCoord */])(ev));
-        var /** @type {?} */ newPos = coord[this.direction];
-        var /** @type {?} */ newTimestamp = Date.now();
-        var /** @type {?} */ velocity = (this.plt.isRTL ? (slide.pos - newPos) : (newPos - slide.pos)) / (newTimestamp - slide.timestamp);
-        slide.pos = newPos;
-        slide.timestamp = newTimestamp;
-        slide.distance = Object(__WEBPACK_IMPORTED_MODULE_1__util_util__["a" /* clamp */])(slide.min, (this.plt.isRTL ? slide.pointerStartPos - newPos : newPos - slide.pointerStartPos) + slide.elementStartPos, slide.max);
-        slide.velocity = velocity;
-        slide.delta = (this.plt.isRTL ? slide.pointerStartPos - newPos : newPos - slide.pointerStartPos);
-        this.onSlide(slide, ev);
-    };
-    /**
-     * @param {?} ev
-     * @return {?}
-     */
-    SlideGesture.prototype.onDragEnd = function (ev) {
-        this.onSlideEnd(this.slide, ev);
-        this.slide = null;
-    };
-    /**
-     * @param {?=} _ev
-     * @return {?}
-     */
-    SlideGesture.prototype.onSlideBeforeStart = function (_ev) { };
-    /**
-     * @param {?=} _slide
-     * @param {?=} _ev
-     * @return {?}
-     */
-    SlideGesture.prototype.onSlideStart = function (_slide, _ev) { };
-    /**
-     * @param {?=} _slide
-     * @param {?=} _ev
-     * @return {?}
-     */
-    SlideGesture.prototype.onSlide = function (_slide, _ev) { };
-    /**
-     * @param {?=} _slide
-     * @param {?=} _ev
-     * @return {?}
-     */
-    SlideGesture.prototype.onSlideEnd = function (_slide, _ev) { };
-    return SlideGesture;
-}(__WEBPACK_IMPORTED_MODULE_0__pan_gesture__["a" /* PanGesture */]));
-
-function SlideGesture_tsickle_Closure_declarations() {
-    /** @type {?} */
-    SlideGesture.prototype.slide;
-}
-//# sourceMappingURL=slide-gesture.js.map
-
-/***/ }),
-/* 110 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "b", function() { return PointerEvents; });
-/* unused harmony export POINTER_EVENT_TYPE_MOUSE */
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return POINTER_EVENT_TYPE_TOUCH; });
-/**
- * @hidden
- */
-var PointerEvents = (function () {
-    /**
-     * @param {?} plt
-     * @param {?} ele
-     * @param {?} pointerDown
-     * @param {?} pointerMove
-     * @param {?} pointerUp
-     * @param {?} option
-     */
-    function PointerEvents(plt, ele, pointerDown, pointerMove, pointerUp, option) {
-        this.plt = plt;
-        this.ele = ele;
-        this.pointerDown = pointerDown;
-        this.pointerMove = pointerMove;
-        this.pointerUp = pointerUp;
-        this.option = option;
-        this.rmTouchStart = null;
-        this.rmTouchMove = null;
-        this.rmTouchEnd = null;
-        this.rmTouchCancel = null;
-        this.rmMouseStart = null;
-        this.rmMouseMove = null;
-        this.rmMouseUp = null;
-        this.lastTouchEvent = 0;
-        this.mouseWait = 2 * 1000;
-        (void 0) /* assert */;
-        (void 0) /* assert */;
-        this.bindTouchEnd = this.handleTouchEnd.bind(this);
-        this.bindMouseUp = this.handleMouseUp.bind(this);
-        this.rmTouchStart = this.plt.registerListener(ele, 'touchstart', this.handleTouchStart.bind(this), option);
-        this.rmMouseStart = this.plt.registerListener(ele, 'mousedown', this.handleMouseDown.bind(this), option);
-    }
-    /**
-     * @param {?} ev
-     * @return {?}
-     */
-    PointerEvents.prototype.handleTouchStart = function (ev) {
-        (void 0) /* assert */;
-        (void 0) /* assert */;
-        this.lastTouchEvent = Date.now() + this.mouseWait;
-        this.lastEventType = POINTER_EVENT_TYPE_TOUCH;
-        if (!this.pointerDown(ev, POINTER_EVENT_TYPE_TOUCH)) {
-            return;
-        }
-        if (!this.rmTouchMove && this.pointerMove) {
-            this.rmTouchMove = this.plt.registerListener(this.ele, 'touchmove', this.pointerMove, this.option);
-        }
-        if (!this.rmTouchEnd) {
-            this.rmTouchEnd = this.plt.registerListener(this.ele, 'touchend', this.bindTouchEnd, this.option);
-        }
-        if (!this.rmTouchCancel) {
-            this.rmTouchCancel = this.plt.registerListener(this.ele, 'touchcancel', this.bindTouchEnd, this.option);
-        }
-    };
-    /**
-     * @param {?} ev
-     * @return {?}
-     */
-    PointerEvents.prototype.handleMouseDown = function (ev) {
-        (void 0) /* assert */;
-        (void 0) /* assert */;
-        if (this.lastTouchEvent > Date.now()) {
-            (void 0) /* console.debug */;
-            return;
-        }
-        this.lastEventType = POINTER_EVENT_TYPE_MOUSE;
-        if (!this.pointerDown(ev, POINTER_EVENT_TYPE_MOUSE)) {
-            return;
-        }
-        if (!this.rmMouseMove && this.pointerMove) {
-            this.rmMouseMove = this.plt.registerListener(this.plt.doc(), 'mousemove', this.pointerMove, this.option);
-        }
-        if (!this.rmMouseUp) {
-            this.rmMouseUp = this.plt.registerListener(this.plt.doc(), 'mouseup', this.bindMouseUp, this.option);
-        }
-    };
-    /**
-     * @param {?} ev
-     * @return {?}
-     */
-    PointerEvents.prototype.handleTouchEnd = function (ev) {
-        this.stopTouch();
-        this.pointerUp && this.pointerUp(ev, POINTER_EVENT_TYPE_TOUCH);
-    };
-    /**
-     * @param {?} ev
-     * @return {?}
-     */
-    PointerEvents.prototype.handleMouseUp = function (ev) {
-        this.stopMouse();
-        this.pointerUp && this.pointerUp(ev, POINTER_EVENT_TYPE_MOUSE);
-    };
-    /**
-     * @return {?}
-     */
-    PointerEvents.prototype.stopTouch = function () {
-        this.rmTouchMove && this.rmTouchMove();
-        this.rmTouchEnd && this.rmTouchEnd();
-        this.rmTouchCancel && this.rmTouchCancel();
-        this.rmTouchMove = this.rmTouchEnd = this.rmTouchCancel = null;
-    };
-    /**
-     * @return {?}
-     */
-    PointerEvents.prototype.stopMouse = function () {
-        this.rmMouseMove && this.rmMouseMove();
-        this.rmMouseUp && this.rmMouseUp();
-        this.rmMouseMove = this.rmMouseUp = null;
-    };
-    /**
-     * @return {?}
-     */
-    PointerEvents.prototype.stop = function () {
-        this.stopTouch();
-        this.stopMouse();
-    };
-    /**
-     * @return {?}
-     */
-    PointerEvents.prototype.destroy = function () {
-        this.rmTouchStart && this.rmTouchStart();
-        this.rmMouseStart && this.rmMouseStart();
-        this.stop();
-        this.ele = this.pointerUp = this.pointerMove = this.pointerDown = this.rmTouchStart = this.rmMouseStart = null;
-    };
-    return PointerEvents;
-}());
-
-function PointerEvents_tsickle_Closure_declarations() {
-    /** @type {?} */
-    PointerEvents.prototype.rmTouchStart;
-    /** @type {?} */
-    PointerEvents.prototype.rmTouchMove;
-    /** @type {?} */
-    PointerEvents.prototype.rmTouchEnd;
-    /** @type {?} */
-    PointerEvents.prototype.rmTouchCancel;
-    /** @type {?} */
-    PointerEvents.prototype.rmMouseStart;
-    /** @type {?} */
-    PointerEvents.prototype.rmMouseMove;
-    /** @type {?} */
-    PointerEvents.prototype.rmMouseUp;
-    /** @type {?} */
-    PointerEvents.prototype.bindTouchEnd;
-    /** @type {?} */
-    PointerEvents.prototype.bindMouseUp;
-    /** @type {?} */
-    PointerEvents.prototype.lastTouchEvent;
-    /** @type {?} */
-    PointerEvents.prototype.mouseWait;
-    /** @type {?} */
-    PointerEvents.prototype.lastEventType;
-    /** @type {?} */
-    PointerEvents.prototype.plt;
-    /** @type {?} */
-    PointerEvents.prototype.ele;
-    /** @type {?} */
-    PointerEvents.prototype.pointerDown;
-    /** @type {?} */
-    PointerEvents.prototype.pointerMove;
-    /** @type {?} */
-    PointerEvents.prototype.pointerUp;
-    /** @type {?} */
-    PointerEvents.prototype.option;
-}
-var /** @type {?} */ POINTER_EVENT_TYPE_MOUSE = 1;
-var /** @type {?} */ POINTER_EVENT_TYPE_TOUCH = 2;
-//# sourceMappingURL=pointer-events.js.map
-
-/***/ }),
-/* 111 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ActionSheetController; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__action_sheet__ = __webpack_require__(56);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__app_app__ = __webpack_require__(6);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__config_config__ = __webpack_require__(1);
-
-
-
-
-/**
- * \@name ActionSheetController
- * \@description
- * An Action Sheet is a dialog that lets the user choose from a set of
- * options. It appears on top of the app's content, and must be manually
- * dismissed by the user before they can resume interaction with the app.
- * Dangerous (destructive) options are made obvious in `ios` mode. There are easy
- * ways to cancel out of the action sheet, such as tapping the backdrop or
- * hitting the escape key on desktop.
- *
- * An action sheet is created from an array of `buttons`, with each button
- * including properties for its `text`, and optionally a `handler` and `role`.
- * If a handler returns `false` then the action sheet will not be dismissed. An
- * action sheet can also optionally have a `title`, `subTitle` and an `icon`.
- *
- * A button's `role` property can either be `destructive` or `cancel`. Buttons
- * without a role property will have the default look for the platform. Buttons
- * with the `cancel` role will always load as the bottom button, no matter where
- * they are in the array. All other buttons will be displayed in the order they
- * have been added to the `buttons` array. Note: We recommend that `destructive`
- * buttons are always the first button in the array, making them the top button.
- * Additionally, if the action sheet is dismissed by tapping the backdrop, then
- * it will fire the handler from the button with the cancel role.
- *
- * You can pass all of the action sheet's options in the first argument of
- * the create method: `ActionSheet.create(opts)`. Otherwise the action sheet's
- * instance has methods to add options, like `setTitle()` or `addButton()`.
- *
- * \@usage
- * ```ts
- * import { ActionSheetController } from 'ionic-angular'
- *
- * export class MyClass{
- *
- *  constructor(public actionSheetCtrl: ActionSheetController) {}
- *
- *  presentActionSheet() {
- *    let actionSheet = this.actionSheetCtrl.create({
- *      title: 'Modify your album',
- *      buttons: [
- *        {
- *          text: 'Destructive',
- *          role: 'destructive',
- *          handler: () => {
- *            console.log('Destructive clicked');
- *          }
- *        },
- *        {
- *          text: 'Archive',
- *          handler: () => {
- *            console.log('Archive clicked');
- *          }
- *        },
- *        {
- *          text: 'Cancel',
- *          role: 'cancel',
- *          handler: () => {
- *            console.log('Cancel clicked');
- *          }
- *        }
- *      ]
- *    });
- *
- *    actionSheet.present();
- *  }
- * }
- * ```
- *
- * \@advanced
- *
- * ActionSheet create options
- *
- * | Option                | Type       | Description                                                        |
- * |-----------------------|------------|--------------------------------------------------------------------|
- * | title                 |`string`    | The title for the Action Sheet.                                    |
- * | subTitle              |`string`    | The sub-title for the Action Sheet.                                |
- * | cssClass              |`string`    | Additional classes for custom styles, separated by spaces.         |
- * | enableBackdropDismiss |`boolean`   | If the Action Sheet should close when the user taps the backdrop.  |
- * | buttons               |`array<any>`| An array of buttons to display.                                    |
- *
- * ActionSheet button options
- *
- * | Option   | Type     | Description                                                                                                                                      |
- * |----------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|
- * | text     | `string` | The buttons text.                                                                                                                                |
- * | icon     | `icon`   | The buttons icons.                                                                                                                               |
- * | handler  | `any`    | An express the button should evaluate.                                                                                                           |
- * | cssClass | `string` | Additional classes for custom styles, separated by spaces.                                                                                       |
- * | role     | `string` | How the button should be displayed, `destructive` or `cancel`. If not role is provided, it will display the button without any additional styles.|
- *
- *
- * ### Dismissing And Async Navigation
- *
- * After an action sheet has been dismissed, the app may need to also transition
- * to another page depending on the handler's logic. However, because multiple
- * transitions were fired at roughly the same time, it's difficult for the
- * nav controller to cleanly animate multiple transitions that may
- * have been kicked off asynchronously. This is further described in the
- * [`Nav Transition Promises`](../../nav/NavController/#nav-transition-promises) section. For action sheets,
- * this means it's best to wait for the action sheet to finish its transition
- * out before starting a new transition on the same nav controller.
- *
- * In the example below, after the button has been clicked, its handler
- * waits on async operation to complete, *then* it uses `pop` to navigate
- * back a page in the same stack. The potential problem is that the async operation
- * may have been completed before the action sheet has even finished its transition
- * out. In this case, it's best to ensure the action sheet has finished its transition
- * out first, *then* start the next transition.
- *
- * ```ts
- * let actionSheet = this.actionSheetCtrl.create({
- *   title: 'Hello',
- *   buttons: [{
- *     text: 'Ok',
- *     handler: () => {
- *       // user has clicked the action sheet button
- *       // begin the action sheet's dimiss transition
- *       let navTransition = actionSheet.dismiss();
- *
- *       // start some async method
- *       someAsyncOperation().then(() => {
- *         // once the async operation has completed
- *         // then run the next nav transition after the
- *         // first transition has finished animating out
- *
- *         navTransition.then(() => {
- *           this.nav.pop();
- *         });
- *       });
- *       return false;
- *     }
- *   }]
- * });
- *
- * actionSheet.present();
- * ```
- *
- * It's important to note that the handler returns `false`. A feature of
- * button handlers is that they automatically dismiss the action sheet when their button
- * was clicked, however, we'll need more control regarding the transition. Because
- * the handler returns `false`, then the action sheet does not automatically dismiss
- * itself. Instead, you now have complete control of when the action sheet has finished
- * transitioning, and the ability to wait for the action sheet to finish transitioning
- * out before starting a new transition.
- *
- *
- * \@demo /docs/demos/src/action-sheet/
- * @see {\@link /docs/components#action-sheets ActionSheet Component Docs}
- */
-var ActionSheetController = (function () {
-    /**
-     * @param {?} _app
-     * @param {?} config
-     */
-    function ActionSheetController(_app, config) {
-        this._app = _app;
-        this.config = config;
-    }
-    /**
-     * Open an action sheet with a title, subTitle, and an array of buttons
-     * @param {?=} opts
-     * @return {?}
-     */
-    ActionSheetController.prototype.create = function (opts) {
-        if (opts === void 0) { opts = {}; }
-        return new __WEBPACK_IMPORTED_MODULE_1__action_sheet__["a" /* ActionSheet */](this._app, opts, this.config);
-    };
-    return ActionSheetController;
-}());
-
-ActionSheetController.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Injectable */] },
-];
-/**
- * @nocollapse
- */
-ActionSheetController.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_2__app_app__["a" /* App */], },
-    { type: __WEBPACK_IMPORTED_MODULE_3__config_config__["a" /* Config */], },
-]; };
-function ActionSheetController_tsickle_Closure_declarations() {
-    /** @type {?} */
-    ActionSheetController.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    ActionSheetController.ctorParameters;
-    /** @type {?} */
-    ActionSheetController.prototype._app;
-    /** @type {?} */
-    ActionSheetController.prototype.config;
-}
-//# sourceMappingURL=action-sheet-controller.js.map
-
-/***/ }),
-/* 112 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return AlertController; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__alert__ = __webpack_require__(58);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__app_app__ = __webpack_require__(6);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__config_config__ = __webpack_require__(1);
-
-
-
-
-/**
- * \@name AlertController
- * \@description
- * An Alert is a dialog that presents users with information or collects
- * information from the user using inputs. An alert appears on top
- * of the app's content, and must be manually dismissed by the user before
- * they can resume interaction with the app. It can also optionally have a
- * `title`, `subTitle` and `message`.
- *
- * You can pass all of the alert's options in the first argument of
- * the create method: `create(opts)`. Otherwise the alert's instance
- * has methods to add options, such as `setTitle()` or `addButton()`.
- *
- *
- * ### Alert Buttons
- *
- * In the array of `buttons`, each button includes properties for its `text`,
- * and optionally a `handler`. If a handler returns `false` then the alert
- * will not automatically be dismissed when the button is clicked. All
- * buttons will show up in the order they have been added to the `buttons`
- * array, from left to right. Note: The right most button (the last one in
- * the array) is the main button.
- *
- * Optionally, a `role` property can be added to a button, such as `cancel`.
- * If a `cancel` role is on one of the buttons, then if the alert is
- * dismissed by tapping the backdrop, then it will fire the handler from
- * the button with a cancel role.
- *
- *
- * ### Alert Inputs
- *
- * Alerts can also include several different inputs whose data can be passed
- * back to the app. Inputs can be used as a simple way to prompt users for
- * information. Radios, checkboxes and text inputs are all accepted, but they
- * cannot be mixed. For example, an alert could have all radio button inputs,
- * or all checkbox inputs, but the same alert cannot mix radio and checkbox
- * inputs. Do note however, different types of "text"" inputs can be mixed,
- * such as `url`, `email`, `text`, etc. If you require a complex form UI
- * which doesn't fit within the guidelines of an alert then we recommend
- * building the form within a modal instead.
- *
- *
- * \@usage
- * ```ts
- * import { AlertController } from 'ionic-angular';
- *
- * constructor(private alertCtrl: AlertController) {
- *
- * }
- *
- * presentAlert() {
- *   let alert = this.alertCtrl.create({
- *     title: 'Low battery',
- *     subTitle: '10% of battery remaining',
- *     buttons: ['Dismiss']
- *   });
- *   alert.present();
- * }
- *
- * presentConfirm() {
- *   let alert = this.alertCtrl.create({
- *     title: 'Confirm purchase',
- *     message: 'Do you want to buy this book?',
- *     buttons: [
- *       {
- *         text: 'Cancel',
- *         role: 'cancel',
- *         handler: () => {
- *           console.log('Cancel clicked');
- *         }
- *       },
- *       {
- *         text: 'Buy',
- *         handler: () => {
- *           console.log('Buy clicked');
- *         }
- *       }
- *     ]
- *   });
- *   alert.present();
- * }
- *
- * presentPrompt() {
- *   let alert = this.alertCtrl.create({
- *     title: 'Login',
- *     inputs: [
- *       {
- *         name: 'username',
- *         placeholder: 'Username'
- *       },
- *       {
- *         name: 'password',
- *         placeholder: 'Password',
- *         type: 'password'
- *       }
- *     ],
- *     buttons: [
- *       {
- *         text: 'Cancel',
- *         role: 'cancel',
- *         handler: data => {
- *           console.log('Cancel clicked');
- *         }
- *       },
- *       {
- *         text: 'Login',
- *         handler: data => {
- *           if (User.isValid(data.username, data.password)) {
- *             // logged in!
- *           } else {
- *             // invalid login
- *             return false;
- *           }
- *         }
- *       }
- *     ]
- *   });
- *   alert.present();
- * }
- * ```
- * \@advanced
- *
- *
- *  Alert options
- *
- *  | Property              | Type      | Description                                                                  |
- *  |-----------------------|-----------|------------------------------------------------------------------------------|
- *  | title                 | `string`  | The title for the alert.                                                     |
- *  | subTitle              | `string`  | The subtitle for the alert.                                                  |
- *  | message               | `string`  | The message for the alert.                                                   |
- *  | cssClass              | `string`  | Additional classes for custom styles, separated by spaces.                   |
- *  | inputs                | `array`   | An array of inputs for the alert. See input options.                         |
- *  | buttons               | `array`   | An array of buttons for the alert. See buttons options.                      |
- *  | enableBackdropDismiss | `boolean` | Whether the alert should be dismissed by tapping the backdrop. Default true. |
- *
- *
- *  Input options
- *
- *  | Property    | Type      | Description                                                     |
- *  |-------------|-----------|-----------------------------------------------------------------|
- *  | type        | `string`  | The type the input should be: text, tel, number, etc.           |
- *  | name        | `string`  | The name for the input.                                         |
- *  | placeholder | `string`  | The input's placeholder (for textual/numeric inputs)            |
- *  | value       | `string`  | The input's value.                                              |
- *  | label       | `string`  | The input's label (only for radio/checkbox inputs)              |
- *  | checked     | `boolean` | Whether or not the input is checked.                            |
- *  | id          | `string`  | The input's id.                                                 |
- *
- *  Button options
- *
- *  | Property | Type     | Description                                                     |
- *  |----------|----------|-----------------------------------------------------------------|
- *  | text     | `string` | The buttons displayed text.                                     |
- *  | handler  | `any`    | Emitted when the button is pressed.                             |
- *  | cssClass | `string` | An additional CSS class for the button.                         |
- *  | role     | `string` | The buttons role, null or `cancel`.                             |
- *
- * ### Dismissing And Async Navigation
- *
- * After an alert has been dismissed, the app may need to also transition
- * to another page depending on the handler's logic. However, because multiple
- * transitions were fired at roughly the same time, it's difficult for the
- * nav controller to cleanly animate multiple transitions that may
- * have been kicked off asynchronously. This is further described in the
- * [`Nav Transition Promises`](../../nav/NavController) section. For alerts,
- * this means it's best to wait for the alert to finish its transition
- * out before starting a new transition on the same nav controller.
- *
- * In the example below, after the alert button has been clicked, its handler
- * waits on async operation to complete, *then* it uses `pop` to navigate
- * back a page in the same stack. The potential problem is that the async operation
- * may have been completed before the alert has even finished its transition
- * out. In this case, it's best to ensure the alert has finished its transition
- * out first, *then* start the next transition.
- *
- * ```ts
- * let alert = this.alertCtrl.create({
- *   title: 'Hello',
- *   buttons: [{
- *     text: 'Ok',
- *     handler: () => {
- *       // user has clicked the alert button
- *       // begin the alert's dismiss transition
- *       let navTransition = alert.dismiss();
- *
- *       // start some async method
- *       someAsyncOperation().then(() => {
- *         // once the async operation has completed
- *         // then run the next nav transition after the
- *         // first transition has finished animating out
- *
- *         navTransition.then(() => {
- *           this.nav.pop();
- *         });
- *       });
- *       return false;
- *     }
- *   }]
- * });
- *
- * alert.present();
- * ```
- *
- * It's important to note that the handler returns `false`. A feature of
- * button handlers is that they automatically dismiss the alert when their button
- * was clicked, however, we'll need more control regarding the transition. Because
- * the handler returns `false`, then the alert does not automatically dismiss
- * itself. Instead, you now have complete control of when the alert has finished
- * transitioning, and the ability to wait for the alert to finish transitioning
- * out before starting a new transition.
- *
- *
- * \@demo /docs/demos/src/alert/
- */
-var AlertController = (function () {
-    /**
-     * @param {?} _app
-     * @param {?} config
-     */
-    function AlertController(_app, config) {
-        this._app = _app;
-        this.config = config;
-    }
-    /**
-     * Display an alert with a title, inputs, and buttons
-     * @param {?=} opts
-     * @return {?}
-     */
-    AlertController.prototype.create = function (opts) {
-        if (opts === void 0) { opts = {}; }
-        return new __WEBPACK_IMPORTED_MODULE_1__alert__["a" /* Alert */](this._app, opts, this.config);
-    };
-    return AlertController;
-}());
-
-AlertController.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Injectable */] },
-];
-/**
- * @nocollapse
- */
-AlertController.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_2__app_app__["a" /* App */], },
-    { type: __WEBPACK_IMPORTED_MODULE_3__config_config__["a" /* Config */], },
-]; };
-function AlertController_tsickle_Closure_declarations() {
-    /** @type {?} */
-    AlertController.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    AlertController.ctorParameters;
-    /** @type {?} */
-    AlertController.prototype._app;
-    /** @type {?} */
-    AlertController.prototype.config;
-}
-//# sourceMappingURL=alert-controller.js.map
-
-/***/ }),
-/* 113 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Avatar; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-
-/**
- * \@name Avatar
- * \@module ionic
- * \@description
- * An Avatar is a component that creates a circular image for an item.
- * Avatars can be placed on the left or right side of an item with the `item-start` or `item-end` directive.
- * @see {\@link /docs/components/#avatar-list Avatar Component Docs}
- */
-var Avatar = (function () {
-    function Avatar() {
-    }
-    return Avatar;
-}());
-
-Avatar.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-avatar'
-            },] },
-];
-/**
- * @nocollapse
- */
-Avatar.ctorParameters = function () { return []; };
-function Avatar_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Avatar.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    Avatar.ctorParameters;
-}
-//# sourceMappingURL=avatar.js.map
-
-/***/ }),
-/* 114 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Badge; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-/**
- * \@name Badge
- * \@module ionic
- * \@description
- * Badges are simple components in Ionic containing numbers or text. You can display a badge to indicate that there is new information associated with the item it is on.
- * @see {\@link /docs/components/#badges Badges Component Docs}
- */
-var Badge = (function (_super) {
-    __extends(Badge, _super);
-    /**
-     * @param {?} config
-     * @param {?} elementRef
-     * @param {?} renderer
-     */
-    function Badge(config, elementRef, renderer) {
-        return _super.call(this, config, elementRef, renderer, 'badge') || this;
-    }
-    return Badge;
-}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
-
-Badge.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-badge'
-            },] },
-];
-/**
- * @nocollapse
- */
-Badge.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-]; };
-function Badge_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Badge.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    Badge.ctorParameters;
-}
-//# sourceMappingURL=badge.js.map
-
-/***/ }),
-/* 115 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Card; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-/**
- * @hidden
- */
-var Card = (function (_super) {
-    __extends(Card, _super);
-    /**
-     * @param {?} config
-     * @param {?} elementRef
-     * @param {?} renderer
-     */
-    function Card(config, elementRef, renderer) {
-        return _super.call(this, config, elementRef, renderer, 'card') || this;
-    }
-    return Card;
-}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
-
-Card.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-card'
-            },] },
-];
-/**
- * @nocollapse
- */
-Card.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-]; };
-function Card_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Card.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    Card.ctorParameters;
-}
-//# sourceMappingURL=card.js.map
-
-/***/ }),
-/* 116 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CardContent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-/**
- * @hidden
- */
-var CardContent = (function (_super) {
-    __extends(CardContent, _super);
-    /**
-     * @param {?} config
-     * @param {?} elementRef
-     * @param {?} renderer
-     */
-    function CardContent(config, elementRef, renderer) {
-        return _super.call(this, config, elementRef, renderer, 'card-content') || this;
-    }
-    return CardContent;
-}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
-
-CardContent.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-card-content'
-            },] },
-];
-/**
- * @nocollapse
- */
-CardContent.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-]; };
-function CardContent_tsickle_Closure_declarations() {
-    /** @type {?} */
-    CardContent.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    CardContent.ctorParameters;
-}
-//# sourceMappingURL=card-content.js.map
-
-/***/ }),
-/* 117 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CardHeader; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-/**
- * @hidden
- */
-var CardHeader = (function (_super) {
-    __extends(CardHeader, _super);
-    /**
-     * @param {?} config
-     * @param {?} elementRef
-     * @param {?} renderer
-     */
-    function CardHeader(config, elementRef, renderer) {
-        return _super.call(this, config, elementRef, renderer, 'card-header') || this;
-    }
-    return CardHeader;
-}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
-
-CardHeader.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-card-header'
-            },] },
-];
-/**
- * @nocollapse
- */
-CardHeader.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-]; };
-function CardHeader_tsickle_Closure_declarations() {
-    /** @type {?} */
-    CardHeader.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    CardHeader.ctorParameters;
-}
-//# sourceMappingURL=card-header.js.map
-
-/***/ }),
-/* 118 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return CardTitle; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-/**
- * @hidden
- */
-var CardTitle = (function (_super) {
-    __extends(CardTitle, _super);
-    /**
-     * @param {?} config
-     * @param {?} elementRef
-     * @param {?} renderer
-     */
-    function CardTitle(config, elementRef, renderer) {
-        return _super.call(this, config, elementRef, renderer, 'card-title') || this;
-    }
-    return CardTitle;
-}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
-
-CardTitle.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-card-title'
-            },] },
-];
-/**
- * @nocollapse
- */
-CardTitle.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-]; };
-function CardTitle_tsickle_Closure_declarations() {
-    /** @type {?} */
-    CardTitle.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    CardTitle.ctorParameters;
-}
-//# sourceMappingURL=card-title.js.map
-
-/***/ }),
-/* 119 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Checkbox; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(15);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__util_util__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__util_form__ = __webpack_require__(16);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__util_base_input__ = __webpack_require__(23);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__item_item__ = __webpack_require__(17);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-
-
-
-
-/**
- * \@name Checkbox
- * \@module ionic
- *
- * \@description
- * The Checkbox is a simple component styled based on the mode. It can be
- * placed in an `ion-item` or used as a stand-alone checkbox.
- *
- * See the [Angular Docs](https://angular.io/docs/ts/latest/guide/forms.html)
- * for more info on forms and inputs.
- *
- *
- * \@usage
- * ```html
- *
- *  <ion-list>
- *
- *    <ion-item>
- *      <ion-label>Pepperoni</ion-label>
- *      <ion-checkbox [(ngModel)]="pepperoni"></ion-checkbox>
- *    </ion-item>
- *
- *    <ion-item>
- *      <ion-label>Sausage</ion-label>
- *      <ion-checkbox [(ngModel)]="sausage" disabled="true"></ion-checkbox>
- *    </ion-item>
- *
- *    <ion-item>
- *      <ion-label>Mushrooms</ion-label>
- *      <ion-checkbox [(ngModel)]="mushrooms"></ion-checkbox>
- *    </ion-item>
- *
- *  </ion-list>
- * ```
- *
- * \@advanced
- *
- * ```html
- *
- * <!-- Call function when state changes -->
- *  <ion-list>
- *
- *    <ion-item>
- *      <ion-label>Cucumber</ion-label>
- *      <ion-checkbox [(ngModel)]="cucumber" (ionChange)="updateCucumber()"></ion-checkbox>
- *    </ion-item>
- *
- *  </ion-list>
- * ```
- *
- * ```ts
- * \@Component({
- *   templateUrl: 'main.html'
- * })
- * class SaladPage {
- *   cucumber: boolean;
- *
- *   updateCucumber() {
- *     console.log('Cucumbers new state:' + this.cucumber);
- *   }
- * }
- * ```
- *
- * \@demo /docs/demos/src/checkbox/
- * @see {\@link /docs/components#checkbox Checkbox Component Docs}
- */
-var Checkbox = (function (_super) {
-    __extends(Checkbox, _super);
-    /**
-     * @param {?} config
-     * @param {?} form
-     * @param {?} item
-     * @param {?} elementRef
-     * @param {?} renderer
-     */
-    function Checkbox(config, form, item, elementRef, renderer) {
-        return _super.call(this, config, elementRef, renderer, 'checkbox', false, form, item, null) || this;
-    }
-    Object.defineProperty(Checkbox.prototype, "checked", {
-        /**
-         * \@input {boolean} If true, the element is selected.
-         * @return {?}
-         */
-        get: function () {
-            return this.value;
-        },
-        /**
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            this.value = val;
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @hidden
-     * @param {?} ev
-     * @return {?}
-     */
-    Checkbox.prototype._click = function (ev) {
-        ev.preventDefault();
-        ev.stopPropagation();
-        this.value = !this.value;
-    };
-    /**
-     * @hidden
-     * @param {?} val
-     * @return {?}
-     */
-    Checkbox.prototype._inputNormalize = function (val) {
-        return Object(__WEBPACK_IMPORTED_MODULE_3__util_util__["o" /* isTrueProperty */])(val);
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Checkbox.prototype._inputUpdated = function () {
-        this._item && this._item.setElementClass('item-checkbox-checked', this._value);
-    };
-    return Checkbox;
-}(__WEBPACK_IMPORTED_MODULE_5__util_base_input__["a" /* BaseInput */]));
-
-Checkbox.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
-                selector: 'ion-checkbox',
-                template: '<div class="checkbox-icon" [class.checkbox-checked]="_value">' +
-                    '<div class="checkbox-inner"></div>' +
-                    '</div>' +
-                    '<button role="checkbox" ' +
-                    'type="button" ' +
-                    'ion-button="item-cover" ' +
-                    '[id]="id" ' +
-                    '[attr.aria-checked]="_value" ' +
-                    '[attr.aria-labelledby]="_labelId" ' +
-                    '[attr.aria-disabled]="_disabled" ' +
-                    'class="item-cover"> ' +
-                    '</button>',
-                host: {
-                    '[class.checkbox-disabled]': '_disabled'
-                },
-                providers: [{ provide: __WEBPACK_IMPORTED_MODULE_1__angular_forms__["b" /* NG_VALUE_ACCESSOR */], useExisting: Checkbox, multi: true }],
-                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None,
-            },] },
-];
-/**
- * @nocollapse
- */
-Checkbox.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_2__config_config__["a" /* Config */], },
-    { type: __WEBPACK_IMPORTED_MODULE_4__util_form__["a" /* Form */], },
-    { type: __WEBPACK_IMPORTED_MODULE_6__item_item__["a" /* Item */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-]; };
-Checkbox.propDecorators = {
-    'checked': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    '_click': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* HostListener */], args: ['click', ['$event'],] },],
-};
-function Checkbox_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Checkbox.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    Checkbox.ctorParameters;
-    /** @type {?} */
-    Checkbox.propDecorators;
-}
-//# sourceMappingURL=checkbox.js.map
-
-/***/ }),
-/* 120 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return TimeoutDebouncer; });
-var TimeoutDebouncer = (function () {
-    /**
-     * @param {?} wait
-     */
-    function TimeoutDebouncer(wait) {
-        this.wait = wait;
-        this.timer = null;
-    }
-    /**
-     * @param {?} callback
-     * @return {?}
-     */
-    TimeoutDebouncer.prototype.debounce = function (callback) {
-        this.callback = callback;
-        this.schedule();
-    };
-    /**
-     * @return {?}
-     */
-    TimeoutDebouncer.prototype.schedule = function () {
-        this.cancel();
-        if (this.wait <= 0) {
-            this.callback();
-        }
-        else {
-            this.timer = setTimeout(this.callback, this.wait);
-        }
-    };
-    /**
-     * @return {?}
-     */
-    TimeoutDebouncer.prototype.cancel = function () {
-        if (this.timer) {
-            clearTimeout(this.timer);
-            this.timer = null;
-        }
-    };
-    return TimeoutDebouncer;
-}());
-
-function TimeoutDebouncer_tsickle_Closure_declarations() {
-    /** @type {?} */
-    TimeoutDebouncer.prototype.timer;
-    /** @type {?} */
-    TimeoutDebouncer.prototype.callback;
-    /** @type {?} */
-    TimeoutDebouncer.prototype.wait;
-}
-//# sourceMappingURL=debouncer.js.map
-
-/***/ }),
-/* 121 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ScrollView; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__dom__ = __webpack_require__(10);
-
-var ScrollView = (function () {
-    /**
-     * @param {?} _app
-     * @param {?} _plt
-     * @param {?} _dom
-     */
-    function ScrollView(_app, _plt, _dom) {
-        this._app = _app;
-        this._plt = _plt;
-        this._dom = _dom;
-        this.isScrolling = false;
-        this.initialized = false;
-        this._eventsEnabled = false;
-        this._t = 0;
-        this._l = 0;
-        this.ev = {
-            timeStamp: 0,
-            scrollTop: 0,
-            scrollLeft: 0,
-            scrollHeight: 0,
-            scrollWidth: 0,
-            contentHeight: 0,
-            contentWidth: 0,
-            contentTop: 0,
-            contentBottom: 0,
-            startY: 0,
-            startX: 0,
-            deltaY: 0,
-            deltaX: 0,
-            velocityY: 0,
-            velocityX: 0,
-            directionY: 'down',
-            directionX: null,
-            domWrite: _dom.write.bind(_dom)
-        };
-    }
-    /**
-     * @param {?} ele
-     * @param {?} contentTop
-     * @param {?} contentBottom
-     * @return {?}
-     */
-    ScrollView.prototype.init = function (ele, contentTop, contentBottom) {
-        (void 0) /* assert */;
-        this._el = ele;
-        if (!this.initialized) {
-            this.initialized = true;
-            if (this._js) {
-                this.enableJsScroll(contentTop, contentBottom);
-            }
-            else {
-                this.enableNativeScrolling();
-            }
-        }
-    };
-    /**
-     * @return {?}
-     */
-    ScrollView.prototype.enableEvents = function () {
-        this._eventsEnabled = true;
-    };
-    /**
-     * @param {?} isScrolling
-     * @param {?} ev
-     * @return {?}
-     */
-    ScrollView.prototype.setScrolling = function (isScrolling, ev) {
-        if (this.isScrolling) {
-            if (isScrolling) {
-                this.onScroll && this.onScroll(ev);
-            }
-            else {
-                this.isScrolling = false;
-                this.onScrollEnd && this.onScrollEnd(ev);
-            }
-        }
-        else if (isScrolling) {
-            this.isScrolling = true;
-            this.onScrollStart && this.onScrollStart(ev);
-        }
-    };
-    /**
-     * @return {?}
-     */
-    ScrollView.prototype.enableNativeScrolling = function () {
-        (void 0) /* assert */;
-        (void 0) /* assert */;
-        (void 0) /* assert */;
-        this._js = false;
-        if (!this._el) {
-            return;
-        }
-        (void 0) /* console.debug */;
-        var /** @type {?} */ self = this;
-        var /** @type {?} */ ev = self.ev;
-        var /** @type {?} */ positions = [];
-        /**
-         * @param {?} scrollEvent
-         * @return {?}
-         */
-        function scrollCallback(scrollEvent) {
-            // remind the app that it's currently scrolling
-            self._app.setScrolling();
-            // if events are disabled, we do nothing
-            if (!self._eventsEnabled) {
-                return;
-            }
-            ev.timeStamp = scrollEvent.timeStamp;
-            // Event.timeStamp is 0 in firefox
-            if (!ev.timeStamp) {
-                ev.timeStamp = Date.now();
-            }
-            // get the current scrollTop
-            // ******** DOM READ ****************
-            ev.scrollTop = self.getTop();
-            // get the current scrollLeft
-            // ******** DOM READ ****************
-            ev.scrollLeft = self.getLeft();
-            if (!self.isScrolling) {
-                // remember the start positions
-                ev.startY = ev.scrollTop;
-                ev.startX = ev.scrollLeft;
-                // new scroll, so do some resets
-                ev.velocityY = ev.velocityX = 0;
-                ev.deltaY = ev.deltaX = 0;
-                positions.length = 0;
-            }
-            // actively scrolling
-            positions.push(ev.scrollTop, ev.scrollLeft, ev.timeStamp);
-            if (positions.length > 3) {
-                // we've gotten at least 2 scroll events so far
-                ev.deltaY = (ev.scrollTop - ev.startY);
-                ev.deltaX = (ev.scrollLeft - ev.startX);
-                var /** @type {?} */ endPos = (positions.length - 1);
-                var /** @type {?} */ startPos = endPos;
-                var /** @type {?} */ timeRange = (ev.timeStamp - 100);
-                // move pointer to position measured 100ms ago
-                for (var /** @type {?} */ i = endPos; i > 0 && positions[i] > timeRange; i -= 3) {
-                    startPos = i;
-                }
-                if (startPos !== endPos) {
-                    // compute relative movement between these two points
-                    var /** @type {?} */ movedTop = (positions[startPos - 2] - positions[endPos - 2]);
-                    var /** @type {?} */ movedLeft = (positions[startPos - 1] - positions[endPos - 1]);
-                    var /** @type {?} */ factor = FRAME_MS / (positions[endPos] - positions[startPos]);
-                    // based on XXms compute the movement to apply for each render step
-                    ev.velocityY = movedTop * factor;
-                    ev.velocityX = movedLeft * factor;
-                    // figure out which direction we're scrolling
-                    ev.directionY = (movedTop > 0 ? 'up' : 'down');
-                    ev.directionX = (movedLeft > 0 ? 'left' : 'right');
-                }
-            }
-            /**
-             * @return {?}
-             */
-            function scrollEnd() {
-                // reset velocity, do not reset the directions or deltas
-                ev.velocityY = ev.velocityX = 0;
-                // emit that the scroll has ended
-                self.setScrolling(false, ev);
-                self._endTmr = null;
-            }
-            // emit on each scroll event
-            self.setScrolling(true, ev);
-            // debounce for a moment after the last scroll event
-            self._dom.cancel(self._endTmr);
-            self._endTmr = self._dom.read(scrollEnd, SCROLL_END_DEBOUNCE_MS);
-        }
-        // clear out any existing listeners (just to be safe)
-        self._lsn && self._lsn();
-        // assign the raw scroll listener
-        // note that it does not have a wrapping requestAnimationFrame on purpose
-        // a scroll event callback will always be right before the raf callback
-        // so there's little to no value of using raf here since it'll all ways immediately
-        // call the raf if it was set within the scroll event, so this will save us some time
-        self._lsn = self._plt.registerListener(self._el, 'scroll', scrollCallback, EVENT_OPTS);
-    };
-    /**
-     * @hidden
-     * JS Scrolling has been provided only as a temporary solution
-     * until iOS apps can take advantage of scroll events at all times.
-     * The goal is to eventually remove JS scrolling entirely. When we
-     * no longer have to worry about iOS not firing scroll events during
-     * inertia then this can be burned to the ground. iOS's more modern
-     * WKWebView does not have this issue, only UIWebView does.
-     * @param {?} contentTop
-     * @param {?} contentBottom
-     * @return {?}
-     */
-    ScrollView.prototype.enableJsScroll = function (contentTop, contentBottom) {
-        var /** @type {?} */ self = this;
-        self._js = true;
-        var /** @type {?} */ ele = self._el;
-        if (!ele) {
-            return;
-        }
-        (void 0) /* console.debug */;
-        var /** @type {?} */ ev = self.ev;
-        var /** @type {?} */ positions = [];
-        var /** @type {?} */ rafCancel;
-        var /** @type {?} */ max;
-        /**
-         * @return {?}
-         */
-        function setMax() {
-            if (!max) {
-                // ******** DOM READ ****************
-                max = ele.scrollHeight - ele.parentElement.offsetHeight + contentTop + contentBottom;
-            }
-        }
-        /**
-         * @param {?} timeStamp
-         * @return {?}
-         */
-        function jsScrollDecelerate(timeStamp) {
-            ev.timeStamp = timeStamp;
-            (void 0) /* console.debug */;
-            if (ev.velocityY) {
-                ev.velocityY *= DECELERATION_FRICTION;
-                // update top with updated velocity
-                // clamp top within scroll limits
-                // ******** DOM READ ****************
-                setMax();
-                self._t = Math.min(Math.max(self._t + ev.velocityY, 0), max);
-                ev.scrollTop = self._t;
-                // emit on each scroll event
-                self.onScroll(ev);
-                self._dom.write(function () {
-                    // ******** DOM WRITE ****************
-                    self.setTop(self._t);
-                    if (self._t > 0 && self._t < max && Math.abs(ev.velocityY) > MIN_VELOCITY_CONTINUE_DECELERATION) {
-                        rafCancel = self._dom.read(function (rafTimeStamp) {
-                            jsScrollDecelerate(rafTimeStamp);
-                        });
-                    }
-                    else {
-                        // haven't scrolled in a while, so it's a scrollend
-                        self.isScrolling = false;
-                        // reset velocity, do not reset the directions or deltas
-                        ev.velocityY = ev.velocityX = 0;
-                        // emit that the scroll has ended
-                        self.onScrollEnd(ev);
-                    }
-                });
-            }
-        }
-        /**
-         * @param {?} touchEvent
-         * @return {?}
-         */
-        function jsScrollTouchStart(touchEvent) {
-            positions.length = 0;
-            max = null;
-            self._dom.cancel(rafCancel);
-            positions.push(Object(__WEBPACK_IMPORTED_MODULE_0__dom__["f" /* pointerCoord */])(touchEvent).y, touchEvent.timeStamp);
-        }
-        /**
-         * @param {?} touchEvent
-         * @return {?}
-         */
-        function jsScrollTouchMove(touchEvent) {
-            if (!positions.length) {
-                return;
-            }
-            ev.timeStamp = touchEvent.timeStamp;
-            var /** @type {?} */ y = Object(__WEBPACK_IMPORTED_MODULE_0__dom__["f" /* pointerCoord */])(touchEvent).y;
-            // ******** DOM READ ****************
-            setMax();
-            self._t -= (y - positions[positions.length - 2]);
-            self._t = Math.min(Math.max(self._t, 0), max);
-            positions.push(y, ev.timeStamp);
-            if (!self.isScrolling) {
-                // remember the start position
-                ev.startY = self._t;
-                // new scroll, so do some resets
-                ev.velocityY = ev.deltaY = 0;
-                self.isScrolling = true;
-                // emit only on the first scroll event
-                self.onScrollStart(ev);
-            }
-            self._dom.write(function () {
-                // ******** DOM WRITE ****************
-                self.setTop(self._t);
-            });
-        }
-        /**
-         * @param {?} touchEvent
-         * @return {?}
-         */
-        function jsScrollTouchEnd(touchEvent) {
-            // figure out what the scroll position was about 100ms ago
-            self._dom.cancel(rafCancel);
-            if (!positions.length && self.isScrolling) {
-                self.isScrolling = false;
-                ev.velocityY = ev.velocityX = 0;
-                self.onScrollEnd(ev);
-                return;
-            }
-            var /** @type {?} */ y = Object(__WEBPACK_IMPORTED_MODULE_0__dom__["f" /* pointerCoord */])(touchEvent).y;
-            positions.push(y, touchEvent.timeStamp);
-            var /** @type {?} */ endPos = (positions.length - 1);
-            var /** @type {?} */ startPos = endPos;
-            var /** @type {?} */ timeRange = (touchEvent.timeStamp - 100);
-            // move pointer to position measured 100ms ago
-            for (var /** @type {?} */ i = endPos; i > 0 && positions[i] > timeRange; i -= 2) {
-                startPos = i;
-            }
-            if (startPos !== endPos) {
-                // compute relative movement between these two points
-                var /** @type {?} */ timeOffset = (positions[endPos] - positions[startPos]);
-                var /** @type {?} */ movedTop = (positions[startPos - 1] - positions[endPos - 1]);
-                // based on XXms compute the movement to apply for each render step
-                ev.velocityY = ((movedTop / timeOffset) * FRAME_MS);
-                // verify that we have enough velocity to start deceleration
-                if (Math.abs(ev.velocityY) > MIN_VELOCITY_START_DECELERATION) {
-                    // ******** DOM READ ****************
-                    setMax();
-                    rafCancel = self._dom.read(function (rafTimeStamp) {
-                        jsScrollDecelerate(rafTimeStamp);
-                    });
-                }
-            }
-            else {
-                self.isScrolling = false;
-                ev.velocityY = 0;
-                self.onScrollEnd(ev);
-            }
-            positions.length = 0;
-        }
-        var /** @type {?} */ plt = self._plt;
-        var /** @type {?} */ unRegStart = plt.registerListener(ele, 'touchstart', jsScrollTouchStart, EVENT_OPTS);
-        var /** @type {?} */ unRegMove = plt.registerListener(ele, 'touchmove', jsScrollTouchMove, EVENT_OPTS);
-        var /** @type {?} */ unRegEnd = plt.registerListener(ele, 'touchend', jsScrollTouchEnd, EVENT_OPTS);
-        ele.parentElement.classList.add('js-scroll');
-        // stop listening for actual scroll events
-        self._lsn && self._lsn();
-        // create an unregister for all of these events
-        self._lsn = function () {
-            unRegStart();
-            unRegMove();
-            unRegEnd();
-            ele.parentElement.classList.remove('js-scroll');
-        };
-    };
-    /**
-     * DOM READ
-     * @return {?}
-     */
-    ScrollView.prototype.getTop = function () {
-        if (this._js) {
-            return this._t;
-        }
-        return this._t = this._el.scrollTop;
-    };
-    /**
-     * DOM READ
-     * @return {?}
-     */
-    ScrollView.prototype.getLeft = function () {
-        if (this._js) {
-            return 0;
-        }
-        return this._l = this._el.scrollLeft;
-    };
-    /**
-     * DOM WRITE
-     * @param {?} top
-     * @return {?}
-     */
-    ScrollView.prototype.setTop = function (top) {
-        this._t = top;
-        if (this._js) {
-            ((this._el.style))[this._plt.Css.transform] = "translate3d(" + this._l * -1 + "px," + top * -1 + "px,0px)";
-        }
-        else {
-            this._el.scrollTop = top;
-        }
-    };
-    /**
-     * DOM WRITE
-     * @param {?} left
-     * @return {?}
-     */
-    ScrollView.prototype.setLeft = function (left) {
-        this._l = left;
-        if (this._js) {
-            ((this._el.style))[this._plt.Css.transform] = "translate3d(" + left * -1 + "px," + this._t * -1 + "px,0px)";
-        }
-        else {
-            this._el.scrollLeft = left;
-        }
-    };
-    /**
-     * @param {?} x
-     * @param {?} y
-     * @param {?} duration
-     * @param {?=} done
-     * @return {?}
-     */
-    ScrollView.prototype.scrollTo = function (x, y, duration, done) {
-        // scroll animation loop w/ easing
-        // credit https://gist.github.com/dezinezync/5487119
-        var /** @type {?} */ promise;
-        if (done === undefined) {
-            // only create a promise if a done callback wasn't provided
-            // done can be a null, which avoids any functions
-            promise = new Promise(function (resolve) {
-                done = resolve;
-            });
-        }
-        var /** @type {?} */ self = this;
-        var /** @type {?} */ el = self._el;
-        if (!el) {
-            // invalid element
-            done();
-            return promise;
-        }
-        if (duration < 32) {
-            self.setTop(y);
-            self.setLeft(x);
-            done();
-            return promise;
-        }
-        var /** @type {?} */ fromY = el.scrollTop;
-        var /** @type {?} */ fromX = el.scrollLeft;
-        var /** @type {?} */ maxAttempts = (duration / 16) + 100;
-        var /** @type {?} */ transform = self._plt.Css.transform;
-        var /** @type {?} */ startTime;
-        var /** @type {?} */ attempts = 0;
-        var /** @type {?} */ stopScroll = false;
-        /**
-         * @param {?} timeStamp
-         * @return {?}
-         */
-        function step(timeStamp) {
-            attempts++;
-            if (!self._el || stopScroll || attempts > maxAttempts) {
-                self.setScrolling(false, null);
-                ((el.style))[transform] = '';
-                done();
-                return;
-            }
-            var /** @type {?} */ time = Math.min(1, ((timeStamp - startTime) / duration));
-            // where .5 would be 50% of time on a linear scale easedT gives a
-            // fraction based on the easing method
-            var /** @type {?} */ easedT = (--time) * time * time + 1;
-            if (fromY !== y) {
-                self.setTop((easedT * (y - fromY)) + fromY);
-            }
-            if (fromX !== x) {
-                self.setLeft(Math.floor((easedT * (x - fromX)) + fromX));
-            }
-            if (easedT < 1) {
-                // do not use DomController here
-                // must use nativeRaf in order to fire in the next frame
-                self._plt.raf(step);
-            }
-            else {
-                stopScroll = true;
-                self.setScrolling(false, null);
-                ((el.style))[transform] = '';
-                done();
-            }
-        }
-        // start scroll loop
-        self.setScrolling(true, null);
-        self.isScrolling = true;
-        // chill out for a frame first
-        self._dom.write(function (timeStamp) {
-            startTime = timeStamp;
-            step(timeStamp);
-        }, 16);
-        return promise;
-    };
-    /**
-     * @param {?} duration
-     * @return {?}
-     */
-    ScrollView.prototype.scrollToTop = function (duration) {
-        return this.scrollTo(0, 0, duration);
-    };
-    /**
-     * @param {?} duration
-     * @return {?}
-     */
-    ScrollView.prototype.scrollToBottom = function (duration) {
-        var /** @type {?} */ y = 0;
-        if (this._el) {
-            y = this._el.scrollHeight - this._el.clientHeight;
-        }
-        return this.scrollTo(0, y, duration);
-    };
-    /**
-     * @return {?}
-     */
-    ScrollView.prototype.stop = function () {
-        this.setScrolling(false, null);
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    ScrollView.prototype.destroy = function () {
-        this.stop();
-        this._endTmr && this._dom.cancel(this._endTmr);
-        this._lsn && this._lsn();
-        var /** @type {?} */ ev = this.ev;
-        ev.domWrite = ev.contentElement = ev.fixedElement = ev.scrollElement = ev.headerElement = null;
-        this._lsn = this._el = this._dom = this.ev = ev = null;
-        this.onScrollStart = this.onScroll = this.onScrollEnd = null;
-    };
-    return ScrollView;
-}());
-
-function ScrollView_tsickle_Closure_declarations() {
-    /** @type {?} */
-    ScrollView.prototype.ev;
-    /** @type {?} */
-    ScrollView.prototype.isScrolling;
-    /** @type {?} */
-    ScrollView.prototype.onScrollStart;
-    /** @type {?} */
-    ScrollView.prototype.onScroll;
-    /** @type {?} */
-    ScrollView.prototype.onScrollEnd;
-    /** @type {?} */
-    ScrollView.prototype.initialized;
-    /** @type {?} */
-    ScrollView.prototype._el;
-    /** @type {?} */
-    ScrollView.prototype._eventsEnabled;
-    /** @type {?} */
-    ScrollView.prototype._js;
-    /** @type {?} */
-    ScrollView.prototype._t;
-    /** @type {?} */
-    ScrollView.prototype._l;
-    /** @type {?} */
-    ScrollView.prototype._lsn;
-    /** @type {?} */
-    ScrollView.prototype._endTmr;
-    /** @type {?} */
-    ScrollView.prototype._app;
-    /** @type {?} */
-    ScrollView.prototype._plt;
-    /** @type {?} */
-    ScrollView.prototype._dom;
-}
-var /** @type {?} */ SCROLL_END_DEBOUNCE_MS = 80;
-var /** @type {?} */ MIN_VELOCITY_START_DECELERATION = 4;
-var /** @type {?} */ MIN_VELOCITY_CONTINUE_DECELERATION = 0.12;
-var /** @type {?} */ DECELERATION_FRICTION = 0.97;
-var /** @type {?} */ FRAME_MS = (1000 / 60);
-var /** @type {?} */ EVENT_OPTS = {
-    passive: true,
-    zone: false
-};
-//# sourceMappingURL=scroll-view.js.map
-
-/***/ }),
-/* 122 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (immutable) */ __webpack_exports__["b"] = indexForItem;
-/* unused harmony export reorderListForItem */
-/* harmony export (immutable) */ __webpack_exports__["a"] = findReorderItem;
-/**
- * @hidden
- * @param {?} element
- * @return {?}
- */
-function indexForItem(element) {
-    return element['$ionIndex'];
-}
-/**
- * @hidden
- * @param {?} element
- * @return {?}
- */
-function reorderListForItem(element) {
-    return element['$ionReorderList'];
-}
-/**
- * @hidden
- * @param {?} node
- * @param {?} listNode
- * @return {?}
- */
-function findReorderItem(node, listNode) {
-    var /** @type {?} */ nested = 0;
-    while (node && nested < 4) {
-        if (indexForItem(node) !== undefined) {
-            if (listNode && node.parentNode !== listNode) {
-                return null;
-            }
-            return node;
-        }
-        node = node.parentNode;
-        nested++;
-    }
-    return null;
-}
-//# sourceMappingURL=item-reorder-util.js.map
-
-/***/ }),
-/* 123 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Chip; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-/**
- * \@name Chip
- * \@module ionic
- * \@description
- * Chips represent complex entities in small blocks, such as a contact.
- *
- *
- * \@usage
- *
- * ```html
- * <ion-chip>
- *   <ion-label>Default</ion-label>
- * </ion-chip>
- *
- * <ion-chip>
- *   <ion-label color="secondary">Secondary Label</ion-label>
- * </ion-chip>
- *
- * <ion-chip color="secondary">
- *   <ion-label color="dark">Secondary w/ Dark label</ion-label>
- * </ion-chip>
- *
- * <ion-chip color="danger">
- *   <ion-label>Danger</ion-label>
- * </ion-chip>
- *
- * <ion-chip>
- *   <ion-icon name="pin"></ion-icon>
- *   <ion-label>Default</ion-label>
- * </ion-chip>
- *
- * <ion-chip>
- *   <ion-icon name="heart" color="dark"></ion-icon>
- *   <ion-label>Default</ion-label>
- * </ion-chip>
- *
- * <ion-chip>
- *   <ion-avatar>
- *     <img src="assets/img/my-img.png">
- *   </ion-avatar>
- *   <ion-label>Default</ion-label>
- * </ion-chip>
- * ```
- *
- *
- * \@advanced
- *
- * ```html
- * <ion-chip #chip1>
- *   <ion-label>Default</ion-label>
- *   <button ion-button clear color="light" (click)="delete(chip1)">
- *     <ion-icon name="close-circle"></ion-icon>
- *   </button>
- * </ion-chip>
- *
- * <ion-chip #chip2>
- *   <ion-icon name="pin" color="primary"></ion-icon>
- *   <ion-label>With Icon</ion-label>
- *   <button ion-button (click)="delete(chip2)">
- *     <ion-icon name="close"></ion-icon>
- *   </button>
- * </ion-chip>
- *
- * <ion-chip #chip3>
- *   <ion-avatar>
- *     <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAAAAACH5BAAAAAAALAAAAAABAAEAAAICTAEAOw==">
- *   </ion-avatar>
- *   <ion-label>With Avatar</ion-label>
- *   <button ion-button clear color="dark" (click)="delete(chip3)">
- *     <ion-icon name="close-circle"></ion-icon>
- *   </button>
- * </ion-chip>
- * ```
- *
- * ```ts
- * \@Component({
- *   templateUrl: 'main.html'
- * })
- * class E2EPage {
- *   delete(chip: Element) {
- *     chip.remove();
- *   }
- * }
- * ```
- *
- * \@demo /docs/demos/src/chip/
- *
- */
-var Chip = (function (_super) {
-    __extends(Chip, _super);
-    /**
-     * @param {?} config
-     * @param {?} elementRef
-     * @param {?} renderer
-     */
-    function Chip(config, elementRef, renderer) {
-        return _super.call(this, config, elementRef, renderer, 'chip') || this;
-    }
-    return Chip;
-}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
-
-Chip.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-chip'
-            },] },
-];
-/**
- * @nocollapse
- */
-Chip.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-]; };
-function Chip_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Chip.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    Chip.ctorParameters;
-}
-//# sourceMappingURL=chip.js.map
-
-/***/ }),
-/* 124 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return DateTime; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(15);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__picker_picker_controller__ = __webpack_require__(64);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__util_form__ = __webpack_require__(16);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__util_base_input__ = __webpack_require__(23);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__item_item__ = __webpack_require__(17);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__util_util__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__util_datetime_util__ = __webpack_require__(229);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-
-
-
-
-
-
-/**
- * \@name DateTime
- * \@description
- * The DateTime component is used to present an interface which makes it easy for
- * users to select dates and times. Tapping on `<ion-datetime>` will display a picker
- * interface that slides up from the bottom of the page. The picker then displays
- * scrollable columns that can be used to individually select years, months, days,
- * hours and minute values. The DateTime component is similar to the native
- * `<input type="datetime-local">` element, however, Ionic's DateTime component makes
- * it easy to display the date and time in a preferred format, and manage the datetime
- * values.
- *
- * ```html
- * <ion-item>
- *   <ion-label>Date</ion-label>
- *   <ion-datetime displayFormat="MM/DD/YYYY" [(ngModel)]="myDate"></ion-datetime>
- * </ion-item>
- * ```
- *
- *
- * ## Display and Picker Formats
- *
- * The DateTime component displays the values in two places: in the `<ion-datetime>`
- * component, and in the interface that is presented from the bottom of the screen.
- * The following chart lists all of the formats that can be used.
- *
- * | Format  | Description                    | Example                 |
- * |---------|--------------------------------|-------------------------|
- * | `YYYY`  | Year, 4 digits                 | `2018`                  |
- * | `YY`    | Year, 2 digits                 | `18`                    |
- * | `M`     | Month                          | `1` ... `12`            |
- * | `MM`    | Month, leading zero            | `01` ... `12`           |
- * | `MMM`   | Month, short name              | `Jan`                   |
- * | `MMMM`  | Month, full name               | `January`               |
- * | `D`     | Day                            | `1` ... `31`            |
- * | `DD`    | Day, leading zero              | `01` ... `31`           |
- * | `DDD`   | Day, short name                | `Fri`                   |
- * | `DDDD`  | Day, full name                 | `Friday`                |
- * | `H`     | Hour, 24-hour                  | `0` ... `23`            |
- * | `HH`    | Hour, 24-hour, leading zero    | `00` ... `23`           |
- * | `h`     | Hour, 12-hour                  | `1` ... `12`            |
- * | `hh`    | Hour, 12-hour, leading zero    | `01` ... `12`           |
- * | `a`     | 12-hour time period, lowercase | `am` `pm`               |
- * | `A`     | 12-hour time period, uppercase | `AM` `PM`               |
- * | `m`     | Minute                         | `1` ... `59`            |
- * | `mm`    | Minute, leading zero           | `01` ... `59`           |
- * | `s`     | Second                         | `1` ... `59`            |
- * | `ss`    | Second, leading zero           | `01` ... `59`           |
- * | `Z`     | UTC Timezone Offset            | `Z or +HH:mm or -HH:mm` |
- *
- * **Important**: See the [Month Names and Day of the Week Names](#month-names-and-day-of-the-week-names)
- * section below on how to use different names for the month and day.
- *
- * ### Display Format
- *
- * The `displayFormat` input property specifies how a datetime's value should be
- * printed, as formatted text, within the `ion-datetime` component.
- *
- * In the following example, the display in the `<ion-datetime>` will use the
- * month's short name, the numerical day with a leading zero, a comma and the
- * four-digit year. In addition to the date, it will display the time with the hours
- * in the 24-hour format and the minutes. Any character can be used as a separator.
- * An example display using this format is: `Jun 17, 2005 11:06`.
- *
- * ```html
- * <ion-item>
- *   <ion-label>Date</ion-label>
- *   <ion-datetime displayFormat="MMM DD, YYYY HH:mm" [(ngModel)]="myDate"></ion-datetime>
- * </ion-item>
- * ```
- *
- * ### Picker Format
- *
- * The `pickerFormat` input property determines which columns should be shown in the
- * interface, the order of the columns, and which format to use within each column.
- * If the `pickerFormat` input is not provided then it will default to the `displayFormat`.
- *
- * In the following example, the display in the `<ion-datetime>` will use the
- * `MM/YYYY` format, such as `06/2020`. However, the picker interface
- * will display two columns with the month's long name, and the four-digit year.
- *
- * ```html
- * <ion-item>
- *   <ion-label>Date</ion-label>
- *   <ion-datetime displayFormat="MM/YYYY" pickerFormat="MMMM YYYY" [(ngModel)]="myDate"></ion-datetime>
- * </ion-item>
- * ```
- *
- * ### Datetime Data
- *
- * Historically, handling datetime values within JavaScript, or even within HTML
- * inputs, has always been a challenge. Specifically, JavaScript's `Date` object is
- * notoriously difficult to correctly parse apart datetime strings or to format
- * datetime values. Even worse is how different browsers and JavaScript versions
- * parse various datetime strings differently, especially per locale.
- *
- * But no worries, all is not lost! Ionic's datetime input has been designed so
- * developers can avoid the common pitfalls, allowing developers to easily format
- * datetime values within the input, and give the user a simple datetime picker for a
- * great user experience.
- *
- * ##### ISO 8601 Datetime Format: YYYY-MM-DDTHH:mmZ
- *
- * Ionic uses the [ISO 8601 datetime format](https://www.w3.org/TR/NOTE-datetime)
- * for its value. The value is simply a string, rather than using JavaScript's `Date`
- * object. Additionally, when using the ISO datetime format, it makes it easier
- * to serialize and pass within JSON objects, and sending databases a standardized
- * format which it can be easily parsed if need be.
- *
- * An ISO format can be used as a simple year, or just the hour and minute, or get more
- * detailed down to the millisecond and timezone. Any of the ISO formats below can be used,
- * and after a user selects a new value, Ionic will continue to use the same ISO format
- * which datetime value was originally given as.
- *
- * | Description          | Format                 | Datetime Value Example       |
- * |----------------------|------------------------|------------------------------|
- * | Year                 | YYYY                   | 1994                         |
- * | Year and Month       | YYYY-MM                | 1994-12                      |
- * | Complete Date        | YYYY-MM-DD             | 1994-12-15                   |
- * | Date and Time        | YYYY-MM-DDTHH:mm       | 1994-12-15T13:47             |
- * | UTC Timezone         | YYYY-MM-DDTHH:mm:ssTZD | 1994-12-15T13:47:20.789Z     |
- * | Timezone Offset      | YYYY-MM-DDTHH:mm:ssTZD | 1994-12-15T13:47:20.789+5:00 |
- * | Hour and Minute      | HH:mm                  | 13:47                        |
- * | Hour, Minute, Second | HH:mm:ss               | 13:47:20                     |
- *
- * Note that the year is always four-digits, milliseconds (if it's added) is always
- * three-digits, and all others are always two-digits. So the number representing
- * January always has a leading zero, such as `01`. Additionally, the hour is always
- * in the 24-hour format, so `00` is `12am` on a 12-hour clock, `13` means `1pm`,
- * and `23` means `11pm`.
- *
- * It's also important to note that neither the `displayFormat` or `pickerFormat` can
- * set the datetime value's output, which is the value that is set by the component's
- * `ngModel`. The format's are merely for displaying the value as text and the picker's
- * interface, but the datetime's value is always persisted as a valid ISO 8601 datetime
- * string.
- *
- *
- * ## Min and Max Datetimes
- *
- * Dates are infinite in either direction, so for a user's selection there should be at
- * least some form of restricting the dates that can be selected. Be default, the maximum
- * date is to the end of the current year, and the minimum date is from the beginning
- * of the year that was 100 years ago.
- *
- * To customize the minimum and maximum datetime values, the `min` and `max` component
- * inputs can be provided which may make more sense for the app's use-case, rather
- * than the default of the last 100 years. Following the same IS0 8601 format listed
- * in the table above, each component can restrict which dates can be selected by the
- * user. Below is an example of restricting the date selection between the beginning
- * of 2016, and October 31st of 2020:
- *
- * ```html
- * <ion-item>
- *   <ion-label>Date</ion-label>
- *   <ion-datetime displayFormat="MMMM YYYY" min="2016" max="2020-10-31" [(ngModel)]="myDate">
- *   </ion-datetime>
- * </ion-item>
- * ```
- *
- *
- * ## Month Names and Day of the Week Names
- *
- * At this time, there is no one-size-fits-all standard to automatically choose the correct
- * language/spelling for a month name, or day of the week name, depending on the language
- * or locale. Good news is that there is an
- * [Intl.DateTimeFormat](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DateTimeFormat)
- * standard which *most* browsers have adopted. However, at this time the standard has not
- * been fully implemented by all popular browsers so Ionic is unavailable to take advantage
- * of it *yet*. Additionally, Angular also provides an internationalization service, but it
- * is still under heavy development so Ionic does not depend on it at this time.
- *
- * All things considered, the by far easiest solution is to just provide an array of names
- * if the app needs to use names other than the default English version of month and day
- * names. The month names and day names can be either configured at the app level, or
- * individual `ion-datetime` level.
- *
- * ### App Config Level
- *
- * ```ts
- * //app.module.ts
- * \@NgModule({
- * ...,
- * imports: [
- *   IonicModule.forRoot(MyApp, {
- *   monthNames: ['janeiro', 'fevereiro', 'mar\u00e7o', ... ],
- *   monthShortNames: ['jan', 'fev', 'mar', ... ],
- *   dayNames: ['domingo', 'segunda-feira', 'ter\u00e7a-feira', ... ],
- *   dayShortNames: ['dom', 'seg', 'ter', ... ],
- * })
- * ],
- * ...
- * })
- * ```
- *
- * ### Component Input Level
- *
- * ```html
- * <ion-item>
- *   <ion-label>Período</ion-label>
- *   <ion-datetime displayFormat="DDDD MMM D, YYYY" [(ngModel)]="myDate"
- *     monthNames="janeiro, fevereiro, mar\u00e7o, ..."
- *     monthShortNames="jan, fev, mar, ..."
- *     dayNames="domingo, segunda-feira, ter\u00e7a-feira, ..."
- *     dayShortNames="dom, seg, ter, ..."></ion-datetime>
- * </ion-item>
- * ```
- *
- *
- * ### Advanced Datetime Validation and Manipulation
- *
- * The datetime picker provides the simplicity of selecting an exact format, and persists
- * the datetime values as a string using the standardized
- * [ISO 8601 datetime format](https://www.w3.org/TR/NOTE-datetime).
- * However, it's important to note that `ion-datetime` does not attempt to solve all
- * situtations when validating and manipulating datetime values. If datetime values need
- * to be parsed from a certain format, or manipulated (such as adding 5 days to a date,
- * subtracting 30 minutes, etc.), or even formatting data to a specific locale, then we highly
- * recommend using [moment.js](http://momentjs.com/) to "Parse, validate, manipulate, and
- * display dates in JavaScript". [Moment.js](http://momentjs.com/) has quickly become
- * our goto standard when dealing with datetimes within JavaScript, but Ionic does not
- * prepackage this dependency since most apps will not require it, and its locale
- * configuration should be decided by the end-developer.
- *
- *
- * \@usage
- * ```html
- * <ion-item>
- *   <ion-label>Date</ion-label>
- *   <ion-datetime displayFormat="MM/DD/YYYY" [(ngModel)]="myDate">
- *   </ion-datetime>
- * </ion-item>
- * ```
- *
- *
- * \@demo /docs/demos/src/datetime/
- */
-var DateTime = (function (_super) {
-    __extends(DateTime, _super);
-    /**
-     * @param {?} form
-     * @param {?} config
-     * @param {?} elementRef
-     * @param {?} renderer
-     * @param {?} item
-     * @param {?} _pickerCtrl
-     */
-    function DateTime(form, config, elementRef, renderer, item, _pickerCtrl) {
-        var _this = _super.call(this, config, elementRef, renderer, 'datetime', {}, form, item, null) || this;
-        _this._pickerCtrl = _pickerCtrl;
-        _this._text = '';
-        _this._locale = {};
-        /**
-         * \@input {string} The text to display on the picker's cancel button. Default: `Cancel`.
-         */
-        _this.cancelText = 'Cancel';
-        /**
-         * \@input {string} The text to display on the picker's "Done" button. Default: `Done`.
-         */
-        _this.doneText = 'Done';
-        /**
-         * \@input {any} Any additional options that the picker interface can accept.
-         * See the [Picker API docs](../../picker/Picker) for the picker options.
-         */
-        _this.pickerOptions = {};
-        /**
-         * \@input {string} The text to display when there's no date selected yet.
-         * Using lowercase to match the input attribute
-         */
-        _this.placeholder = '';
-        /**
-         * \@output {any} Emitted when the datetime selection was cancelled.
-         */
-        _this.ionCancel = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
-        return _this;
-    }
-    /**
-     * @hidden
-     * @return {?}
-     */
-    DateTime.prototype.ngAfterContentInit = function () {
-        var _this = this;
-        // first see if locale names were provided in the inputs
-        // then check to see if they're in the config
-        // if neither were provided then it will use default English names
-        ['monthNames', 'monthShortNames', 'dayNames', 'dayShortNames'].forEach(function (type) {
-            ((_this))._locale[type] = convertToArrayOfStrings(Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["l" /* isPresent */])(((_this))[type]) ? ((_this))[type] : _this._config.get(type), type);
-        });
-        this._initialize();
-    };
-    /**
-     * @hidden
-     * @param {?} val
-     * @return {?}
-     */
-    DateTime.prototype._inputNormalize = function (val) {
-        Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["l" /* updateDate */])(this._value, val);
-        return this._value;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    DateTime.prototype._inputUpdated = function () {
-        _super.prototype._inputUpdated.call(this);
-        this.updateText();
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    DateTime.prototype._inputShouldChange = function () {
-        return true;
-    };
-    /**
-     * TODO: REMOVE THIS
-     * @hidden
-     * @return {?}
-     */
-    DateTime.prototype._inputChangeEvent = function () {
-        return this.value;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    DateTime.prototype._inputNgModelEvent = function () {
-        return Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["a" /* convertDataToISO */])(this.value);
-    };
-    /**
-     * @param {?} ev
-     * @return {?}
-     */
-    DateTime.prototype._click = function (ev) {
-        ev.preventDefault();
-        ev.stopPropagation();
-        this.open();
-    };
-    /**
-     * @return {?}
-     */
-    DateTime.prototype._keyup = function () {
-        this.open();
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    DateTime.prototype.open = function () {
-        var _this = this;
-        if (this.isFocus() || this._disabled) {
-            return;
-        }
-        (void 0) /* console.debug */;
-        // the user may have assigned some options specifically for the alert
-        var /** @type {?} */ pickerOptions = Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["b" /* deepCopy */])(this.pickerOptions);
-        // Configure picker under the hood
-        var /** @type {?} */ picker = this._picker = this._pickerCtrl.create(pickerOptions);
-        picker.addButton({
-            text: this.cancelText,
-            role: 'cancel',
-            handler: function () { return _this.ionCancel.emit(_this); }
-        });
-        picker.addButton({
-            text: this.doneText,
-            handler: function (data) { return _this.value = data; },
-        });
-        picker.ionChange.subscribe(function () {
-            _this.validate();
-            picker.refresh();
-        });
-        // Update picker status before presenting
-        this.generate();
-        this.validate();
-        // Present picker
-        this._fireFocus();
-        picker.present(pickerOptions);
-        picker.onDidDismiss(function () {
-            _this._fireBlur();
-        });
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    DateTime.prototype.generate = function () {
-        var _this = this;
-        var /** @type {?} */ picker = this._picker;
-        // if a picker format wasn't provided, then fallback
-        // to use the display format
-        var /** @type {?} */ template = this.pickerFormat || this.displayFormat || DEFAULT_FORMAT;
-        if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["l" /* isPresent */])(template)) {
-            // make sure we've got up to date sizing information
-            this.calcMinMax();
-            // does not support selecting by day name
-            // automaticallly remove any day name formats
-            template = template.replace('DDDD', '{~}').replace('DDD', '{~}');
-            if (template.indexOf('D') === -1) {
-                // there is not a day in the template
-                // replace the day name with a numeric one if it exists
-                template = template.replace('{~}', 'D');
-            }
-            // make sure no day name replacer is left in the string
-            template = template.replace(/{~}/g, '');
-            // parse apart the given template into an array of "formats"
-            Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["i" /* parseTemplate */])(template).forEach(function (format) {
-                // loop through each format in the template
-                // create a new picker column to build up with data
-                var /** @type {?} */ key = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["b" /* convertFormatToKey */])(format);
-                var /** @type {?} */ values;
-                // first see if they have exact values to use for this input
-                if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["l" /* isPresent */])(((_this))[key + 'Values'])) {
-                    // user provide exact values for this date part
-                    values = convertToArrayOfNumbers(((_this))[key + 'Values'], key);
-                }
-                else {
-                    // use the default date part values
-                    values = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["e" /* dateValueRange */])(format, _this._min, _this._max);
-                }
-                var /** @type {?} */ column = {
-                    name: key,
-                    selectedIndex: 0,
-                    options: values.map(function (val) {
-                        return {
-                            value: val,
-                            text: Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["k" /* renderTextFormat */])(format, val, null, _this._locale),
-                        };
-                    })
-                };
-                // cool, we've loaded up the columns with options
-                // preselect the option for this column
-                var /** @type {?} */ optValue = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["g" /* getValueFromFormat */])(_this.getValue(), format);
-                var /** @type {?} */ selectedIndex = column.options.findIndex(function (opt) { return opt.value === optValue; });
-                if (selectedIndex >= 0) {
-                    // set the select index for this column's options
-                    column.selectedIndex = selectedIndex;
-                }
-                // add our newly created column to the picker
-                picker.addColumn(column);
-            });
-            // Normalize min/max
-            var /** @type {?} */ min_1 = (this._min);
-            var /** @type {?} */ max_1 = (this._max);
-            var /** @type {?} */ columns_1 = this._picker.getColumns();
-            ['month', 'day', 'hour', 'minute']
-                .filter(function (name) { return !columns_1.find(function (column) { return column.name === name; }); })
-                .forEach(function (name) {
-                min_1[name] = 0;
-                max_1[name] = 0;
-            });
-            this.divyColumns();
-        }
-    };
-    /**
-     * @hidden
-     * @param {?} name
-     * @param {?} index
-     * @param {?} min
-     * @param {?} max
-     * @param {?} lowerBounds
-     * @param {?} upperBounds
-     * @return {?}
-     */
-    DateTime.prototype.validateColumn = function (name, index, min, max, lowerBounds, upperBounds) {
-        (void 0) /* assert */;
-        (void 0) /* assert */;
-        var /** @type {?} */ column = this._picker.getColumn(name);
-        if (!column) {
-            return 0;
-        }
-        var /** @type {?} */ lb = lowerBounds.slice();
-        var /** @type {?} */ ub = upperBounds.slice();
-        var /** @type {?} */ options = column.options;
-        var /** @type {?} */ indexMin = options.length - 1;
-        var /** @type {?} */ indexMax = 0;
-        for (var /** @type {?} */ i = 0; i < options.length; i++) {
-            var /** @type {?} */ opt = options[i];
-            var /** @type {?} */ value = opt.value;
-            lb[index] = opt.value;
-            ub[index] = opt.value;
-            var /** @type {?} */ disabled = opt.disabled = (value < lowerBounds[index] ||
-                value > upperBounds[index] ||
-                Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["d" /* dateSortValue */])(ub[0], ub[1], ub[2], ub[3], ub[4]) < min ||
-                Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["d" /* dateSortValue */])(lb[0], lb[1], lb[2], lb[3], lb[4]) > max);
-            if (!disabled) {
-                indexMin = Math.min(indexMin, i);
-                indexMax = Math.max(indexMax, i);
-            }
-        }
-        var /** @type {?} */ selectedIndex = column.selectedIndex = Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["a" /* clamp */])(indexMin, column.selectedIndex, indexMax);
-        opt = column.options[selectedIndex];
-        if (opt) {
-            return opt.value;
-        }
-        return 0;
-    };
-    /**
-     * @return {?}
-     */
-    DateTime.prototype.validate = function () {
-        var /** @type {?} */ today = new Date();
-        var /** @type {?} */ minCompareVal = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["c" /* dateDataSortValue */])(this._min);
-        var /** @type {?} */ maxCompareVal = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["c" /* dateDataSortValue */])(this._max);
-        var /** @type {?} */ yearCol = this._picker.getColumn('year');
-        (void 0) /* assert */;
-        var /** @type {?} */ selectedYear = today.getFullYear();
-        if (yearCol) {
-            // default to the first value if the current year doesn't exist in the options
-            if (!yearCol.options.find(function (col) { return col.value === today.getFullYear(); })) {
-                selectedYear = yearCol.options[0].value;
-            }
-            var /** @type {?} */ yearOpt = yearCol.options[yearCol.selectedIndex];
-            if (yearOpt) {
-                // they have a selected year value
-                selectedYear = yearOpt.value;
-            }
-        }
-        var /** @type {?} */ selectedMonth = this.validateColumn('month', 1, minCompareVal, maxCompareVal, [selectedYear, 0, 0, 0, 0], [selectedYear, 12, 31, 23, 59]);
-        var /** @type {?} */ numDaysInMonth = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["f" /* daysInMonth */])(selectedMonth, selectedYear);
-        var /** @type {?} */ selectedDay = this.validateColumn('day', 2, minCompareVal, maxCompareVal, [selectedYear, selectedMonth, 0, 0, 0], [selectedYear, selectedMonth, numDaysInMonth, 23, 59]);
-        var /** @type {?} */ selectedHour = this.validateColumn('hour', 3, minCompareVal, maxCompareVal, [selectedYear, selectedMonth, selectedDay, 0, 0], [selectedYear, selectedMonth, selectedDay, 23, 59]);
-        this.validateColumn('minute', 4, minCompareVal, maxCompareVal, [selectedYear, selectedMonth, selectedDay, selectedHour, 0], [selectedYear, selectedMonth, selectedDay, selectedHour, 59]);
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    DateTime.prototype.divyColumns = function () {
-        var /** @type {?} */ pickerColumns = this._picker.getColumns();
-        var /** @type {?} */ columnsWidth = [];
-        var /** @type {?} */ col;
-        var /** @type {?} */ width;
-        for (var /** @type {?} */ i = 0; i < pickerColumns.length; i++) {
-            col = pickerColumns[i];
-            columnsWidth.push(0);
-            for (var /** @type {?} */ j = 0; j < col.options.length; j++) {
-                width = col.options[j].text.length;
-                if (width > columnsWidth[i]) {
-                    columnsWidth[i] = width;
-                }
-            }
-        }
-        if (columnsWidth.length === 2) {
-            width = Math.max(columnsWidth[0], columnsWidth[1]);
-            pickerColumns[0].align = 'right';
-            pickerColumns[1].align = 'left';
-            pickerColumns[0].optionsWidth = pickerColumns[1].optionsWidth = width * 17 + "px";
-        }
-        else if (columnsWidth.length === 3) {
-            width = Math.max(columnsWidth[0], columnsWidth[2]);
-            pickerColumns[0].align = 'right';
-            pickerColumns[1].columnWidth = columnsWidth[1] * 17 + "px";
-            pickerColumns[0].optionsWidth = pickerColumns[2].optionsWidth = width * 17 + "px";
-            pickerColumns[2].align = 'left';
-        }
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    DateTime.prototype.updateText = function () {
-        // create the text of the formatted data
-        var /** @type {?} */ template = this.displayFormat || this.pickerFormat || DEFAULT_FORMAT;
-        this._text = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["j" /* renderDateTime */])(template, this.getValue(), this._locale);
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    DateTime.prototype.getValue = function () {
-        return this._value;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    DateTime.prototype.hasValue = function () {
-        var /** @type {?} */ val = this._value;
-        return Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["l" /* isPresent */])(val)
-            && Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["k" /* isObject */])(val)
-            && Object.keys(val).length > 0;
-    };
-    /**
-     * @hidden
-     * @param {?=} now
-     * @return {?}
-     */
-    DateTime.prototype.calcMinMax = function (now) {
-        var /** @type {?} */ todaysYear = (now || new Date()).getFullYear();
-        if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["l" /* isPresent */])(this.yearValues)) {
-            var /** @type {?} */ years = convertToArrayOfNumbers(this.yearValues, 'year');
-            if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["f" /* isBlank */])(this.min)) {
-                this.min = Math.min.apply(Math, years);
-            }
-            if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["f" /* isBlank */])(this.max)) {
-                this.max = Math.max.apply(Math, years);
-            }
-        }
-        else {
-            if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["f" /* isBlank */])(this.min)) {
-                this.min = (todaysYear - 100).toString();
-            }
-            if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["f" /* isBlank */])(this.max)) {
-                this.max = todaysYear.toString();
-            }
-        }
-        var /** @type {?} */ min = this._min = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["h" /* parseDate */])(this.min);
-        var /** @type {?} */ max = this._max = Object(__WEBPACK_IMPORTED_MODULE_8__util_datetime_util__["h" /* parseDate */])(this.max);
-        min.year = min.year || todaysYear;
-        max.year = max.year || todaysYear;
-        min.month = min.month || 1;
-        max.month = max.month || 12;
-        min.day = min.day || 1;
-        max.day = max.day || 31;
-        min.hour = min.hour || 0;
-        max.hour = max.hour || 23;
-        min.minute = min.minute || 0;
-        max.minute = max.minute || 59;
-        min.second = min.second || 0;
-        max.second = max.second || 59;
-        // Ensure min/max constraits
-        if (min.year > max.year) {
-            console.error('min.year > max.year');
-            min.year = max.year - 100;
-        }
-        if (min.year === max.year) {
-            if (min.month > max.month) {
-                console.error('min.month > max.month');
-                min.month = 1;
-            }
-            else if (min.month === max.month && min.day > max.day) {
-                console.error('min.day > max.day');
-                min.day = 1;
-            }
-        }
-    };
-    return DateTime;
-}(__WEBPACK_IMPORTED_MODULE_5__util_base_input__["a" /* BaseInput */]));
-
-DateTime.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
-                selector: 'ion-datetime',
-                template: '<div *ngIf="!_text" class="datetime-text datetime-placeholder">{{placeholder}}</div>' +
-                    '<div *ngIf="_text" class="datetime-text">{{_text}}</div>' +
-                    '<button aria-haspopup="true" ' +
-                    'type="button" ' +
-                    '[id]="id" ' +
-                    'ion-button="item-cover" ' +
-                    '[attr.aria-labelledby]="_labelId" ' +
-                    '[attr.aria-disabled]="_disabled" ' +
-                    'class="item-cover">' +
-                    '</button>',
-                host: {
-                    '[class.datetime-disabled]': '_disabled'
-                },
-                providers: [{ provide: __WEBPACK_IMPORTED_MODULE_1__angular_forms__["b" /* NG_VALUE_ACCESSOR */], useExisting: DateTime, multi: true }],
-                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None,
-            },] },
-];
-/**
- * @nocollapse
- */
-DateTime.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_4__util_form__["a" /* Form */], },
-    { type: __WEBPACK_IMPORTED_MODULE_2__config_config__["a" /* Config */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-    { type: __WEBPACK_IMPORTED_MODULE_6__item_item__["a" /* Item */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
-    { type: __WEBPACK_IMPORTED_MODULE_3__picker_picker_controller__["a" /* PickerController */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
-]; };
-DateTime.propDecorators = {
-    'min': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'max': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'displayFormat': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'pickerFormat': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'cancelText': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'doneText': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'yearValues': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'monthValues': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'dayValues': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'hourValues': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'minuteValues': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'monthNames': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'monthShortNames': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'dayNames': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'dayShortNames': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'pickerOptions': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'placeholder': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'ionCancel': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
-    '_click': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* HostListener */], args: ['click', ['$event'],] },],
-    '_keyup': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* HostListener */], args: ['keyup.space',] },],
-};
-function DateTime_tsickle_Closure_declarations() {
-    /** @type {?} */
-    DateTime.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    DateTime.ctorParameters;
-    /** @type {?} */
-    DateTime.propDecorators;
-    /** @type {?} */
-    DateTime.prototype._text;
-    /** @type {?} */
-    DateTime.prototype._min;
-    /** @type {?} */
-    DateTime.prototype._max;
-    /** @type {?} */
-    DateTime.prototype._locale;
-    /** @type {?} */
-    DateTime.prototype._picker;
-    /**
-     * \@input {string} The minimum datetime allowed. Value must be a date string
-     * following the
-     * [ISO 8601 datetime format standard](https://www.w3.org/TR/NOTE-datetime),
-     * such as `1996-12-19`. The format does not have to be specific to an exact
-     * datetime. For example, the minimum could just be the year, such as `1994`.
-     * Defaults to the beginning of the year, 100 years ago from today.
-     * @type {?}
-     */
-    DateTime.prototype.min;
-    /**
-     * \@input {string} The maximum datetime allowed. Value must be a date string
-     * following the
-     * [ISO 8601 datetime format standard](https://www.w3.org/TR/NOTE-datetime),
-     * `1996-12-19`. The format does not have to be specific to an exact
-     * datetime. For example, the maximum could just be the year, such as `1994`.
-     * Defaults to the end of this year.
-     * @type {?}
-     */
-    DateTime.prototype.max;
-    /**
-     * \@input {string} The display format of the date and time as text that shows
-     * within the item. When the `pickerFormat` input is not used, then the
-     * `displayFormat` is used for both display the formatted text, and determining
-     * the datetime picker's columns. See the `pickerFormat` input description for
-     * more info. Defaults to `MMM D, YYYY`.
-     * @type {?}
-     */
-    DateTime.prototype.displayFormat;
-    /**
-     * \@input {string} The format of the date and time picker columns the user selects.
-     * A datetime input can have one or many datetime parts, each getting their
-     * own column which allow individual selection of that particular datetime part. For
-     * example, year and month columns are two individually selectable columns which help
-     * choose an exact date from the datetime picker. Each column follows the string
-     * parse format. Defaults to use `displayFormat`.
-     * @type {?}
-     */
-    DateTime.prototype.pickerFormat;
-    /**
-     * \@input {string} The text to display on the picker's cancel button. Default: `Cancel`.
-     * @type {?}
-     */
-    DateTime.prototype.cancelText;
-    /**
-     * \@input {string} The text to display on the picker's "Done" button. Default: `Done`.
-     * @type {?}
-     */
-    DateTime.prototype.doneText;
-    /**
-     * \@input {array | string} Values used to create the list of selectable years. By default
-     * the year values range between the `min` and `max` datetime inputs. However, to
-     * control exactly which years to display, the `yearValues` input can take either an array
-     * of numbers, or string of comma separated numbers. For example, to show upcoming and
-     * recent leap years, then this input's value would be `yearValues="2024,2020,2016,2012,2008"`.
-     * @type {?}
-     */
-    DateTime.prototype.yearValues;
-    /**
-     * \@input {array | string} Values used to create the list of selectable months. By default
-     * the month values range from `1` to `12`. However, to control exactly which months to
-     * display, the `monthValues` input can take either an array of numbers, or string of
-     * comma separated numbers. For example, if only summer months should be shown, then this
-     * input value would be `monthValues="6,7,8"`. Note that month numbers do *not* have a
-     * zero-based index, meaning January's value is `1`, and December's is `12`.
-     * @type {?}
-     */
-    DateTime.prototype.monthValues;
-    /**
-     * \@input {array | string} Values used to create the list of selectable days. By default
-     * every day is shown for the given month. However, to control exactly which days of
-     * the month to display, the `dayValues` input can take either an array of numbers, or
-     * string of comma separated numbers. Note that even if the array days have an invalid
-     * number for the selected month, like `31` in February, it will correctly not show
-     * days which are not valid for the selected month.
-     * @type {?}
-     */
-    DateTime.prototype.dayValues;
-    /**
-     * \@input {array | string} Values used to create the list of selectable hours. By default
-     * the hour values range from `0` to `23` for 24-hour, or `1` to `12` for 12-hour. However,
-     * to control exactly which hours to display, the `hourValues` input can take either an
-     * array of numbers, or string of comma separated numbers.
-     * @type {?}
-     */
-    DateTime.prototype.hourValues;
-    /**
-     * \@input {array | string} Values used to create the list of selectable minutes. By default
-     * the mintues range from `0` to `59`. However, to control exactly which minutes to display,
-     * the `minuteValues` input can take either an array of numbers, or string of comma separated
-     * numbers. For example, if the minute selections should only be every 15 minutes, then
-     * this input value would be `minuteValues="0,15,30,45"`.
-     * @type {?}
-     */
-    DateTime.prototype.minuteValues;
-    /**
-     * \@input {array} Full names for each month name. This can be used to provide
-     * locale month names. Defaults to English.
-     * @type {?}
-     */
-    DateTime.prototype.monthNames;
-    /**
-     * \@input {array} Short abbreviated names for each month name. This can be used to provide
-     * locale month names. Defaults to English.
-     * @type {?}
-     */
-    DateTime.prototype.monthShortNames;
-    /**
-     * \@input {array} Full day of the week names. This can be used to provide
-     * locale names for each day in the week. Defaults to English.
-     * @type {?}
-     */
-    DateTime.prototype.dayNames;
-    /**
-     * \@input {array} Short abbreviated day of the week names. This can be used to provide
-     * locale names for each day in the week. Defaults to English.
-     * @type {?}
-     */
-    DateTime.prototype.dayShortNames;
-    /**
-     * \@input {any} Any additional options that the picker interface can accept.
-     * See the [Picker API docs](../../picker/Picker) for the picker options.
-     * @type {?}
-     */
-    DateTime.prototype.pickerOptions;
-    /**
-     * \@input {string} The text to display when there's no date selected yet.
-     * Using lowercase to match the input attribute
-     * @type {?}
-     */
-    DateTime.prototype.placeholder;
-    /**
-     * \@output {any} Emitted when the datetime selection was cancelled.
-     * @type {?}
-     */
-    DateTime.prototype.ionCancel;
-    /** @type {?} */
-    DateTime.prototype._pickerCtrl;
-}
-/**
- * @hidden
- * Use to convert a string of comma separated numbers or
- * an array of numbers, and clean up any user input
- * @param {?} input
- * @param {?} type
- * @return {?}
- */
-function convertToArrayOfNumbers(input, type) {
-    if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["n" /* isString */])(input)) {
-        // convert the string to an array of strings
-        // auto remove any whitespace and [] characters
-        input = input.replace(/\[|\]|\s/g, '').split(',');
-    }
-    var /** @type {?} */ values;
-    if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["e" /* isArray */])(input)) {
-        // ensure each value is an actual number in the returned array
-        values = input
-            .map(function (num) { return parseInt(num, 10); })
-            .filter(isFinite);
-    }
-    if (!values || !values.length) {
-        console.warn("Invalid \"" + type + "Values\". Must be an array of numbers, or a comma separated string of numbers.");
-    }
-    return values;
-}
-/**
- * @hidden
- * Use to convert a string of comma separated strings or
- * an array of strings, and clean up any user input
- * @param {?} input
- * @param {?} type
- * @return {?}
- */
-function convertToArrayOfStrings(input, type) {
-    if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["l" /* isPresent */])(input)) {
-        if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["n" /* isString */])(input)) {
-            // convert the string to an array of strings
-            // auto remove any [] characters
-            input = input.replace(/\[|\]/g, '').split(',');
-        }
-        var /** @type {?} */ values;
-        if (Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["e" /* isArray */])(input)) {
-            // trim up each string value
-            values = input.map(function (val) { return val.trim(); });
-        }
-        if (!values || !values.length) {
-            console.warn("Invalid \"" + type + "Names\". Must be an array of strings, or a comma separated string.");
-        }
-        return values;
-    }
-}
-var /** @type {?} */ DEFAULT_FORMAT = 'MMM D, YYYY';
-//# sourceMappingURL=datetime.js.map
-
-/***/ }),
-/* 125 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Picker; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__util_util__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__picker_component__ = __webpack_require__(65);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__picker_transitions__ = __webpack_require__(228);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__ = __webpack_require__(5);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-
-
-/**
- * @hidden
- */
-var Picker = (function (_super) {
-    __extends(Picker, _super);
-    /**
-     * @param {?} app
-     * @param {?=} opts
-     * @param {?=} config
-     */
-    function Picker(app, opts, config) {
-        if (opts === void 0) { opts = {}; }
-        var _this = this;
-        if (!opts) {
-            opts = {};
-        }
-        opts.columns = opts.columns || [];
-        opts.buttons = opts.buttons || [];
-        opts.enableBackdropDismiss = Object(__WEBPACK_IMPORTED_MODULE_1__util_util__["l" /* isPresent */])(opts.enableBackdropDismiss) ? Boolean(opts.enableBackdropDismiss) : true;
-        _this = _super.call(this, __WEBPACK_IMPORTED_MODULE_2__picker_component__["a" /* PickerCmp */], opts, null) || this;
-        _this._app = app;
-        _this.isOverlay = true;
-        _this.ionChange = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
-        config.setTransition('picker-slide-in', __WEBPACK_IMPORTED_MODULE_3__picker_transitions__["a" /* PickerSlideIn */]);
-        config.setTransition('picker-slide-out', __WEBPACK_IMPORTED_MODULE_3__picker_transitions__["b" /* PickerSlideOut */]);
-        return _this;
-    }
-    /**
-     * @hidden
-     * @param {?} direction
-     * @return {?}
-     */
-    Picker.prototype.getTransitionName = function (direction) {
-        var /** @type {?} */ key = (direction === 'back' ? 'pickerLeave' : 'pickerEnter');
-        return this._nav && this._nav.config.get(key);
-    };
-    /**
-     * @param {?} button
-     * @return {?}
-     */
-    Picker.prototype.addButton = function (button) {
-        this.data.buttons.push(button);
-    };
-    /**
-     * @param {?} column
-     * @return {?}
-     */
-    Picker.prototype.addColumn = function (column) {
-        this.data.columns.push(column);
-    };
-    /**
-     * @return {?}
-     */
-    Picker.prototype.getColumns = function () {
-        return this.data.columns;
-    };
-    /**
-     * @param {?} name
-     * @return {?}
-     */
-    Picker.prototype.getColumn = function (name) {
-        return this.getColumns().find(function (column) { return column.name === name; });
-    };
-    /**
-     * @return {?}
-     */
-    Picker.prototype.refresh = function () {
-        (void 0) /* assert */;
-        (void 0) /* assert */;
-        this._cmp && this._cmp.instance.refresh && this._cmp.instance.refresh();
-    };
-    /**
-     * @param {?} cssClass
-     * @return {?}
-     */
-    Picker.prototype.setCssClass = function (cssClass) {
-        this.data.cssClass = cssClass;
-    };
-    /**
-     * Present the picker instance.
-     *
-     * @param {?=} navOptions
-     * @return {?}
-     */
-    Picker.prototype.present = function (navOptions) {
-        if (navOptions === void 0) { navOptions = {}; }
-        return this._app.present(this, navOptions);
-    };
-    return Picker;
-}(__WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__["a" /* ViewController */]));
-
-Picker.propDecorators = {
-    'ionChange': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
-};
-function Picker_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Picker.propDecorators;
-    /** @type {?} */
-    Picker.prototype._app;
-    /** @type {?} */
-    Picker.prototype.ionChange;
-}
-//# sourceMappingURL=picker.js.map
-
-/***/ }),
-/* 126 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return FabContainer; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__platform_platform__ = __webpack_require__(3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__gestures_ui_event_manager__ = __webpack_require__(22);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__fab__ = __webpack_require__(43);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__fab_list__ = __webpack_require__(67);
-
-
-
-
-
-/**
- * \@name FabContainer
- * \@module ionic
- *
- * \@description
- * `<ion-fab>` is not a FAB button by itself but a container that assist the fab button (`<button ion-fab>`) allowing it
- * to be placed in fixed position that does not scroll with the content. It is also used to implement "material design speed dial",
- * ie. a FAB buttons displays a small lists of related actions when clicked.
- *
- * \@property [top] - Places the container on the top of the content
- * \@property [bottom] - Places the container on the bottom  of the content
- * \@property [left] - Places the container on the left
- * \@property [right] - Places the container on the right
- * \@property [middle] - Places the container on the middle vertically
- * \@property [center] - Places the container on the center horizontally
- * \@property [edge] - Used to place the container between the content and the header/footer
- *
- * \@usage
- *
- * ```html
- * <!-- this fab is placed at top right -->
- * <ion-content>
- *  <ion-fab top right>
- *    <button ion-fab>Button</button>
- *  </ion-fab>
- *
- *  <!-- this fab is placed at the center of the content viewport -->
- *  <ion-fab center middle>
- *    <button ion-fab>Button</button>
- *  </ion-fab>
- * </ion-content>
- * ```
- *
- * Ionic's FAB also supports "material design's fab speed dial". It is a normal fab button
- * that shows a list of related actions when clicked.
- *
- * The same `ion-fab` container can contain several `ion-fab-list` with different side values:
- * `top`, `bottom`, `left` and `right`. For example, if you want to have a list of button that are
- * on the top of the main button, you should use `side="top"` and so on. By default, if side is ommited, `side="bottom"`.
- *
- * ```html
- * <ion-content>
- *  <!-- this fab is placed at bottom right -->
- *  <ion-fab bottom right >
- *    <button ion-fab>Share</button>
- *    <ion-fab-list side="top">
- *      <button ion-fab>Facebook</button>
- *      <button ion-fab>Twitter</button>
- *      <button ion-fab>Youtube</button>
- *    </ion-fab-list>
- *    <ion-fab-list side="left">
- *      <button ion-fab>Vimeo</button>
- *    </ion-fab-list>
- *  </ion-fab>
- * </ion-content>
- * ```
- *
- * A FAB speed dial can also be closed programatically.
- *
- * ```html
- * <ion-content>
- *  <ion-fab bottom right #fab>
- *    <button ion-fab>Share</button>
- *    <ion-fab-list side="top">
- *      <button ion-fab (click)="share('facebook', fab)">Facebook</button>
- *      <button ion-fab (click)="share('twitter', fab)">Twitter</button>
- *    </ion-fab-list>
- *  </ion-fab>
- * </ion-content>
- * ```
- *
- * ```ts
- * share(socialNet: string, fab: FabContainer) {
- *   fab.close();
- *   console.log("Sharing in", socialNet);
- * }
- * ```
- *
- * \@demo /docs/demos/src/fab/
- * @see {\@link /docs/components#fabs FAB Component Docs}
- */
-var FabContainer = (function () {
-    /**
-     * @param {?} plt
-     */
-    function FabContainer(plt) {
-        /**
-         * @hidden
-         */
-        this._listsActive = false;
-        this._events = new __WEBPACK_IMPORTED_MODULE_2__gestures_ui_event_manager__["a" /* UIEventManager */](plt);
-    }
-    /**
-     * @hidden
-     * @return {?}
-     */
-    FabContainer.prototype.ngAfterContentInit = function () {
-        var /** @type {?} */ mainButton = this._mainButton;
-        if (!mainButton || !mainButton.getNativeElement()) {
-            console.error('FAB container needs a main <button ion-fab>');
-            return;
-        }
-        this._events.listen(mainButton.getNativeElement(), 'click', this.clickHandler.bind(this), { zone: true });
-    };
-    /**
-     * @hidden
-     * @param {?} ev
-     * @return {?}
-     */
-    FabContainer.prototype.clickHandler = function (ev) {
-        if (this.canActivateList(ev)) {
-            this.toggleList();
-        }
-    };
-    /**
-     * @hidden
-     * @param {?} ev
-     * @return {?}
-     */
-    FabContainer.prototype.canActivateList = function (ev) {
-        if (this._fabLists.length > 0 && this._mainButton && ev.target) {
-            var /** @type {?} */ ele = ev.target.closest('ion-fab>[ion-fab]');
-            return (ele && ele === this._mainButton.getNativeElement());
-        }
-        return false;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    FabContainer.prototype.toggleList = function () {
-        this.setActiveLists(!this._listsActive);
-    };
-    /**
-     * @hidden
-     * @param {?} isActive
-     * @return {?}
-     */
-    FabContainer.prototype.setActiveLists = function (isActive) {
-        if (isActive === this._listsActive) {
-            return;
-        }
-        var /** @type {?} */ lists = this._fabLists.toArray();
-        for (var _i = 0, lists_1 = lists; _i < lists_1.length; _i++) {
-            var list = lists_1[_i];
-            list.setVisible(isActive);
-        }
-        this._mainButton.setActiveClose(isActive);
-        this._listsActive = isActive;
-    };
-    /**
-     * Close an active FAB list container
-     * @return {?}
-     */
-    FabContainer.prototype.close = function () {
-        this.setActiveLists(false);
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    FabContainer.prototype.ngOnDestroy = function () {
-        this._events.destroy();
-    };
-    return FabContainer;
-}());
-
-FabContainer.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
-                selector: 'ion-fab',
-                template: '<ng-content></ng-content>'
-            },] },
-];
-/**
- * @nocollapse
- */
-FabContainer.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_1__platform_platform__["a" /* Platform */], },
-]; };
-FabContainer.propDecorators = {
-    '_mainButton': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* ContentChild */], args: [__WEBPACK_IMPORTED_MODULE_3__fab__["a" /* FabButton */],] },],
-    '_fabLists': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["s" /* ContentChildren */], args: [__WEBPACK_IMPORTED_MODULE_4__fab_list__["a" /* FabList */],] },],
-};
-function FabContainer_tsickle_Closure_declarations() {
-    /** @type {?} */
-    FabContainer.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    FabContainer.ctorParameters;
-    /** @type {?} */
-    FabContainer.propDecorators;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    FabContainer.prototype._events;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    FabContainer.prototype._listsActive;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    FabContainer.prototype._mainButton;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    FabContainer.prototype._fabLists;
-}
-//# sourceMappingURL=fab-container.js.map
-
-/***/ }),
-/* 127 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Col; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-
-/**
- * \@name Col
- * \@module ionic
- * \@description
- *
- * Columns are cellular components of the [grid](../Grid) system and go inside of a [row](../Row).
- * They will expand to fill their row. All content within a grid should go inside of a column.
- *
- * ## Column attributes
- *
- * By default, columns will stretch to fill the entire height of the row.
- * There are several attributes that can be added to a column to customize this behavior.
- *
- * | Property              | Description                                                                                                 |
- * |-----------------------|-------------------------------------------------------------------------------------------------------------|
- * | align-self-start      | Adds `align-self: flex-start`. The column will be vertically aligned at the top.                            |
- * | align-self-center     | Adds `align-self: center`. The column will be vertically aligned in the center.                             |
- * | align-self-end        | Adds `align-self: flex-end`. The column will be vertically aligned at the bottom.                           |
- * | align-self-stretch    | Adds `align-self: stretch`. The column will be stretched to take up the entire height of the row.           |
- * | align-self-baseline   | Adds `align-self: baseline`. The column will be vertically aligned at its baseline.                         |
- *
- *
- */
-var Col = (function () {
-    function Col() {
-    }
-    return Col;
-}());
-
-Col.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-col, [ion-col]',
-                host: {
-                    'class': 'col'
-                }
-            },] },
-];
-/**
- * @nocollapse
- */
-Col.ctorParameters = function () { return []; };
-function Col_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Col.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    Col.ctorParameters;
-}
-//# sourceMappingURL=col.js.map
-
-/***/ }),
-/* 128 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Grid; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-
-/**
- * \@name Grid
- * \@module ionic
- * \@description
- *
- * The grid is a powerful mobile-first flexbox system for building custom layouts.
- * It is heavily influenced by [Bootstrap's grid system](http://v4-alpha.getbootstrap.com/layout/grid/).
- *
- * The grid is composed of three units — a grid, row(s) and column(s). Columns will expand to fill their
- * row, and will resize to fit additional columns. It is based on a 12 column layout with different
- * breakpoints based on the screen size. The number of columns and breakpoints can be fully customized
- * using Sass.
- *
- * - [How it works](#how-it-works)
- * - [Grid size](#grid-size)
- * - [Grid attributes](#grid-attributes)
- * - [Default breakpoints](#default-breakpoints)
- * - [Auto-layout columns](#auto-layout-columns)
- *   - [Equal-width](#equal-width)
- *   - [Setting one column width](#setting-one-column-width)
- *   - [Variable-width](#variable-width)
- * - [Responsive attributes](#responsive-attributes)
- *   - [All breakpoints](#all-breakpoints)
- *   - [Stacked to horizontal](#stacked-to-horizontal)
- * - [Reordering](#reordering)
- *   - [Offsetting columns](#offsetting-columns)
- *   - [Push and pull](#push-and-pull)
- * - [Alignment](#alignment)
- *   - [Vertical Alignment](#vertical-alignment)
- *   - [Horizontal Alignment](#horizontal-alignment)
- * - [Customizing the grid](#customizing-the-grid)
- *   - [Number of columns and padding](#number-of-columns-and-padding)
- *   - [Grid tiers](#grid-tiers)
- *
- *
- * ## How it works
- *
- * The grid is a mobile-first system made up of any number of rows and columns.
- * It is built with flexbox making it extremely responsive. The components that
- * make up the grid can be written as an element (e.g., `<ion-grid>`) or added as
- * an attribute to any element (e.g., `<div ion-row>`).
- *
- * Here's how it works:
- *
- * - Grids act as a container for all rows and columns. Grids take up the full width of their container,
- * but adding the `fixed` attribute will specify the width per screen size, see [grid size](#grid-size) below.
- * - Rows are horizontal groups of columns that line the columns up properly.
- * - Content should be placed within columns, and only columns may be immediate children of rows.
- * - Grid columns without a specified width will automatically have equal widths.
- * For example, four instances of `col-sm` will each automatically be 25% wide for small breakpoints.
- * - Column attributes indicate the number of columns to use out of the default 12 per row.
- * So, `col-4` can be added in order to have three equal-width columns.
- * - Column widths are set as a percentage, so they’re always fluid and sized relative to their parent element.
- * - Columns have padding between individual columns, however, the padding can be removed from the grid and
- * columns by adding `no-padding` on the grid.
- * - There are five grid tiers by default, one for each responsive breakpoint: all breakpoints (extra small),
- * small, medium, large, and extra large.
- * - Grid tiers are based on minimum widths, meaning they apply to their tier and all those larger than it
- * (e.g., `col-sm-4` applies to small, medium, large, and extra large devices).
- * - Grids can easily be customized via Sass variables. See [customizing the grid](#customizing-the-grid).
- *
- * There are some [known bugs with flexbox](https://github.com/philipwalton/flexbugs) that
- * should be checked prior to creating issues with Ionic.
- *
- * ## Grid size
- *
- * By default, the grid will take up 100% width. To set a maximum width based on the screen
- * size add the `fixed` attribute. The maximum width of the grid for each breakpoint is defined
- * in the `$grid-max-widths` Sass variable. For more information, see
- * [customizing the grid](#customizing-the-grid).
- *
- * | Name     | Value    | Description                                         |
- * |----------|----------|-----------------------------------------------------|
- * | xs       | auto     | Don't set the grid width for xs screens             |
- * | sm       | 540px    | Set grid width to 540px when (min-width: 576px)     |
- * | md       | 720px    | Set grid width to 720px when (min-width: 768px)     |
- * | lg       | 960px    | Set grid width to 960px when (min-width: 992px)     |
- * | xl       | 1140px   | Set grid width to 1140px when (min-width: 1200px)   |
- *
- *
- * ## Grid attributes
- *
- * The grid takes up full width and has padding added to it based on the screen size. There are two
- * attributes that can be used to adjust this behavior.
- *
- * | Property        | Description                                                                                                       |
- * |-----------------|-------------------------------------------------------------------------------------------------------------------|
- * | no-padding      | Removes padding from the grid and immediate children columns.                                                     |
- * | fixed           | Set a max width based on the screen size.                                                                         |
- *
- *
- * ## Default breakpoints
- *
- * The default breakpoints are defined by the `$grid-breakpoints` Sass variable. It can be
- * customized to use different values for the breakpoint, rename and add/remove breakpoints.
- * For more information, see [customizing the grid](#customizing-the-grid).
- *
- * | Name     | Value    | Width Prefix | Offset Prefix | Push Prefix  | Pull Prefix | Description                                       |
- * |----------|----------|--------------|---------------|--------------|-------------|---------------------------------------------------|
- * | xs       | 0        | `col-`       | `offset-`     | `push-`      | `pull-`     | Set columns when (min-width: 0)                   |
- * | sm       | 576px    | `col-sm-`    | `offset-sm-`  | `push-sm-`   | `pull-sm-`  | Set columns when (min-width: 576px)               |
- * | md       | 768px    | `col-md-`    | `offset-md-`  | `push-md-`   | `pull-md-`  | Set columns when (min-width: 768px)               |
- * | lg       | 992px    | `col-lg-`    | `offset-lg-`  | `push-lg-`   | `pull-lg-`  | Set columns when (min-width: 992px)               |
- * | xl       | 1200px   | `col-xl-`    | `offset-xl-`  | `push-xl-`   | `pull-xl-`  | Set columns when (min-width: 1200px)              |
- *
- * _Note: the first breakpoint must have the value set to 0 and all breakpoint values must be in
- * ascending order._
- *
- * ## Auto-layout columns
- *
- * ### Equal-width
- *
- * By default, columns will take up equal width inside of a row for all devices and screen sizes.
- *
- * ```
- * <ion-grid>
- *   <ion-row>
- *     <ion-col>
- *       1 of 2
- *     </ion-col>
- *     <ion-col>
- *       2 of 2
- *     </ion-col>
- *   </ion-row>
- *   <ion-row>
- *     <ion-col>
- *       1 of 3
- *     </ion-col>
- *     <ion-col>
- *       2 of 3
- *     </ion-col>
- *     <ion-col>
- *       3 of 3
- *     </ion-col>
- *   </ion-row>
- * </ion-grid>
- * ```
- *
- * ### Setting one column width
- *
- * Set the width of one column and the others will automatically resize around it.
- * This can be done using our predefined grid attributes. In the example below,
- * the other columns will resize no matter the width of the center column.
- *
- * ```
- * <ion-grid>
- *   <ion-row>
- *     <ion-col>
- *       1 of 3
- *     </ion-col>
- *     <ion-col col-8>
- *       2 of 3 (wider)
- *     </ion-col>
- *     <ion-col>
- *       3 of 3
- *     </ion-col>
- *   </ion-row>
- *   <ion-row>
- *     <ion-col>
- *       1 of 3
- *     </ion-col>
- *     <ion-col col-6>
- *       2 of 3 (wider)
- *     </ion-col>
- *     <ion-col>
- *       3 of 3
- *     </ion-col>
- *   </ion-row>
- * </ion-grid>
- * ```
- *
- * ### Variable-width
- *
- * Using the `col-{breakpoint}-auto` attributes, the column can size itself based on the
- * natural width of its content. This is extremely useful for setting a column width
- * using pixels. The columns next to the variable-width column will resize to fill the row.
- *
- * ```
- * <ion-grid>
- *   <ion-row>
- *     <ion-col>
- *       1 of 3
- *     </ion-col>
- *     <ion-col col-auto>
- *       Variable width content
- *     </ion-col>
- *     <ion-col>
- *       3 of 3
- *     </ion-col>
- *   </ion-row>
- *   <ion-row>
- *     <ion-col>
- *       1 of 4
- *     </ion-col>
- *     <ion-col>
- *       2 of 4
- *     </ion-col>
- *     <ion-col col-auto>
- *       <ion-input placeholder="Variable width input"></ion-input>
- *     </ion-col>
- *     <ion-col>
- *       4 of 4
- *     </ion-col>
- *   </ion-row>
- * </ion-grid>
- * ```
- *
- *
- * ## Responsive attributes
- *
- * ### All breakpoints
- *
- * To customize a column's width for all devices and screens, add the `col-*`
- * attribute. These attributes tell the column to take up `*` columns out
- * of the available columns.
- *
- * ```
- * <ion-grid>
- *   <ion-row>
- *     <ion-col col-4>
- *       1 of 4
- *     </ion-col>
- *     <ion-col col-2>
- *       2 of 4
- *     </ion-col>
- *     <ion-col col-2>
- *       3 of 4
- *     </ion-col>
- *     <ion-col col-4>
- *       4 of 4
- *     </ion-col>
- *   </ion-row>
- * </ion-grid>
- * ```
- *
- * ###  Stacked to horizontal
- *
- * Use a combination of width and breakpoint attributes to create a grid that starts out stacked
- * on extra small screens before becoming horizontal on small screens.
- *
- * ```
- * <ion-grid>
- *   <ion-row>
- *     <ion-col col-12 col-sm>
- *       1 of 4
- *     </ion-col>
- *     <ion-col col-12 col-sm>
- *       2 of 4
- *     </ion-col>
- *     <ion-col col-12 col-sm>
- *       3 of 4
- *     </ion-col>
- *     <ion-col col-12 col-sm>
- *       4 of 4
- *     </ion-col>
- *   </ion-row>
- * </ion-grid>
- * ```
- *
- *
- * ## Reordering
- *
- * ### Offsetting columns
- *
- * Move columns to the right by adding the `offset-*` attributes. These attributes
- * increase the margin start of the column by `*` columns. For example, in the following
- * grid the last column will be offset by 3 columns and take up 3 columns:
- *
- * ```
- * <ion-grid>
- *   <ion-row>
- *     <ion-col col-3>
- *       1 of 2
- *     </ion-col>
- *     <ion-col col-3 offset-3>
- *       2 of 2
- *     </ion-col>
- *   </ion-row>
- * </ion-grid>
- * ```
- *
- * Offsets can also be added based on screen breakpoints. Here's an example of a
- * grid where the last column will be offset by 3 columns for `md` screens and up:
- *
- * ```
- * <ion-grid>
- *   <ion-row>
- *     <ion-col col-md-3>
- *       1 of 3
- *     </ion-col>
- *     <ion-col col-md-3>
- *       2 of 3
- *     </ion-col>
- *     <ion-col col-md-3 offset-md-3>
- *       3 of 3
- *     </ion-col>
- *   </ion-row>
- * </ion-grid>
- * ```
- *
- * ### Push and pull
- *
- * Reorder the columns by adding the `push-*` and `pull-*` attributes. These attributes
- * adjust the `left` and `right` of the columns by `*` columns making it easy to reorder
- * columns. For example, in the following grid the column with the `1st col` description
- * will actually be the last column and the `2nd col` will be the first column.
- *
- * ```
- * <ion-grid>
- *   <ion-row>
- *     <ion-col col-9 push-3>
- *       1 of 2
- *     </ion-col>
- *     <ion-col col-3 pull-9>
- *       2 of 2
- *     </ion-col>
- *   </ion-row>
- * </ion-grid>
- * ```
- *
- * Push and pull can also be added based on screen breakpoints. In the following example,
- * the column with the `3rd` column description will actually be the first column for
- * `md` screens and up:
- *
- * ```
- * <ion-grid>
- *   <ion-row>
- *     <ion-col col-md-6 push-md-3>
- *       1 of 3
- *     </ion-col>
- *     <ion-col col-md-3 push-md-3>
- *       2 of 3
- *     </ion-col>
- *     <ion-col col-md-3 pull-md-9>
- *       3 of 3
- *     </ion-col>
- *   </ion-row>
- * </ion-grid>
- * ```
- *
- *
- * ## Alignment
- *
- * ### Vertical alignment
- *
- * All columns can be vertically aligned inside of a row by adding different
- * attributes to the row. For a list of available attributes, see
- * [row attributes](../Row#row-attributes).
- *
- * ```
- * <ion-grid>
- *   <ion-row align-items-start>
- *     <ion-col>
- *       1 of 4
- *     </ion-col>
- *     <ion-col>
- *       2 of 4
- *     </ion-col>
- *     <ion-col>
- *       3 of 4
- *     </ion-col>
- *     <ion-col>
- *       4 of 4 <br>#<br>#<br>#
- *     </ion-col>
- *   </ion-row>
- *
- *   <ion-row align-items-center>
- *     <ion-col>
- *       1 of 4
- *     </ion-col>
- *     <ion-col>
- *       2 of 4
- *     </ion-col>
- *     <ion-col>
- *       3 of 4
- *     </ion-col>
- *     <ion-col>
- *       4 of 4 <br>#<br>#<br>#
- *     </ion-col>
- *   </ion-row>
- *
- *   <ion-row align-items-end>
- *     <ion-col>
- *       1 of 4
- *     </ion-col>
- *     <ion-col>
- *       2 of 4
- *     </ion-col>
- *     <ion-col>
- *       3 of 4
- *     </ion-col>
- *     <ion-col>
- *       4 of 4 <br>#<br>#<br>#
- *     </ion-col>
- *   </ion-row>
- * </ion-grid>
- * ```
- *
- * Columns can also align themselves differently than other columns by
- * adding the alignment attribute directly to the column. For a list of available
- * attributes, see [column attributes](../Col#column-attributes).
- *
- * ```
- * <ion-grid>
- *   <ion-row>
- *     <ion-col align-self-start>
- *       <div>
- *         1 of 4
- *       </div>
- *     </ion-col>
- *     <ion-col align-self-center>
- *       <div>
- *         2 of 4
- *       </div>
- *     </ion-col>
- *     <ion-col align-self-end>
- *       <div>
- *         3 of 4
- *       </div>
- *     </ion-col>
- *     <ion-col>
- *       <div>
- *         4 of 4 <br>#<br>#<br>#
- *       </div>
- *     </ion-col>
- *   </ion-row>
- * </ion-grid>
- * ```
- *
- * ### Horizontal alignment
- *
- * All columns can be horizontally aligned inside of a row by adding different
- * attributes to the row. For a list of available attributes, see
- * [row attributes](../Row#row-attributes).
- *
- * ```
- * <ion-grid>
- *   <ion-row justify-content-start>
- *     <ion-col col-3>
- *       1 of 2
- *     </ion-col>
- *     <ion-col col-3>
- *       2 of 2
- *     </ion-col>
- *   </ion-row>
- *
- *   <ion-row justify-content-center>
- *     <ion-col col-3>
- *       1 of 2
- *     </ion-col>
- *     <ion-col col-3>
- *       2 of 2
- *     </ion-col>
- *   </ion-row>
- *
- *   <ion-row justify-content-end>
- *     <ion-col col-3>
- *       1 of 2
- *     </ion-col>
- *     <ion-col col-3>
- *       2 of 2
- *     </ion-col>
- *   </ion-row>
- *
- *   <ion-row justify-content-around>
- *     <ion-col col-3>
- *       1 of 2
- *     </ion-col>
- *     <ion-col col-3>
- *       2 of 2
- *     </ion-col>
- *   </ion-row>
- *
- *   <ion-row justify-content-between>
- *     <ion-col col-3>
- *       1 of 2
- *     </ion-col>
- *     <ion-col col-3>
- *       2 of 2
- *     </ion-col>
- *   </ion-row>
- * </ion-grid>
- * ```
- *
- *
- * ## Customizing the grid
- *
- * Using our built-in grid Sass variables and maps, it’s possible to completely customize
- * the predefined grid attributes. Change the number of breakpoints, the media query values,
- * the number of columns, and more.
- *
- * ### Number of columns and padding
- *
- * The number of grid columns and their padding can be modified via Sass variables.
- * `$grid-columns` is used to generate the widths (in percent) of each individual column.
- * `$grid-padding-width` is used for the padding on the grid, while `$grid-padding-widths`
- * allows breakpoint-specific widths that are divided evenly across `padding-left` and
- * `padding-right` as well as `padding-top` and `padding-bottom` of the grid and columns.
- *
- * ```
- * $grid-columns:               12 !default;
- *
- * $grid-padding-width:         10px !default;
- *
- * $grid-padding-widths: (
- *   xs: $grid-padding-width,
- *   sm: $grid-padding-width,
- *   md: $grid-padding-width,
- *   lg: $grid-padding-width,
- *   xl: $grid-padding-width
- * ) !default;
- * ```
- *
- * ### Grid tiers
- *
- * To customize the breakpoints and their values, override the values of
- * `$grid-breakpoints` and `$grid-max-widths`. For example, to only use
- * 3 breakpoints, the following could be written:
- *
- * ```
- * $grid-breakpoints: (
- *   sm: 0,
- *   md: 768px,
- *   lg: 1024px
- * );
- *
- * $grid-max-widths: (
- *   sm: 420px,
- *   md: 720px,
- *   lg: 960px
- * );
- * ```
- *
- */
-var Grid = (function () {
-    function Grid() {
-    }
-    return Grid;
-}());
-
-Grid.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-grid, [ion-grid]',
-                host: {
-                    'class': 'grid'
-                }
-            },] },
-];
-/**
- * @nocollapse
- */
-Grid.ctorParameters = function () { return []; };
-function Grid_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Grid.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    Grid.ctorParameters;
-}
-//# sourceMappingURL=grid.js.map
-
-/***/ }),
-/* 129 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Row; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-
-/**
- * \@name Row
- * \@module ionic
- * \@description
- *
- * Rows are horizontal components of the [grid](../Grid) system and contain varying numbers of
- * [columns](../Col). They ensure the columns are positioned properly.
- *
- * ## Row attributes
- *
- * By default, columns will stretch to fill the entire height of the row and wrap when necessary.
- * There are several attributes that can be added to a row to customize this behavior.
- *
- * | Property                    | Description                                                                                                                                      |
- * |-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
- * | nowrap                      | Adds `flex-wrap: nowrap`. Forces the columns to a single row.                                                                                    |
- * | wrap-reverse                | Adds `flex-wrap: wrap-reverse`. The columns will wrap in reverse.                                                                                |
- * | align-items-start           | Adds `align-items: flex-start`. All columns will be vertically aligned at the top, unless they specify their own alignment.                      |
- * | align-items-center          | Adds `align-items: center`. All columns will be vertically aligned in the center, unless they specify their own alignment.                       |
- * | align-items-end             | Adds `align-items: flex-end`. All columns will be vertically aligned at the bottom, unless they specify their own alignment.                     |
- * | align-items-stretch         | Adds `align-items: stretch`. All columns will be stretched to take up the entire height of the row, unless they specify their own alignment.     |
- * | align-items-baseline        | Adds `align-items: baseline`. All columns will be vertically aligned at their baselines, unless they specify their own alignment.                |
- * | justify-content-start       | Adds `justify-content: start`. All columns will be horizontally aligned at the start.                                                            |
- * | justify-content-center      | Adds `justify-content: center`. All columns will be horizontally aligned at the center.                                                          |
- * | justify-content-end         | Adds `justify-content: end`. All columns will be horizontally aligned at the end.                                                                |
- * | justify-content-around      | Adds `justify-content: space-around`. All columns will be horizontally aligned with equal space around them.                                     |
- * | justify-content-between     | Adds `justify-content: space-between`. All columns will be horizontally aligned with a half-size space on either end.                            |
- *
- *
- */
-var Row = (function () {
-    function Row() {
-    }
-    return Row;
-}());
-
-Row.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-row, [ion-row]',
-                host: {
-                    'class': 'row'
-                }
-            },] },
-];
-/**
- * @nocollapse
- */
-Row.ctorParameters = function () { return []; };
-function Row_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Row.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    Row.ctorParameters;
-}
-//# sourceMappingURL=row.js.map
-
-/***/ }),
-/* 130 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Img; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__content_content__ = __webpack_require__(19);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__platform_dom_controller__ = __webpack_require__(8);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__util_util__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__platform_platform__ = __webpack_require__(3);
-
-
-
-
-
-/**
- * \@name Img
- * \@description
- * Two of the biggest cuprits of scroll jank is starting up a new HTTP
- * request, and rendering images. These two reasons is largely why
- * `ion-img` was created. The standard HTML `img` element is often a large
- * source of these problems, and what makes matters worse is that the app
- * does not have fine-grained control of requests and rendering for each
- * `img` element.
- *
- * The `ion-img` component is similar to the standard `img` element,
- * but it also adds features in order to provide improved performance.
- * Features include only loading images which are visible, using web workers
- * for HTTP requests, preventing jank while scrolling and in-memory caching.
- *
- * Note that `ion-img` also comes with a few more restrictions in comparison
- * to the standard `img` element. A good rule is, if there are only a few
- * images to be rendered on a page, then the standard `img` is probably
- * best. However, if a page has the potential for hundreds or even thousands
- * of images within a scrollable area, then `ion-img` would be better suited
- * for the job.
- *
- * > Note: `ion-img` is only meant to be used inside of [virtual-scroll](/docs/api/components/virtual-scroll/VirtualScroll/)
- *
- *
- * ### Lazy Loading
- *
- * Lazy loading images refers to only loading images which are actually
- * visible within the user's viewport. This also means that images which are
- * not viewable on the initial load would not be downloaded or rendered. Next,
- * as the user scrolls, each image which becomes visible is then requested
- * then rendered on-demand.
- *
- * The benefits of this approach is that unnecessary and resource intensive
- * HTTP requests are not started, valuable bandwidth isn't wasted, and this
- * allows the browser to free up resources which would be wasted on images
- * which are not even viewable. For example, animated GIFs are enourmous
- * performance drains, however, with `ion-img` the app is able to dedicate
- * resources to just the viewable images. But again, if the problems listed
- * above are not problems within your app, then the standard `img` element
- * may be best.
- *
- *
- * ### Image Dimensions
- *
- * By providing image dimensions up front, Ionic is able to accurately size
- * up the image's location within the viewport, which helps lazy load only
- * images which are viewable. Image dimensions can either by set as
- * properties, inline styles, or external stylesheets. It doesn't matter
- * which method of setting dimensions is used, but it's important that somehow
- * each `ion-img` has been given an exact size.
- *
- * For example, by default `<ion-avatar>` and `<ion-thumbnail>` already come
- * with exact sizes when placed within an `<ion-item>`. By giving each image
- * an exact size, this then further locks in the size of each `ion-item`,
- * which again helps improve scroll performance.
- *
- * ```html
- * <!-- dimensions set using attributes -->
- * <ion-img width="80" height="80" src="..."></ion-img>
- *
- * <!-- dimensions set using input properties -->
- * <ion-img [width]="imgWidth" [height]="imgHeight" src="..."></ion-img>
- *
- * <!-- dimensions set using inline styles -->
- * <ion-img style="width: 80px; height: 80px;" src="..."></ion-img>
- * ```
- *
- * Additionally, each `ion-img` uses the `object-fit: cover` CSS property.
- * What this means is that the actual rendered image will center itself within
- * it's container. Or to really get detailed: The image is sized to maintain
- * its aspect ratio while filling the containing element’s entire content box.
- * Its concrete object size is resolved as a cover constraint against the
- * element’s used width and height.
- *
- * ### Future Optimizations
- *
- * Future goals are to place image requests within web workers, and cache
- * images in-memory as datauris. This method has proven to be effective,
- * however there are some current limitations with Cordova which we are
- * currently working on.
- *
- */
-var Img = (function () {
-    /**
-     * @param {?} _elementRef
-     * @param {?} _renderer
-     * @param {?} _plt
-     * @param {?} _content
-     * @param {?} _dom
-     */
-    function Img(_elementRef, _renderer, _plt, _content, _dom) {
-        this._elementRef = _elementRef;
-        this._renderer = _renderer;
-        this._plt = _plt;
-        this._content = _content;
-        this._dom = _dom;
-        /**
-         * \@internal
-         */
-        this._cache = true;
-        /**
-         * \@internal
-         */
-        this._w = '';
-        /**
-         * \@internal
-         */
-        this._h = '';
-        /**
-         * \@internal
-         */
-        this._wQ = '';
-        /**
-         * \@internal
-         */
-        this._hQ = '';
-        /**
-         * \@input {string}  Set the `alt` attribute which gets assigned to
-         * the inner `img` element.
-         */
-        this.alt = '';
-        if (!this._content) {
-            console.warn("ion-img can only be used within an ion-content");
-        }
-        else {
-            this._content.addImg(this);
-        }
-        this._isLoaded(false);
-    }
-    Object.defineProperty(Img.prototype, "src", {
-        /**
-         * \@input {string} The source of the image.
-         * @return {?}
-         */
-        get: function () {
-            return this._src;
-        },
-        /**
-         * @param {?} newSrc
-         * @return {?}
-         */
-        set: function (newSrc) {
-            // if the source hasn't changed, then um, let's not change it
-            if (newSrc !== this._src) {
-                // we're changing the source
-                // so abort any active http requests
-                // and render the image empty
-                this.reset();
-                // update to the new src
-                this._src = newSrc;
-                // Are they using an actual datauri already,
-                // or reset any existing datauri we might be holding onto
-                this._hasLoaded = newSrc.indexOf('data:') === 0;
-                // run update to kick off requests or render if everything is good
-                this.update();
-            }
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Img.prototype.reset = function () {
-        if (this._requestingSrc) {
-            // abort any active requests
-            (void 0) /* console.debug */;
-            this._srcAttr('');
-            this._requestingSrc = null;
-        }
-        if (this._renderedSrc) {
-            // clear out the currently rendered img
-            (void 0) /* console.debug */;
-            this._renderedSrc = null;
-            this._isLoaded(false);
-        }
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Img.prototype.update = function () {
-        var _this = this;
-        // only attempt an update if there is an active src
-        // and the content containing the image considers it updatable
-        if (this._src && this._content.isImgsUpdatable()) {
-            if (this.canRequest && (this._src !== this._renderedSrc && this._src !== this._requestingSrc) && !this._hasLoaded) {
-                // only begin the request if we "can" request
-                // begin the image request if the src is different from the rendered src
-                // and if we don't already has a tmpDataUri
-                (void 0) /* console.debug */;
-                this._requestingSrc = this._src;
-                this._isLoaded(false);
-                this._srcAttr(this._src);
-                // set the dimensions of the image if we do have different data
-                this._setDims();
-            }
-            if (this.canRender && this._hasLoaded && this._src !== this._renderedSrc) {
-                // we can render and we have a datauri to render
-                this._renderedSrc = this._src;
-                this._setDims();
-                this._dom.write(function () {
-                    if (_this._hasLoaded) {
-                        (void 0) /* console.debug */;
-                        _this._isLoaded(true);
-                        _this._srcAttr(_this._src);
-                    }
-                });
-            }
-        }
-    };
-    /**
-     * \@internal
-     * @param {?} isLoaded
-     * @return {?}
-     */
-    Img.prototype._isLoaded = function (isLoaded) {
-        var /** @type {?} */ renderer = this._renderer;
-        var /** @type {?} */ ele = this._elementRef.nativeElement;
-        renderer.setElementClass(ele, 'img-loaded', isLoaded);
-        renderer.setElementClass(ele, 'img-unloaded', !isLoaded);
-    };
-    /**
-     * \@internal
-     * @param {?} srcAttr
-     * @return {?}
-     */
-    Img.prototype._srcAttr = function (srcAttr) {
-        var /** @type {?} */ imgEle = this._img;
-        var /** @type {?} */ renderer = this._renderer;
-        if (imgEle && imgEle.src !== srcAttr) {
-            renderer.setElementAttribute(this._img, 'src', srcAttr);
-            renderer.setElementAttribute(this._img, 'alt', this.alt);
-        }
-    };
-    Object.defineProperty(Img.prototype, "top", {
-        /**
-         * @hidden
-         * @return {?}
-         */
-        get: function () {
-            var /** @type {?} */ bounds = this._getBounds();
-            return bounds && bounds.top || 0;
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(Img.prototype, "bottom", {
-        /**
-         * @hidden
-         * @return {?}
-         */
-        get: function () {
-            var /** @type {?} */ bounds = this._getBounds();
-            return bounds && bounds.bottom || 0;
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @return {?}
-     */
-    Img.prototype._getBounds = function () {
-        if (this._bounds) {
-            // we've been manually passed bounds data
-            // this is probably from Virtual Scroll items
-            return this._bounds;
-        }
-        if (!this._rect) {
-            // we don't have bounds from virtual scroll
-            // so let's do the raw DOM lookup w/ getBoundingClientRect
-            this._rect = ((this._elementRef.nativeElement)).getBoundingClientRect();
-            (void 0) /* console.debug */;
-        }
-        return this._rect;
-    };
-    Object.defineProperty(Img.prototype, "bounds", {
-        /**
-         * \@input {any}  Sets the bounding rectangle of the element relative to the viewport.
-         * When using `VirtualScroll`, each virtual item should pass its bounds to each
-         * `ion-img`. The passed in data object should include `top` and `bottom` properties.
-         * @param {?} b
-         * @return {?}
-         */
-        set: function (b) {
-            if (Object(__WEBPACK_IMPORTED_MODULE_3__util_util__["l" /* isPresent */])(b)) {
-                this._bounds = b;
-            }
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(Img.prototype, "cache", {
-        /**
-         * \@input {boolean}  After an image has been successfully downloaded, it can be cached
-         * in-memory. This is useful for `VirtualScroll` by allowing image responses to be
-         * cached, and not rendered, until after scrolling has completed, which allows for
-         * smoother scrolling.
-         * @return {?}
-         */
-        get: function () {
-            return this._cache;
-        },
-        /**
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            this._cache = Object(__WEBPACK_IMPORTED_MODULE_3__util_util__["o" /* isTrueProperty */])(val);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(Img.prototype, "width", {
-        /**
-         * \@input {string}  Image width. If this property is not set it's important that
-         * the dimensions are still set using CSS. If the dimension is just a number it
-         * will assume the `px` unit.
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            this._wQ = getUnitValue(val);
-            this._setDims();
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(Img.prototype, "height", {
-        /**
-         * \@input {string}  Image height. If this property is not set it's important that
-         * the dimensions are still set using CSS. If the dimension is just a number it
-         * will assume the `px` unit.
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            this._hQ = getUnitValue(val);
-            this._setDims();
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @return {?}
-     */
-    Img.prototype._setDims = function () {
-        var _this = this;
-        // only set the dimensions if we can render
-        // and only if the dimensions have changed from when we last set it
-        if (this.canRender && (this._w !== this._wQ || this._h !== this._hQ)) {
-            var /** @type {?} */ wrapperEle = this._elementRef.nativeElement;
-            var /** @type {?} */ renderer = this._renderer;
-            this._dom.write(function () {
-                if (_this._w !== _this._wQ) {
-                    _this._w = _this._wQ;
-                    renderer.setElementStyle(wrapperEle, 'width', _this._w);
-                }
-                if (_this._h !== _this._hQ) {
-                    _this._h = _this._hQ;
-                    renderer.setElementStyle(wrapperEle, 'height', _this._h);
-                }
-            });
-        }
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Img.prototype.ngAfterContentInit = function () {
-        var _this = this;
-        this._img = this._elementRef.nativeElement.firstChild;
-        this._unreg = this._plt.registerListener(this._img, 'load', function () {
-            _this._hasLoaded = true;
-            _this.update();
-        }, { passive: true });
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Img.prototype.ngOnDestroy = function () {
-        this._unreg && this._unreg();
-        this._content && this._content.removeImg(this);
-    };
-    return Img;
-}());
-
-Img.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
-                selector: 'ion-img',
-                template: '<img>',
-                changeDetection: __WEBPACK_IMPORTED_MODULE_0__angular_core__["j" /* ChangeDetectionStrategy */].OnPush,
-                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None,
-            },] },
-];
-/**
- * @nocollapse
- */
-Img.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-    { type: __WEBPACK_IMPORTED_MODULE_4__platform_platform__["a" /* Platform */], },
-    { type: __WEBPACK_IMPORTED_MODULE_1__content_content__["a" /* Content */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
-    { type: __WEBPACK_IMPORTED_MODULE_2__platform_dom_controller__["a" /* DomController */], },
-]; };
-Img.propDecorators = {
-    'src': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'bounds': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'cache': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'width': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'height': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'alt': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-};
-function Img_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Img.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    Img.ctorParameters;
-    /** @type {?} */
-    Img.propDecorators;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._src;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._requestingSrc;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._renderedSrc;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._hasLoaded;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._cache;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._bounds;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._rect;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._w;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._h;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._wQ;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._hQ;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._img;
-    /**
-     * \@internal
-     * @type {?}
-     */
-    Img.prototype._unreg;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    Img.prototype.canRequest;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    Img.prototype.canRender;
-    /**
-     * \@input {string}  Set the `alt` attribute which gets assigned to
-     * the inner `img` element.
-     * @type {?}
-     */
-    Img.prototype.alt;
-    /** @type {?} */
-    Img.prototype._elementRef;
-    /** @type {?} */
-    Img.prototype._renderer;
-    /** @type {?} */
-    Img.prototype._plt;
-    /** @type {?} */
-    Img.prototype._content;
-    /** @type {?} */
-    Img.prototype._dom;
-}
-/**
- * @param {?} val
- * @return {?}
- */
-function getUnitValue(val) {
-    if (Object(__WEBPACK_IMPORTED_MODULE_3__util_util__["l" /* isPresent */])(val)) {
-        if (typeof val === 'string') {
-            if (val.indexOf('%') > -1 || val.indexOf('px') > -1) {
-                return val;
-            }
-            if (val.length) {
-                return val + 'px';
-            }
-        }
-        else if (typeof val === 'number') {
-            return val + 'px';
-        }
-    }
-    return '';
-}
-//# sourceMappingURL=img.js.map
-
-/***/ }),
-/* 131 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return InfiniteScrollContent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__infinite_scroll__ = __webpack_require__(68);
-
-
-
-/**
- * @hidden
- */
-var InfiniteScrollContent = (function () {
-    /**
-     * @param {?} inf
-     * @param {?} _config
-     */
-    function InfiniteScrollContent(inf, _config) {
-        this.inf = inf;
-        this._config = _config;
-    }
-    /**
-     * @hidden
-     * @return {?}
-     */
-    InfiniteScrollContent.prototype.ngOnInit = function () {
-        if (!this.loadingSpinner) {
-            this.loadingSpinner = this._config.get('infiniteLoadingSpinner', this._config.get('spinner', 'ios'));
-        }
-    };
-    return InfiniteScrollContent;
-}());
-
-InfiniteScrollContent.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
-                selector: 'ion-infinite-scroll-content',
-                template: '<div class="infinite-loading">' +
-                    '<div class="infinite-loading-spinner" *ngIf="loadingSpinner">' +
-                    '<ion-spinner [name]="loadingSpinner"></ion-spinner>' +
-                    '</div>' +
-                    '<div class="infinite-loading-text" [innerHTML]="loadingText" *ngIf="loadingText"></div>' +
-                    '</div>',
-                host: {
-                    '[attr.state]': 'inf.state'
-                },
-                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None,
-            },] },
-];
-/**
- * @nocollapse
- */
-InfiniteScrollContent.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_2__infinite_scroll__["a" /* InfiniteScroll */], },
-    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
-]; };
-InfiniteScrollContent.propDecorators = {
-    'loadingSpinner': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'loadingText': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-};
-function InfiniteScrollContent_tsickle_Closure_declarations() {
-    /** @type {?} */
-    InfiniteScrollContent.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    InfiniteScrollContent.ctorParameters;
-    /** @type {?} */
-    InfiniteScrollContent.propDecorators;
-    /**
-     * \@input {string} An animated SVG spinner that shows while loading.
-     * @type {?}
-     */
-    InfiniteScrollContent.prototype.loadingSpinner;
-    /**
-     * \@input {string} Optional text to display while loading.
-     * @type {?}
-     */
-    InfiniteScrollContent.prototype.loadingText;
-    /** @type {?} */
-    InfiniteScrollContent.prototype.inf;
-    /** @type {?} */
-    InfiniteScrollContent.prototype._config;
-}
-//# sourceMappingURL=infinite-scroll-content.js.map
-
-/***/ }),
-/* 132 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return TextInput; });
-/* unused harmony export getScrollData */
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__angular_forms__ = __webpack_require__(15);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Subject__ = __webpack_require__(31);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2_rxjs_Subject___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_2_rxjs_Subject__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_takeUntil__ = __webpack_require__(133);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_takeUntil___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_3_rxjs_add_operator_takeUntil__);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__app_app__ = __webpack_require__(6);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__content_content__ = __webpack_require__(19);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__util_dom__ = __webpack_require__(10);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__platform_dom_controller__ = __webpack_require__(8);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__util_form__ = __webpack_require__(16);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__util_base_input__ = __webpack_require__(23);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__util_util__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__item_item__ = __webpack_require__(17);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__platform_platform__ = __webpack_require__(3);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/**
- * \@name Input
- * \@description
- *
- * `ion-input` is meant for text type inputs only, such as `text`,
- * `password`, `email`, `number`, `search`, `tel`, and `url`. Ionic
- * still uses an actual `<input type="text">` HTML element within the
- * component, however, with Ionic wrapping the native HTML input
- * element it's better able to handle the user experience and
- * interactivity.
- *
- * Similarly, `<ion-textarea>` should be used in place of `<textarea>`.
- *
- * An `ion-input` is **not** used for non-text type inputs, such as a
- * `checkbox`, `radio`, `toggle`, `range`, `select`, etc.
- *
- * Along with the blur/focus events, `input` support all standard text input
- * events like `keyup`, `keydown`, `keypress`, `input`,etc. Any standard event
- * can be attached and will function as expected.
- *
- * \@usage
- * ```html
- * <ion-list>
- *   <ion-item>
- *     <ion-label color="primary">Inline Label</ion-label>
- *     <ion-input placeholder="Text Input"></ion-input>
- *   </ion-item>
- *
- *   <ion-item>
- *     <ion-label color="primary" fixed>Fixed Label</ion-label>
- *     <ion-input type="tel" placeholder="Tel Input"></ion-input>
- *   </ion-item>
- *
- *   <ion-item>
- *     <ion-input type="number" placeholder="Number Input with no label"></ion-input>
- *   </ion-item>
- *
- *   <ion-item>
- *     <ion-label color="primary" stacked>Stacked Label</ion-label>
- *     <ion-input type="email" placeholder="Email Input"></ion-input>
- *   </ion-item>
- *
- *   <ion-item>
- *     <ion-label color="primary" stacked>Stacked Label</ion-label>
- *     <ion-input type="password" placeholder="Password Input"></ion-input>
- *   </ion-item>
- *
- *   <ion-item>
- *     <ion-label color="primary" floating>Floating Label</ion-label>
- *     <ion-input></ion-input>
- *   </ion-item>
- *
- *   <ion-item>
- *     <ion-input placeholder="Clear Input" clearInput></ion-input>
- *   </ion-item>
- *
- *   <ion-item>
- *     <ion-textarea placeholder="Enter a description"></ion-textarea>
- *   </ion-item>
- * </ion-list>
- * ```
- *
- * \@demo /docs/demos/src/input/
- */
-var TextInput = (function (_super) {
-    __extends(TextInput, _super);
-    /**
-     * @param {?} config
-     * @param {?} _plt
-     * @param {?} _form
-     * @param {?} _app
-     * @param {?} elementRef
-     * @param {?} renderer
-     * @param {?} _content
-     * @param {?} _item
-     * @param {?} ngControl
-     * @param {?} _dom
-     */
-    function TextInput(config, _plt, _form, _app, elementRef, renderer, _content, _item, ngControl, _dom) {
-        var _this = _super.call(this, config, elementRef, renderer, 'input', '', _form, _item, ngControl) || this;
-        _this._plt = _plt;
-        _this._app = _app;
-        _this._content = _content;
-        _this.ngControl = ngControl;
-        _this._dom = _dom;
-        _this._clearInput = false;
-        _this._readonly = false;
-        _this._type = 'text';
-        _this._isTextarea = false;
-        _this._onDestroy = new __WEBPACK_IMPORTED_MODULE_2_rxjs_Subject__["Subject"]();
-        _this._useAssist = false;
-        _this._relocated = false;
-        /**
-         * \@input {string} Instructional text that shows before the input has a value.
-         */
-        _this.autocomplete = '';
-        /**
-         * \@input {string} Instructional text that shows before the input has a value.
-         */
-        _this.autocorrect = '';
-        /**
-         * \@input {string} Instructional text that shows before the input has a value.
-         */
-        _this.placeholder = '';
-        /**
-         * \@input {any} The minimum value, which must not be greater than its maximum (max attribute) value.
-         */
-        _this.min = null;
-        /**
-         * \@input {any} The maximum value, which must not be less than its minimum (min attribute) value.
-         */
-        _this.max = null;
-        /**
-         * \@input {any} Works with the min and max attributes to limit the increments at which a value can be set.
-         */
-        _this.step = null;
-        /**
-         * @hidden
-         */
-        _this.input = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
-        /**
-         * @hidden
-         */
-        _this.blur = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
-        /**
-         * @hidden
-         */
-        _this.focus = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
-        _this.autocomplete = config.get('autocomplete', 'off');
-        _this.autocorrect = config.get('autocorrect', 'off');
-        _this._autoFocusAssist = config.get('autoFocusAssist', 'delay');
-        _this._keyboardHeight = config.getNumber('keyboardHeight');
-        _this._isTextarea = !!(elementRef.nativeElement.tagName === 'ION-TEXTAREA');
-        if (_this._isTextarea && _item) {
-            _item.setElementClass('item-textarea', true);
-        }
-        // If not inside content, let's disable all the hacks
-        if (!_content) {
-            return _this;
-        }
-        var blurOnScroll = config.getBoolean('hideCaretOnScroll', false);
-        if (blurOnScroll) {
-            _this._enableHideCaretOnScroll();
-        }
-        var resizeAssist = config.getBoolean('resizeAssist', false);
-        if (resizeAssist) {
-            _this._keyboardHeight = 60;
-            _this._enableResizeAssist();
-        }
-        else {
-            _this._useAssist = config.getBoolean('scrollAssist', false);
-            var usePadding = config.getBoolean('scrollPadding', _this._useAssist);
-            if (usePadding) {
-                _this._enableScrollPadding();
-            }
-        }
-        return _this;
-    }
-    Object.defineProperty(TextInput.prototype, "clearInput", {
-        /**
-         * \@input {boolean} If true, a clear icon will appear in the input when there is a value. Clicking it clears the input.
-         * @return {?}
-         */
-        get: function () {
-            return this._clearInput;
-        },
-        /**
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            this._clearInput = (!this._isTextarea && Object(__WEBPACK_IMPORTED_MODULE_11__util_util__["o" /* isTrueProperty */])(val));
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(TextInput.prototype, "type", {
-        /**
-         * \@input {string} The type of control to display. The default type is text.
-         * Possible values are: `"text"`, `"password"`, `"email"`, `"number"`, `"search"`, `"tel"`, or `"url"`.
-         * @return {?}
-         */
-        get: function () {
-            return (this._isTextarea)
-                ? 'text'
-                : this._type;
-        },
-        /**
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            this._type = val;
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(TextInput.prototype, "readonly", {
-        /**
-         * \@input {boolean} If true, the user cannot modify the value.
-         * @return {?}
-         */
-        get: function () {
-            return this._readonly;
-        },
-        /**
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            this._readonly = Object(__WEBPACK_IMPORTED_MODULE_11__util_util__["o" /* isTrueProperty */])(val);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(TextInput.prototype, "clearOnEdit", {
-        /**
-         * \@input {boolean} If true, the value will be cleared after focus upon edit.
-         * Defaults to `true` when `type` is `"password"`, `false` for all other types.
-         * @return {?}
-         */
-        get: function () {
-            return this._clearOnEdit;
-        },
-        /**
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            this._clearOnEdit = Object(__WEBPACK_IMPORTED_MODULE_11__util_util__["o" /* isTrueProperty */])(val);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @return {?}
-     */
-    TextInput.prototype.ngAfterContentInit = function () { };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    TextInput.prototype.ngAfterViewInit = function () {
-        (void 0) /* assert */;
-        // By default, password inputs clear after focus when they have content
-        if (this.clearOnEdit !== false && this.type === 'password') {
-            this.clearOnEdit = true;
-        }
-        var /** @type {?} */ ionInputEle = this._elementRef.nativeElement;
-        var /** @type {?} */ nativeInputEle = this._native.nativeElement;
-        // Copy remaining attributes, not handled by ionic/angular
-        Object(__WEBPACK_IMPORTED_MODULE_7__util_dom__["b" /* copyInputAttributes */])(ionInputEle, nativeInputEle);
-        // prevent having tabIndex duplicated
-        if (ionInputEle.hasAttribute('tabIndex')) {
-            ionInputEle.removeAttribute('tabIndex');
-        }
-        // handle the autofocus attribute
-        if (ionInputEle.hasAttribute('autofocus')) {
-            ionInputEle.removeAttribute('autofocus');
-            switch (this._autoFocusAssist) {
-                case 'immediate':
-                    // config says to immediate focus on the input
-                    // works best on android devices
-                    nativeInputEle.focus();
-                    break;
-                case 'delay':
-                    // config says to chill out a bit and focus on the input after transitions
-                    // works best on desktop
-                    this._plt.timeout(function () { return nativeInputEle.focus(); }, 800);
-                    break;
-            }
-            // traditionally iOS has big issues with autofocus on actual devices
-            // autoFocus is disabled by default with the iOS mode config
-        }
-        // Initialize the input (can start emitting events)
-        this._initialize();
-        if (this.focus.observers.length > 0) {
-            console.warn('(focus) is deprecated in ion-input, use (ionFocus) instead');
-        }
-        if (this.blur.observers.length > 0) {
-            console.warn('(blur) is deprecated in ion-input, use (ionBlur) instead');
-        }
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    TextInput.prototype.ngOnDestroy = function () {
-        _super.prototype.ngOnDestroy.call(this);
-        this._onDestroy.next();
-        this._onDestroy = null;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    TextInput.prototype.initFocus = function () {
-        this.setFocus();
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    TextInput.prototype.setFocus = function () {
-        // let's set focus to the element
-        // but only if it does not already have focus
-        if (!this.isFocus()) {
-            this._native.nativeElement.focus();
-        }
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    TextInput.prototype.setBlur = function () {
-        if (this.isFocus()) {
-            this._native.nativeElement.blur();
-        }
-    };
-    /**
-     * @hidden
-     * @param {?} ev
-     * @return {?}
-     */
-    TextInput.prototype.onInput = function (ev) {
-        this.value = ev.target.value;
-        // TODO: deprecate this
-        this.input.emit(ev);
-    };
-    /**
-     * @hidden
-     * @param {?} ev
-     * @return {?}
-     */
-    TextInput.prototype.onBlur = function (ev) {
-        this._fireBlur();
-        // TODO: deprecate this (06/07/2017)
-        this.blur.emit(ev);
-        this._scrollData = null;
-        if (this._clearOnEdit && this.hasValue()) {
-            this._didBlurAfterEdit = true;
-        }
-    };
-    /**
-     * @hidden
-     * @param {?} ev
-     * @return {?}
-     */
-    TextInput.prototype.onFocus = function (ev) {
-        this._fireFocus();
-        // TODO: deprecate this (06/07/2017)
-        this.focus.emit(ev);
-    };
-    /**
-     * @hidden
-     * @param {?} ev
-     * @return {?}
-     */
-    TextInput.prototype.onKeydown = function (ev) {
-        if (ev && this._clearOnEdit) {
-            this.checkClearOnEdit(ev.target.value);
-        }
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    TextInput.prototype._inputUpdated = function () {
-        _super.prototype._inputUpdated.call(this);
-        var /** @type {?} */ inputEle = this._native.nativeElement;
-        var /** @type {?} */ value = this._value;
-        if (inputEle.value !== value) {
-            inputEle.value = value;
-        }
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    TextInput.prototype.clearTextInput = function () {
-        this.value = '';
-    };
-    /**
-     * Check if we need to clear the text input if clearOnEdit is enabled
-     * @hidden
-     * @param {?} _
-     * @return {?}
-     */
-    TextInput.prototype.checkClearOnEdit = function (_) {
-        if (!this._clearOnEdit) {
-            return;
-        }
-        // Did the input value change after it was blurred and edited?
-        if (this._didBlurAfterEdit && this.hasValue()) {
-            // Clear the input
-            this.clearTextInput();
-        }
-        // Reset the flag
-        this._didBlurAfterEdit = false;
-    };
-    /**
-     * @return {?}
-     */
-    TextInput.prototype._getScrollData = function () {
-        if (!this._content) {
-            return newScrollData();
-        }
-        // get container of this input, probably an ion-item a few nodes up
-        if (this._scrollData) {
-            return this._scrollData;
-        }
-        var /** @type {?} */ ele = this._elementRef.nativeElement;
-        ele = (ele.closest('ion-item,[ion-item]')) || ele;
-        return this._scrollData = getScrollData(ele.offsetTop, ele.offsetHeight, this._content.getContentDimensions(), this._keyboardHeight, this._plt.height());
-    };
-    /**
-     * @param {?} shouldRelocate
-     * @return {?}
-     */
-    TextInput.prototype._relocateInput = function (shouldRelocate) {
-        if (this._relocated === shouldRelocate) {
-            return;
-        }
-        var /** @type {?} */ platform = this._plt;
-        var /** @type {?} */ componentEle = this.getNativeElement();
-        var /** @type {?} */ focusedInputEle = this._native.nativeElement;
-        (void 0) /* console.debug */;
-        if (shouldRelocate) {
-            // this allows for the actual input to receive the focus from
-            // the user's touch event, but before it receives focus, it
-            // moves the actual input to a location that will not screw
-            // up the app's layout, and does not allow the native browser
-            // to attempt to scroll the input into place (messing up headers/footers)
-            // the cloned input fills the area of where native input should be
-            // while the native input fakes out the browser by relocating itself
-            // before it receives the actual focus event
-            // We hide the focused input (with the visible caret) invisiable by making it scale(0),
-            cloneInputComponent(platform, componentEle, focusedInputEle);
-            var /** @type {?} */ inputRelativeY = this._getScrollData().inputSafeY;
-            // fix for #11817
-            var /** @type {?} */ tx = this._plt.isRTL ? 9999 : -9999;
-            focusedInputEle.style[platform.Css.transform] = "translate3d(" + tx + "px," + inputRelativeY + "px,0)";
-            focusedInputEle.style.opacity = '0';
-        }
-        else {
-            removeClone(platform, componentEle, focusedInputEle);
-        }
-        this._relocated = shouldRelocate;
-    };
-    /**
-     * @return {?}
-     */
-    TextInput.prototype._enableScrollPadding = function () {
-        var _this = this;
-        (void 0) /* assert */;
-        (void 0) /* console.debug */;
-        this.ionFocus.subscribe(function () {
-            var /** @type {?} */ content = _this._content;
-            // add padding to the bottom of the scroll view (if needed)
-            content.addScrollPadding(_this._getScrollData().scrollPadding);
-            content.clearScrollPaddingFocusOut();
-        });
-    };
-    /**
-     * @return {?}
-     */
-    TextInput.prototype._enableHideCaretOnScroll = function () {
-        var _this = this;
-        (void 0) /* assert */;
-        var /** @type {?} */ content = this._content;
-        (void 0) /* console.debug */;
-        content.ionScrollStart
-            .takeUntil(this._onDestroy)
-            .subscribe(function () { return scrollHideCaret(true); });
-        content.ionScrollEnd
-            .takeUntil(this._onDestroy)
-            .subscribe(function () { return scrollHideCaret(false); });
-        this.ionBlur.subscribe(function () { return _this._relocateInput(false); });
-        var /** @type {?} */ self = this;
-        /**
-         * @param {?} shouldHideCaret
-         * @return {?}
-         */
-        function scrollHideCaret(shouldHideCaret) {
-            // if it does have focus, then do the dom write
-            if (self.isFocus()) {
-                self._dom.write(function () { return self._relocateInput(shouldHideCaret); });
-            }
-        }
-    };
-    /**
-     * @return {?}
-     */
-    TextInput.prototype._enableResizeAssist = function () {
-        var _this = this;
-        (void 0) /* assert */;
-        (void 0) /* console.debug */;
-        this.ionFocus.subscribe(function () {
-            var /** @type {?} */ scrollData = _this._getScrollData();
-            if (Math.abs(scrollData.scrollAmount) > 100) {
-                _this._content.scrollTo(0, scrollData.scrollTo, scrollData.scrollDuration);
-            }
-        });
-    };
-    /**
-     * @param {?} ev
-     * @return {?}
-     */
-    TextInput.prototype._pointerStart = function (ev) {
-        (void 0) /* assert */;
-        // input cover touchstart
-        if (ev.type === 'touchstart') {
-            this._isTouch = true;
-        }
-        if ((this._isTouch || (!this._isTouch && ev.type === 'mousedown')) && this._app.isEnabled()) {
-            // remember where the touchstart/mousedown started
-            this._coord = Object(__WEBPACK_IMPORTED_MODULE_7__util_dom__["f" /* pointerCoord */])(ev);
-        }
-        (void 0) /* console.debug */;
-    };
-    /**
-     * @param {?} ev
-     * @return {?}
-     */
-    TextInput.prototype._pointerEnd = function (ev) {
-        (void 0) /* assert */;
-        // input cover touchend/mouseup
-        (void 0) /* console.debug */;
-        if ((this._isTouch && ev.type === 'mouseup') || !this._app.isEnabled()) {
-            // the app is actively doing something right now
-            // don't try to scroll in the input
-            ev.preventDefault();
-            ev.stopPropagation();
-        }
-        else if (this._coord) {
-            // get where the touchend/mouseup ended
-            var /** @type {?} */ endCoord = Object(__WEBPACK_IMPORTED_MODULE_7__util_dom__["f" /* pointerCoord */])(ev);
-            // focus this input if the pointer hasn't moved XX pixels
-            // and the input doesn't already have focus
-            if (!Object(__WEBPACK_IMPORTED_MODULE_7__util_dom__["d" /* hasPointerMoved */])(8, this._coord, endCoord) && !this.isFocus()) {
-                ev.preventDefault();
-                ev.stopPropagation();
-                // begin the input focus process
-                this._jsSetFocus();
-            }
-        }
-        this._coord = null;
-    };
-    /**
-     * @return {?}
-     */
-    TextInput.prototype._jsSetFocus = function () {
-        var _this = this;
-        (void 0) /* assert */;
-        // begin the process of setting focus to the inner input element
-        var /** @type {?} */ content = this._content;
-        (void 0) /* console.debug */;
-        if (!content) {
-            // not inside of a scroll view, just focus it
-            this.setFocus();
-        }
-        var /** @type {?} */ scrollData = this._getScrollData();
-        if (Math.abs(scrollData.scrollAmount) < 4) {
-            // the text input is in a safe position that doesn't
-            // require it to be scrolled into view, just set focus now
-            this.setFocus();
-            return;
-        }
-        // temporarily move the focus to the focus holder so the browser
-        // doesn't freak out while it's trying to get the input in place
-        // at this point the native text input still does not have focus
-        this._relocateInput(true);
-        this.setFocus();
-        // scroll the input into place
-        content.scrollTo(0, scrollData.scrollTo, scrollData.scrollDuration, function () {
-            // the scroll view is in the correct position now
-            // give the native text input focus
-            _this._relocateInput(false);
-            // ensure this is the focused input
-            _this.setFocus();
-        });
-    };
-    return TextInput;
-}(__WEBPACK_IMPORTED_MODULE_10__util_base_input__["a" /* BaseInput */]));
-
-TextInput.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
-                selector: 'ion-input,ion-textarea',
-                template: '<input #textInput *ngIf="!_isTextarea" class="text-input" ' +
-                    '[ngClass]="\'text-input-\' + _mode"' +
-                    '(input)="onInput($event)" ' +
-                    '(blur)="onBlur($event)" ' +
-                    '(focus)="onFocus($event)" ' +
-                    '(keydown)="onKeydown($event)" ' +
-                    '[type]="_type" ' +
-                    '[attr.aria-labelledby]="_labelId" ' +
-                    '[attr.min]="min" ' +
-                    '[attr.max]="max" ' +
-                    '[attr.step]="step" ' +
-                    '[attr.autocomplete]="autocomplete" ' +
-                    '[attr.autocorrect]="autocorrect" ' +
-                    '[placeholder]="placeholder" ' +
-                    '[disabled]="_disabled" ' +
-                    '[readonly]="_readonly">' +
-                    '<textarea #textInput *ngIf="_isTextarea" class="text-input" ' +
-                    '[ngClass]="\'text-input-\' + _mode"' +
-                    '(input)="onInput($event)" ' +
-                    '(blur)="onBlur($event)" ' +
-                    '(focus)="onFocus($event)" ' +
-                    '(keydown)="onKeydown($event)" ' +
-                    '[attr.aria-labelledby]="_labelId" ' +
-                    '[attr.autocomplete]="autocomplete" ' +
-                    '[attr.autocorrect]="autocorrect" ' +
-                    '[placeholder]="placeholder" ' +
-                    '[disabled]="_disabled" ' +
-                    '[readonly]="_readonly"></textarea>' +
-                    '<button ion-button *ngIf="_clearInput" clear class="text-input-clear-icon" ' +
-                    'type="button" ' +
-                    '(click)="clearTextInput($event)" ' +
-                    '(mousedown)="clearTextInput($event)" ' +
-                    'tabindex="-1"></button>' +
-                    '<div class="input-cover" *ngIf="_useAssist" ' +
-                    '(touchstart)="_pointerStart($event)" ' +
-                    '(touchend)="_pointerEnd($event)" ' +
-                    '(mousedown)="_pointerStart($event)" ' +
-                    '(mouseup)="_pointerEnd($event)"></div>',
-                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None,
-                changeDetection: __WEBPACK_IMPORTED_MODULE_0__angular_core__["j" /* ChangeDetectionStrategy */].OnPush,
-                inputs: ['value']
-            },] },
-];
-/**
- * @nocollapse
- */
-TextInput.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_5__config_config__["a" /* Config */], },
-    { type: __WEBPACK_IMPORTED_MODULE_13__platform_platform__["a" /* Platform */], },
-    { type: __WEBPACK_IMPORTED_MODULE_9__util_form__["a" /* Form */], },
-    { type: __WEBPACK_IMPORTED_MODULE_4__app_app__["a" /* App */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-    { type: __WEBPACK_IMPORTED_MODULE_6__content_content__["a" /* Content */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
-    { type: __WEBPACK_IMPORTED_MODULE_12__item_item__["a" /* Item */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
-    { type: __WEBPACK_IMPORTED_MODULE_1__angular_forms__["c" /* NgControl */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
-    { type: __WEBPACK_IMPORTED_MODULE_8__platform_dom_controller__["a" /* DomController */], },
-]; };
-TextInput.propDecorators = {
-    'clearInput': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'type': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'readonly': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'clearOnEdit': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    '_native': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_13" /* ViewChild */], args: ['textInput', { read: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */] },] },],
-    'autocomplete': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'autocorrect': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'placeholder': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'min': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'max': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'step': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'input': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
-    'blur': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
-    'focus': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
-};
-function TextInput_tsickle_Closure_declarations() {
-    /** @type {?} */
-    TextInput.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    TextInput.ctorParameters;
-    /** @type {?} */
-    TextInput.propDecorators;
-    /** @type {?} */
-    TextInput.prototype._autoFocusAssist;
-    /** @type {?} */
-    TextInput.prototype._clearInput;
-    /** @type {?} */
-    TextInput.prototype._clearOnEdit;
-    /** @type {?} */
-    TextInput.prototype._didBlurAfterEdit;
-    /** @type {?} */
-    TextInput.prototype._readonly;
-    /** @type {?} */
-    TextInput.prototype._keyboardHeight;
-    /** @type {?} */
-    TextInput.prototype._type;
-    /** @type {?} */
-    TextInput.prototype._scrollData;
-    /** @type {?} */
-    TextInput.prototype._isTextarea;
-    /** @type {?} */
-    TextInput.prototype._onDestroy;
-    /** @type {?} */
-    TextInput.prototype._coord;
-    /** @type {?} */
-    TextInput.prototype._isTouch;
-    /** @type {?} */
-    TextInput.prototype._useAssist;
-    /** @type {?} */
-    TextInput.prototype._relocated;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    TextInput.prototype._native;
-    /**
-     * \@input {string} Instructional text that shows before the input has a value.
-     * @type {?}
-     */
-    TextInput.prototype.autocomplete;
-    /**
-     * \@input {string} Instructional text that shows before the input has a value.
-     * @type {?}
-     */
-    TextInput.prototype.autocorrect;
-    /**
-     * \@input {string} Instructional text that shows before the input has a value.
-     * @type {?}
-     */
-    TextInput.prototype.placeholder;
-    /**
-     * \@input {any} The minimum value, which must not be greater than its maximum (max attribute) value.
-     * @type {?}
-     */
-    TextInput.prototype.min;
-    /**
-     * \@input {any} The maximum value, which must not be less than its minimum (min attribute) value.
-     * @type {?}
-     */
-    TextInput.prototype.max;
-    /**
-     * \@input {any} Works with the min and max attributes to limit the increments at which a value can be set.
-     * @type {?}
-     */
-    TextInput.prototype.step;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    TextInput.prototype.input;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    TextInput.prototype.blur;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    TextInput.prototype.focus;
-    /** @type {?} */
-    TextInput.prototype._plt;
-    /** @type {?} */
-    TextInput.prototype._app;
-    /** @type {?} */
-    TextInput.prototype._content;
-    /** @type {?} */
-    TextInput.prototype.ngControl;
-    /** @type {?} */
-    TextInput.prototype._dom;
-}
-/**
- * \@name TextArea
- * \@description
- *
- * `ion-textarea` is used for multi-line text inputs. Ionic still
- * uses an actual `<textarea>` HTML element within the component;
- * however, with Ionic wrapping the native HTML text area element, Ionic
- * is able to better handle the user experience and interactivity.
- *
- * Note that `<ion-textarea>` must load its value from the `value` or
- * `[(ngModel)]` attribute. Unlike the native `<textarea>` element,
- * `<ion-textarea>` does not support loading its value from the
- * textarea's inner content.
- *
- * When requiring only a single-line text input, we recommend using
- * `<ion-input>` instead.
- *
- * \@usage
- * ```html
- *  <ion-item>
- *    <ion-label>Comments</ion-label>
- *    <ion-textarea></ion-textarea>
- *  </ion-item>
- *
- *  <ion-item>
- *    <ion-label stacked>Message</ion-label>
- *    <ion-textarea [(ngModel)]="msg"></ion-textarea>
- *  </ion-item>
- *
- *  <ion-item>
- *    <ion-label floating>Description</ion-label>
- *    <ion-textarea></ion-textarea>
- *  </ion-item>
- *
- * <ion-item>
- *    <ion-label>Long Description</ion-label>
- *    <ion-textarea rows="6" placeholder="enter long description here..."></ion-textarea>
- *  </ion-item>
- * ```
- *
- * \@demo /docs/demos/src/textarea/
- */
-var SCROLL_ASSIST_SPEED = 0.3;
-/**
- * @return {?}
- */
-function newScrollData() {
-    return {
-        scrollAmount: 0,
-        scrollTo: 0,
-        scrollPadding: 0,
-        scrollDuration: 0,
-        inputSafeY: 0
-    };
-}
-/**
- * @hidden
- * @param {?} inputOffsetTop
- * @param {?} inputOffsetHeight
- * @param {?} scrollViewDimensions
- * @param {?} keyboardHeight
- * @param {?} plaformHeight
- * @return {?}
- */
-function getScrollData(inputOffsetTop, inputOffsetHeight, scrollViewDimensions, keyboardHeight, plaformHeight) {
-    // compute input's Y values relative to the body
-    var /** @type {?} */ inputTop = (inputOffsetTop + scrollViewDimensions.contentTop - scrollViewDimensions.scrollTop);
-    var /** @type {?} */ inputBottom = (inputTop + inputOffsetHeight);
-    // compute the safe area which is the viewable content area when the soft keyboard is up
-    var /** @type {?} */ safeAreaTop = scrollViewDimensions.contentTop;
-    var /** @type {?} */ safeAreaHeight = (plaformHeight - keyboardHeight - safeAreaTop) / 2;
-    var /** @type {?} */ safeAreaBottom = safeAreaTop + safeAreaHeight;
-    // figure out if each edge of teh input is within the safe area
-    var /** @type {?} */ inputTopWithinSafeArea = (inputTop >= safeAreaTop && inputTop <= safeAreaBottom);
-    var /** @type {?} */ inputTopAboveSafeArea = (inputTop < safeAreaTop);
-    var /** @type {?} */ inputTopBelowSafeArea = (inputTop > safeAreaBottom);
-    var /** @type {?} */ inputBottomWithinSafeArea = (inputBottom >= safeAreaTop && inputBottom <= safeAreaBottom);
-    var /** @type {?} */ inputBottomBelowSafeArea = (inputBottom > safeAreaBottom);
-    /*
-    Text Input Scroll To Scenarios
-    ---------------------------------------
-    1) Input top within safe area, bottom within safe area
-    2) Input top within safe area, bottom below safe area, room to scroll
-    3) Input top above safe area, bottom within safe area, room to scroll
-    4) Input top below safe area, no room to scroll, input smaller than safe area
-    5) Input top within safe area, bottom below safe area, no room to scroll, input smaller than safe area
-    6) Input top within safe area, bottom below safe area, no room to scroll, input larger than safe area
-    7) Input top below safe area, no room to scroll, input larger than safe area
-    */
-    var /** @type {?} */ scrollData = newScrollData();
-    if (inputTopWithinSafeArea && inputBottomWithinSafeArea) {
-        // Input top within safe area, bottom within safe area
-        // no need to scroll to a position, it's good as-is
-        return scrollData;
-    }
-    // looks like we'll have to do some auto-scrolling
-    if (inputTopBelowSafeArea || inputBottomBelowSafeArea || inputTopAboveSafeArea) {
-        // Input top or bottom below safe area
-        // auto scroll the input up so at least the top of it shows
-        if (safeAreaHeight > inputOffsetHeight) {
-            // safe area height is taller than the input height, so we
-            // can bring up the input just enough to show the input bottom
-            scrollData.scrollAmount = Math.round(safeAreaBottom - inputBottom);
-        }
-        else {
-            // safe area height is smaller than the input height, so we can
-            // only scroll it up so the input top is at the top of the safe area
-            // however the input bottom will be below the safe area
-            scrollData.scrollAmount = Math.round(safeAreaTop - inputTop);
-        }
-        scrollData.inputSafeY = -(inputTop - safeAreaTop) + 4;
-        if (inputTopAboveSafeArea && scrollData.scrollAmount > inputOffsetHeight) {
-            // the input top is above the safe area and we're already scrolling it into place
-            // don't let it scroll more than the height of the input
-            scrollData.scrollAmount = inputOffsetHeight;
-        }
-    }
-    // figure out where it should scroll to for the best position to the input
-    scrollData.scrollTo = (scrollViewDimensions.scrollTop - scrollData.scrollAmount);
-    // when auto-scrolling, there also needs to be enough
-    // content padding at the bottom of the scroll view
-    // always add scroll padding when a text input has focus
-    // this allows for the content to scroll above of the keyboard
-    // content behind the keyboard would be blank
-    // some cases may not need it, but when jumping around it's best
-    // to have the padding already rendered so there's no jank
-    scrollData.scrollPadding = keyboardHeight;
-    // calculate animation duration
-    var /** @type {?} */ distance = Math.abs(scrollData.scrollAmount);
-    var /** @type {?} */ duration = distance / SCROLL_ASSIST_SPEED;
-    scrollData.scrollDuration = Math.min(400, Math.max(150, duration));
-    return scrollData;
-}
-/**
- * @param {?} plt
- * @param {?} srcComponentEle
- * @param {?} srcNativeInputEle
- * @return {?}
- */
-function cloneInputComponent(plt, srcComponentEle, srcNativeInputEle) {
-    // Make sure we kill all the clones before creating new ones
-    // It is a defensive, removeClone() should do nothing
-    // removeClone(plt, srcComponentEle, srcNativeInputEle);
-    (void 0) /* assert */;
-    // given a native <input> or <textarea> element
-    // find its parent wrapping component like <ion-input> or <ion-textarea>
-    // then clone the entire component
-    if (srcComponentEle) {
-        // DOM READ
-        var /** @type {?} */ srcTop = srcComponentEle.offsetTop;
-        var /** @type {?} */ srcLeft = srcComponentEle.offsetLeft;
-        var /** @type {?} */ srcWidth = srcComponentEle.offsetWidth;
-        var /** @type {?} */ srcHeight = srcComponentEle.offsetHeight;
-        // DOM WRITE
-        // not using deep clone so we don't pull in unnecessary nodes
-        var /** @type {?} */ clonedComponentEle = (srcComponentEle.cloneNode(false));
-        var /** @type {?} */ clonedStyle = clonedComponentEle.style;
-        clonedComponentEle.classList.add('cloned-input');
-        clonedComponentEle.setAttribute('aria-hidden', 'true');
-        clonedStyle.pointerEvents = 'none';
-        clonedStyle.position = 'absolute';
-        clonedStyle.top = srcTop + 'px';
-        clonedStyle.left = srcLeft + 'px';
-        clonedStyle.width = srcWidth + 'px';
-        clonedStyle.height = srcHeight + 'px';
-        var /** @type {?} */ clonedNativeInputEle = (srcNativeInputEle.cloneNode(false));
-        clonedNativeInputEle.value = srcNativeInputEle.value;
-        clonedNativeInputEle.tabIndex = -1;
-        clonedComponentEle.appendChild(clonedNativeInputEle);
-        srcComponentEle.parentNode.appendChild(clonedComponentEle);
-        srcComponentEle.style.pointerEvents = 'none';
-    }
-    ((srcNativeInputEle.style))[plt.Css.transform] = 'scale(0)';
-}
-/**
- * @param {?} plt
- * @param {?} srcComponentEle
- * @param {?} srcNativeInputEle
- * @return {?}
- */
-function removeClone(plt, srcComponentEle, srcNativeInputEle) {
-    if (srcComponentEle && srcComponentEle.parentElement) {
-        var /** @type {?} */ clonedInputEles = srcComponentEle.parentElement.querySelectorAll('.cloned-input');
-        for (var /** @type {?} */ i = 0; i < clonedInputEles.length; i++) {
-            clonedInputEles[i].parentNode.removeChild(clonedInputEles[i]);
-        }
-        srcComponentEle.style.pointerEvents = '';
-    }
-    ((srcNativeInputEle.style))[plt.Css.transform] = '';
-    srcNativeInputEle.style.opacity = '';
-}
-//# sourceMappingURL=input.js.map
-
-/***/ }),
-/* 133 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-var Observable_1 = __webpack_require__(9);
-var takeUntil_1 = __webpack_require__(230);
-Observable_1.Observable.prototype.takeUntil = takeUntil_1.takeUntil;
-//# sourceMappingURL=takeUntil.js.map
-
-/***/ }),
-/* 134 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ItemContent; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-
-/**
- * @hidden
- */
-var ItemContent = (function () {
-    function ItemContent() {
-    }
-    return ItemContent;
-}());
-
-ItemContent.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-item,[ion-item]',
-                host: {
-                    'class': 'item-block'
-                }
-            },] },
-];
-/**
- * @nocollapse
- */
-ItemContent.ctorParameters = function () { return []; };
-function ItemContent_tsickle_Closure_declarations() {
-    /** @type {?} */
-    ItemContent.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    ItemContent.ctorParameters;
-}
-//# sourceMappingURL=item-content.js.map
-
-/***/ }),
-/* 135 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ItemDivider; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__ion__ = __webpack_require__(4);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-/**
- * @hidden
- */
-var ItemDivider = (function (_super) {
-    __extends(ItemDivider, _super);
-    /**
-     * @param {?} config
-     * @param {?} elementRef
-     * @param {?} renderer
-     */
-    function ItemDivider(config, elementRef, renderer) {
-        return _super.call(this, config, elementRef, renderer, 'item-divider') || this;
-    }
-    return ItemDivider;
-}(__WEBPACK_IMPORTED_MODULE_2__ion__["a" /* Ion */]));
-
-ItemDivider.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-item-divider',
-                host: {
-                    'class': 'item-divider'
-                }
-            },] },
-];
-/**
- * @nocollapse
- */
-ItemDivider.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_1__config_config__["a" /* Config */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-]; };
-function ItemDivider_tsickle_Closure_declarations() {
-    /** @type {?} */
-    ItemDivider.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    ItemDivider.ctorParameters;
-}
-//# sourceMappingURL=item-divider.js.map
-
-/***/ }),
-/* 136 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ItemGroup; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-
-/**
- * @hidden
- */
-var ItemGroup = (function () {
-    function ItemGroup() {
-    }
-    return ItemGroup;
-}());
-
-ItemGroup.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: 'ion-item-group'
-            },] },
-];
-/**
- * @nocollapse
- */
-ItemGroup.ctorParameters = function () { return []; };
-function ItemGroup_tsickle_Closure_declarations() {
-    /** @type {?} */
-    ItemGroup.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    ItemGroup.ctorParameters;
-}
-//# sourceMappingURL=item-group.js.map
-
-/***/ }),
-/* 137 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ItemSliding; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__util_util__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__item__ = __webpack_require__(17);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__list_list__ = __webpack_require__(70);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__platform_platform__ = __webpack_require__(3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__item_options__ = __webpack_require__(69);
-
-
-
-
-
-
-var /** @type {?} */ SWIPE_MARGIN = 30;
-var /** @type {?} */ ELASTIC_FACTOR = 0.55;
-var /** @type {?} */ ITEM_SIDE_FLAG_NONE = 0;
-var /** @type {?} */ ITEM_SIDE_FLAG_LEFT = 1 << 0;
-var /** @type {?} */ ITEM_SIDE_FLAG_RIGHT = 1 << 1;
-var /** @type {?} */ ITEM_SIDE_FLAG_BOTH = ITEM_SIDE_FLAG_LEFT | ITEM_SIDE_FLAG_RIGHT;
-/**
- * \@name ItemSliding
- * \@description
- * A sliding item is a list item that can be swiped to reveal buttons. It requires
- * an [Item](../Item) component as a child and a [List](../../list/List) component as
- * a parent. All buttons to reveal can be placed in the `<ion-item-options>` element.
- *
- * \@usage
- * ```html
- * <ion-list>
- *   <ion-item-sliding #item>
- *     <ion-item>
- *       Item
- *     </ion-item>
- *     <ion-item-options side="left">
- *       <button ion-button (click)="favorite(item)">Favorite</button>
- *       <button ion-button color="danger" (click)="share(item)">Share</button>
- *     </ion-item-options>
- *
- *     <ion-item-options side="right">
- *       <button ion-button (click)="unread(item)">Unread</button>
- *     </ion-item-options>
- *   </ion-item-sliding>
- * </ion-list>
- * ```
- *
- * ### Swipe Direction
- * By default, the buttons are revealed when the sliding item is swiped from right to left,
- * so the buttons are placed in the right side. But it's also possible to reveal them
- * in the right side (sliding from left to right) by setting the `side` attribute
- * on the `ion-item-options` element. Up to 2 `ion-item-options` can used at the same time
- * in order to reveal two different sets of buttons depending the swipping direction.
- *
- * ```html
- * <ion-item-options side="right">
- *   <button ion-button (click)="archive(item)">
- *     <ion-icon name="archive"></ion-icon>
- *     Archive
- *   </button>
- * </ion-item-options>
- *
- * <ion-item-options side="left">
- *   <button ion-button (click)="archive(item)">
- *     <ion-icon name="archive"></ion-icon>
- *     Archive
- *   </button>
- * </ion-item-options>
- * ```
- *
- * ### Listening for events (ionDrag) and (ionSwipe)
- * It's possible to know the current relative position of the sliding item by subscribing
- * to the (ionDrag)` event.
- *
- * ```html
- * <ion-item-sliding (ionDrag)="logDrag($event)">
- *   <ion-item>Item</ion-item>
- *   <ion-item-options>
- *     <button ion-button>Favorite</button>
- *   </ion-item-options>
- * </ion-item-sliding>
- * ```
- *
- * ### Button Layout
- * If an icon is placed with text in the option button, by default it will
- * display the icon on top of the text. This can be changed to display the icon
- * to the left of the text by setting `icon-start` as an attribute on the
- * `<ion-item-options>` element.
- *
- * ```html
- * <ion-item-options icon-start>
- *    <button ion-button (click)="archive(item)">
- *      <ion-icon name="archive"></ion-icon>
- *      Archive
- *    </button>
- *  </ion-item-options>
- *
- * ```
- *
- * ### Expandable Options
- *
- * Options can be expanded to take up the full width of the item if you swipe past
- * a certain point. This can be combined with the `ionSwipe` event to call methods
- * on the class.
- *
- * ```html
- *
- * <ion-item-sliding (ionSwipe)="delete(item)">
- *   <ion-item>Item</ion-item>
- *   <ion-item-options>
- *     <button ion-button expandable (click)="delete(item)">Delete</button>
- *   </ion-item-options>
- * </ion-item-sliding>
- * ```
- *
- * We can call `delete` by either clicking the button, or by doing a full swipe on the item.
- *
- * \@demo /docs/demos/src/item-sliding/
- * @see {\@link /docs/components#lists List Component Docs}
- * @see {\@link ../Item Item API Docs}
- * @see {\@link ../../list/List List API Docs}
- */
-var ItemSliding = (function () {
-    /**
-     * @param {?} list
-     * @param {?} _plt
-     * @param {?} _renderer
-     * @param {?} _elementRef
-     * @param {?} _zone
-     */
-    function ItemSliding(list, _plt, _renderer, _elementRef, _zone) {
-        this._plt = _plt;
-        this._renderer = _renderer;
-        this._elementRef = _elementRef;
-        this._zone = _zone;
-        this._openAmount = 0;
-        this._startX = 0;
-        this._optsWidthRightSide = 0;
-        this._optsWidthLeftSide = 0;
-        this._tmr = null;
-        this._optsDirty = true;
-        this._state = 2 /* Disabled */;
-        /**
-         * \@output {event} Emitted when the sliding position changes.
-         * It reports the relative position.
-         *
-         * ```ts
-         * ondrag(item) {
-         *   let percent = item.getSlidingPercent();
-         *   if (percent > 0) {
-         *     // positive
-         *     console.log('right side');
-         *   } else {
-         *     // negative
-         *     console.log('left side');
-         *   }
-         *   if (Math.abs(percent) > 1) {
-         *     console.log('overscroll');
-         *   }
-         * }
-         * ```
-         *
-         */
-        this.ionDrag = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
-        list && list.containsSlidingItem(true);
-        _elementRef.nativeElement.$ionComponent = this;
-        this.setElementClass('item-wrapper', true);
-    }
-    Object.defineProperty(ItemSliding.prototype, "_itemOptions", {
-        /**
-         * @param {?} itemOptions
-         * @return {?}
-         */
-        set: function (itemOptions) {
-            var /** @type {?} */ sides = 0;
-            // Reset left and right options in case they were removed
-            this._leftOptions = this._rightOptions = null;
-            for (var _i = 0, _a = itemOptions.toArray(); _i < _a.length; _i++) {
-                var item = _a[_i];
-                if (item.isRightSide()) {
-                    this._rightOptions = item;
-                    sides |= ITEM_SIDE_FLAG_RIGHT;
-                }
-                else {
-                    this._leftOptions = item;
-                    sides |= ITEM_SIDE_FLAG_LEFT;
-                }
-            }
-            this._optsDirty = true;
-            this._sides = sides;
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @hidden
-     * @return {?}
-     */
-    ItemSliding.prototype.getOpenAmount = function () {
-        return this._openAmount;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    ItemSliding.prototype.getSlidingPercent = function () {
-        var /** @type {?} */ openAmount = this._openAmount;
-        if (openAmount > 0) {
-            return openAmount / this._optsWidthRightSide;
-        }
-        else if (openAmount < 0) {
-            return openAmount / this._optsWidthLeftSide;
-        }
-        else {
-            return 0;
-        }
-    };
-    /**
-     * @hidden
-     * @param {?} startX
-     * @return {?}
-     */
-    ItemSliding.prototype.startSliding = function (startX) {
-        if (this._tmr) {
-            this._plt.cancelTimeout(this._tmr);
-            this._tmr = null;
-        }
-        if (this._openAmount === 0) {
-            this._optsDirty = true;
-            this._setState(4 /* Enabled */);
-        }
-        this._startX = startX + this._openAmount;
-        this.item.setElementStyle(this._plt.Css.transition, 'none');
-    };
-    /**
-     * @hidden
-     * @param {?} x
-     * @return {?}
-     */
-    ItemSliding.prototype.moveSliding = function (x) {
-        if (this._optsDirty) {
-            this.calculateOptsWidth();
-            return;
-        }
-        var /** @type {?} */ openAmount = (this._startX - x);
-        switch (this._sides) {
-            case ITEM_SIDE_FLAG_RIGHT:
-                openAmount = Math.max(0, openAmount);
-                break;
-            case ITEM_SIDE_FLAG_LEFT:
-                openAmount = Math.min(0, openAmount);
-                break;
-            case ITEM_SIDE_FLAG_BOTH: break;
-            case ITEM_SIDE_FLAG_NONE: return;
-            default:
-                (void 0) /* assert */;
-                break;
-        }
-        if (openAmount > this._optsWidthRightSide) {
-            var /** @type {?} */ optsWidth = this._optsWidthRightSide;
-            openAmount = optsWidth + (openAmount - optsWidth) * ELASTIC_FACTOR;
-        }
-        else if (openAmount < -this._optsWidthLeftSide) {
-            var /** @type {?} */ optsWidth = -this._optsWidthLeftSide;
-            openAmount = optsWidth + (openAmount - optsWidth) * ELASTIC_FACTOR;
-        }
-        this._setOpenAmount(openAmount, false);
-        return openAmount;
-    };
-    /**
-     * @hidden
-     * @param {?} velocity
-     * @return {?}
-     */
-    ItemSliding.prototype.endSliding = function (velocity) {
-        var /** @type {?} */ restingPoint = (this._openAmount > 0)
-            ? this._optsWidthRightSide
-            : -this._optsWidthLeftSide;
-        // Check if the drag didn't clear the buttons mid-point
-        // and we aren't moving fast enough to swipe open
-        var /** @type {?} */ isResetDirection = (this._openAmount > 0) === !(velocity < 0);
-        var /** @type {?} */ isMovingFast = Math.abs(velocity) > 0.3;
-        var /** @type {?} */ isOnCloseZone = Math.abs(this._openAmount) < Math.abs(restingPoint / 2);
-        if (Object(__WEBPACK_IMPORTED_MODULE_1__util_util__["t" /* swipeShouldReset */])(isResetDirection, isMovingFast, isOnCloseZone)) {
-            restingPoint = 0;
-        }
-        this.fireSwipeEvent();
-        this._setOpenAmount(restingPoint, true);
-        return restingPoint;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    ItemSliding.prototype.fireSwipeEvent = function () {
-        var _this = this;
-        if (this._state & 32 /* SwipeRight */) {
-            this._zone.run(function () { return _this._rightOptions.ionSwipe.emit(_this); });
-        }
-        else if (this._state & 64 /* SwipeLeft */) {
-            this._zone.run(function () { return _this._leftOptions.ionSwipe.emit(_this); });
-        }
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    ItemSliding.prototype.calculateOptsWidth = function () {
-        if (!this._optsDirty) {
-            return;
-        }
-        this._optsWidthRightSide = 0;
-        if (this._rightOptions) {
-            this._optsWidthRightSide = this._rightOptions.width();
-            (void 0) /* assert */;
-        }
-        this._optsWidthLeftSide = 0;
-        if (this._leftOptions) {
-            this._optsWidthLeftSide = this._leftOptions.width();
-            (void 0) /* assert */;
-        }
-        this._optsDirty = false;
-    };
-    /**
-     * @param {?} openAmount
-     * @param {?} isFinal
-     * @return {?}
-     */
-    ItemSliding.prototype._setOpenAmount = function (openAmount, isFinal) {
-        var _this = this;
-        var /** @type {?} */ platform = this._plt;
-        if (this._tmr) {
-            platform.cancelTimeout(this._tmr);
-            this._tmr = null;
-        }
-        this._openAmount = openAmount;
-        if (isFinal) {
-            this.item.setElementStyle(platform.Css.transition, '');
-        }
-        if (openAmount > 0) {
-            var /** @type {?} */ state = (openAmount >= (this._optsWidthRightSide + SWIPE_MARGIN))
-                ? 8 /* Right */ | 32 /* SwipeRight */
-                : 8 /* Right */;
-            this._setState(state);
-        }
-        else if (openAmount < 0) {
-            var /** @type {?} */ state_1 = (openAmount <= (-this._optsWidthLeftSide - SWIPE_MARGIN))
-                ? 16 /* Left */ | 64 /* SwipeLeft */
-                : 16 /* Left */;
-            this._setState(state_1);
-        }
-        else {
-            (void 0) /* assert */;
-            this._tmr = platform.timeout(function () {
-                _this._setState(2 /* Disabled */);
-                _this._tmr = null;
-            }, 600);
-            this.item.setElementStyle(platform.Css.transform, '');
-            return;
-        }
-        this.item.setElementStyle(platform.Css.transform, "translate3d(" + -openAmount + "px,0,0)");
-        var /** @type {?} */ ionDrag = this.ionDrag;
-        if (ionDrag.observers.length > 0) {
-            ionDrag.emit(this);
-        }
-    };
-    /**
-     * @param {?} state
-     * @return {?}
-     */
-    ItemSliding.prototype._setState = function (state) {
-        if (state === this._state) {
-            return;
-        }
-        this.setElementClass('active-slide', (state !== 2 /* Disabled */));
-        this.setElementClass('active-options-right', !!(state & 8 /* Right */));
-        this.setElementClass('active-options-left', !!(state & 16 /* Left */));
-        this.setElementClass('active-swipe-right', !!(state & 32 /* SwipeRight */));
-        this.setElementClass('active-swipe-left', !!(state & 64 /* SwipeLeft */));
-        this._state = state;
-    };
-    /**
-     * Close the sliding item. Items can also be closed from the [List](../../list/List).
-     *
-     * The sliding item can be closed by grabbing a reference to `ItemSliding`. In the
-     * below example, the template reference variable `slidingItem` is placed on the element
-     * and passed to the `share` method.
-     *
-     * ```html
-     * <ion-list>
-     *   <ion-item-sliding #slidingItem>
-     *     <ion-item>
-     *       Item
-     *     </ion-item>
-     *     <ion-item-options>
-     *       <button ion-button (click)="share(slidingItem)">Share</button>
-     *     </ion-item-options>
-     *   </ion-item-sliding>
-     * </ion-list>
-     * ```
-     *
-     * ```ts
-     * import { Component } from '\@angular/core';
-     * import { ItemSliding } from 'ionic-angular';
-     *
-     * \@Component({...})
-     * export class MyClass {
-     *   constructor() { }
-     *
-     *   share(slidingItem: ItemSliding) {
-     *     slidingItem.close();
-     *   }
-     * }
-     * ```
-     * @return {?}
-     */
-    ItemSliding.prototype.close = function () {
-        this._setOpenAmount(0, true);
-    };
-    /**
-     * @hidden
-     * @param {?} cssClass
-     * @param {?} shouldAdd
-     * @return {?}
-     */
-    ItemSliding.prototype.setElementClass = function (cssClass, shouldAdd) {
-        this._renderer.setElementClass(this._elementRef.nativeElement, cssClass, shouldAdd);
-    };
-    return ItemSliding;
-}());
-
-ItemSliding.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
-                selector: 'ion-item-sliding',
-                template: "\n    <ng-content select=\"ion-item,[ion-item]\"></ng-content>\n    <ng-content select=\"ion-item-options\"></ng-content>\n  ",
-                changeDetection: __WEBPACK_IMPORTED_MODULE_0__angular_core__["j" /* ChangeDetectionStrategy */].OnPush,
-                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None
-            },] },
-];
-/**
- * @nocollapse
- */
-ItemSliding.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_3__list_list__["a" /* List */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
-    { type: __WEBPACK_IMPORTED_MODULE_4__platform_platform__["a" /* Platform */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["P" /* NgZone */], },
-]; };
-ItemSliding.propDecorators = {
-    'item': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* ContentChild */], args: [__WEBPACK_IMPORTED_MODULE_2__item__["a" /* Item */],] },],
-    'ionDrag': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
-    '_itemOptions': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["s" /* ContentChildren */], args: [Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_20" /* forwardRef */])(function () { return __WEBPACK_IMPORTED_MODULE_5__item_options__["a" /* ItemOptions */]; }),] },],
-};
-function ItemSliding_tsickle_Closure_declarations() {
-    /** @type {?} */
-    ItemSliding.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    ItemSliding.ctorParameters;
-    /** @type {?} */
-    ItemSliding.propDecorators;
-    /** @type {?} */
-    ItemSliding.prototype._openAmount;
-    /** @type {?} */
-    ItemSliding.prototype._startX;
-    /** @type {?} */
-    ItemSliding.prototype._optsWidthRightSide;
-    /** @type {?} */
-    ItemSliding.prototype._optsWidthLeftSide;
-    /** @type {?} */
-    ItemSliding.prototype._sides;
-    /** @type {?} */
-    ItemSliding.prototype._tmr;
-    /** @type {?} */
-    ItemSliding.prototype._leftOptions;
-    /** @type {?} */
-    ItemSliding.prototype._rightOptions;
-    /** @type {?} */
-    ItemSliding.prototype._optsDirty;
-    /** @type {?} */
-    ItemSliding.prototype._state;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    ItemSliding.prototype.item;
-    /**
-     * \@output {event} Emitted when the sliding position changes.
-     * It reports the relative position.
-     *
-     * ```ts
-     * ondrag(item) {
-     *   let percent = item.getSlidingPercent();
-     *   if (percent > 0) {
-     *     // positive
-     *     console.log('right side');
-     *   } else {
-     *     // negative
-     *     console.log('left side');
-     *   }
-     *   if (Math.abs(percent) > 1) {
-     *     console.log('overscroll');
-     *   }
-     * }
-     * ```
-     *
-     * @type {?}
-     */
-    ItemSliding.prototype.ionDrag;
-    /** @type {?} */
-    ItemSliding.prototype._plt;
-    /** @type {?} */
-    ItemSliding.prototype._renderer;
-    /** @type {?} */
-    ItemSliding.prototype._elementRef;
-    /** @type {?} */
-    ItemSliding.prototype._zone;
-}
-//# sourceMappingURL=item-sliding.js.map
-
-/***/ }),
-/* 138 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Reorder; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__item_reorder_util__ = __webpack_require__(122);
-
-
-/**
- * @hidden
- */
-var Reorder = (function () {
-    /**
-     * @param {?} elementRef
-     */
-    function Reorder(elementRef) {
-        this.elementRef = elementRef;
-        elementRef.nativeElement['$ionComponent'] = this;
-    }
-    /**
-     * @return {?}
-     */
-    Reorder.prototype.getReorderNode = function () {
-        return Object(__WEBPACK_IMPORTED_MODULE_1__item_reorder_util__["a" /* findReorderItem */])(this.elementRef.nativeElement, null);
-    };
-    /**
-     * @param {?} ev
-     * @return {?}
-     */
-    Reorder.prototype.onClick = function (ev) {
-        // Stop propagation if click event reaches ion-reorder
-        ev.preventDefault();
-        ev.stopPropagation();
-    };
-    return Reorder;
-}());
-
-Reorder.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
-                selector: 'ion-reorder',
-                template: "<ion-icon name=\"reorder\"></ion-icon>"
-            },] },
-];
-/**
- * @nocollapse
- */
-Reorder.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-]; };
-Reorder.propDecorators = {
-    'onClick': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* HostListener */], args: ['click', ['$event'],] },],
-};
-function Reorder_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Reorder.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    Reorder.ctorParameters;
-    /** @type {?} */
-    Reorder.propDecorators;
-    /** @type {?} */
-    Reorder.prototype.elementRef;
-}
-//# sourceMappingURL=reorder.js.map
-
-/***/ }),
-/* 139 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Loading; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__util_util__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_app_constants__ = __webpack_require__(32);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__loading_component__ = __webpack_require__(72);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__loading_transitions__ = __webpack_require__(232);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__ = __webpack_require__(5);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-
-
-
-/**
- * @hidden
- */
-var Loading = (function (_super) {
-    __extends(Loading, _super);
-    /**
-     * @param {?} app
-     * @param {?=} opts
-     * @param {?=} config
-     */
-    function Loading(app, opts, config) {
-        if (opts === void 0) { opts = {}; }
-        var _this = this;
-        opts.showBackdrop = Object(__WEBPACK_IMPORTED_MODULE_0__util_util__["l" /* isPresent */])(opts.showBackdrop) ? !!opts.showBackdrop : true;
-        opts.enableBackdropDismiss = Object(__WEBPACK_IMPORTED_MODULE_0__util_util__["l" /* isPresent */])(opts.enableBackdropDismiss) ? !!opts.enableBackdropDismiss : false;
-        opts.dismissOnPageChange = Object(__WEBPACK_IMPORTED_MODULE_0__util_util__["l" /* isPresent */])(opts.dismissOnPageChange) ? !!opts.dismissOnPageChange : false;
-        _this = _super.call(this, __WEBPACK_IMPORTED_MODULE_2__loading_component__["a" /* LoadingCmp */], opts, null) || this;
-        _this._app = app;
-        _this.isOverlay = true;
-        config.setTransition('loading-pop-in', __WEBPACK_IMPORTED_MODULE_3__loading_transitions__["c" /* LoadingPopIn */]);
-        config.setTransition('loading-pop-out', __WEBPACK_IMPORTED_MODULE_3__loading_transitions__["d" /* LoadingPopOut */]);
-        config.setTransition('loading-md-pop-in', __WEBPACK_IMPORTED_MODULE_3__loading_transitions__["a" /* LoadingMdPopIn */]);
-        config.setTransition('loading-md-pop-out', __WEBPACK_IMPORTED_MODULE_3__loading_transitions__["b" /* LoadingMdPopOut */]);
-        config.setTransition('loading-wp-pop-in', __WEBPACK_IMPORTED_MODULE_3__loading_transitions__["e" /* LoadingWpPopIn */]);
-        config.setTransition('loading-wp-pop-out', __WEBPACK_IMPORTED_MODULE_3__loading_transitions__["f" /* LoadingWpPopOut */]);
-        return _this;
-    }
-    /**
-     * @hidden
-     * @param {?} direction
-     * @return {?}
-     */
-    Loading.prototype.getTransitionName = function (direction) {
-        var /** @type {?} */ key = (direction === 'back' ? 'loadingLeave' : 'loadingEnter');
-        return this._nav && this._nav.config.get(key);
-    };
-    /**
-     * @param {?} content
-     * @return {?}
-     */
-    Loading.prototype.setContent = function (content) {
-        this.data.content = content;
-        return this;
-    };
-    /**
-     * @param {?} spinner
-     * @return {?}
-     */
-    Loading.prototype.setSpinner = function (spinner) {
-        this.data.spinner = spinner;
-        return this;
-    };
-    /**
-     * @param {?} cssClass
-     * @return {?}
-     */
-    Loading.prototype.setCssClass = function (cssClass) {
-        this.data.cssClass = cssClass;
-        return this;
-    };
-    /**
-     * @param {?} showBackdrop
-     * @return {?}
-     */
-    Loading.prototype.setShowBackdrop = function (showBackdrop) {
-        this.data.showBackdrop = showBackdrop;
-        return this;
-    };
-    /**
-     * @param {?} dur
-     * @return {?}
-     */
-    Loading.prototype.setDuration = function (dur) {
-        this.data.duration = dur;
-        return this;
-    };
-    /**
-     * Present the loading instance.
-     *
-     * @param {?=} navOptions
-     * @return {?}
-     */
-    Loading.prototype.present = function (navOptions) {
-        if (navOptions === void 0) { navOptions = {}; }
-        return this._app.present(this, navOptions, __WEBPACK_IMPORTED_MODULE_1__app_app_constants__["b" /* PORTAL_LOADING */]);
-    };
-    /**
-     * Dismiss all loading components which have been presented.
-     * @return {?}
-     */
-    Loading.prototype.dismissAll = function () {
-        this._nav && this._nav.popAll();
-    };
-    return Loading;
-}(__WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__["a" /* ViewController */]));
-
-function Loading_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Loading.prototype._app;
-}
-//# sourceMappingURL=loading.js.map
-
-/***/ }),
-/* 140 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return LoadingController; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_app__ = __webpack_require__(6);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__loading__ = __webpack_require__(139);
-
-
-
-
-/**
- * \@name LoadingController
- * \@description
- * An overlay that can be used to indicate activity while blocking user
- * interaction. The loading indicator appears on top of the app's content,
- * and can be dismissed by the app to resume user interaction with
- * the app. It includes an optional backdrop, which can be disabled
- * by setting `showBackdrop: false` upon creation.
- *
- * ### Creating
- * You can pass all of the loading options in the first argument of
- * the create method: `create(opts)`. The spinner name should be
- * passed in the `spinner` property, and any optional HTML can be passed
- * in the `content` property. If you do not pass a value to `spinner`
- * the loading indicator will use the spinner specified by the mode. To
- * set the spinner name across the app, set the value of `loadingSpinner`
- * in your app's config. To hide the spinner, set `loadingSpinner: 'hide'`
- * in the app's config or pass `spinner: 'hide'` in the loading
- * options. See the [create](#create) method below for all available options.
- *
- * ### Dismissing
- * The loading indicator can be dismissed automatically after a specific
- * amount of time by passing the number of milliseconds to display it in
- * the `duration` of the loading options. By default the loading indicator
- * will show even during page changes, but this can be disabled by setting
- * `dismissOnPageChange` to `true`. To dismiss the loading indicator after
- * creation, call the `dismiss()` method on the Loading instance. The
- * `onDidDismiss` function can be called to perform an action after the loading
- * indicator is dismissed.
- *
- * >Note that after the component is dismissed, it will not be usable anymore
- * and another one must be created. This can be avoided by wrapping the
- * creation and presentation of the component in a reusable function as shown
- * in the `usage` section below.
- *
- * ### Limitations
- * The element is styled to appear on top of other content by setting its
- * `z-index` property. You must ensure no element has a stacking context with
- * a higher `z-index` than this element.
- *
- * \@usage
- * ```ts
- * constructor(public loadingCtrl: LoadingController) {
- *
- * }
- *
- * presentLoadingDefault() {
- *   let loading = this.loadingCtrl.create({
- *     content: 'Please wait...'
- *   });
- *
- *   loading.present();
- *
- *   setTimeout(() => {
- *     loading.dismiss();
- *   }, 5000);
- * }
- *
- * presentLoadingCustom() {
- *   let loading = this.loadingCtrl.create({
- *     spinner: 'hide',
- *     content: `
- *       <div class="custom-spinner-container">
- *         <div class="custom-spinner-box"></div>
- *       </div>`,
- *     duration: 5000
- *   });
- *
- *   loading.onDidDismiss(() => {
- *     console.log('Dismissed loading');
- *   });
- *
- *   loading.present();
- * }
- *
- * presentLoadingText() {
- *   let loading = this.loadingCtrl.create({
- *     spinner: 'hide',
- *     content: 'Loading Please Wait...'
- *   });
- *
- *   loading.present();
- *
- *   setTimeout(() => {
- *     this.nav.push(Page2);
- *   }, 1000);
- *
- *   setTimeout(() => {
- *     loading.dismiss();
- *   }, 5000);
- * }
- * ```
- * \@advanced
- *
- * Loading options
- *
- * | Option                | Type       | Description                                                                                                      |
- * |-----------------------|------------|------------------------------------------------------------------------------------------------------------------|
- * | spinner               |`string`    | The name of the SVG spinner for the loading indicator.                                                           |
- * | content               |`string`    | The html content for the loading indicator.                                                                      |
- * | cssClass              |`string`    | Additional classes for custom styles, separated by spaces.                                                       |
- * | showBackdrop          |`boolean`   | Whether to show the backdrop. Default true.                                                                      |
- * | enableBackdropDismiss | `boolean`  | Whether the loading indicator should be dismissed by tapping the backdrop. Default false.                        |
- * | dismissOnPageChange   |`boolean`   | Whether to dismiss the indicator when navigating to a new page. Default false.                                   |
- * | duration              |`number`    | How many milliseconds to wait before hiding the indicator. By default, it will show until `dismiss()` is called. |
- *
- * \@demo /docs/demos/src/loading/
- * @see {\@link /docs/api/components/spinner/Spinner Spinner API Docs}
- */
-var LoadingController = (function () {
-    /**
-     * @param {?} _app
-     * @param {?} config
-     */
-    function LoadingController(_app, config) {
-        this._app = _app;
-        this.config = config;
-    }
-    /**
-     * Create a loading indicator. See below for options.
-     * @param {?=} opts
-     * @return {?}
-     */
-    LoadingController.prototype.create = function (opts) {
-        if (opts === void 0) { opts = {}; }
-        return new __WEBPACK_IMPORTED_MODULE_3__loading__["a" /* Loading */](this._app, opts, this.config);
-    };
-    return LoadingController;
-}());
-
-LoadingController.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Injectable */] },
-];
-/**
- * @nocollapse
- */
-LoadingController.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_1__app_app__["a" /* App */], },
-    { type: __WEBPACK_IMPORTED_MODULE_2__config_config__["a" /* Config */], },
-]; };
-function LoadingController_tsickle_Closure_declarations() {
-    /** @type {?} */
-    LoadingController.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    LoadingController.ctorParameters;
-    /** @type {?} */
-    LoadingController.prototype._app;
-    /** @type {?} */
-    LoadingController.prototype.config;
-}
-//# sourceMappingURL=loading-controller.js.map
-
-/***/ }),
-/* 141 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Menu; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_app__ = __webpack_require__(6);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__backdrop_backdrop__ = __webpack_require__(60);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__content_content__ = __webpack_require__(19);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__platform_dom_controller__ = __webpack_require__(8);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__gestures_gesture_controller__ = __webpack_require__(7);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__util_util__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__platform_keyboard__ = __webpack_require__(34);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__menu_gestures__ = __webpack_require__(233);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__app_menu_controller__ = __webpack_require__(26);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__nav_nav__ = __webpack_require__(73);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__platform_platform__ = __webpack_require__(3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__gestures_ui_event_manager__ = __webpack_require__(22);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__split_pane_split_pane__ = __webpack_require__(36);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/**
- * \@name Menu
- * \@description
- * The Menu component is a navigation drawer that slides in from the side of the current
- * view. By default, it slides in from the left, but the side can be overridden. The menu
- * will be displayed differently based on the mode, however the display type can be changed
- * to any of the available [menu types](#menu-types). The menu element should be a sibling
- * to the app's content element. There can be any number of menus attached to the content.
- * These can be controlled from the templates, or programmatically using the [MenuController](../../app/MenuController).
- *
- * \@usage
- *
- * ```html
- * <ion-menu [content]="mycontent">
- *   <ion-content>
- *     <ion-list>
- *       <p>some menu content, could be list items</p>
- *     </ion-list>
- *   </ion-content>
- * </ion-menu>
- *
- * <ion-nav #mycontent [root]="rootPage"></ion-nav>
- * ```
- *
- * To add a menu to an app, the `<ion-menu>` element should be added as a sibling to the `ion-nav` it will belongs
- * to. A [local variable](https://angular.io/docs/ts/latest/guide/user-input.html#local-variables)
- * should be added to the `ion-nav` and passed to the `ion-menu`s `content` property.
- *
- * This tells the menu what it is bound to and what element to watch for gestures.
- * In the below example, `content` is using [property binding](https://angular.io/docs/ts/latest/guide/template-syntax.html#!#property-binding)
- * because `mycontent` is a reference to the `<ion-nav>` element, and not a string.
- *
- *
- * ### Opening/Closing Menus
- *
- * There are several ways to open or close a menu. The menu can be **toggled** open or closed
- * from the template using the [MenuToggle](../MenuToggle) directive. It can also be
- * **closed** from the template using the [MenuClose](../MenuClose) directive. To display a menu
- * programmatically, inject the [MenuController](../MenuController) provider and call any of the
- * `MenuController` methods.
- *
- *
- * ### Menu Types
- *
- * The menu supports several display types: `overlay`, `reveal` and `push`. By default,
- * it will use the correct type based on the mode, but this can be changed. The default
- * type for both Material Design and Windows mode is `overlay`, and `reveal` is the default
- * type for iOS mode. The menu type can be changed in the app's [config](../../config/Config)
- * via the `menuType` property, or passed in the `type` property on the `<ion-menu>` element.
- * See [usage](#usage) below for examples of changing the menu type.
- *
- *
- * ### Navigation Bar Behavior
- *
- * If a [MenuToggle](../MenuToggle) button is added to the [Navbar](../../navbar/Navbar) of
- * a page, the button will only appear when the page it's in is currently a root page. The
- * root page is the initial page loaded in the app, or a page that has been set as the root
- * using the [setRoot](../../nav/NavController/#setRoot) method on the [NavController](../../nav/NavController).
- *
- * For example, say the application has two pages, `Page1` and `Page2`, and both have a
- * `MenuToggle` button in their navigation bars. Assume the initial page loaded into the app
- * is `Page1`, making it the root page. `Page1` will display the `MenuToggle` button, but once
- * `Page2` is pushed onto the navigation stack, the `MenuToggle` will not be displayed.
- *
- *
- * ### Persistent Menus
- *
- * Persistent menus display the [MenuToggle](../MenuToggle) button in the [Navbar](../../navbar/Navbar)
- * on all pages in the navigation stack. To make a menu persistent set `persistent` to `true` on the
- * `<ion-menu>` element. Note that this will only affect the `MenuToggle` button in the `Navbar` attached
- * to the `Menu` with `persistent` set to true, any other `MenuToggle` buttons will not be affected.
- * ### Menu Side
- *
- * By default, menus slide in from the left, but this can be overridden by passing `right`
- * to the `side` property:
- *
- * ```html
- * <ion-menu side="right" [content]="mycontent">...</ion-menu>
- * ```
- *
- *
- * ### Menu Type
- *
- * The menu type can be changed by passing the value to `type` on the `<ion-menu>`:
- *
- * ```html
- * <ion-menu type="overlay" [content]="mycontent">...</ion-menu>
- * ```
- *
- * It can also be set in the app's config. The below will set the menu type to
- * `push` for all modes, and then set the type to `overlay` for the `ios` mode.
- *
- * ```ts
- * // in NgModules
- *
- * imports: [
- *   IonicModule.forRoot(MyApp,{
- *     menuType: 'push',
- *     platforms: {
- *       ios: {
- *         menuType: 'overlay',
- *       }
- *     }
- *   })
- * ],
- * ```
- *
- *
- * ### Displaying the Menu
- *
- * To toggle a menu from the template, add a button with the `menuToggle`
- * directive anywhere in the page's template:
- *
- * ```html
- * <button ion-button menuToggle>Toggle Menu</button>
- * ```
- *
- * To close a menu, add the `menuClose` button. It can be added anywhere
- * in the content, or even the menu itself. Below it is added to the menu's
- * content:
- *
- * ```html
- * <ion-menu [content]="mycontent">
- *   <ion-content>
- *     <ion-list>
- *       <ion-item menuClose detail-none>Close Menu</ion-item>
- *     </ion-list>
- *   </ion-content>
- * </ion-menu>
- * ```
- *
- * See the [MenuToggle](../MenuToggle) and [MenuClose](../MenuClose) docs
- * for more information on these directives.
- *
- * The menu can also be controlled from the Page by using the `MenuController`.
- * Inject the `MenuController` provider into the page and then call any of its
- * methods. In the below example, the `openMenu` method will open the menu
- * when it is called.
- *
- * ```ts
- * import { Component } from '\@angular/core';
- * import { MenuController } from 'ionic-angular';
- *
- * \@Component({...})
- * export class MyPage {
- *  constructor(public menuCtrl: MenuController) {}
- *
- *  openMenu() {
- *    this.menuCtrl.open();
- *  }
- * }
- * ```
- *
- * See the [MenuController](../../app/MenuController) API docs for all of the methods
- * and usage information.
- *
- *
- * \@demo /docs/demos/src/menu/
- *
- * @see {\@link /docs/components#menus Menu Component Docs}
- * @see {\@link ../../app/MenuController MenuController API Docs}
- * @see {\@link ../../nav/Nav Nav API Docs}
- * @see {\@link ../../nav/NavController NavController API Docs}
- */
-var Menu = (function () {
-    /**
-     * @param {?} _menuCtrl
-     * @param {?} _elementRef
-     * @param {?} _config
-     * @param {?} _plt
-     * @param {?} _renderer
-     * @param {?} _keyboard
-     * @param {?} _gestureCtrl
-     * @param {?} _domCtrl
-     * @param {?} _app
-     */
-    function Menu(_menuCtrl, _elementRef, _config, _plt, _renderer, _keyboard, _gestureCtrl, _domCtrl, _app) {
-        this._menuCtrl = _menuCtrl;
-        this._elementRef = _elementRef;
-        this._config = _config;
-        this._plt = _plt;
-        this._renderer = _renderer;
-        this._keyboard = _keyboard;
-        this._gestureCtrl = _gestureCtrl;
-        this._domCtrl = _domCtrl;
-        this._app = _app;
-        this._isSwipeEnabled = true;
-        this._isAnimating = false;
-        this._isPersistent = false;
-        this._init = false;
-        this._isPane = false;
-        /**
-         * @hidden
-         */
-        this.isOpen = false;
-        /**
-         * @hidden
-         */
-        this.isRightSide = false;
-        /**
-         * \@output {event} Emitted when the menu is being dragged open.
-         */
-        this.ionDrag = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
-        /**
-         * \@output {event} Emitted when the menu has been opened.
-         */
-        this.ionOpen = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
-        /**
-         * \@output {event} Emitted when the menu has been closed.
-         */
-        this.ionClose = new __WEBPACK_IMPORTED_MODULE_0__angular_core__["w" /* EventEmitter */]();
-        this._events = new __WEBPACK_IMPORTED_MODULE_13__gestures_ui_event_manager__["a" /* UIEventManager */](_plt);
-        this._gestureBlocker = _gestureCtrl.createBlocker({
-            disable: [__WEBPACK_IMPORTED_MODULE_6__gestures_gesture_controller__["b" /* GESTURE_GO_BACK_SWIPE */]]
-        });
-        this.side = 'start';
-    }
-    Object.defineProperty(Menu.prototype, "enabled", {
-        /**
-         * \@input {boolean} If true, the menu is enabled. Default `true`.
-         * @return {?}
-         */
-        get: function () {
-            return this._isEnabled;
-        },
-        /**
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            var /** @type {?} */ isEnabled = Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["o" /* isTrueProperty */])(val);
-            this.enable(isEnabled);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(Menu.prototype, "side", {
-        /**
-         * \@input {string} Which side of the view the menu should be placed. Default `"left"`.
-         * @return {?}
-         */
-        get: function () {
-            return this._side;
-        },
-        /**
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            this.isRightSide = Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["m" /* isRightSide */])(val, this._plt.isRTL);
-            if (this.isRightSide) {
-                this._side = 'right';
-            }
-            else {
-                this._side = 'left';
-            }
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(Menu.prototype, "swipeEnabled", {
-        /**
-         * \@input {boolean} If true, swiping the menu is enabled. Default `true`.
-         * @return {?}
-         */
-        get: function () {
-            return this._isSwipeEnabled;
-        },
-        /**
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            var /** @type {?} */ isEnabled = Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["o" /* isTrueProperty */])(val);
-            this.swipeEnable(isEnabled);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Object.defineProperty(Menu.prototype, "persistent", {
-        /**
-         * \@input {boolean} If true, the menu will persist on child pages.
-         * @return {?}
-         */
-        get: function () {
-            return this._isPersistent;
-        },
-        /**
-         * @param {?} val
-         * @return {?}
-         */
-        set: function (val) {
-            this._isPersistent = Object(__WEBPACK_IMPORTED_MODULE_7__util_util__["o" /* isTrueProperty */])(val);
-        },
-        enumerable: true,
-        configurable: true
-    });
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.ngOnInit = function () {
-        var _this = this;
-        this._init = true;
-        var /** @type {?} */ content = this.content;
-        this._cntEle = (content instanceof Node) ? content : content && content.getNativeElement && content.getNativeElement();
-        // requires content element
-        if (!this._cntEle) {
-            return console.error('Menu: must have a [content] element to listen for drag events on. Example:\n\n<ion-menu [content]="content"></ion-menu>\n\n<ion-nav #content></ion-nav>');
-        }
-        this.setElementAttribute('side', this._side);
-        // normalize the "type"
-        if (!this.type) {
-            this.type = this._config.get('menuType');
-        }
-        this.setElementAttribute('type', this.type);
-        // add the gestures
-        this._gesture = new __WEBPACK_IMPORTED_MODULE_9__menu_gestures__["a" /* MenuContentGesture */](this._plt, this, this._gestureCtrl, this._domCtrl);
-        // add menu's content classes
-        this._cntEle.classList.add('menu-content');
-        this._cntEle.classList.add('menu-content-' + this.type);
-        var /** @type {?} */ isEnabled = this._isEnabled;
-        if (isEnabled === true || typeof isEnabled === 'undefined') {
-            // check if more than one menu is on the same side
-            isEnabled = !this._menuCtrl.getMenus().some(function (m) {
-                return m.side === _this.side && m.enabled;
-            });
-        }
-        // register this menu with the app's menu controller
-        this._menuCtrl._register(this);
-        // mask it as enabled / disabled
-        this.enable(isEnabled);
-    };
-    /**
-     * @hidden
-     * @param {?} ev
-     * @return {?}
-     */
-    Menu.prototype.onBackdropClick = function (ev) {
-        ev.preventDefault();
-        ev.stopPropagation();
-        this._menuCtrl.close();
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype._getType = function () {
-        if (!this._type) {
-            this._type = __WEBPACK_IMPORTED_MODULE_10__app_menu_controller__["a" /* MenuController */].create(this.type, this, this._plt);
-            if (this._config.get('animate') === false) {
-                this._type.ani.duration(0);
-            }
-        }
-        return this._type;
-    };
-    /**
-     * @hidden
-     * @param {?} shouldOpen
-     * @param {?=} animated
-     * @return {?}
-     */
-    Menu.prototype.setOpen = function (shouldOpen, animated) {
-        var _this = this;
-        if (animated === void 0) { animated = true; }
-        // If the menu is disabled or it is currenly being animated, let's do nothing
-        if ((shouldOpen === this.isOpen) || !this._canOpen() || this._isAnimating) {
-            return Promise.resolve(this.isOpen);
-        }
-        return new Promise(function (resolve) {
-            _this._before();
-            _this._getType().setOpen(shouldOpen, animated, function () {
-                _this._after(shouldOpen);
-                resolve(_this.isOpen);
-            });
-        });
-    };
-    /**
-     * @return {?}
-     */
-    Menu.prototype._forceClosing = function () {
-        var _this = this;
-        (void 0) /* assert */;
-        this._isAnimating = true;
-        this._getType().setOpen(false, false, function () {
-            _this._after(false);
-        });
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.canSwipe = function () {
-        return this._isSwipeEnabled &&
-            !this._isAnimating &&
-            this._canOpen() &&
-            this._app.isEnabled();
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.isAnimating = function () {
-        return this._isAnimating;
-    };
-    /**
-     * @return {?}
-     */
-    Menu.prototype._swipeBeforeStart = function () {
-        if (!this.canSwipe()) {
-            (void 0) /* assert */;
-            return;
-        }
-        this._before();
-    };
-    /**
-     * @return {?}
-     */
-    Menu.prototype._swipeStart = function () {
-        if (!this._isAnimating) {
-            (void 0) /* assert */;
-            return;
-        }
-        this._getType().setProgressStart(this.isOpen);
-    };
-    /**
-     * @param {?} stepValue
-     * @return {?}
-     */
-    Menu.prototype._swipeProgress = function (stepValue) {
-        if (!this._isAnimating) {
-            (void 0) /* assert */;
-            return;
-        }
-        this._getType().setProgessStep(stepValue);
-        var /** @type {?} */ ionDrag = this.ionDrag;
-        if (ionDrag.observers.length > 0) {
-            ionDrag.emit(stepValue);
-        }
-    };
-    /**
-     * @param {?} shouldCompleteLeft
-     * @param {?} shouldCompleteRight
-     * @param {?} stepValue
-     * @param {?} velocity
-     * @return {?}
-     */
-    Menu.prototype._swipeEnd = function (shouldCompleteLeft, shouldCompleteRight, stepValue, velocity) {
-        var _this = this;
-        if (!this._isAnimating) {
-            (void 0) /* assert */;
-            return;
-        }
-        // user has finished dragging the menu
-        var /** @type {?} */ isRightSide = this.isRightSide;
-        var /** @type {?} */ isRTL = this._plt.isRTL;
-        var /** @type {?} */ opening = !this.isOpen;
-        var /** @type {?} */ shouldComplete = (opening)
-            ? (isRightSide !== isRTL) ? shouldCompleteLeft : shouldCompleteRight
-            : (isRightSide !== isRTL) ? shouldCompleteRight : shouldCompleteLeft;
-        this._getType().setProgressEnd(shouldComplete, stepValue, velocity, function (isOpen) {
-            (void 0) /* console.debug */;
-            _this._after(isOpen);
-        });
-    };
-    /**
-     * @return {?}
-     */
-    Menu.prototype._before = function () {
-        (void 0) /* assert */;
-        // this places the menu into the correct location before it animates in
-        // this css class doesn't actually kick off any animations
-        this.setElementClass('show-menu', true);
-        this.backdrop.setElementClass('show-backdrop', true);
-        this.resize();
-        this._keyboard.close();
-        this._isAnimating = true;
-    };
-    /**
-     * @param {?} isOpen
-     * @return {?}
-     */
-    Menu.prototype._after = function (isOpen) {
-        (void 0) /* assert */;
-        this._app.setEnabled(false, 100);
-        // keep opening/closing the menu disabled for a touch more yet
-        // only add listeners/css if it's enabled and isOpen
-        // and only remove listeners/css if it's not open
-        // emit opened/closed events
-        this.isOpen = isOpen;
-        this._isAnimating = false;
-        this._events.unlistenAll();
-        if (isOpen) {
-            // Disable swipe to go back gesture
-            this._gestureBlocker.block();
-            this._cntEle.classList.add('menu-content-open');
-            var /** @type {?} */ callback = this.onBackdropClick.bind(this);
-            this._events.listen(this._cntEle, 'click', callback, { capture: true });
-            this._events.listen(this.backdrop.getNativeElement(), 'click', callback, { capture: true });
-            this.ionOpen.emit(true);
-        }
-        else {
-            // Enable swipe to go back gesture
-            this._gestureBlocker.unblock();
-            this._cntEle.classList.remove('menu-content-open');
-            this.setElementClass('show-menu', false);
-            this.backdrop.setElementClass('show-menu', false);
-            this.ionClose.emit(true);
-        }
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.open = function () {
-        return this.setOpen(true);
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.close = function () {
-        return this.setOpen(false);
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.resize = function () {
-        var /** @type {?} */ content = this.menuContent
-            ? this.menuContent
-            : this.menuNav;
-        content && content.resize();
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.toggle = function () {
-        return this.setOpen(!this.isOpen);
-    };
-    /**
-     * @return {?}
-     */
-    Menu.prototype._canOpen = function () {
-        return this._isEnabled && !this._isPane;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype._updateState = function () {
-        var /** @type {?} */ canOpen = this._canOpen();
-        // Close menu inmediately
-        if (!canOpen && this.isOpen) {
-            (void 0) /* assert */;
-            // close if this menu is open, and should not be enabled
-            this._forceClosing();
-        }
-        if (this._isEnabled && this._menuCtrl) {
-            this._menuCtrl._setActiveMenu(this);
-        }
-        if (!this._init) {
-            return;
-        }
-        var /** @type {?} */ gesture = this._gesture;
-        // only listen/unlisten if the menu has initialized
-        if (canOpen && this._isSwipeEnabled && !gesture.isListening) {
-            // should listen, but is not currently listening
-            (void 0) /* console.debug */;
-            gesture.listen();
-        }
-        else if (gesture.isListening && (!canOpen || !this._isSwipeEnabled)) {
-            // should not listen, but is currently listening
-            (void 0) /* console.debug */;
-            gesture.unlisten();
-        }
-        if (this.isOpen || (this._isPane && this._isEnabled)) {
-            this.resize();
-        }
-        (void 0) /* assert */;
-    };
-    /**
-     * @hidden
-     * @param {?} shouldEnable
-     * @return {?}
-     */
-    Menu.prototype.enable = function (shouldEnable) {
-        this._isEnabled = shouldEnable;
-        this.setElementClass('menu-enabled', shouldEnable);
-        this._updateState();
-        return this;
-    };
-    /**
-     * \@internal
-     * @return {?}
-     */
-    Menu.prototype.initPane = function () {
-        return false;
-    };
-    /**
-     * \@internal
-     * @param {?} isPane
-     * @return {?}
-     */
-    Menu.prototype.paneChanged = function (isPane) {
-        this._isPane = isPane;
-        this._updateState();
-    };
-    /**
-     * @hidden
-     * @param {?} shouldEnable
-     * @return {?}
-     */
-    Menu.prototype.swipeEnable = function (shouldEnable) {
-        this._isSwipeEnabled = shouldEnable;
-        this._updateState();
-        return this;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.getNativeElement = function () {
-        return this._elementRef.nativeElement;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.getMenuElement = function () {
-        return (this.getNativeElement().querySelector('.menu-inner'));
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.getContentElement = function () {
-        return this._cntEle;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.getBackdropElement = function () {
-        return this.backdrop.getNativeElement();
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.width = function () {
-        return this.getMenuElement().offsetWidth;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.getMenuController = function () {
-        return this._menuCtrl;
-    };
-    /**
-     * @hidden
-     * @param {?} className
-     * @param {?} add
-     * @return {?}
-     */
-    Menu.prototype.setElementClass = function (className, add) {
-        this._renderer.setElementClass(this._elementRef.nativeElement, className, add);
-    };
-    /**
-     * @hidden
-     * @param {?} attributeName
-     * @param {?} value
-     * @return {?}
-     */
-    Menu.prototype.setElementAttribute = function (attributeName, value) {
-        this._renderer.setElementAttribute(this._elementRef.nativeElement, attributeName, value);
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.getElementRef = function () {
-        return this._elementRef;
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    Menu.prototype.ngOnDestroy = function () {
-        this._menuCtrl._unregister(this);
-        this._events.destroy();
-        this._gesture && this._gesture.destroy();
-        this._type && this._type.destroy();
-        this._gesture = null;
-        this._type = null;
-        this._cntEle = null;
-    };
-    return Menu;
-}());
-
-Menu.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["n" /* Component */], args: [{
-                selector: 'ion-menu',
-                template: '<div class="menu-inner"><ng-content></ng-content></div>' +
-                    '<ion-backdrop></ion-backdrop>',
-                host: {
-                    'role': 'navigation'
-                },
-                changeDetection: __WEBPACK_IMPORTED_MODULE_0__angular_core__["j" /* ChangeDetectionStrategy */].OnPush,
-                encapsulation: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_16" /* ViewEncapsulation */].None,
-                providers: [{ provide: __WEBPACK_IMPORTED_MODULE_14__split_pane_split_pane__["a" /* RootNode */], useExisting: Object(__WEBPACK_IMPORTED_MODULE_0__angular_core__["_20" /* forwardRef */])(function () { return Menu; }) }]
-            },] },
-];
-/**
- * @nocollapse
- */
-Menu.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_10__app_menu_controller__["a" /* MenuController */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["u" /* ElementRef */], },
-    { type: __WEBPACK_IMPORTED_MODULE_3__config_config__["a" /* Config */], },
-    { type: __WEBPACK_IMPORTED_MODULE_12__platform_platform__["a" /* Platform */], },
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_0" /* Renderer */], },
-    { type: __WEBPACK_IMPORTED_MODULE_8__platform_keyboard__["a" /* Keyboard */], },
-    { type: __WEBPACK_IMPORTED_MODULE_6__gestures_gesture_controller__["l" /* GestureController */], },
-    { type: __WEBPACK_IMPORTED_MODULE_5__platform_dom_controller__["a" /* DomController */], },
-    { type: __WEBPACK_IMPORTED_MODULE_1__app_app__["a" /* App */], },
-]; };
-Menu.propDecorators = {
-    'backdrop': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["_13" /* ViewChild */], args: [__WEBPACK_IMPORTED_MODULE_2__backdrop_backdrop__["a" /* Backdrop */],] },],
-    'menuContent': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* ContentChild */], args: [__WEBPACK_IMPORTED_MODULE_4__content_content__["a" /* Content */],] },],
-    'menuNav': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["r" /* ContentChild */], args: [__WEBPACK_IMPORTED_MODULE_11__nav_nav__["a" /* Nav */],] },],
-    'content': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'id': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'type': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'enabled': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'side': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'swipeEnabled': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'persistent': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'maxEdgeStart': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'ionDrag': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
-    'ionOpen': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
-    'ionClose': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["S" /* Output */] },],
-};
-function Menu_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Menu.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    Menu.ctorParameters;
-    /** @type {?} */
-    Menu.propDecorators;
-    /** @type {?} */
-    Menu.prototype._cntEle;
-    /** @type {?} */
-    Menu.prototype._gesture;
-    /** @type {?} */
-    Menu.prototype._type;
-    /** @type {?} */
-    Menu.prototype._isEnabled;
-    /** @type {?} */
-    Menu.prototype._isSwipeEnabled;
-    /** @type {?} */
-    Menu.prototype._isAnimating;
-    /** @type {?} */
-    Menu.prototype._isPersistent;
-    /** @type {?} */
-    Menu.prototype._init;
-    /** @type {?} */
-    Menu.prototype._events;
-    /** @type {?} */
-    Menu.prototype._gestureBlocker;
-    /** @type {?} */
-    Menu.prototype._isPane;
-    /** @type {?} */
-    Menu.prototype._side;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    Menu.prototype.isOpen;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    Menu.prototype.isRightSide;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    Menu.prototype.backdrop;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    Menu.prototype.menuContent;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    Menu.prototype.menuNav;
-    /**
-     * \@input {any} A reference to the content element the menu should use.
-     * @type {?}
-     */
-    Menu.prototype.content;
-    /**
-     * \@input {string} An id for the menu.
-     * @type {?}
-     */
-    Menu.prototype.id;
-    /**
-     * \@input {string} The display type of the menu. Default varies based on the mode,
-     * see the `menuType` in the [config](../../config/Config). Available options:
-     * `"overlay"`, `"reveal"`, `"push"`.
-     * @type {?}
-     */
-    Menu.prototype.type;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    Menu.prototype.maxEdgeStart;
-    /**
-     * \@output {event} Emitted when the menu is being dragged open.
-     * @type {?}
-     */
-    Menu.prototype.ionDrag;
-    /**
-     * \@output {event} Emitted when the menu has been opened.
-     * @type {?}
-     */
-    Menu.prototype.ionOpen;
-    /**
-     * \@output {event} Emitted when the menu has been closed.
-     * @type {?}
-     */
-    Menu.prototype.ionClose;
-    /** @type {?} */
-    Menu.prototype._menuCtrl;
-    /** @type {?} */
-    Menu.prototype._elementRef;
-    /** @type {?} */
-    Menu.prototype._config;
-    /** @type {?} */
-    Menu.prototype._plt;
-    /** @type {?} */
-    Menu.prototype._renderer;
-    /** @type {?} */
-    Menu.prototype._keyboard;
-    /** @type {?} */
-    Menu.prototype._gestureCtrl;
-    /** @type {?} */
-    Menu.prototype._domCtrl;
-    /** @type {?} */
-    Menu.prototype._app;
-}
-//# sourceMappingURL=menu.js.map
-
-/***/ }),
-/* 142 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MenuClose; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_menu_controller__ = __webpack_require__(26);
-
-
-/**
- * \@name MenuClose
- * \@description
- * The `menuClose` directive can be placed on any button to close an open menu.
- *
- * \@usage
- *
- * A simple `menuClose` button can be added using the following markup:
- *
- * ```html
- * <button ion-button menuClose>Close Menu</button>
- * ```
- *
- * To close a certain menu by its id or side, give the `menuClose`
- * directive a value.
- *
- * ```html
- * <button ion-button menuClose="left">Close Left Menu</button>
- * ```
- *
- * \@demo /docs/demos/src/menu/
- * @see {\@link /docs/components#menus Menu Component Docs}
- * @see {\@link ../../menu/Menu Menu API Docs}
- */
-var MenuClose = (function () {
-    /**
-     * @param {?} _menu
-     */
-    function MenuClose(_menu) {
-        this._menu = _menu;
-    }
-    /**
-     * @hidden
-     * @return {?}
-     */
-    MenuClose.prototype.close = function () {
-        var /** @type {?} */ menu = this._menu.get(this.menuClose);
-        menu && menu.close();
-    };
-    return MenuClose;
-}());
-
-MenuClose.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: '[menuClose]'
-            },] },
-];
-/**
- * @nocollapse
- */
-MenuClose.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_1__app_menu_controller__["a" /* MenuController */], },
-]; };
-MenuClose.propDecorators = {
-    'menuClose': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'close': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* HostListener */], args: ['click',] },],
-};
-function MenuClose_tsickle_Closure_declarations() {
-    /** @type {?} */
-    MenuClose.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    MenuClose.ctorParameters;
-    /** @type {?} */
-    MenuClose.propDecorators;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    MenuClose.prototype.menuClose;
-    /** @type {?} */
-    MenuClose.prototype._menu;
-}
-//# sourceMappingURL=menu-close.js.map
-
-/***/ }),
-/* 143 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return MenuToggle; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__button_button__ = __webpack_require__(33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__app_menu_controller__ = __webpack_require__(26);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__toolbar_navbar__ = __webpack_require__(37);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__ = __webpack_require__(5);
-
-
-
-
-
-/**
- * \@name MenuToggle
- * \@description
- * The `menuToggle` directive can be placed on any button to toggle a menu open or closed.
- * If it is added to the [NavBar](../../navbar/NavBar) of a page, the button will only appear
- * when the page it's in is currently a root page. See the [Menu Navigation Bar Behavior](../Menu#navigation-bar-behavior)
- * docs for more information.
- *
- *
- * \@usage
- *
- * A simple `menuToggle` button can be added using the following markup:
- *
- * ```html
- * <button ion-button menuToggle>Toggle Menu</button>
- * ```
- *
- * To toggle a specific menu by its id or side, give the `menuToggle`
- * directive a value.
- *
- * ```html
- * <button ion-button menuToggle="right">Toggle Right Menu</button>
- * ```
- *
- * If placing the `menuToggle` in a navbar or toolbar, it should be
- * placed as a child of the `<ion-navbar>` or `<ion-toolbar>`, and not in
- * the `<ion-buttons>` element:
- *
- * ```html
- * <ion-header>
- *
- *   <ion-navbar>
- *     <ion-buttons start>
- *       <button ion-button>
- *         <ion-icon name="contact"></ion-icon>
- *       </button>
- *     </ion-buttons>
- *     <button ion-button menuToggle>
- *       <ion-icon name="menu"></ion-icon>
- *     </button>
- *     <ion-title>
- *       Title
- *     </ion-title>
- *     <ion-buttons end>
- *       <button ion-button (click)="doClick()">
- *         <ion-icon name="more"></ion-icon>
- *       </button>
- *     </ion-buttons>
- *   </ion-navbar>
- *
- * </ion-header>
- * ```
- *
- * Similar to `<ion-buttons>`, the `menuToggle` can be positioned using
- * `start`, `end`, `left`, or `right`:
- *
- * ```html
- * <ion-toolbar>
- *   <button ion-button menuToggle right>
- *     <ion-icon name="menu"></ion-icon>
- *   </button>
- *   <ion-title>
- *     Title
- *   </ion-title>
- *   <ion-buttons end>
- *     <button ion-button (click)="doClick()">
- *       <ion-icon name="more"></ion-icon>
- *     </button>
- *   </ion-buttons>
- * </ion-toolbar>
- * ```
- *
- * See the [Toolbar API docs](../../toolbar/Toolbar) for more information
- * on the different positions.
- *
- * \@demo /docs/demos/src/menu/
- * @see {\@link /docs/components#menus Menu Component Docs}
- * @see {\@link ../../menu/Menu Menu API Docs}
- */
-var MenuToggle = (function () {
-    /**
-     * @param {?} _menu
-     * @param {?} _viewCtrl
-     * @param {?} _button
-     * @param {?} _navbar
-     */
-    function MenuToggle(_menu, _viewCtrl, _button, _navbar) {
-        this._menu = _menu;
-        this._viewCtrl = _viewCtrl;
-        this._button = _button;
-        this._isButton = !!_button;
-        this._inNavbar = !!_navbar;
-    }
-    /**
-     * @return {?}
-     */
-    MenuToggle.prototype.ngAfterContentInit = function () {
-        // Add the bar-button-menutoggle / button-menutoggle class
-        if (this._isButton) {
-            this._button._setClass('menutoggle', true);
-        }
-    };
-    /**
-     * @hidden
-     * @return {?}
-     */
-    MenuToggle.prototype.toggle = function () {
-        var /** @type {?} */ menu = this._menu.get(this.menuToggle);
-        menu && menu.toggle();
-    };
-    Object.defineProperty(MenuToggle.prototype, "isHidden", {
-        /**
-         * @hidden
-         * @return {?}
-         */
-        get: function () {
-            var /** @type {?} */ menu = this._menu.get(this.menuToggle);
-            if (this._inNavbar && this._viewCtrl) {
-                if (!menu || !menu._canOpen()) {
-                    return true;
-                }
-                if (this._viewCtrl.isFirst()) {
-                    // this is the first view, so it should always show
-                    return false;
-                }
-                if (menu) {
-                    // this is not the root view, so see if this menu
-                    // is configured to still be enabled if it's not the root view
-                    return !menu.persistent;
-                }
-            }
-            return false;
-        },
-        enumerable: true,
-        configurable: true
-    });
-    return MenuToggle;
-}());
-
-MenuToggle.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["t" /* Directive */], args: [{
-                selector: '[menuToggle]',
-                host: {
-                    '[hidden]': 'isHidden'
-                }
-            },] },
-];
-/**
- * @nocollapse
- */
-MenuToggle.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_2__app_menu_controller__["a" /* MenuController */], },
-    { type: __WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__["a" /* ViewController */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
-    { type: __WEBPACK_IMPORTED_MODULE_1__button_button__["a" /* Button */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
-    { type: __WEBPACK_IMPORTED_MODULE_3__toolbar_navbar__["a" /* Navbar */], decorators: [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["R" /* Optional */] },] },
-]; };
-MenuToggle.propDecorators = {
-    'menuToggle': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["E" /* Input */] },],
-    'toggle': [{ type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["z" /* HostListener */], args: ['click',] },],
-};
-function MenuToggle_tsickle_Closure_declarations() {
-    /** @type {?} */
-    MenuToggle.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    MenuToggle.ctorParameters;
-    /** @type {?} */
-    MenuToggle.propDecorators;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    MenuToggle.prototype.menuToggle;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    MenuToggle.prototype._isButton;
-    /**
-     * @hidden
-     * @type {?}
-     */
-    MenuToggle.prototype._inNavbar;
-    /** @type {?} */
-    MenuToggle.prototype._menu;
-    /** @type {?} */
-    MenuToggle.prototype._viewCtrl;
-    /** @type {?} */
-    MenuToggle.prototype._button;
-}
-//# sourceMappingURL=menu-toggle.js.map
-
-/***/ }),
-/* 144 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ToolbarBase; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__ion__ = __webpack_require__(4);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-/**
- * @hidden
- */
-var ToolbarBase = (function (_super) {
-    __extends(ToolbarBase, _super);
-    /**
-     * @param {?} config
-     * @param {?} elementRef
-     * @param {?} renderer
-     */
-    function ToolbarBase(config, elementRef, renderer) {
-        return _super.call(this, config, elementRef, renderer, 'toolbar') || this;
-    }
-    /**
-     * @hidden
-     * @param {?} titleCmp
-     * @return {?}
-     */
-    ToolbarBase.prototype._setTitle = function (titleCmp) {
-        this._title = titleCmp;
-    };
-    /**
-     * @hidden
-     * Returns the toolbar title text if it exists or an empty string
-     * @return {?}
-     */
-    ToolbarBase.prototype.getTitleText = function () {
-        return (this._title && this._title.getTitleText()) || '';
-    };
-    return ToolbarBase;
-}(__WEBPACK_IMPORTED_MODULE_0__ion__["a" /* Ion */]));
-
-function ToolbarBase_tsickle_Closure_declarations() {
-    /** @type {?} */
-    ToolbarBase.prototype._title;
-}
-//# sourceMappingURL=toolbar-base.js.map
-
-/***/ }),
-/* 145 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Modal; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__navigation_overlay_proxy__ = __webpack_require__(146);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__modal_impl__ = __webpack_require__(235);
-var __extends = (this && this.__extends) || (function () {
-    var extendStatics = Object.setPrototypeOf ||
-        ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
-        function (d, b) { for (var p in b) if (b.hasOwnProperty(p)) d[p] = b[p]; };
-    return function (d, b) {
-        extendStatics(d, b);
-        function __() { this.constructor = d; }
-        d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
-    };
-})();
-
-
-/**
- * @hidden
- */
-var Modal = (function (_super) {
-    __extends(Modal, _super);
-    /**
-     * @param {?} app
-     * @param {?} component
-     * @param {?} data
-     * @param {?=} opts
-     * @param {?=} config
-     * @param {?=} deepLinker
-     */
-    function Modal(app, component, data, opts, config, deepLinker) {
-        if (opts === void 0) { opts = {}; }
-        var _this = _super.call(this, app, component, config, deepLinker) || this;
-        _this.data = data;
-        _this.opts = opts;
-        _this.isOverlay = true;
-        return _this;
-    }
-    /**
-     * @return {?}
-     */
-    Modal.prototype.getImplementation = function () {
-        return new __WEBPACK_IMPORTED_MODULE_1__modal_impl__["a" /* ModalImpl */](this._app, this._component, this.data, this.opts, this._config);
-    };
-    return Modal;
-}(__WEBPACK_IMPORTED_MODULE_0__navigation_overlay_proxy__["a" /* OverlayProxy */]));
-
-function Modal_tsickle_Closure_declarations() {
-    /** @type {?} */
-    Modal.prototype.isOverlay;
-    /** @type {?} */
-    Modal.prototype.data;
-    /** @type {?} */
-    Modal.prototype.opts;
-}
-//# sourceMappingURL=modal.js.map
-
-/***/ }),
-/* 146 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return OverlayProxy; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__util_util__ = __webpack_require__(2);
-
-var OverlayProxy = (function () {
-    /**
-     * @param {?} _app
-     * @param {?} _component
-     * @param {?} _config
-     * @param {?} _deepLinker
-     */
-    function OverlayProxy(_app, _component, _config, _deepLinker) {
-        this._app = _app;
-        this._component = _component;
-        this._config = _config;
-        this._deepLinker = _deepLinker;
-    }
-    /**
-     * @return {?}
-     */
-    OverlayProxy.prototype.getImplementation = function () {
-        throw new Error('Child class must implement "getImplementation" method');
-    };
-    /**
-     * Present the modal instance.
-     *
-     * @param {?=} navOptions
-     * @return {?}
-     */
-    OverlayProxy.prototype.present = function (navOptions) {
-        var _this = this;
-        if (navOptions === void 0) { navOptions = {}; }
-        // check if it's a lazy loaded component, or not
-        var /** @type {?} */ isLazyLoaded = Object(__WEBPACK_IMPORTED_MODULE_0__util_util__["n" /* isString */])(this._component);
-        if (isLazyLoaded) {
-            return this._deepLinker.getComponentFromName(this._component).then(function (loadedComponent) {
-                _this._component = loadedComponent;
-                return _this.createAndPresentOverlay(navOptions);
-            });
-        }
-        else {
-            return this.createAndPresentOverlay(navOptions);
-        }
-    };
-    /**
-     * @param {?=} data
-     * @param {?=} role
-     * @param {?=} navOptions
-     * @return {?}
-     */
-    OverlayProxy.prototype.dismiss = function (data, role, navOptions) {
-        if (this.overlay) {
-            return this.overlay.dismiss(data, role, navOptions);
-        }
-    };
-    /**
-     * Called when the current viewController has be successfully dismissed
-     * @param {?} callback
-     * @return {?}
-     */
-    OverlayProxy.prototype.onDidDismiss = function (callback) {
-        this._onDidDismiss = callback;
-        if (this.overlay) {
-            this.overlay.onDidDismiss(this._onDidDismiss);
-        }
-    };
-    /**
-     * @param {?} navOptions
-     * @return {?}
-     */
-    OverlayProxy.prototype.createAndPresentOverlay = function (navOptions) {
-        this.overlay = this.getImplementation();
-        this.overlay.onWillDismiss(this._onWillDismiss);
-        this.overlay.onDidDismiss(this._onDidDismiss);
-        return this.overlay.present(navOptions);
-    };
-    /**
-     * Called when the current viewController will be dismissed
-     * @param {?} callback
-     * @return {?}
-     */
-    OverlayProxy.prototype.onWillDismiss = function (callback) {
-        this._onWillDismiss = callback;
-        if (this.overlay) {
-            this.overlay.onWillDismiss(this._onWillDismiss);
-        }
-    };
-    return OverlayProxy;
-}());
-
-function OverlayProxy_tsickle_Closure_declarations() {
-    /** @type {?} */
-    OverlayProxy.prototype.overlay;
-    /** @type {?} */
-    OverlayProxy.prototype._onWillDismiss;
-    /** @type {?} */
-    OverlayProxy.prototype._onDidDismiss;
-    /** @type {?} */
-    OverlayProxy.prototype._app;
-    /** @type {?} */
-    OverlayProxy.prototype._component;
-    /** @type {?} */
-    OverlayProxy.prototype._config;
-    /** @type {?} */
-    OverlayProxy.prototype._deepLinker;
-}
-//# sourceMappingURL=overlay-proxy.js.map
-
-/***/ }),
-/* 147 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
-
-"use strict";
-/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return NgModuleLoader; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-
-/**
- * NgModuleFactoryLoader that uses SystemJS to load NgModuleFactory
- */
-var NgModuleLoader = (function () {
-    /**
-     * @param {?} _compiler
-     */
-    function NgModuleLoader(_compiler) {
-        this._compiler = _compiler;
-    }
-    /**
-     * @param {?} modulePath
-     * @param {?} ngModuleExport
-     * @return {?}
-     */
-    NgModuleLoader.prototype.load = function (modulePath, ngModuleExport) {
-        var /** @type {?} */ offlineMode = this._compiler instanceof __WEBPACK_IMPORTED_MODULE_0__angular_core__["l" /* Compiler */];
-        return offlineMode ? loadPrecompiledFactory(modulePath, ngModuleExport) : loadAndCompile(this._compiler, modulePath, ngModuleExport);
-    };
-    return NgModuleLoader;
-}());
-
-NgModuleLoader.decorators = [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["B" /* Injectable */] },
-];
-/**
- * @nocollapse
- */
-NgModuleLoader.ctorParameters = function () { return [
-    { type: __WEBPACK_IMPORTED_MODULE_0__angular_core__["l" /* Compiler */], },
-]; };
-function NgModuleLoader_tsickle_Closure_declarations() {
-    /** @type {?} */
-    NgModuleLoader.decorators;
-    /**
-     * @nocollapse
-     * @type {?}
-     */
-    NgModuleLoader.ctorParameters;
-    /** @type {?} */
-    NgModuleLoader.prototype._compiler;
-}
-/**
- * @param {?} compiler
- * @param {?} modulePath
- * @param {?} ngModuleExport
- * @return {?}
- */
-function loadAndCompile(compiler, modulePath, ngModuleExport) {
-    if (!ngModuleExport) {
-        ngModuleExport = 'default';
-    }
-    return __webpack_require__(148)(modulePath)
-        .then(function (rawModule) {
-        var /** @type {?} */ module = rawModule[ngModuleExport];
-        if (!module) {
-            throw new Error("Module " + modulePath + " does not export " + ngModuleExport);
-        }
-        return compiler.compileModuleAsync(module);
-    });
-}
-/**
- * @param {?} modulePath
- * @param {?} ngModuleExport
- * @return {?}
- */
-function loadPrecompiledFactory(modulePath, ngModuleExport) {
-    return __webpack_require__(148)(modulePath)
-        .then(function (rawModule) {
-        var /** @type {?} */ ngModuleFactory = rawModule[ngModuleExport];
-        if (!ngModuleFactory) {
-            throw new Error("Module " + modulePath + " does not export " + ngModuleExport);
-        }
-        return ngModuleFactory;
-    });
-}
-//# sourceMappingURL=ng-module-loader.js.map
-
-/***/ }),
-/* 148 */,
 /* 149 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -67719,7 +67719,7 @@ function loadPrecompiledFactory(modulePath, ngModuleExport) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_app__ = __webpack_require__(6);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__modal__ = __webpack_require__(145);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__modal__ = __webpack_require__(144);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__navigation_deep_linker__ = __webpack_require__(14);
 
 
@@ -69775,7 +69775,7 @@ function Scroll_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__util_base_input__ = __webpack_require__(23);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__util_util__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__util_debouncer__ = __webpack_require__(120);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__util_debouncer__ = __webpack_require__(119);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__platform_platform__ = __webpack_require__(3);
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
@@ -73080,7 +73080,7 @@ function TabButton_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__util_util__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_app_constants__ = __webpack_require__(32);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__toast_component__ = __webpack_require__(93);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__toast_transitions__ = __webpack_require__(243);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__toast_transitions__ = __webpack_require__(245);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__ = __webpack_require__(5);
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
@@ -73357,7 +73357,7 @@ function ToastController_tsickle_Closure_declarations() {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__item_item__ = __webpack_require__(17);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__platform_key__ = __webpack_require__(18);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_11__platform_platform__ = __webpack_require__(3);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__toggle_gesture__ = __webpack_require__(244);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_12__toggle_gesture__ = __webpack_require__(246);
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
         ({ __proto__: [] } instanceof Array && function (d, b) { d.__proto__ = b; }) ||
@@ -74186,7 +74186,7 @@ function Typography_tsickle_Closure_declarations() {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return VirtualScroll; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__angular_core__ = __webpack_require__(0);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__virtual_util__ = __webpack_require__(245);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__virtual_util__ = __webpack_require__(247);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__config_config__ = __webpack_require__(1);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__content_content__ = __webpack_require__(19);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__platform_dom_controller__ = __webpack_require__(8);
@@ -75168,8 +75168,8 @@ var /** @type {?} */ SCROLL_QUEUE_DOM_WRITE = 3;
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_5__gestures_gesture_controller__ = __webpack_require__(7);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_6__platform_platform__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_7__util_dom__ = __webpack_require__(10);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__gestures_pointer_events__ = __webpack_require__(110);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__ripple__ = __webpack_require__(247);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_8__gestures_pointer_events__ = __webpack_require__(109);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_9__ripple__ = __webpack_require__(249);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_10__gestures_ui_event_manager__ = __webpack_require__(22);
 
 
@@ -75753,7 +75753,7 @@ function isActivatedDisabled(ev, activatableEle) {
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Events; });
 /* unused harmony export setupEvents */
 /* harmony export (immutable) */ __webpack_exports__["b"] = setupProvideEvents;
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__scroll_view__ = __webpack_require__(121);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__scroll_view__ = __webpack_require__(120);
 
 /**
  * \@name Events
@@ -106098,7 +106098,7 @@ var MapSubscriber = (function (_super) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return ItemReorderGesture; });
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__item_reorder_util__ = __webpack_require__(122);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__item_reorder_util__ = __webpack_require__(121);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__util_dom__ = __webpack_require__(10);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__gestures_ui_event_manager__ = __webpack_require__(22);
 
@@ -107686,7 +107686,7 @@ __WEBPACK_IMPORTED_MODULE_1__app_menu_controller__["a" /* MenuController */].reg
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__util_util__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__app_app_constants__ = __webpack_require__(32);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__modal_component__ = __webpack_require__(74);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__modal_transitions__ = __webpack_require__(236);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__modal_transitions__ = __webpack_require__(238);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_4__navigation_view_controller__ = __webpack_require__(5);
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
@@ -107781,6 +107781,95 @@ function ModalImpl_tsickle_Closure_declarations() {
 
 /***/ }),
 /* 236 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var Observable_1 = __webpack_require__(9);
+var toPromise_1 = __webpack_require__(237);
+Observable_1.Observable.prototype.toPromise = toPromise_1.toPromise;
+//# sourceMappingURL=toPromise.js.map
+
+/***/ }),
+/* 237 */
+/***/ (function(module, exports, __webpack_require__) {
+
+"use strict";
+
+var root_1 = __webpack_require__(24);
+/* tslint:enable:max-line-length */
+/**
+ * Converts an Observable sequence to a ES2015 compliant promise.
+ *
+ * @example
+ * // Using normal ES2015
+ * let source = Rx.Observable
+ *   .of(42)
+ *   .toPromise();
+ *
+ * source.then((value) => console.log('Value: %s', value));
+ * // => Value: 42
+ *
+ * // Rejected Promise
+ * // Using normal ES2015
+ * let source = Rx.Observable
+ *   .throw(new Error('woops'))
+ *   .toPromise();
+ *
+ * source
+ *   .then((value) => console.log('Value: %s', value))
+ *   .catch((err) => console.log('Error: %s', err));
+ * // => Error: Error: woops
+ *
+ * // Setting via the config
+ * Rx.config.Promise = RSVP.Promise;
+ *
+ * let source = Rx.Observable
+ *   .of(42)
+ *   .toPromise();
+ *
+ * source.then((value) => console.log('Value: %s', value));
+ * // => Value: 42
+ *
+ * // Setting via the method
+ * let source = Rx.Observable
+ *   .of(42)
+ *   .toPromise(RSVP.Promise);
+ *
+ * source.then((value) => console.log('Value: %s', value));
+ * // => Value: 42
+ *
+ * @param PromiseCtor promise The constructor of the promise. If not provided,
+ * it will look for a constructor first in Rx.config.Promise then fall back to
+ * the native Promise constructor if available.
+ * @return {Promise<T>} An ES2015 compatible promise with the last value from
+ * the observable sequence.
+ * @method toPromise
+ * @owner Observable
+ */
+function toPromise(PromiseCtor) {
+    var _this = this;
+    if (!PromiseCtor) {
+        if (root_1.root.Rx && root_1.root.Rx.config && root_1.root.Rx.config.Promise) {
+            PromiseCtor = root_1.root.Rx.config.Promise;
+        }
+        else if (root_1.root.Promise) {
+            PromiseCtor = root_1.root.Promise;
+        }
+    }
+    if (!PromiseCtor) {
+        throw new Error('no Promise impl found');
+    }
+    return new PromiseCtor(function (resolve, reject) {
+        var value;
+        _this.subscribe(function (x) { return value = x; }, function (err) { return reject(err); }, function () { return resolve(value); });
+    });
+}
+exports.toPromise = toPromise;
+//# sourceMappingURL=toPromise.js.map
+
+/***/ }),
+/* 238 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -107915,14 +108004,14 @@ var ModalMDSlideOut = (function (_super) {
 //# sourceMappingURL=modal-transitions.js.map
 
 /***/ }),
-/* 237 */
+/* 239 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return PopoverImpl; });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__util_util__ = __webpack_require__(2);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__popover_component__ = __webpack_require__(80);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__popover_transitions__ = __webpack_require__(238);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_2__popover_transitions__ = __webpack_require__(240);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_3__navigation_view_controller__ = __webpack_require__(5);
 var __extends = (this && this.__extends) || (function () {
     var extendStatics = Object.setPrototypeOf ||
@@ -107996,7 +108085,7 @@ function PopoverImpl_tsickle_Closure_declarations() {
 //# sourceMappingURL=popover-impl.js.map
 
 /***/ }),
-/* 238 */
+/* 240 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -108270,7 +108359,7 @@ var /** @type {?} */ POPOVER_MD_BODY_PADDING = 12;
 //# sourceMappingURL=popover-transitions.js.map
 
 /***/ }),
-/* 239 */
+/* 241 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -108386,7 +108475,7 @@ function enableKeyboardControl(s, plt, shouldEnable) {
 //# sourceMappingURL=swiper-keyboard.js.map
 
 /***/ }),
-/* 240 */
+/* 242 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -108517,7 +108606,7 @@ function onEnterKey(_, __) {
 //# sourceMappingURL=swiper-a11y.js.map
 
 /***/ }),
-/* 241 */
+/* 243 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -108652,7 +108741,7 @@ var /** @type {?} */ SWIPER_CONTROLLER = {
 //# sourceMappingURL=swiper-controller.js.map
 
 /***/ }),
-/* 242 */
+/* 244 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -109475,7 +109564,7 @@ function doResize(s, plt, forceUpdatePagination) {
 //# sourceMappingURL=swiper-events.js.map
 
 /***/ }),
-/* 243 */
+/* 245 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -109719,7 +109808,7 @@ var /** @type {?} */ TOAST_POSITION_MIDDLE = 'middle';
 //# sourceMappingURL=toast-transitions.js.map
 
 /***/ }),
-/* 244 */
+/* 246 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -109804,7 +109893,7 @@ function ToggleGesture_tsickle_Closure_declarations() {
 //# sourceMappingURL=toggle-gesture.js.map
 
 /***/ }),
-/* 245 */
+/* 247 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -110455,7 +110544,7 @@ var /** @type {?} */ REQUIRED_DOM_READS = 2;
 //# sourceMappingURL=virtual-util.js.map
 
 /***/ }),
-/* 246 */
+/* 248 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -110724,7 +110813,7 @@ function IonicPage(_config) {
 //# sourceMappingURL=ionic-page.js.map
 
 /***/ }),
-/* 247 */
+/* 249 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -110902,13 +110991,13 @@ var /** @type {?} */ TOUCH_DOWN_ACCEL = 300;
 //# sourceMappingURL=ripple.js.map
 
 /***/ }),
-/* 248 */
+/* 250 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 /* unused harmony export Gesture */
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__util_util__ = __webpack_require__(2);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__hammer__ = __webpack_require__(249);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_1__hammer__ = __webpack_require__(251);
 
 
 /**
@@ -111018,7 +111107,7 @@ function Gesture_tsickle_Closure_declarations() {
 //# sourceMappingURL=gesture.js.map
 
 /***/ }),
-/* 249 */
+/* 251 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -113185,7 +113274,7 @@ win.Hammer = Hammer;
 //# sourceMappingURL=hammer.js.map
 
 /***/ }),
-/* 250 */
+/* 252 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -113270,7 +113359,7 @@ var IonicErrorHandler = (function (_super) {
 //# sourceMappingURL=ionic-error-handler.js.map
 
 /***/ }),
-/* 251 */
+/* 253 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -113293,7 +113382,7 @@ var IonicErrorHandler = (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_13__tap_click_haptic__ = __webpack_require__(35);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_14__platform_keyboard__ = __webpack_require__(34);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_15__util_module_loader__ = __webpack_require__(75);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__util_ng_module_loader__ = __webpack_require__(147);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_16__util_ng_module_loader__ = __webpack_require__(146);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_17__platform_platform__ = __webpack_require__(3);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_18__platform_platform_registry__ = __webpack_require__(185);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_19__tap_click_tap_click__ = __webpack_require__(181);
@@ -113301,51 +113390,51 @@ var IonicErrorHandler = (function (_super) {
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_21__transitions_transition_controller__ = __webpack_require__(42);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_22__navigation_url_serializer__ = __webpack_require__(39);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_23__components_action_sheet_action_sheet_component__ = __webpack_require__(57);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__components_action_sheet_action_sheet_controller__ = __webpack_require__(111);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_24__components_action_sheet_action_sheet_controller__ = __webpack_require__(110);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_25__components_alert_alert_component__ = __webpack_require__(59);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__components_alert_alert_controller__ = __webpack_require__(112);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__components_app_click_block__ = __webpack_require__(252);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__components_app_overlay_portal__ = __webpack_require__(108);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__components_avatar_avatar__ = __webpack_require__(113);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_26__components_alert_alert_controller__ = __webpack_require__(111);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_27__components_app_click_block__ = __webpack_require__(254);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_28__components_app_overlay_portal__ = __webpack_require__(107);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_29__components_avatar_avatar__ = __webpack_require__(112);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_30__components_backdrop_backdrop__ = __webpack_require__(60);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__components_badge_badge__ = __webpack_require__(114);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_31__components_badge_badge__ = __webpack_require__(113);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_32__components_button_button__ = __webpack_require__(33);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__components_card_card__ = __webpack_require__(115);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__components_card_card_content__ = __webpack_require__(116);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__components_card_card_header__ = __webpack_require__(117);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_36__components_card_card_title__ = __webpack_require__(118);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_37__components_checkbox_checkbox__ = __webpack_require__(119);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_38__components_chip_chip__ = __webpack_require__(123);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_33__components_card_card__ = __webpack_require__(114);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_34__components_card_card_content__ = __webpack_require__(115);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_35__components_card_card_header__ = __webpack_require__(116);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_36__components_card_card_title__ = __webpack_require__(117);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_37__components_checkbox_checkbox__ = __webpack_require__(118);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_38__components_chip_chip__ = __webpack_require__(122);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_39__components_content_content__ = __webpack_require__(19);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_40__components_datetime_datetime__ = __webpack_require__(124);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_40__components_datetime_datetime__ = __webpack_require__(123);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_41__components_fab_fab__ = __webpack_require__(43);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_42__components_fab_fab_container__ = __webpack_require__(126);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_42__components_fab_fab_container__ = __webpack_require__(125);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_43__components_fab_fab_list__ = __webpack_require__(67);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_44__components_grid_col__ = __webpack_require__(127);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_45__components_grid_grid__ = __webpack_require__(128);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_46__components_grid_row__ = __webpack_require__(129);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_44__components_grid_col__ = __webpack_require__(126);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_45__components_grid_grid__ = __webpack_require__(127);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_46__components_grid_row__ = __webpack_require__(128);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_47__components_icon_icon__ = __webpack_require__(61);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_48__components_img_img__ = __webpack_require__(130);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_48__components_img_img__ = __webpack_require__(129);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_49__components_infinite_scroll_infinite_scroll__ = __webpack_require__(68);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_50__components_infinite_scroll_infinite_scroll_content__ = __webpack_require__(131);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_51__components_input_input__ = __webpack_require__(132);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_50__components_infinite_scroll_infinite_scroll_content__ = __webpack_require__(130);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_51__components_input_input__ = __webpack_require__(131);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_52__components_item_item__ = __webpack_require__(17);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_53__components_item_item_content__ = __webpack_require__(134);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_54__components_item_item_divider__ = __webpack_require__(135);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_55__components_item_item_group__ = __webpack_require__(136);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_53__components_item_item_content__ = __webpack_require__(133);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_54__components_item_item_divider__ = __webpack_require__(134);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_55__components_item_item_group__ = __webpack_require__(135);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_56__components_item_item_options__ = __webpack_require__(69);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_57__components_item_item_reorder__ = __webpack_require__(63);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_58__components_item_item_sliding__ = __webpack_require__(137);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_59__components_item_reorder__ = __webpack_require__(138);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_58__components_item_item_sliding__ = __webpack_require__(136);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_59__components_item_reorder__ = __webpack_require__(137);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_60__components_label_label__ = __webpack_require__(62);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_61__components_list_list__ = __webpack_require__(70);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_62__components_list_list_header__ = __webpack_require__(71);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_63__components_loading_loading_component__ = __webpack_require__(72);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_64__components_loading_loading_controller__ = __webpack_require__(140);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_65__components_menu_menu__ = __webpack_require__(141);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_66__components_menu_menu_close__ = __webpack_require__(142);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_64__components_loading_loading_controller__ = __webpack_require__(139);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_65__components_menu_menu__ = __webpack_require__(140);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_66__components_menu_menu_close__ = __webpack_require__(141);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_67__components_app_menu_controller__ = __webpack_require__(26);
-/* harmony import */ var __WEBPACK_IMPORTED_MODULE_68__components_menu_menu_toggle__ = __webpack_require__(143);
+/* harmony import */ var __WEBPACK_IMPORTED_MODULE_68__components_menu_menu_toggle__ = __webpack_require__(142);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_69__components_modal_modal_component__ = __webpack_require__(74);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_70__components_modal_modal_controller__ = __webpack_require__(149);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_71__components_nav_nav__ = __webpack_require__(73);
@@ -113934,7 +114023,7 @@ function provideLocationStrategy(platformLocationStrategy, baseHref, config) {
 //# sourceMappingURL=module.js.map
 
 /***/ }),
-/* 252 */
+/* 254 */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -114063,95 +114152,6 @@ function ClickBlock_tsickle_Closure_declarations() {
     ClickBlock.prototype.renderer;
 }
 //# sourceMappingURL=click-block.js.map
-
-/***/ }),
-/* 253 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-var Observable_1 = __webpack_require__(9);
-var toPromise_1 = __webpack_require__(254);
-Observable_1.Observable.prototype.toPromise = toPromise_1.toPromise;
-//# sourceMappingURL=toPromise.js.map
-
-/***/ }),
-/* 254 */
-/***/ (function(module, exports, __webpack_require__) {
-
-"use strict";
-
-var root_1 = __webpack_require__(24);
-/* tslint:enable:max-line-length */
-/**
- * Converts an Observable sequence to a ES2015 compliant promise.
- *
- * @example
- * // Using normal ES2015
- * let source = Rx.Observable
- *   .of(42)
- *   .toPromise();
- *
- * source.then((value) => console.log('Value: %s', value));
- * // => Value: 42
- *
- * // Rejected Promise
- * // Using normal ES2015
- * let source = Rx.Observable
- *   .throw(new Error('woops'))
- *   .toPromise();
- *
- * source
- *   .then((value) => console.log('Value: %s', value))
- *   .catch((err) => console.log('Error: %s', err));
- * // => Error: Error: woops
- *
- * // Setting via the config
- * Rx.config.Promise = RSVP.Promise;
- *
- * let source = Rx.Observable
- *   .of(42)
- *   .toPromise();
- *
- * source.then((value) => console.log('Value: %s', value));
- * // => Value: 42
- *
- * // Setting via the method
- * let source = Rx.Observable
- *   .of(42)
- *   .toPromise(RSVP.Promise);
- *
- * source.then((value) => console.log('Value: %s', value));
- * // => Value: 42
- *
- * @param PromiseCtor promise The constructor of the promise. If not provided,
- * it will look for a constructor first in Rx.config.Promise then fall back to
- * the native Promise constructor if available.
- * @return {Promise<T>} An ES2015 compatible promise with the last value from
- * the observable sequence.
- * @method toPromise
- * @owner Observable
- */
-function toPromise(PromiseCtor) {
-    var _this = this;
-    if (!PromiseCtor) {
-        if (root_1.root.Rx && root_1.root.Rx.config && root_1.root.Rx.config.Promise) {
-            PromiseCtor = root_1.root.Rx.config.Promise;
-        }
-        else if (root_1.root.Promise) {
-            PromiseCtor = root_1.root.Promise;
-        }
-    }
-    if (!PromiseCtor) {
-        throw new Error('no Promise impl found');
-    }
-    return new PromiseCtor(function (resolve, reject) {
-        var value;
-        _this.subscribe(function (x) { return value = x; }, function (err) { return reject(err); }, function () { return resolve(value); });
-    });
-}
-exports.toPromise = toPromise;
-//# sourceMappingURL=toPromise.js.map
 
 /***/ }),
 /* 255 */,

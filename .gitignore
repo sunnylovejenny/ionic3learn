@@ -4,3 +4,4 @@ dist/
 release/
 temp/
 npm-debug.log
+.sourcemaps/
