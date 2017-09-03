@@ -49,6 +49,9 @@ export class HomePage {
 			this.products = rs.data;
 		})
 	}
+	goProductList(item) {
+		this.navCtrl.push('ProductListPage', { item: item });
+	}
 	// 跳转商品详情
 	goDetails(item) {
 		console.debug('go details...')

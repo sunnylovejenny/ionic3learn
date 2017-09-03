@@ -12,12 +12,11 @@ import { NavController } from 'ionic-angular';
 })
 export class IonProductsComponent {
 
-   @Input() products: Array<any>;
-  constructor(public navCtrl: NavController) {
-    console.log('Hello IonProducts Component');
-  }
-  goDetails(item) {
-    console.debug('go details...')
-  }
+	@Input() products: Array<any>;
+	constructor(public navCtrl: NavController) {
+	}
+	goDetails(item) {
+		this.navCtrl.push('ProductDetailsPage', { item: item });
+	}
 
 }

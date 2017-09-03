@@ -2,5 +2,7 @@
   "name": "sunny",
   "app_id": "ae0ba1b9",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
